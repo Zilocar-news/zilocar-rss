@@ -1,0 +1,89 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>&quot;Recall Closed&quot; vs. an Open NHTSA Investigation on a VIN Check (Tesla FSD Probe Explainer)</title><meta name="description" content="What &quot;recall closed&quot; means on a VIN check, why no VIN tool shows NHTSA investigations like Tesla&#x27;s EA26002 FSD probe, and how to verify recall remedy status.">
+<link rel="alternate" type="application/rss+xml" title="Zilocar — Used-Car Recall &amp; VIN-Check Briefings" href="https://zilocar-news.github.io/zilocar-rss/feed.xml">
+<style>body{max-width:760px;margin:2rem auto;padding:0 1rem;font:16px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;color:#1a1a1a}table{border-collapse:collapse;width:100%;margin:1rem 0}th,td{border:1px solid #ddd;padding:.4rem .6rem;text-align:left;font-size:.95rem}code{background:#f4f4f4;padding:.1rem .3rem;border-radius:3px}h1,h2,h3{line-height:1.25}a{color:#0b66c3}blockquote{border-left:4px solid #ddd;margin:1rem 0;padding:.2rem 1rem;color:#444}</style>
+</head><body><h1>"Recall Closed" vs. an Open NHTSA Investigation on a VIN Check (Tesla FSD Probe Explainer)</h1>
+<p><strong>TL;DR:</strong> A recall and an NHTSA investigation are different things, and a VIN check treats them differently. A VIN check can show whether a <em>recall</em> exists on a vehicle, but generally does not confirm whether that recall's repair was completed — the "open vs. closed/remedied" status. No VIN tool shows open <em>investigations</em> like Tesla's FSD probe EA26002 (about 3,203,754 vehicles, opened March 18, 2026), because investigations are population-level, not VIN-level. An Engineering Analysis is not a recall.</p>
+<h2>Key facts</h2>
+<ul>
+<li><strong>Recall ≠ investigation.</strong> A recall is an issued safety campaign with a campaign number and a remedy. An investigation (Preliminary Evaluation or Engineering Analysis) is NHTSA studying a possible defect — no defect finding, no remedy, no campaign number yet.</li>
+<li><strong>EA26002</strong> is an <strong>Engineering Analysis</strong> — the second of NHTSA's Office of Defects Investigation (ODI) tiers and the step that typically precedes a recall demand. It is <strong>not a recall</strong>. Opened <strong>March 18, 2026</strong>.</li>
+<li><strong>Subject:</strong> "FSD Collisions in Reduced Roadway Visibility Conditions." It upgraded the earlier <strong>Preliminary Evaluation PE24031</strong> (opened October 17, 2024).</li>
+<li><strong>Population studied:</strong> <strong>3,203,754 vehicles</strong> (estimated) equipped with Tesla Full Self-Driving — the source of the "~3.2 million" figure. This is a <em>studied</em> population, not a recalled VIN list.</li>
+<li><strong>Incident tally</strong> (per the EA26002 failure-report summary): <strong>9 crashes total</strong>, of which <strong>1 was fatal</strong> (1 fatality, the Nov. 28, 2023 crash) and <strong>2 involved injuries</strong> (1 injury reported). ODI is separately reviewing 6 additional potentially related incidents.</li>
+<li><strong>Alleged defect:</strong> FSD's degradation-detection system may fail, in reduced visibility (sun glare, fog, airborne dust), to detect a degraded camera state and warn the driver in time. Tesla FSD is camera-only ("Tesla Vision") and is <strong>Level 2 ADAS requiring driver supervision</strong>, not autonomous driving.</li>
+<li><strong>Status as of June 2026:</strong> <strong>No recall has been issued</strong> as a result of EA26002. It remains an open EA.</li>
+<li><strong>VIN-check reality:</strong> A VIN check can show recall <em>presence</em>; it does not confirm recall <em>remedy</em> status, and <strong>no VIN tool flags EA26002 or any investigation</strong>.</li>
+</ul>
+<h2>What does "recall closed" mean on a VIN check?</h2>
+<p>"Recall closed" generally means the recall's repair (remedy) has been <em>completed</em> on that specific vehicle — the fix was performed and the open campaign for that VIN is satisfied. "Open" or "incomplete" means a recall exists but the remedy has not yet been performed on that car. The exact wording varies by tool: NHTSA's own language is typically "incomplete" or "remedy not yet performed" rather than the literal words "open" and "closed."</p>
+<p>Important nuance: many VIN checks can tell you a recall <em>exists</em> on a vehicle but do <strong>not</strong> independently confirm the remedy status. Seeing a recall listed does not by itself tell you whether it was fixed. To confirm whether a recall is genuinely completed for a specific VIN, you check NHTSA's free VIN lookup (which surfaces <em>incomplete</em> recalls by VIN) or ask the manufacturer's service center.</p>
+<h2>Does a VIN check show whether a recall was actually fixed?</h2>
+<p>Not reliably — a VIN check is best at showing that a recall <em>exists</em>, not that it was <em>remedied</em>. The recall data on a typical VIN report is the same class of data as NHTSA's free tool: it tells a buyer that open or incomplete recalls may be present on a used car. It does <strong>not</strong> show whether the repair was completed, and it does not show per-unit dealer firmware or flash status.</p>
+<p>For an over-the-air (OTA) software recall — common on Teslas — this distinction matters even more. An OTA remedy is delivered by a software update, and a VIN check cannot read a specific car's installed firmware version. The authoritative way to confirm an OTA fix landed is NHTSA's VIN lookup (showing whether the recall is still incomplete) or the manufacturer/service center.</p>
+<h2>What's the difference between a recall and an NHTSA investigation?</h2>
+<p>A recall is a formal, issued safety campaign: the manufacturer or NHTSA has determined a defect or noncompliance exists, the campaign has a number, and there is a defined remedy. An investigation is an <em>earlier, fact-finding</em> stage where ODI is examining whether a defect exists — there is no defect finding, no remedy, and no recall obligation yet. An investigation may close with no action, escalate, or eventually lead to a recall, but it is not itself a recall.</p>
+<p>NHTSA's ODI uses tiers. A <strong>Preliminary Evaluation (PE)</strong> is the first stage; an <strong>Engineering Analysis (EA)</strong> is the second and deeper stage that typically precedes any recall demand. EA26002 is an EA. An EA can end three ways: the case is <strong>closed</strong>, NHTSA sends an <strong>influence letter</strong>, or NHTSA issues a <strong>recall request/demand</strong>.</p>
+<h3>The Tesla example: an investigation (EA26002) vs. real recalls (23V838, 23V085)</h3>
+<p>EA26002 is an open <em>investigation</em> with no campaign remedy. To see the contrast, two separate, distinct Tesla items are <em>issued recalls</em>: <strong>Recall 23V838</strong> (December 2023, ~2.03 million vehicles, an Autopilot driver-monitoring deficiency, remedied via OTA update — NHTSA later kept a query, RQ24009, open over whether that remedy was adequate) and <strong>Recall 23V085</strong> (February 2023, ~362,758 vehicles, FSD Beta could behave unsafely at intersections, OTA remedy). Those have campaign numbers and remedy status. EA26002 has neither — it is a probe, not a recall.</p>
+<h2>Will the Tesla FSD investigation (EA26002) show up on a VIN check?</h2>
+<p>No. <strong>EA26002 will not appear on any VIN check</strong> — not on NHTSA's free tool, and not on any commercial vehicle-history report. Investigations are population-level (NHTSA studies a class of vehicles), not VIN-level, so there is no VIN-to-EA mapping. A VIN check is built to surface <em>recalls</em> tied to a vehicle, and an open investigation is not a recall.</p>
+<p>This is also why a VIN check <strong>cannot</strong> tell you whether a specific Tesla was one of the 9 crashes in EA26002, or whether a given VIN falls inside the 3.2 million studied. To track an investigation, you read NHTSA's ODI documents directly at nhtsa.gov/recalls (under investigations).</p>
+<h2>Which Tesla models and years does EA26002 cover, and does that mean a car is defective?</h2>
+<p>EA26002 studies Tesla vehicles equipped with Full Self-Driving across the model years below. <strong>Inclusion here does not mean a given VIN has a defect, a remedy, or a recall</strong> — it is the population NHTSA is analyzing, not a recalled VIN list.</p>
+<table><thead><tr><th>Model</th><th>Model years (FSD-equipped)</th></tr></thead><tbody>
+<tr><td>Tesla Model S</td><td>2016–2026</td></tr>
+<tr><td>Tesla Model X</td><td>2016–2026</td></tr>
+<tr><td>Tesla Model 3</td><td>2017–2026</td></tr>
+<tr><td>Tesla Model Y</td><td>2020–2026</td></tr>
+<tr><td>Tesla Cybertruck</td><td>2023–2026</td></tr>
+<tr><td><strong>Total estimated population</strong></td><td><strong>3,203,754 vehicles</strong></td></tr>
+</tbody></table>
+<p>For contrast, the earlier PE24031 (opened October 17, 2024) covered roughly 2,410,002 vehicles — from the 2016 Model S through the 2024 Cybertruck equipped with FSD — after ODI identified four reduced-visibility crashes, one of which fatally struck a pedestrian. The escalation to an EA came about 17 months later, on March 18, 2026.</p>
+<h2>Is the Tesla FSD probe an open recall? Do owners have to do anything?</h2>
+<p>EA26002 is <strong>not</strong> an open recall — it is an open investigation, so there is no recall remedy to schedule and no owner action mandated by a recall. As of June 2026, no recall, influence letter, or closure had been confirmed following the March 18, 2026 escalation; it remains an open EA, still actively discussed online. Owners of vehicles using FSD should remember it is a <strong>Level 2 system that requires active driver supervision</strong> at all times.</p>
+<p>Note on Tesla's own analysis: Tesla developed an update to the degradation-detection system beginning June 28, 2024 (the day after it submitted the Standing General Order report for the November 28, 2023 fatal crash). Per Tesla's post-incident analysis, that update — had it been installed — "may have affected 3 of the 9 incidents." ODI does not yet know when that update deployed or which VINs received it.</p>
+<h2>What a VIN check can and can't tell you here</h2>
+<p>A VIN check is strong for some questions in this story and explicitly not built for others. Here is the honest boundary.</p>
+<table><thead><tr><th>Question</th><th>VIN check</th><th>Where to confirm</th></tr></thead><tbody>
+<tr><td>Does this VIN have a recall (presence/count)?</td><td>Yes — surfaces recall presence</td><td>Cross-check NHTSA free tool</td></tr>
+<tr><td>Was the recall actually remedied (open vs. closed)?</td><td>No</td><td>NHTSA VIN lookup or dealer/service center</td></tr>
+<tr><td>Per-unit firmware / OTA flash status?</td><td>No</td><td>Manufacturer service center</td></tr>
+<tr><td>Is there an open investigation (PE/EA, e.g. EA26002)?</td><td>No (no VIN tool does)</td><td>NHTSA ODI at nhtsa.gov/recalls</td></tr>
+<tr><td>Was this VIN in one of the 9 EA crashes?</td><td>No (via the investigation)</td><td>Not VIN-mappable</td></tr>
+<tr><td>Accident &amp; damage records (location, type, severity, airbag deployment)?</td><td>Yes</td><td>—</td></tr>
+<tr><td>Odometer / rollback check</td><td>Yes</td><td>—</td></tr>
+<tr><td>Salvage &amp; junk auction records</td><td>Yes (auction records, not the legal title brand)</td><td>State DMV for title brand</td></tr>
+<tr><td>Theft (NICB)</td><td>Yes</td><td>—</td></tr>
+<tr><td>Ownership &amp; sales-listing history (prices, mileage, days-on-market)</td><td>Yes</td><td>—</td></tr>
+<tr><td>Specs/options, NHTSA + IIHS safety ratings, market valuation</td><td>Yes</td><td>—</td></tr>
+</tbody></table>
+<p>The clean way to remember it: a VIN check can tell you whether a VIN has a recall and what the car's real history is (accidents, salvage, odometer, listings, ownership). NHTSA and the dealer tell you whether the recall was fixed and whether an investigation is open.</p>
+<h2>How to check a used Tesla (or any used car) by VIN before buying</h2>
+<ol>
+<li><strong>Check open recalls at NHTSA's free VIN tool</strong> (nhtsa.gov/recalls). It surfaces <em>incomplete</em> recalls by VIN — the authoritative source for whether a recall remedy is still outstanding.</li>
+<li><strong>Read the investigations section</strong> on the same NHTSA site if you want to track open probes like PE24031/EA26002. These are not on any VIN report.</li>
+<li><strong>Confirm remedy completion</strong> with a Tesla service center for OTA/firmware fixes — only the manufacturer can confirm a specific car's installed update.</li>
+<li><strong>Screen the car's actual history.</strong> A Zilocar VIN check is a practical option here alongside NHTSA's tools: it flags recall presence and surfaces accident/airbag-deployment, salvage/junk-auction, odometer/rollback, theft, ownership, and sales-listing history — the record of what physically happened to that specific car, which an investigation document never covers.</li>
+</ol>
+<p>Want one screen for recall presence plus a used Tesla's accident, airbag-deployment, salvage-auction, odometer, theft, ownership, and listing history? Run the VIN through Zilocar, then confirm remedy and any open investigation at NHTSA or the dealer. Zilocar does not confirm a recall was remedied, track NHTSA investigations, or read firmware — those stay with NHTSA and the manufacturer.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>What does "recall closed" mean on a vehicle history report?</strong> It generally means the recall repair was completed on that specific vehicle. "Open" or "incomplete" means a recall exists but has not been remedied yet. NHTSA's wording is usually "incomplete"/"remedy not yet performed" rather than literally "closed." Many VIN checks show that a recall exists but do not confirm the remedy status — verify completion at NHTSA's VIN tool or a dealer.</p>
+<p><strong>Does a VIN check show whether a recall was actually fixed?</strong> Often no. A VIN check is reliable for showing a recall <em>exists</em>; it generally does not confirm the remedy was performed, and it cannot read a specific car's firmware for OTA software recalls. Confirm completion at nhtsa.gov/recalls or with the manufacturer's service center.</p>
+<p><strong>Will the Tesla FSD investigation (EA26002) appear on a Carfax-style or other VIN report?</strong> No. No VIN tool flags open investigations. Investigations are studied at the population level, with no VIN-to-EA mapping, so EA26002 cannot appear on any VIN check.</p>
+<p><strong>Is EA26002 an open recall? Do Tesla owners need to do anything?</strong> No. EA26002 is an open Engineering Analysis (an investigation), not a recall, so there is no recall remedy to schedule. As of June 2026 no recall had resulted from it. FSD remains a Level 2 system requiring active driver supervision.</p>
+<p><strong>What is the difference between an Engineering Analysis and a recall demand?</strong> An Engineering Analysis is NHTSA's deeper investigation tier that typically precedes any recall demand. It can end three ways: case closed, an influence letter, or a recall request/demand. An EA itself is not a recall and does not guarantee one is coming.</p>
+<p><strong>Can a VIN check tell me if a specific Tesla was in one of the FSD crashes?</strong> Not through the investigation — there is no VIN-to-incident mapping in EA26002. To screen a specific car's real history, use accident/damage records, airbag-deployment status, and salvage-auction records, which a VIN check can surface.</p>
+<p><strong>Where do I confirm recall remedy (open vs. completed) status?</strong> Use NHTSA's free VIN lookup at nhtsa.gov/recalls, which shows incomplete recalls by VIN, or contact the manufacturer's service center — especially for OTA software remedies, where only the manufacturer can confirm the installed update.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf">NHTSA ODI Resume — EA26002 opening document (Engineering Analysis; 3,203,754 vehicles, 9 incidents, models/years, mechanism)</a></li>
+<li><a href="https://static.nhtsa.gov/odi/inv/2024/INOA-PE24031-23232.pdf">NHTSA ODI Resume — PE24031 opening document (Preliminary Evaluation, Oct. 17, 2024; ~2.41M vehicles, 4 crashes incl. pedestrian fatality)</a></li>
+<li><a href="https://www.nhtsa.gov/recalls">NHTSA Recalls &amp; Investigations lookup (official free VIN tool — shows incomplete recalls by VIN; does not list open PE/EA investigations)</a></li>
+<li><a href="https://static.nhtsa.gov/odi/inv/2024/INIM-RQ24009-12199.pdf">NHTSA recall query/info letter re: Autopilot recall 23V838 remedy adequacy (RQ24009)</a></li>
+<li><a href="https://electrek.co/2026/03/19/nhtsa-upgrades-tesla-fsd-visibility-investigation-3-2-million-vehicles/">Electrek — Tesla one step from FSD recall in NHTSA visibility probe</a></li>
+<li><a href="https://www.insurancejournal.com/news/national/2026/03/20/862650.htm">Insurance Journal (AP wire) — NHTSA upgrades probe into 3.2M Teslas over self-driving crashes</a></li>
+</ul>
+<p><em>Last verified: 2026-06-07. Note: some news outlets (Insurance Journal/AP) described "2 injury crashes"; the primary EA26002 PDF lists Number of Injuries = 1 across 2 injury incidents — this article follows the primary PDF. The single fatality is the Nov. 28, 2023 crash, which PE24031-era reporting identifies as a pedestrian struck during an Arizona dust storm.</em></p>
+<hr><p><strong>Check before you buy:</strong> A Zilocar VIN check screens a used car for recall presence and surfaces its accident, airbag-deployment, salvage-auction, odometer, theft, ownership, and sales-listing history — then confirm whether any recall was actually fixed at NHTSA's free tool or a dealer.</p><hr><p><a href="index.html">All briefings</a> · <a href="feed.xml">RSS feed</a></p></body></html>
