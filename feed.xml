@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 26 Jun 2026 07:39:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 12:36:00 +0000</lastBuildDate>
 <item>
 <title>Used 2026 Toyota bZ, Lexus RZ &amp; Subaru Solterra: Battery-ECU Recall (26V393) VIN Check Before You Buy</title>
 <link>https://zilocar.com/vehicle-news/used-toyota-bz4x-lexus-rz-subaru-solterra-ev-recall-check</link>
@@ -97,85 +97,6 @@
 <li><a href="https://www.cnbc.com/2025/05/13/toyota-redesigns-bz4x-as-2026-bz.html">CNBC — Toyota redesigns bZ4X as 2026 bZ (naming/lineage)</a> (major news)</li>
 </ul>
 <p><em>Last verified: June 26, 2026.</em></p>]]></content:encoded>
-</item>
-<item>
-<title>How to Check a Used Tesla Model 3 for Accident and Airbag-Deployment History by VIN</title>
-<link>https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying</link>
-<guid isPermaLink="false">used-tesla-model-3-accident-history-vin-check-before-buying</guid>
-<pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
-<zilocar:canonical>https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying</zilocar:canonical>
-<zilocar:dateModified>2026-06-26</zilocar:dateModified>
-<category>blog_news</category>
-<description>After the June 19, 2026 fatal Katy, TX Model 3 crash, learn how to check a used Tesla Model 3&#x27;s accident, airbag, salvage and odometer history by VIN.</description>
-<content:encoded><![CDATA[<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsArticle", "headline": "How to Check a Used Tesla Model 3 for Accident and Airbag-Deployment History by VIN", "description": "After the June 19, 2026 fatal Katy, TX Model 3 crash, learn how to check a used Tesla Model 3's accident, airbag, salvage and odometer history by VIN.", "datePublished": "2026-06-26T12:00:00Z", "dateModified": "2026-06-26T12:00:00Z", "author": {"@type": "Organization", "name": "Zilocar Editorial", "url": "https://zilocar.com"}, "publisher": {"@type": "Organization", "name": "Zilocar", "url": "https://zilocar.com"}, "mainEntityOfPage": "https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying", "url": "https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I check if a used Tesla Model 3 was in an accident?", "acceptedAnswer": {"@type": "Answer", "text": "Enter the car's 17-character VIN into a vehicle-history report. The report compiles accident and damage records, including the location, type and severity of reported collisions, so you can verify a specific Model 3's history before buying."}}, {"@type": "Question", "name": "Does a VIN check show airbag deployment?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A VIN-based vehicle-history report can show recorded airbag-deployment status tied to a damage or accident event. A deployed airbag signals a more severe impact and warrants a close pre-purchase inspection of the repair quality."}}, {"@type": "Question", "name": "Does a VIN check show salvage or rebuilt history?", "acceptedAnswer": {"@type": "Answer", "text": "A VIN check surfaces junk and salvage auction records associated with the vehicle. It does not classify the legal title brand itself, so confirm the actual title status with your state DMV and the seller's title document."}}, {"@type": "Question", "name": "Does a VIN check detect odometer rollback?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A vehicle-history report runs an odometer check against recorded mileage readings over time, flagging readings that fall out of sequence and may indicate a rollback. Confirm the current odometer matches the latest recorded reading."}}, {"@type": "Question", "name": "Does a VIN check show open recalls like 23V838?", "acceptedAnswer": {"@type": "Answer", "text": "A VIN check shows recall presence and count, similar to NHTSA's free lookup. It does not confirm whether a recall was remedied. Verify open-versus-closed status and repair completion at NHTSA.gov/recalls or a Tesla service center."}}, {"@type": "Question", "name": "What is the difference between a Special Crash Investigation and per-VIN accident history?", "acceptedAnswer": {"@type": "Answer", "text": "A Special Crash Investigation is an NHTSA data-collection study of one crash; it is not a recall and is not tracked by a VIN check. Per-VIN accident history is the documented damage record for one specific car, which a VIN report does surface."}}, {"@type": "Question", "name": "Can a VIN check tell me if a Model 3 had FSD or Autopilot engaged in a crash?", "acceptedAnswer": {"@type": "Answer", "text": "No. A VIN check does not show driver-assist engagement, firmware status, or any investigation findings. It is limited to documented accident, damage, airbag, salvage, odometer, ownership, listing and recall-presence records."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Vehicle News", "item": "https://zilocar.com/research"}, {"@type": "ListItem", "position": 2, "name": "How to Check a Used Tesla Model 3 for Accident and Airbag-Deployment History by VIN", "item": "https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying"}]}]}</script>
-<h1>How to Check a Used Tesla Model 3 for Accident and Airbag-Deployment History by VIN</h1>
-<p><strong>Direct answer:</strong> To check whether a used Tesla Model 3 was in an accident, run its 17-character VIN through a vehicle-history report, which compiles documented accident and damage records, airbag-deployment status, junk/salvage auction records and odometer readings for that specific car. A VIN check verifies one vehicle's own history. It cannot track NHTSA's Special Crash Investigation, opened June 23, 2026, into the fatal June 19 Katy, Texas Model 3 crash, nor show whether driver-assist features were engaged.</p>
-<h2>Key facts</h2>
-<ul>
-<li>A fatal crash occurred June 19, 2026, around 8 p.m. when a Tesla Model 3 drove into a home on Rose Hollow Lane in Katy, Texas, killing Martha Avila Mantilla, 76. The driver, Michael Butler, 44, survived. (The crash vehicle's model year was not disclosed.)</li>
-<li>NHTSA opened a <strong>Special Crash Investigation (SCI)</strong> on June 23, 2026. An SCI is a data-collection study of a single crash. It is <strong>not a recall</strong>, has <strong>no campaign number</strong>, and the report is not yet public.</li>
-<li>Accounts of the driver-assist mode differ. The driver reportedly described the car as on Autopilot; Tesla VP Ashok Elluswamy said Full Self-Driving was engaged but the driver overrode it, pressing the accelerator to 100% at 73 mph. Elon Musk said the situation "makes no sense." A sheriff's review found no vehicle malfunction. The family sued Butler and Tesla on June 23, 2026. These accounts are competing and unresolved, and Tesla's pedal-data account has not been independently verified.</li>
-<li>A VIN check <strong>can</strong> surface: accident/damage records (location, type, severity), airbag-deployment status, junk/salvage auction records, odometer/rollback checks, ownership history, sales-listing history, specs, NHTSA/IIHS ratings, market value, and recall presence.</li>
-<li>A VIN check <strong>cannot</strong>: track the SCI, show FSD/Autopilot engagement or firmware, confirm a recall was remedied, or classify the legal title brand.</li>
-<li>Separate, real Tesla recalls exist independent of this crash, including 23V838 (Autopilot, December 2023), a power-steering recall, and a TPMS recall spanning roughly 2017–2025 model years. Verify each at NHTSA.gov.</li>
-</ul>
-<h2>Why is Model 3 accident history in the news right now?</h2>
-<p>A high-profile fatal crash put the Tesla Model 3 at the center of US safety attention. On June 19, 2026, a Model 3 drove into a home in Katy, Texas, killing a 76-year-old resident, and on June 23 NHTSA opened a Special Crash Investigation. That news is the reason many used-Model 3 shoppers are now asking how to verify a specific car's crash history before buying.</p>
-<p>The crash and the investigation concern one vehicle and one event. They do not tell you anything about the used Model 3 you are considering. To learn whether a prospective car has been in a collision, you check that car's own VIN — a separate, durable step every used-EV buyer should take regardless of headlines.</p>
-<h2>How do I check if a used Tesla Model 3 was in an accident?</h2>
-<p>Enter the Model 3's 17-character VIN into a vehicle-history report. The report compiles documented accident and damage records for that specific car, typically including the location, type and severity of reported collisions. This lets you see whether the vehicle has a logged crash before you put money down.</p>
-<p>You can find the VIN on the lower driver's-side windshield, on the door-jamb sticker, or on the title and registration. On a Tesla, it is also available in the touchscreen under the vehicle's software/about menu and in the owner's Tesla account. Cross-check the VIN on the car against the VIN on the paperwork to make sure they match before running any report.</p>
-<h2>Does a VIN check show airbag deployment on a Model 3?</h2>
-<p>Yes. A VIN-based vehicle-history report can show recorded airbag-deployment status tied to a damage or accident event. A deployed airbag is a strong signal of a higher-severity impact, even if the body panels now look clean.</p>
-<p>If a report shows airbag deployment, treat it as a flag for a thorough pre-purchase inspection. Confirm that airbags and seatbelt pretensioners were properly replaced, that the supplemental restraint warning light is off, and that structural repairs were done correctly. On an EV, a significant front or underbody impact also warrants a battery and high-voltage-system inspection by a qualified Tesla technician.</p>
-<h2>Does a VIN check show salvage, junk-auction or odometer problems?</h2>
-<p>A VIN check surfaces junk and salvage <strong>auction records</strong> associated with a Model 3, plus an odometer check against recorded mileage readings over time. Salvage-auction records suggest the car was once declared a total loss; an out-of-sequence odometer reading can indicate a rollback.</p>
-<p>Two honest limits matter here. First, a VIN report shows salvage and junk <strong>auction</strong> records — it does not classify the legal <strong>title brand</strong> itself, so confirm the actual title status with your state DMV and the physical title document. Second, an odometer check flags inconsistencies in the data available; always verify that the current dash reading matches the latest recorded mileage.</p>
-<h2>How does this compare to the NHTSA investigation? (SCI vs per-VIN history)</h2>
-<p>A Special Crash Investigation is an NHTSA study of one crash, opened to collect detailed data — it is not a recall, carries no campaign number, and is not tracked by any VIN check. Per-VIN accident history is the documented damage record for one specific car, which a VIN report does surface. These are completely different things.</p>
-<table><thead><tr><th>Question</th><th>NHTSA Special Crash Investigation (this case)</th><th>Per-VIN accident history (a VIN check)</th></tr></thead><tbody>
-<tr><td>What it covers</td><td>One crash (Katy, TX, June 19, 2026)</td><td>One specific used vehicle you choose</td></tr>
-<tr><td>Purpose</td><td>Government data collection on a single event</td><td>Buyer due diligence before purchase</td></tr>
-<tr><td>Is it a recall?</td><td>No — no campaign number</td><td>N/A</td></tr>
-<tr><td>Tracked by a VIN check?</td><td>No</td><td>Yes</td></tr>
-<tr><td>Tells you about FSD/Autopilot engagement?</td><td>May be examined by NHTSA</td><td>No</td></tr>
-<tr><td>Available to you now?</td><td>Report not yet public</td><td>Yes, on demand by VIN</td></tr>
-</tbody></table>
-<p>The takeaway: the SCI will not appear in any VIN report, and a VIN report's accident records say nothing about the SCI. Use NHTSA for the investigation; use a VIN check for the car in front of you.</p>
-<h2>What can and can't a VIN check tell you here?</h2>
-<p>A VIN check is built for verifying one vehicle's documented history — accidents, damage and airbag deployment, salvage/junk-auction records, odometer integrity, ownership and listing history, specs, safety ratings and value, plus recall presence. It is <strong>not</strong> a window into a federal investigation or a car's software.</p>
-<table><thead><tr><th>A VIN check CAN surface</th><th>A VIN check CANNOT do</th></tr></thead><tbody>
-<tr><td>Accident &amp; damage records (location, type, severity)</td><td>Track the NHTSA Special Crash Investigation</td></tr>
-<tr><td>Airbag-deployment status</td><td>Show whether FSD or Autopilot was engaged</td></tr>
-<tr><td>Junk &amp; salvage <strong>auction</strong> records</td><td>Classify the legal title brand</td></tr>
-<tr><td>Odometer / rollback check</td><td>Confirm a recall was actually remedied/flashed</td></tr>
-<tr><td>Ownership history</td><td>Show per-unit dealer firmware or remedy detail</td></tr>
-<tr><td>Sales-listing history (past/current prices, mileage, days-on-market)</td><td>Report investigation status or findings</td></tr>
-<tr><td>Recall <strong>presence/count</strong></td><td>—</td></tr>
-<tr><td>NHTSA + IIHS safety ratings, market value</td><td>—</td></tr>
-</tbody></table>
-<p>For recall remedy status, firmware, and the investigation itself, defer to the authorities: check recall open/closed status at NHTSA.gov/recalls, confirm repairs at a Tesla service center, and follow the SCI through NHTSA. A VIN report tells you the car's history; the dealer and NHTSA tell you its repair and regulatory status.</p>
-<h2>How to check a used Model 3 by VIN, step by step</h2>
-<p>Start with the free official tool, then layer on history. First, run the VIN at <strong>NHTSA.gov/recalls</strong> to see recall presence — including whether items like Autopilot recall 23V838 apply to that build — and confirm open-versus-closed status with a Tesla service center, since the free tool and any VIN report show recall <em>presence</em>, not remedy. Second, pull a full vehicle-history report by VIN to check accidents, airbag deployment, salvage/junk-auction records, odometer integrity, ownership and past sales listings.</p>
-<p>A <strong>Zilocar</strong> VIN check is one convenient option for that second step: it screens for recall presence and surfaces accident and airbag-deployment records, salvage/junk-auction history, odometer checks, theft (NICB), ownership and sales-listing history, specs, NHTSA/IIHS ratings and market valuation in a single report. Use it alongside NHTSA's free recall lookup and a hands-on inspection — not as a substitute for confirming title status with your DMV or recall remedies with a dealer.</p>
-<p>Finally, get an independent pre-purchase inspection. For a Model 3 with any logged damage, ask the technician to verify structural repairs, restraint-system replacement, and high-voltage battery health.</p>
-<h2>Frequently asked questions</h2>
-<p><strong>How do I check if a used Tesla Model 3 was in an accident?</strong> Enter the car's 17-character VIN into a vehicle-history report. The report compiles accident and damage records, including the location, type and severity of reported collisions, so you can verify a specific Model 3's history before buying.</p>
-<p><strong>Does a VIN check show airbag deployment?</strong> Yes. A VIN-based vehicle-history report can show recorded airbag-deployment status tied to a damage or accident event. A deployed airbag signals a more severe impact and warrants a close pre-purchase inspection of the repair quality.</p>
-<p><strong>Does a VIN check show salvage or rebuilt history?</strong> A VIN check surfaces junk and salvage auction records associated with the vehicle. It does not classify the legal title brand itself, so confirm the actual title status with your state DMV and the seller's title document.</p>
-<p><strong>Does a VIN check detect odometer rollback?</strong> Yes. A vehicle-history report runs an odometer check against recorded mileage readings over time, flagging readings that fall out of sequence and may indicate a rollback. Confirm the current odometer matches the latest recorded reading.</p>
-<p><strong>Does a VIN check show open recalls like 23V838?</strong> A VIN check shows recall presence and count, similar to NHTSA's free lookup. It does not confirm whether a recall was remedied. Verify open-versus-closed status and repair completion at NHTSA.gov/recalls or a Tesla service center.</p>
-<p><strong>What is the difference between a Special Crash Investigation and per-VIN accident history?</strong> A Special Crash Investigation is an NHTSA data-collection study of one crash; it is not a recall and is not tracked by a VIN check. Per-VIN accident history is the documented damage record for one specific car, which a VIN report does surface.</p>
-<p><strong>Can a VIN check tell me if a Model 3 had FSD or Autopilot engaged in a crash?</strong> No. A VIN check does not show driver-assist engagement, firmware status, or any investigation findings. It is limited to documented accident, damage, airbag, salvage, odometer, ownership, listing and recall-presence records.</p>
-<h2>Sources</h2>
-<ul>
-<li><a href="https://www.nhtsa.gov/research-data/special-crash-investigations-sci">NHTSA — Special Crash Investigations (SCI) program</a></li>
-<li><a href="https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html">CNBC — Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old</a></li>
-<li><a href="https://electrek.co/2026/06/23/tesla-fsd-katy-crash-driver-pedal/">Electrek — Tesla admits FSD was on in fatal Texas crash, blames driver for "overriding" it</a></li>
-<li><a href="https://electrek.co/2026/06/22/nhtsa-tesla-katy-crash-federal-investigation/">Electrek — NHTSA probes fatal Tesla crash into Texas home</a></li>
-</ul>
-<p><em>Recall identifiers (23V838 Autopilot; power-steering and TPMS campaigns) should be verified for any specific VIN at NHTSA.gov/recalls. The crash vehicle's model year was not disclosed, the Autopilot-versus-FSD account is disputed, and Tesla's pedal-data account has not been independently verified.</em></p>
-<p><em>Last verified: 2026-06-26.</em></p>]]></content:encoded>
 </item>
 <item>
 <title>Used Land Rover Airbag Recall (June 2026): VIN Checks to Run Before You Buy</title>
