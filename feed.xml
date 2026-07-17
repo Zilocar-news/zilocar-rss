@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 17 Jul 2026 06:14:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 07:20:00 +0000</lastBuildDate>
 <item>
 <title>Used Tesla Model 3 &amp; Model Y: Headlight Recall and History to Check Before Buying (Model S/X Not Affected)</title>
 <link>https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying</link>
@@ -77,6 +77,101 @@
 </ul>
 <p><em>Editor's note: This article corrects the common assumption that the headlight recall affects the Model S or Model X. Every primary and secondary source ties it to the Model 3 and Model Y. The exact NHTSA campaign number and the remedy method were not yet published at the time of writing; verify both by VIN at nhtsa.gov before relying on them.</em></p>
 <p>Last verified: 2026-07-17.</p>]]></content:encoded>
+</item>
+<item>
+<title>Used Nissan Leaf Seat-Belt Recall (26V425): Check the VIN Before You Buy</title>
+<link>https://zilocar.com/vehicle-news/used-nissan-leaf-seat-belt-recall-check-before-buying</link>
+<guid isPermaLink="false">used-nissan-leaf-seat-belt-recall-check-before-buying</guid>
+<pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+<zilocar:canonical>https://zilocar.com/vehicle-news/used-nissan-leaf-seat-belt-recall-check-before-buying</zilocar:canonical>
+<zilocar:dateModified>2026-07-17</zilocar:dateModified>
+<category>blog_news</category>
+<description>Nissan Leaf seat-belt recall 26V425 covers 3,788 2026 Leafs with faulty rear ALR retractors. What a VIN check can and can&#x27;t prove, plus used-buyer due diligence.</description>
+<content:encoded><![CDATA[<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsArticle", "headline": "Used Nissan Leaf Seat-Belt Recall (26V425): Check the VIN Before You Buy", "description": "Nissan Leaf seat-belt recall 26V425 covers 3,788 2026 Leafs with faulty rear ALR retractors. What a VIN check can and can't prove, plus used-buyer due diligence.", "datePublished": "2026-07-17T12:00:00Z", "dateModified": "2026-07-17T12:00:00Z", "author": {"@type": "Organization", "name": "Zilocar Editorial", "url": "https://zilocar.com"}, "publisher": {"@type": "Organization", "name": "Zilocar", "url": "https://zilocar.com"}, "mainEntityOfPage": "https://zilocar.com/vehicle-news/used-nissan-leaf-seat-belt-recall-check-before-buying", "url": "https://zilocar.com/vehicle-news/used-nissan-leaf-seat-belt-recall-check-before-buying"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Which Nissan Leafs are covered by the seat-belt recall 26V425?", "acceptedAnswer": {"@type": "Answer", "text": "Only the 2026 Nissan Leaf, and only 3,788 units built at Nissan's Tochigi plant in Japan between June 10, 2025 and June 8, 2026. Coverage is by VIN and build date, not by trim, so any 2026 Leaf trim in that window can be included."}}, {"@type": "Question", "name": "What is wrong with the 2026 Leaf's rear seat belts?", "acceptedAnswer": {"@type": "Answer", "text": "The two outer rear seat-belt Automatic Locking Retractors (ALRs) can deactivate prematurely. The ALR is the mode used to cinch a child-seat base; if it releases early, a belt-installed infant seat can be left too loose, raising crash-injury risk. It is a non-compliance recall against FMVSS 208/225."}}, {"@type": "Question", "name": "Does this affect adult passengers or LATCH-installed car seats?", "acceptedAnswer": {"@type": "Answer", "text": "No. The defect affects only child restraints installed with the outer rear seat belts using the ALR function. It does not affect rear belts used by adult passengers, and it does not affect child seats installed via the LATCH lower anchors and tethers."}}, {"@type": "Question", "name": "Has the recall been fixed, and is a repair available yet?", "acceptedAnswer": {"@type": "Answer", "text": "Not yet. Dealers will replace the rear outboard seat-belt assemblies free of charge, but Nissan expects remedy parts in winter 2026. Interim notice-of-recall letters were mailed July 17, 2026; a second letter follows once parts and appointments are available."}}, {"@type": "Question", "name": "Can a VIN check tell me whether a used Leaf's recall was actually repaired?", "acceptedAnswer": {"@type": "Answer", "text": "No. A VIN check can confirm a recall is present on the VIN, but it cannot prove the recall was remedied. For open-versus-closed status, use NHTSA's free tool at nhtsa.gov/recalls or ask a Nissan dealer with the VIN."}}, {"@type": "Question", "name": "Did Consumer Reports really find the flaw before Nissan?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Consumer Reports engineers found the fault while evaluating rear-seat child-seat safety on a Leaf CR had bought for testing, and notified Nissan on April 22, 2026. Nissan reproduced the failure, traced it to supplier Autoliv Japan, and filed the recall, received by NHTSA July 2, 2026."}}, {"@type": "Question", "name": "What other recalls does the 2026 Nissan Leaf have?", "acceptedAnswer": {"@type": "Answer", "text": "The 2026 Leaf also has a separate, earlier recall, NHTSA campaign 26V188000 (report received March 26, 2026), for traction-battery modules that can internally short and increase fire risk. The remedy is battery module or pack replacement. It is unrelated to the seat-belt campaign."}}, {"@type": "Question", "name": "Should I still buy a used Leaf that has this recall open?", "acceptedAnswer": {"@type": "Answer", "text": "An open recall is not a dealbreaker; the seat-belt fix is free at a Nissan dealer. Because remedy parts aren't expected until winter 2026, most affected units are currently unrepaired, so plan to schedule the replacement and verify status through NHTSA and the dealer after purchase."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Vehicle News", "item": "https://zilocar.com/research"}, {"@type": "ListItem", "position": 2, "name": "Used Nissan Leaf Seat-Belt Recall (26V425): Check the VIN Before You Buy", "item": "https://zilocar.com/vehicle-news/used-nissan-leaf-seat-belt-recall-check-before-buying"}]}]}</script>
+<h1>Used Nissan Leaf Seat-Belt Recall (26V425): Check the VIN Before You Buy</h1>
+<p>Nissan is recalling 3,788 examples of the redesigned 2026 Nissan Leaf under NHTSA campaign 26V425000 (Nissan recall R26A7) because the two outer rear seat-belt Automatic Locking Retractors can deactivate prematurely, potentially loosening a belt-installed child seat. A VIN check can confirm this recall is present on a specific Leaf, the same signal NHTSA's free tool shows, but it cannot prove the recall was remedied. Remedy parts aren't expected until winter 2026.</p>
+<h2>Key facts</h2>
+<ul>
+<li><strong>Campaign:</strong> NHTSA 26V425000 (written 26V425); Nissan internal recall R26A7.</li>
+<li><strong>Vehicles:</strong> 3,788 units, all 2026 model-year Nissan Leaf. Some headlines round to "nearly 4,000"; the exact figure is 3,788.</li>
+<li><strong>Build window:</strong> Nissan Tochigi Plant, Japan, between June 10, 2025 and June 8, 2026. Eligibility is by VIN and build date, not by trim.</li>
+<li><strong>Defect:</strong> Outer (outboard) rear seat-belt Automatic Locking Retractor (ALR) assemblies can deactivate/disengage prematurely. Component code: SEAT BELTS:REAR/OTHER:RETRACTOR.</li>
+<li><strong>Why it matters:</strong> The ALR is used to cinch a child-seat base. Premature release can leave a belt-installed infant seat too loose, raising injury risk in a crash. This is a non-compliance recall against FMVSS 208/225.</li>
+<li><strong>Scope limit:</strong> Does not affect rear belts used by adult passengers, and does not affect child seats installed via LATCH.</li>
+<li><strong>Root cause:</strong> Manufacturing error at belt supplier Autoliv Japan.</li>
+<li><strong>Discovery:</strong> Consumer Reports engineers found the flaw and notified Nissan April 22, 2026. Report received by NHTSA July 2, 2026.</li>
+<li><strong>Remedy:</strong> Free replacement of the rear outboard seat-belt assemblies; parts expected winter 2026. Interim owner letters mailed July 17, 2026.</li>
+<li><strong>Harm to date:</strong> Nissan reports no known crashes or injuries tied to the defect as of filing.</li>
+<li><strong>Nissan customer service:</strong> 1-800-647-7261.</li>
+</ul>
+<h2>Which Nissan Leaf model years and VINs are covered?</h2>
+<p>The seat-belt recall covers only the 2026 model-year Nissan Leaf, and within that year only 3,788 specific units. Those vehicles were built at Nissan's Tochigi plant in Japan between June 10, 2025 and June 8, 2026. Coverage is defined by VIN and build date, not by trim level.</p>
+<p>The 2026 Leaf is the all-new, redesigned third-generation crossover-style EV, sold in S, S+, SV+, and Platinum+ trims. No source enumerates specific affected trims because eligibility is not trim-based; any trim built inside the production window can be included. The only reliable way to know whether a given Leaf is affected is to run its VIN.</p>
+<table><thead><tr><th>Field</th><th>Detail</th></tr></thead><tbody>
+<tr><td>Make / Model</td><td>Nissan Leaf (redesigned third-gen EV)</td></tr>
+<tr><td>Model year</td><td>2026 only</td></tr>
+<tr><td>Trims</td><td>Not trim-specific (lineup: S, S+, SV+, Platinum+); by VIN/build date</td></tr>
+<tr><td>Build plant</td><td>Nissan Tochigi Plant, Japan</td></tr>
+<tr><td>Production window</td><td>June 10, 2025 – June 8, 2026</td></tr>
+<tr><td>Units</td><td>3,788</td></tr>
+<tr><td>Defective part</td><td>Outer rear seat-belt ALR assemblies (Autoliv Japan)</td></tr>
+<tr><td>NHTSA campaign</td><td>26V425000 (26V425)</td></tr>
+<tr><td>Nissan recall #</td><td>R26A7</td></tr>
+<tr><td>Component (NHTSA)</td><td>SEAT BELTS:REAR/OTHER:RETRACTOR</td></tr>
+<tr><td>Remedy</td><td>Free replacement; parts expected winter 2026</td></tr>
+<tr><td>Related, separate recall</td><td>26V188000 — 2026 Leaf traction-battery fire risk</td></tr>
+</tbody></table>
+<h2>What exactly is wrong with the rear seat belts?</h2>
+<p>On affected 2026 Leafs, the two outer rear seat-belt Automatic Locking Retractors (ALRs) can deactivate prematurely. The ALR is the mode a caregiver engages by pulling the belt all the way out to cinch a child-seat base tight. If the retractor releases early, the belt can suddenly loosen while the base is being tightened, leaving the child restraint installed too loosely and raising injury risk in a crash.</p>
+<p>This is a non-compliance recall: the condition fails Federal Motor Vehicle Safety Standard requirements (FMVSS 208/225) for child-restraint retention. Nissan traced the root cause to a manufacturing error in the ALR retractor assemblies supplied by Autoliv Japan. As of filing, Nissan reports no known crashes or injuries linked to the defect.</p>
+<h2>Does it affect adult passengers or LATCH-installed car seats?</h2>
+<p>No. The defect is limited to child restraints installed using the outer rear seat belts in their ALR (cinch) mode. It does not affect the rear seat belts as used by adult passengers, and it does not affect child seats installed through the LATCH system (lower anchors and tethers for children).</p>
+<p>In practical terms, a family that installs an infant seat base with the LATCH lower anchors rather than the seat belt is outside the described failure mode. The recall specifically concerns the belt-and-ALR installation path.</p>
+<h2>Has the recall been fixed, and is a repair available yet?</h2>
+<p>Not yet. The remedy is a free dealer replacement of the rear outboard seat-belt assemblies, but the parts are not yet available. Nissan expects the repair to be ready in winter 2026. Because of that timing, essentially all 3,788 affected units are currently unremedied.</p>
+<p>Nissan is using a two-letter notification process. Interim notice-of-recall letters were mailed July 17, 2026, telling owners about the recall before parts exist; a second letter will follow once repair parts and service appointments are available. The NHTSA VIN lookup for this campaign went live July 7, 2026. Owners with questions can reach Nissan customer service at 1-800-647-7261 and reference recall R26A7.</p>
+<h2>Is it true Consumer Reports discovered the flaw before Nissan?</h2>
+<p>Yes. Consumer Reports engineers identified the seat-belt flaw while evaluating rear-seat and child-seat safety on a Leaf that CR had purchased for its own test program, before Nissan or NHTSA had flagged it. CR notified Nissan on April 22, 2026.</p>
+<p>Nissan then investigated, reproduced the failure, traced it to the Autoliv Japan manufacturing error, and filed the recall, which NHTSA received on July 2, 2026. This account is documented by Consumer Reports' own article and corroborated by Electrek, TechTimes, and autoevolution. The precise internal Nissan discovery timeline beyond "CR notified, Nissan reproduced it" has not been published.</p>
+<h2>What other recalls does the 2026 Nissan Leaf have?</h2>
+<p>The 2026 Leaf carries a second, unrelated recall: NHTSA campaign 26V188000, with a report received March 26, 2026. It concerns traction-battery modules that can internally short and increase fire risk; the remedy is battery module or pack replacement.</p>
+<p>This is a different campaign from the seat-belt recall and should not be conflated with it. For a used-Leaf shopper, both are worth screening, because a single VIN can carry more than one open recall at once. Confirm each campaign's presence and current status through NHTSA's VIN tool.</p>
+<h2>What a VIN check can and can't tell you here</h2>
+<p>A VIN check is a screening step, not a repair record. Here is the honest boundary for this recall.</p>
+<table><thead><tr><th>Question</th><th>VIN history report</th><th>NHTSA free VIN tool</th><th>Nissan dealer</th></tr></thead><tbody>
+<tr><td>Is an open recall present on this VIN?</td><td>Yes (presence/count)</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Is the recall remedied / closed?</td><td>No</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Which exact firmware/parts were installed?</td><td>No</td><td>No</td><td>Yes</td></tr>
+<tr><td>Accident, salvage-auction, odometer, ownership, listing history</td><td>Yes</td><td>No</td><td>No</td></tr>
+<tr><td>NHTSA investigation (PE/EA) mapping</td><td>No</td><td>No</td><td>n/a</td></tr>
+</tbody></table>
+<p>A paid VIN history check can confirm that an open NHTSA recall (such as 26V425 seat belt and/or 26V188 battery) exists on a given Leaf, the same presence signal NHTSA's free tool shows. It cannot show whether a recall has been remedied, its open-versus-closed status, or any dealer-level parts or firmware detail. For remedy confirmation, use NHTSA's free tool at nhtsa.gov/recalls or ask a Nissan dealer with the VIN in hand. Because the 26V425 remedy part isn't available until winter 2026, you should expect an affected Leaf to be unrepaired right now regardless of what any check shows.</p>
+<h2>How to check a used Leaf's VIN before buying</h2>
+<p>Start with NHTSA's free VIN lookup at nhtsa.gov/recalls to see whether 26V425, 26V188, or any other campaign is open on the specific car, and to confirm remedy status. That is the authoritative, no-cost source for recall open-versus-closed status.</p>
+<p>Then screen the vehicle's history, which recall tools do not cover. A <a href="https://zilocar.com">Zilocar VIN check</a> surfaces recall presence alongside accident and damage records (location, type, severity, and airbag-deployment status), an odometer/rollback check, junk and salvage auction records, theft records (NICB), ownership history, and sales-listing history (past and current listings, prices, mileage, and days-on-market), plus specs, NHTSA and IIHS safety ratings, and market valuation. Use the two together: NHTSA for recall remedy status, a history report for the accident, title-auction, odometer, and ownership picture NHTSA does not provide.</p>
+<p>Because the 2026 Leaf is brand new, few of these 3,788 cars have reached the used market yet, so treat this as durable due-diligence guidance for when they do rather than a large existing used-inventory problem.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Which Nissan Leafs are covered by the seat-belt recall 26V425?</strong> Only the 2026 Nissan Leaf, and only 3,788 units built at Nissan's Tochigi plant in Japan between June 10, 2025 and June 8, 2026. Coverage is by VIN and build date, not by trim, so any 2026 Leaf trim in that window can be included.</p>
+<p><strong>What is wrong with the 2026 Leaf's rear seat belts?</strong> The two outer rear seat-belt Automatic Locking Retractors (ALRs) can deactivate prematurely. The ALR is the mode used to cinch a child-seat base; if it releases early, a belt-installed infant seat can be left too loose, raising crash-injury risk. It is a non-compliance recall against FMVSS 208/225.</p>
+<p><strong>Does this affect adult passengers or LATCH-installed car seats?</strong> No. The defect affects only child restraints installed with the outer rear seat belts using the ALR function. It does not affect rear belts used by adult passengers, and it does not affect child seats installed via the LATCH lower anchors and tethers.</p>
+<p><strong>Has the recall been fixed, and is a repair available yet?</strong> Not yet. Dealers will replace the rear outboard seat-belt assemblies free of charge, but Nissan expects remedy parts in winter 2026. Interim notice-of-recall letters were mailed July 17, 2026; a second letter follows once parts and appointments are available.</p>
+<p><strong>Can a VIN check tell me whether a used Leaf's recall was actually repaired?</strong> No. A VIN check can confirm a recall is present on the VIN, but it cannot prove the recall was remedied. For open-versus-closed status, use NHTSA's free tool at nhtsa.gov/recalls or ask a Nissan dealer with the VIN.</p>
+<p><strong>Did Consumer Reports really find the flaw before Nissan?</strong> Yes. Consumer Reports engineers found the fault while evaluating rear-seat child-seat safety on a Leaf CR had bought for testing, and notified Nissan on April 22, 2026. Nissan reproduced the failure, traced it to supplier Autoliv Japan, and filed the recall, received by NHTSA July 2, 2026.</p>
+<p><strong>What other recalls does the 2026 Nissan Leaf have?</strong> The 2026 Leaf also has a separate, earlier recall, NHTSA campaign 26V188000 (report received March 26, 2026), for traction-battery modules that can internally short and increase fire risk. The remedy is battery module or pack replacement. It is unrelated to the seat-belt campaign.</p>
+<p><strong>Should I still buy a used Leaf that has this recall open?</strong> An open recall is not a dealbreaker; the seat-belt fix is free at a Nissan dealer. Because remedy parts aren't expected until winter 2026, most affected units are currently unrepaired, so plan to schedule the replacement and verify status through NHTSA and the dealer after purchase.</p>
+<h2>Before you buy a used Leaf</h2>
+<p>Screen the VIN before you commit. Use NHTSA's free tool at nhtsa.gov/recalls to confirm which recalls are open and whether they have been remedied, then run a <a href="https://zilocar.com">Zilocar VIN check</a> to screen for recall presence and pull the car's accident, salvage-auction, odometer, ownership, and sales-listing history in one report. It does not confirm a recall was remedied, track NHTSA investigations, or show firmware or title-brand status; leave those to NHTSA and your Nissan dealer.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.nhtsa.gov/recalls">NHTSA — Check for Recalls by VIN (free official tool)</a></li>
+<li><a href="https://www.nhtsa.gov/vehicle/2026/NISSAN/LEAF">NHTSA — 2026 Nissan Leaf recalls (campaign 26V425 landing)</a></li>
+<li><a href="https://api.nhtsa.gov/recalls/recallsByVehicle?make=nissan&amp;model=leaf&amp;modelYear=2026">NHTSA Recalls API — 2026 Nissan Leaf (26V425000 + 26V188000)</a></li>
+<li><a href="https://www.consumerreports.org/cars/car-recalls-defects/nissan-leaf-evs-recalled-after-consumer-reports-findings-a9506947587/">Consumer Reports — Nissan Leaf EVs Recalled After Consumer Reports Findings</a></li>
+<li><a href="https://electrek.co/2026/07/14/nissan-recalls-nearly-4000-new-leaf-evs-seat-belt-issue/">Electrek — Nissan recalls nearly 4,000 new Leaf EVs after CR test finds seat belt issue</a></li>
+<li><a href="https://www.autoevolution.com/news/nissan-recalls-2026-leaf-over-safety-concern-272773.html">autoevolution — Nissan Recalls 2026 Leaf Over Safety Concern</a></li>
+<li><a href="https://www.techtimes.com/articles/320538/20260715/nissan-leaf-seat-belt-recall-consumer-reports-found-flaw-nissan-didnt.htm">TechTimes — Nissan Leaf Seat Belt Recall: Consumer Reports Found the Flaw, Nissan Didn't</a></li>
+</ul>
+<p>Last verified: 2026-07-17</p>]]></content:encoded>
 </item>
 <item>
 <title>Used Honda Odyssey (2011–2017): The Airbag Probe and the History to Check Before Buying</title>
