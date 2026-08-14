@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 14 Aug 2026 14:34:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 14:43:00 +0000</lastBuildDate>
 <item>
 <title>Do Owner Complaints Warn of a Recall? We Matched 2.1 Million NHTSA Complaints Against 8,448 Recalls</title>
 <link>https://zilocar.com/vehicle-news/do-owner-complaints-predict-car-recalls-nhtsa-data</link>
@@ -75,9 +75,9 @@
 <p>Recall timing has been studied before, and we found no published source reporting how often complaints precede a recall at the campaign level across the full recall universe. Prior work measures adjacent but different quantities, each starting its clock somewhere else:</p>
 <table><thead><tr><th>Study</th><th>Clock starts at</th><th>Clock stops at</th><th>Universe</th></tr></thead><tbody>
 <tr><td>Astvansh, Ball &amp; Josefy (2022)</td><td>Manufacturer's internal defect-awareness date</td><td>Recall decision</td><td>2,120 recalls, 2009-2018</td></tr>
-<tr><td>Eilert et al. (2017)</td><td>NHTSA opens an investigation</td><td>Recall announcement</td><td>381 investigations, 1999-2012</td></tr>
+<tr><td>Eilert et al. (2017)</td><td>NHTSA opens an investigation</td><td>Recall announcement</td><td>381 investigations that yielded a recall, 1999-2012</td></tr>
 <tr><td>Damavandi &amp; Astvansh (2024)</td><td>First consumer complaint</td><td>NHTSA opens an investigation</td><td>628 investigations, 2009-2021</td></tr>
-<tr><td>Colak &amp; Bray (working paper)</td><td>Complaint text features</td><td>Recall initiation decision</td><td>8,439 manufacturer + 5,685 government recalls</td></tr>
+<tr><td>Çolak &amp; Bray (2016, working paper)</td><td>Complaint text features</td><td>Recall initiation decision</td><td>8,439 manufacturer + 5,685 government recalls</td></tr>
 <tr><td>This study</td><td>The Nth complaint naming the recalled part</td><td>Part 573 report received</td><td>8,448 campaigns, 2015-2026</td></tr>
 </tbody></table>
 <p>The closest is Damavandi &amp; Astvansh, but it stops at the investigation rather than the recall, covers only investigated cases, and uses a single threshold. None of these is an ongoing dataset; all are one-off academic exercises, most behind paywalls. Ours is a deterministic join of two official flat files that anyone can re-run the day NHTSA refreshes them.</p>
@@ -137,9 +137,10 @@
 <li><a href="https://static.nhtsa.gov/odi/ffdd/cmpl/CMPL.txt">NHTSA complaint file record layout</a> and <a href="https://static.nhtsa.gov/odi/ffdd/rcl/RCL.txt">recall file record layout</a></li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA recalls and VIN lookup</a> — authoritative open-recall status for a specific VIN</li>
 <li><a href="https://zilocar-news.github.io/zilocar-rss/data/recall-complaint-precursors-2026-08-14.csv">Our full dataset, all 8,448 campaigns (CSV)</a> — every campaign, including those with zero prior complaints, with each filter flag exposed so any step can be reproduced or rejected</li>
-<li>Damavandi, H. &amp; Astvansh, V. (2024), <a href="https://pubsonline.informs.org/doi/10.1287/msom.2023.0705">"Unveiling Regulatory Operations"</a>, <em>Manufacturing &amp; Service Operations Management</em> — first complaint to investigation opening, 628 investigations</li>
-<li>Astvansh, V., Ball, G.P. &amp; Josefy, M. (2022), <a href="https://ideas.repec.org/a/inm/ormsom/v24y2022i3p1457-1473.html">"The Recall Decision Exposed"</a>, <em>M&amp;SOM</em> 24(3) — manufacturer defect-awareness date to recall decision, 2,120 recalls</li>
-<li>Eilert, M., Jayachandran, S., Kalaignanam, K. &amp; Swartz, T.A. (2017), <a href="https://journals.sagepub.com/doi/10.1509/jm.15.0074">"Does It Pay to Recall Your Product Early?"</a>, <em>Journal of Marketing</em> — investigation opening to recall announcement, 381 investigations</li>
+<li>Damavandi, H. &amp; Astvansh, V. (2024), <a href="https://pubsonline.informs.org/doi/10.1287/msom.2023.0705">"Unveiling Regulatory Operations: A Data Set of the Determinants, Process, and Outcomes of Product Defect Investigations by the U.S. Automotive Safety Regulator"</a>, <em>Manufacturing &amp; Service Operations Management</em> 27(1), 181-199 — first complaint to investigation opening, 628 opened investigations, 2009-2021</li>
+<li>Astvansh, V., Ball, G.P. &amp; Josefy, M. (2022), <a href="https://ideas.repec.org/a/inm/ormsom/v24y2022i3p1457-1473.html">"The Recall Decision Exposed: Automobile Recall Timing and Process Data Set"</a>, <em>M&amp;SOM</em> 24(3), 1457-1473 — manufacturer defect-awareness date to recall decision, 2,120 recalls, 2009-2018</li>
+<li>Eilert, M., Jayachandran, S., Kalaignanam, K. &amp; Swartz, T.A. (2017), <a href="https://journals.sagepub.com/doi/10.1509/jm.15.0074">"Does It Pay to Recall Your Product Early? An Empirical Investigation in the Automobile Industry"</a>, <em>Journal of Marketing</em> 81(3), 111-129 — investigation opening to recall announcement, 381 investigations that yielded a recall</li>
+<li>Çolak, A. &amp; Bray, R.L. (2016), <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2682645">"Why Do Automakers Initiate Recalls? A Structural Econometric Game"</a>, working paper, SSRN 2682645 — complaint text signals to recall initiation</li>
 </ul>
 <p>Last verified: 2026-08-14</p>]]></content:encoded>
 </item>
