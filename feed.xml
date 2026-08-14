@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 14 Aug 2026 10:17:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 14:34:00 +0000</lastBuildDate>
 <item>
 <title>Do Owner Complaints Warn of a Recall? We Matched 2.1 Million NHTSA Complaints Against 8,448 Recalls</title>
 <link>https://zilocar.com/vehicle-news/do-owner-complaints-predict-car-recalls-nhtsa-data</link>
@@ -124,9 +124,11 @@
 <p><strong>Why did most recalls in this study have no matching complaints?</strong> Several reasons: many defects are found in factory testing or warranty data rather than by owners, many recalls cover cars too new to have accumulated complaints, and NHTSA's component coding is coarse, so genuine reports are often filed under a different category.</p>
 <h2>Related checks</h2>
 <ul>
-<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">Car recall completion rates</a> — how much of a recall population actually gets repaired</li>
-<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">What does recall closed mean on a VIN check</a> — recall status versus an open NHTSA investigation</li>
-<li><a href="https://zilocar.com/vehicle-news/used-bmw-fire-risk-park-outside-recall-check-before-buying">How to check a used BMW for open recalls before buying</a> — the VIN lookup step by step</li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-suv-rollaway-park-brake-nhtsa-complaints-before-recall-vin-check">how to check a used car for open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-recall-completed-stamp-verify-before-buying">what does recall completed mean when buying a used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-power-steering-fire-recall-check">should i buy a used jeep wrangler with an open recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-seat-belt-recall-vin-check">how to check a used kia for open recalls before buying</a></li>
 </ul>
 <h2>Sources</h2>
 <ul>
@@ -231,6 +233,14 @@
 <p><strong>Are wholesale auction prices falling while dealer prices stay high?</strong> Yes. Cox Automotive's Manheim Used Vehicle Value Index read 210 in July 2026, down 1.4% month-over-month and up 1.3% year-over-year. Wholesale is flat-to-cooling while 3-year-old retail sits near $32,651, confirming this is a late-model-scarcity retail story.</p>
 <p><strong>How old a used car do I now need to shop for to stay under $20,000?</strong> About 7 years old. iSeeCars found a majority of 7-year-old cars (53.0%) still list under $20,000 in 2026, versus 4-year-old cars (54.1%) in 2019 — a three-model-year shift in what affordability now buys.</p>
 <p><strong>Can a VIN check tell me if a used car is overpriced or a good deal?</strong> It gives evidence, not a verdict. A Zilocar VIN report shows prior listing prices, days-on-market, mileage history, a market valuation, and condition records. You use that to judge whether a price is reasonable; it does not certify a price as fair or guarantee value.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-affordability-sub-20k-nearly-gone-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-tariffs-sub-30k-inventory-clearing-fastest-2026">how to check used car price history by vin before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/priced-out-of-new-cars-first-used-car-verification-guide">first time buying a used car what to check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">how to check a used car's listing and price history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.iseecars.com/what-happened-to-affordable-cars-study">iSeeCars — The Sub-$20K Used Car Is Almost Gone (study, data owner; published Aug 11, 2026)</a></li>
@@ -350,7 +360,15 @@
 <p>The full dataset, all 917 model-years with fire share, crash share and raw counts, plus the brand rollup with thin-sample flags, is free to use and republish with attribution and a link to this page.</p>
 <p>Email <strong>press@zilocar.com</strong> and we will send the file, or run a specific model, model-year or brand cut for you. Tell us the deadline and we will work to it.</p>
 <p>Source data is public, so nothing here has to be taken on trust: the underlying NHTSA complaint file is linked in the Method section above, and the aggregation rules are stated in full.</p>
-<p>Zilocar is a US vehicle-history service. AutoIntel Systems LLC, Delaware.</p>]]></content:encoded>
+<p>Zilocar is a US vehicle-history service. AutoIntel Systems LLC, Delaware.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-ioniq5-kia-ev6-ev9-battery-fire-recall-check">used electric car battery recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-y-suspension-complaints-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-santa-cruz-phantom-braking-recall-check">used hyundai tucson problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-fsd-crash-accident-history-check-before-buying">how to check if a used Tesla Model 3 was in an accident before buying</a></li>
+</ul>]]></content:encoded>
 </item>
 <item>
 <title>The 2026 Off-Lease Wave: Half a Million More Used Cars, and What to Check on a Lease Return</title>
@@ -439,6 +457,14 @@
 <p><strong>What should I check on a specific lease return before buying?</strong> Check mileage against the age (a three-year lease is usually 30,000 to 45,000 miles), any prior accident or airbag deployment, and the sales-listing history. A car that has been relisted repeatedly or sits far below its resale estimate may have a problem the seller is downplaying. A VIN check surfaces all three.</p>
 <p><strong>Can a VIN check show if an off-lease car was in a repaired accident?</strong> Yes. A VIN check surfaces reported accident and damage records with location, type, severity, and airbag-deployment status, so you can spot a repaired hit a dealer omits. It cannot certify repair quality; have a mechanic inspect any car with a recorded accident before buying.</p>
 <p><strong>Does an off-lease car still have open recalls?</strong> It can. A VIN check screens for recall presence and count, similar to NHTSA's free tool, but it cannot confirm whether a recall was actually remedied. For remedy status and any open investigations, enter the VIN at NHTSA.gov/recalls and confirm the fix with a franchise dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-rising-worst-depreciation-listing-history-check">used ev price history check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/odometer-rollback-check-used-car-vin">how to check if a used car odometer was rolled back</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.edmunds.com/car-news/q1-2026-edmunds-insights-used-car-report.html">Edmunds Q1 2026 Used Car Report — off-lease surge, residuals, model-level depreciation</a></li>
@@ -549,6 +575,14 @@
 <p><strong>Are rearview-camera recalls a real safety risk or just an annoyance?</strong> They are treated as safety risks. Ford 26V489000 is a noncompliance with FMVSS 111, the federal rear-visibility standard, because the camera image can be obstructed in reverse. A blank or blocked backup image raises back-over risk, which is why NHTSA recalls it.</p>
 <hr>
 <p><strong>Buying a used car?</strong> A Zilocar VIN report pairs recall presence and count with accident, salvage-auction, odometer, theft, ownership, and sales-listing history in one place. It does not confirm whether a recall was remedied or track NHTSA investigations; for open-vs-fixed status, OTA/firmware state, and investigations, use NHTSA.gov or the dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-center-console-recall-stacking-check">used ford expedition problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-mustang-wiper-differential-recall-check-before-buying">used ford mustang problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=26V473000">NHTSA Recalls API — VW campaign 26V473000 (Atlas rearview-camera software, 57,851 units)</a></li>
@@ -636,6 +670,14 @@
 <p><strong>What is a salvage or junk auction record and how do I check for one by VIN?</strong> A junk or salvage auction record shows a vehicle passed through a salvage or junk auction, often after major damage. A VIN check surfaces these auction records. Note it shows the auction record, not the legal title-brand classification, which you confirm with the state DMV or title.</p>
 <p><strong>Does the car have any open recalls, and how do I check by VIN for free?</strong> Check recalls free at NHTSA.gov using the VIN; it is the authoritative source and shows remedy status. A VIN check screens recall presence and count like NHTSA's tool but does not confirm whether a recall was remedied, so verify remedy status with NHTSA and the dealer.</p>
 <p><strong>Do older cars depreciate less, and which hold value best?</strong> Per iSeeCars, average five-year depreciation eased to 41.8% in 2026 from 45.6% in 2025. Trucks (34.2%) and hybrids (35.4%) retain value best, while EVs depreciate most at 57.2%. Porsche and Toyota models dominate the strongest-retention rankings.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/priced-out-of-new-cars-first-used-car-verification-guide">first time buying a used car what to check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/record-car-payments-used-buyers-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/buy-here-pay-here-used-car-history-check-before-buying">what to check before buying a buy here pay here car</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://dealers.cargurus.com/blog/cargurus-intelligence-report---mid-year-2026">CarGurus Dealer - Intelligence Report Mid-Year 2026 (primary data owner)</a></li>
@@ -727,6 +769,14 @@
 <p><strong>How do I check if a car went through a salvage or junk auction if it's advertised as clean?</strong> A VIN history report can surface junk and salvage auction records even when a car is marketed as clean. If auction records conflict with a "clean" pitch, confirm the legal title brand with your state DMV.</p>
 <p><strong>Is there a cooling-off period to return a used car?</strong> No nationwide right exists. California's CARS Act creates a mandatory three-business-day cooling-off period for qualifying used vehicles, effective October 2026, but it's California-only and won't fix a missing title or hidden lien.</p>
 <p><strong>What do I do right now if I already bought a car and the title never came?</strong> File a complaint with your state motor vehicle regulator or dealer board, keep every document, and check whether a state dealer-bond or recovery fund applies. Keep addressing the loan with your lender; the debt does not vanish.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-title-risk-dealer-collapse-vin-check">how to verify a used car title is clean before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-flood-car-title-washing-clean-title-vin-check-before-buying">how to check if a used car has flood or salvage history</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-power-steering-fire-recall-check">should i buy a used jeep wrangler with an open recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">how to check a used car's listing and price history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.9news.com/article/news/crime/colorado-seizes-fort-lupton-car-dealership-no-titles/73-0fe07d5a-068a-480f-8472-b06d189fc861">9NEWS — Colorado seizes Fort Lupton dealership after dozens left without titles</a></li>
@@ -827,6 +877,14 @@
 <p><strong>What is the difference between the wholesale index and the retail price I pay?</strong> The Manheim index tracks prices dealers pay at auction (wholesale). The retail price is what you pay on the lot, which includes reconditioning and margin. Wholesale generally moves first and retail follows with a lag, so an auction dip does not immediately cut sticker prices.</p>
 <p><strong>Will used cars get cheaper in fall 2026?</strong> Wholesale values typically drift down seasonally into fall, so modest softening is plausible, but the freshest data shows normalization, not a steep decline. Any fall improvement is likely to be small, and retail prices lag wholesale, so waiting may yield only limited savings.</p>
 <p><strong>Does a Zilocar VIN check show the Manheim index or national average price?</strong> No. The Manheim index and national retail averages are market-wide datasets, not per-vehicle records. A Zilocar VIN check shows one specific car's sales-listing history, prices, mileage, days-on-market, and a market valuation, so you can judge that car's asking price against fair value.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-price-divergence-tesla-depreciation-listing-history-check">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-rising-worst-depreciation-listing-history-check">used ev price history check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-sedan-prices-cross-20k-first-time-fair-price-vin-check-2026">how to check if a used car price is fair before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-affordability-sub-20k-nearly-gone-price-history-check-2026">how to check a used car's price history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.coxautoinc.com/insights/q2-2026-muvvi/">Cox Automotive — Q2 2026 Manheim Used Vehicle Value Index: June 212.9, +2.1% YoY, +0.1% MoM; listing prices near $27,000</a></li>
@@ -912,6 +970,14 @@
 <p><strong>Are used car prices going up or down in the second half of 2026?</strong> It is mixed. Wholesale (Manheim) softened in full July 2026, down 1.4% month-over-month, while retail sedans kept rising into August. CARFAX describes the market as stabilizing after sharp increases, with pickups up and SUVs down in the same reading.</p>
 <p><strong>How can I see a specific car's past listing prices and how long it's been for sale?</strong> A VIN-based history report can surface a car's sales-listing history — past and current listings, the asking price and mileage recorded at each, and days-on-market. A paid VIN report provides this. It reflects one specific vehicle, not the national index.</p>
 <p><strong>What tools let me check a VIN's price and listing history against the market?</strong> NHTSA's free VIN tool covers open recalls only. For price and history, a paid VIN report surfaces listing history (prices, mileage, days-on-market), ownership, accident, odometer, salvage-auction and theft records, safety ratings and a market valuation — a per-car sanity check, not a market forecast.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-affordability-sub-20k-nearly-gone-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/is-now-good-time-buy-used-car-2026">is now a good time to buy a used car 2026</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">how to check a used car's listing and price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-price-divergence-tesla-depreciation-listing-history-check">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.carfax.com/used-car-index">CARFAX Used Car Index — Used Car Price Trends for August 2026</a> (retail; source of the sedan +$150, pickup +$400 and near-$20k figures)</li>
@@ -1011,6 +1077,14 @@
 <p><strong>How can I spot a used car with a hidden accident, salvage-auction, or odometer problem?</strong> Run the VIN through a history report that surfaces accident and damage records (including airbag-deployment status), junk and salvage-auction records, an odometer/rollback check, theft (NICB) records, and ownership history. These flag a car's past, though salvage-auction records are not the same as the legal title brand itself.</p>
 <p><strong>Does a VIN check tell me if a recall was actually fixed?</strong> No. A VIN check can show recall presence and count, like NHTSA's free lookup, but it does not confirm whether a recall was remedied or firmware was flashed, and it does not track NHTSA investigations. Confirm open-recall and remedy status with a franchised dealer or NHTSA before buying.</p>
 <p><strong>Is it smarter to buy new or used in 2026?</strong> That depends on your budget and financing. Tariffs raised average MSRP 10.4% and pushed the average new payment to a record $777/month on 70.4-month terms. Used prices are firmer at the affordable end but off their tariff-era peak at wholesale, so cheaper used cars are where most price-sensitive buyers are shopping.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/record-car-payments-used-buyers-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-affordability-sub-20k-nearly-gone-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/sub-20k-used-cars-nearly-gone-2026-fair-price-history-check">how to check if a used car price is fair by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-july-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, Full-Month July 2026 Trends</a></li>
@@ -1114,6 +1188,14 @@
 <p><strong>How do I spot an odometer rollback?</strong> Compare mileage across records; a reading that drops over time is the tell. CARFAX estimated 2.45 million U.S. vehicles suspected of rollback as of December 2025, up 14% year over year, at an average ~$3,300 loss.</p>
 <p><strong>Can a VIN check confirm a recall was fixed?</strong> No. A VIN check shows recall presence/count, like NHTSA's free tool, but not whether the repair was completed. For remedy status, use NHTSA's lookup and the manufacturer's dealer.</p>
 <p><strong>Bottom line:</strong> Read the timeline before you put down a deposit. A Zilocar VIN check pulls sales-listing history, salvage and junk-auction records, odometer readings, ownership, and accident records, so you can test a seller's "private, one-owner" story against the record — and it screens for recall presence. For whether a recall was actually repaired, or for open NHTSA investigations, check NHTSA's free lookup and the dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/priced-out-of-new-cars-first-used-car-verification-guide">first time buying a used car what to check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/buy-here-pay-here-used-car-history-check-before-buying">what to check before buying a buy here pay here car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/odometer-rollback-check-used-car-vin">how to check if a used car odometer was rolled back</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.ftc.gov/business-guidance/resources/dealers-guide-used-car-rule">FTC — Dealer's Guide to the Used Car Rule (Buyers Guide, 6+ vehicles)</a></li>
@@ -1229,6 +1311,14 @@
 <p><strong>Can a VIN check tell me if a used car's recall was already fixed?</strong> No. A VIN recall check shows whether an open recall is present and how many, not whether the repair or software flash was completed. Many large 2026 campaigns are over-the-air or dealer software updates that may already be applied. Confirm remedy status at nhtsa.gov/recalls or a franchised dealer.</p>
 <p><strong>Will the Tesla suspension issue show up on a VIN recall check?</strong> No. The Tesla Model 3/Y front-suspension matter (PE26006, opened Jul 29, 2026) is an NHTSA investigation, not a recall, so it never appears as a VIN recall flag. Only formal V-numbered recalls do. Tesla's actual H1 2026 recalls covered a rearview camera, a label, and Cybertruck wheel studs.</p>
 <p><strong>How do I check a used car for open recalls before buying?</strong> Enter the 17-digit VIN at NHTSA's free tool (nhtsa.gov/recalls) or the manufacturer's owner site; both return open recalls for that VIN. A full vehicle-history report can add the same recall-presence screen plus accident, salvage-auction, odometer, ownership and listing history. For repair confirmation, call a franchised dealer with the VIN.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-power-steering-fire-recall-check">should i buy a used jeep wrangler with an open recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-fire-complaints-check-before-buying">used jeep wrangler problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-dodge-chrysler-jeep-takata-do-not-drive-airbag-recall-check">how to check if a used car has an open airbag recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://datahub.transportation.gov/resource/6axg-epim.json">NHTSA/ODI Recalls dataset, USDOT Socrata table 6axg-epim</a></li>
@@ -1346,6 +1436,14 @@
 <p><strong>Could an unusually cheap used car be a red flag?</strong> It can be. Because affordable used cars are now scarce, a price well below the market warrants checking the VIN for accident and airbag-deployment records, an odometer/rollback check, junk and salvage auction records, and theft history before you commit.</p>
 <p><strong>Why are used EV prices rising again in 2026?</strong> After years of declines, used EVs averaged $33,305 in June 2026, up 7.4% year over year, a third straight month of gains that followed a March gas-price spike. Tesla led the rebound, the opposite of the 2025 study where Tesla led declines.</p>
 <p><strong>Does a vehicle history report tell me if a car is worth its sticker?</strong> It informs the question but does not settle it. A VIN report can show listing-price history, days-on-market, condition records, and a valuation estimate. That valuation is an estimate, not a certified appraisal, and it does not prove a price is fair.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/sub-20k-used-cars-nearly-gone-2026-fair-price-history-check">how to check if a used car price is fair by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/record-car-payments-used-buyers-price-history-check-2026">how to check a used car's price history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.iseecars.com/what-happened-to-affordable-cars-study">iSeeCars: The Sub-$20K Used Car Is Almost Gone (affordability study, 2019 vs 2025)</a></li>
@@ -1432,6 +1530,14 @@
 <p><strong>How do I know if a specific VIN was already fixed?</strong> A VIN check (free at NHTSA.gov, or via a paid history report) shows the recall is present, but not whether it was remedied. Confirm repair status with a Mercedes dealer using the VIN.</p>
 <p><strong>How much does the repair cost and when can I get it?</strong> The dealer replaces the driver-door lock free of charge, with pre-notice reimbursement available. Owner letters are expected by September 18, 2026.</p>
 <p><strong>Why pay for a VIN report if NHTSA's recall lookup is free?</strong> NHTSA's tool shows recall presence only. A paid report adds accident/airbag, salvage-auction, odometer, theft, ownership and sales-listing history — the records that reveal how a specific car was actually used and whether it was in a prior incident.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-santa-cruz-phantom-braking-recall-check">used hyundai tucson problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-seat-belt-recall-vin-check">how to check a used kia for open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-passport-rear-subframe-bolt-recall-check">used honda pilot problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-bmw-fire-risk-park-outside-recall-check-before-buying">how to check a used bmw for open recalls before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V481-9237.pdf">NHTSA Part 573 Safety Recall Report 26V481 (Mercedes driver-door-lock microswitch, 310,667 units)</a></li>
@@ -1530,6 +1636,14 @@
 <p><strong>Does a Tesla suspension failure mean the car was in an accident?</strong> Not necessarily. NHTSA is investigating link detachment as a potential defect, distinct from crash damage. A vehicle-history report showing prior accident, airbag-deployment, or salvage-auction records helps you separate a defect concern from collision-related suspension damage.</p>
 <p><strong>If there is no recall, who pays to fix a failed suspension link out of warranty?</strong> With no recall in place, there is no defined remedy or manufacturer-funded fix for PE26-006, so an out-of-warranty repair would typically fall to the owner. Confirm remedy status only through NHTSA's recall VIN lookup and Tesla service records.</p>
 <p><strong>How do I know if a used Tesla already had the earlier suspension recall done?</strong> A VIN check flags whether recall records like 21V-835 or 23V-235 exist on that car, but not whether the repair was completed. Confirm completed-remedy status through NHTSA's recall VIN lookup and Tesla's service history for that VIN.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-fsd-crash-accident-history-check-before-buying">how to check if a used Tesla Model 3 was in an accident before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-headlight-recall-check-before-buying">used tesla recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/inv/2026/INOA-PE26006-16559.pdf">NHTSA ODI Opening Resume — Investigation PE26-006, Lower Lateral Link detachment (official PDF)</a></li>
@@ -1622,6 +1736,14 @@
 <p><strong>Does the 10-year/120,000-mile engine warranty transfer to a second owner?</strong> Yes. Nissan extended VC-Turbo powertrain coverage to 120 months / 120,000 miles, covering MY2021-2024 and, via a March 2026 extension, MY2023-2025. It transfers by VIN, but confirm it is active with a Nissan dealer using the specific VIN.</p>
 <p><strong>Is the 2021 non-turbo Rogue safer to buy than the turbo years?</strong> The 2021 Rogue uses the 2.5L naturally aspirated engine and is not in the VC-Turbo bearing or throttle-body recalls. It drew 271 complaints with a lower 31% engine share and avoids the specific VC-Turbo failure modes — though every used car still needs a full history check.</p>
 <p><strong>What warning signs point to VC-Turbo engine trouble on a test drive?</strong> Watch for an "Engine Malfunction - Power Reduced" warning, sudden stalling or power loss, engine knock, and metal shavings in the oil. Owners report these before bearing seizure or turbo failure, with engine-replacement quotes near $9,000.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-nissan-kicks-driver-display-recall-check">used nissan kicks problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-nissan-leaf-seat-belt-recall-check-before-buying">used nissan leaf problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-y-suspension-complaints-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-engine-fire-complaints-check-before-buying">used ford bronco problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://usa.nissannews.com/en-US/releases/2022-rogue-to-feature-nissans-all-new-15-liter-vc-turbo-engine">Nissan newsroom — 2022 Rogue to feature all-new 1.5L VC-Turbo engine</a> (manufacturer)</li>
@@ -1721,6 +1843,14 @@
 <p><strong>Can I still drive a recalled Jeep before the fix is available?</strong> NHTSA issued a Park Outside advisory, not a full Do Not Drive order, because a fire can start with the ignition off and the vehicle parked. Owners are told to park away from structures and other vehicles until the remedy is completed. Confirm current guidance with NHTSA or a dealer.</p>
 <p><strong>What are the warning signs of the power-steering fire defect?</strong> Per the recall, owners may notice a loss of power-steering assist and/or a "Service Power Steering" warning message (DTC). These can indicate the high-resistance electrical connection at the power-steering pump. Do not ignore them; contact a Jeep dealer.</p>
 <p><strong>Does a vehicle history report show if a Jeep had a fire or was in an accident?</strong> A VIN check surfaces accident and damage records (including severity and airbag-deployment status) and junk/salvage-auction records, which is where a fire-damaged unit may appear. It reports these as auction records, not as a legal title brand.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-power-steering-fire-recall-check">should i buy a used jeep wrangler with an open recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-brands-most-recalls-2026-data">used car brands with the most recalls</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-grand-cherokee-airbag-recall-check">used jeep grand cherokee problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-dodge-chrysler-jeep-takata-do-not-drive-airbag-recall-check">how to check if a used car has an open airbag recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V363-5757.pdf">NHTSA Part 573 Safety Recall Report 26V363 (PDF)</a> — unit counts, build dates, EHPSP defect, chronology, PE24-024, remedy.</li>
@@ -1813,6 +1943,14 @@
 <p><strong>Should I buy new or used right now?</strong> Both markets are stretched. New payments hit a record $777 (Edmunds, Q2 2026) with 20.3% of buyers over $1,000/month; used averaged $576 at a 10.5% APR. Used usually means a lower payment but a higher rate, and 29.5% of June trade-ins had negative equity (J.D. Power), so checking a used car's price history matters more, not less.</p>
 <p><strong>How can I tell if a used listing is priced above its own history?</strong> Pull the VIN's sales-listing history and compare the current asking price to what the same vehicle listed for previously, at the mileage shown then. A price that has risen without a change in condition is a markup. Cross-check a market valuation, but remember it is an estimate, not a guaranteed fair price.</p>
 <p><strong>How do I avoid being underwater on a used car loan?</strong> Negative equity hit 29.5% of trade-ins in June 2026 (J.D. Power, up 1.4 points YoY). Avoid rolling old debt into the new loan, put more down, keep the term shorter, and do not overpay at purchase, which is why checking the car's price history and valuation matters.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-top-30k-listing-history-leverage">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-affordability-sub-20k-nearly-gone-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-tariffs-sub-30k-inventory-clearing-fastest-2026">how to check used car price history by vin before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">how to check a used car's listing and price history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.coxautoinc.com/insights/june-2026-vai/">Cox Automotive - Vehicle Affordability Index, June 2026 ($763 payment, 35.3 weeks, $795 Dec-2022 peak)</a></li>
@@ -1913,6 +2051,14 @@
 <p><strong>Is now a bad time to buy a used Tesla — am I overpaying?</strong> Prices are elevated versus a year ago, so the risk of overpaying is real. Compare the current asking price against the same car's prior sales-listing history and mileage to judge whether today's number is inflated. A VIN check surfaces that listing trail; a dealer inspection confirms battery health.</p>
 <p><strong>How do I tell if a used EV's asking price is inflated versus what it listed for before?</strong> Pull the vehicle's sales-listing history by VIN. It shows past and current listings with asking prices, mileage, and days-on-market, so you can compare today's post-spike ask against the same car's earlier listings and negotiate from the record rather than the seller's number.</p>
 <p><strong>What's the average price of a used EV versus a used car right now?</strong> In June 2026, iSeeCars put the average used EV at $33,305 (+7.4% YoY) and the overall used-car average at $32,395 (-1.3% YoY). The average used EV now sits above the average used car of any type, an unusual inversion.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-price-divergence-tesla-depreciation-listing-history-check">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-rising-worst-depreciation-listing-history-check">used ev price history check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-y-weight-label-recall-check-before-buying">how to check if a used tesla has open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-headlight-recall-check-before-buying">used tesla recalls to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.iseecars.com/used-car-prices-study">iSeeCars — Used Car Prices Study (July 21, 2026, June data)</a> — retail source of the 7.4% / $33,305 figures and per-Tesla gains.</li>
@@ -2000,6 +2146,14 @@
 <p><strong>Does the new Georgia felony law get my money back?</strong> The felony statute punishes the seller. Georgia offers a separate civil remedy (treble damages). Neither replaces prevention — a VIN mileage-history check and an independent inspection help you avoid the purchase in the first place.</p>
 <hr>
 <p><strong>Check before you buy:</strong> A Zilocar VIN check screens for recall presence and surfaces odometer/rollback readings, past and current sales-listing history with mileage, salvage and junk-auction records, accident and airbag-deployment data, theft (NICB), ownership history, specs, NHTSA and IIHS ratings, and market valuation. It does not confirm whether a recall was remedied, track NHTSA investigations, or show the legal title brand — use NHTSA and your dealer for those.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-buyers-shift-older-high-mileage-cars-2026-history-check">what to check before buying an older high mileage used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/priced-out-of-new-cars-first-used-car-verification-guide">first time buying a used car what to check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/buy-here-pay-here-used-car-history-check-before-buying">what to check before buying a buy here pay here car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-flood-car-title-washing-clean-title-vin-check-before-buying">how to check if a used car has flood or salvage history</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.legis.ga.gov/legislation/68000">Georgia General Assembly — Senate Bill 293 (2025–2026) bill text &amp; status</a></li>
@@ -2095,6 +2249,14 @@
 <p><strong>What should I do if I already bought an undisclosed flood car?</strong> Order an NMVTIS report and get an independent mechanic's inspection to document the damage, then consult your state's DMV and consumer-protection or attorney-general office about your options. Keep the seller's listing, title paperwork, and any disclosures.</p>
 <h2>Try a VIN check before you buy</h2>
 <p>Before you put money down on a used car — especially one titled or previously registered in a flood state like Florida or Texas, or one that jumped states recently — run the VIN. Start with NHTSA's free recall lookup and the free NICB VINCheck and CARFAX Flood Check, and for the authoritative title brand use a paid NMVTIS report. A <strong>Zilocar VIN check</strong> adds the pattern layer alongside them: it surfaces junk and salvage auction records, odometer/rollback flags, ownership jumps, and sales-listing history — the exact red flags a washed title is built to hide. It won't decode the legal title brand, but it will tell you when a "clean" car deserves a second look.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-flood-car-title-washing-clean-title-vin-check-before-buying">how to check if a used car has flood or salvage history</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-buyers-shift-older-high-mileage-cars-2026-history-check">what to check before buying an older high mileage used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-no-title-dealer-fraud-history-check-before-paying">how to check a used car's history before buying from a dealer</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.prnewswire.com/news-releases/carfax-up-to-45-000-vehicles-flood-damaged-in-mid-year-storms-302523277.html">CARFAX — Up to 45,000 Vehicles Flood-Damaged in Mid-Year Storms (states the 482,000 on-road figure)</a></li>
@@ -2179,6 +2341,14 @@
 <p><strong>What should I check on a used Ford Bronco before buying in 2026?</strong> Screen the VIN for open recalls (26V468 and others like the 26V236 driveshaft campaign), then review accident and fire/burn damage, salvage-auction records, odometer consistency, theft records, ownership count, and sales-listing history. Confirm any recall repair at a Ford dealer or NHTSA.gov.</p>
 <h2>Before you buy a used Bronco</h2>
 <p>If you are shopping a 2021-2024 Bronco, run the VIN through NHTSA.gov first for open-recall presence, and pair it with a Zilocar VIN check to see accident and airbag-deployment records, salvage and junk-auction history, odometer and theft records, ownership, and sales-listing history in one place. Zilocar screens for recall presence and surfaces history; it does not confirm a recall was remedied, track NHTSA investigations, or show the legal title brand — take the repair confirmation to a Ford dealer or NHTSA.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-escape-fuel-injector-fire-recall-history-check">used ford bronco sport problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-maverick-do-not-drive-recall-check">used ford bronco sport problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-center-console-recall-stacking-check">used ford expedition problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V468-6532.pdf">NHTSA Part 573 Safety Recall Report 26V468 (Ford defect filing)</a></li>
@@ -2272,6 +2442,14 @@
 <p><strong>Should I wait to buy a luxury or sports car like the Porsche 911?</strong> The average used 911 fell 10.6% (about $14,063) YoY to $118,025, and used EVs above $40k also softened. That is near-term retail cooling, not a signal the 911 is a poor long-term hold — iSeeCars still ranks it a strong retainer. Check the individual VIN's price and listing history.</p>
 <p><strong>How do I check whether a used EV was relisted multiple times or sat on a lot?</strong> A VIN-based sales-listing history shows past and current listings, the asking price at each, mileage recorded, and days-on-market. It reports one car's history, not market-wide analytics — check a VIN report before assuming a listing is fresh.</p>
 <p><strong>Did the tax credit expiring push used-EV prices up or down?</strong> The $7,500 new-EV credit (Section 30D) and $4,000 used-EV credit (Section 25E) ended September 30, 2025. Outlets associate the expiration and higher gas prices with stronger used-EV demand and rising retail prices, but treat the link as correlational, not causal.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-price-divergence-tesla-depreciation-listing-history-check">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-prices-rising-tesla-2026-what-to-check">what to check before buying a used tesla</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-y-suspension-complaints-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-y-weight-label-recall-check-before-buying">how to check if a used tesla has open recalls before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.iseecars.com/cars-that-hold-their-value-study">iSeeCars — Cars That Hold Their Value Best/Worst (2026 five-year depreciation study, N&gt;950k)</a></li>
@@ -2396,6 +2574,14 @@
 <p>A state ranking cannot tell you anything about the specific car in front of you. Complaints attach to a make, model and year, not to a VIN, so no report will tell you whether your exact vehicle was ever the subject of one.</p>
 <p>What is worth checking on the individual car is its own record: prior accident and damage history, salvage or junk auction entries, odometer readings that do not run forward, and whether any recall is currently open against it. NHTSA's free VIN lookup at nhtsa.gov/recalls covers open recalls. A Zilocar VIN check adds the paid history layer on top of it: accidents, salvage records, odometer history and prior sales listings.</p>
 <p>One honest caveat that applies to every VIN service including ours: none of them can confirm a recall was actually repaired. Only a franchise dealer can, using the VIN.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-engine-fire-complaints-check-before-buying">used ford bronco problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-brands-most-recalls-2026-data">used car brands with the most recalls</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-fire-complaints-check-before-buying">used jeep wrangler problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li>NHTSA Office of Defects Investigation complaint database, accessed 2026-07-25</li>
@@ -2485,6 +2671,14 @@
 <p><strong>Are used hybrids and EVs really more expensive in 2026?</strong> Yes. CARFAX's index shows used hybrids and EVs up 11.9% (about $3,600) in the first half of 2026, reaching an average $34,117 in June. CarGurus separately put used hybrids at a record $38,800. CARFAX links part of the surge to higher gas prices tied to Middle East conflict.</p>
 <p><strong>Is now a good time to buy a used car?</strong> It depends on the segment. Wholesale is cooling as off-lease supply returns, which should ease some stickers over time, but retail remains near records and up 5-6% year over year. Cheaper cars under $15,000 are tightest (33 days supply). Compare a specific car's listing history rather than the overall trend.</p>
 <p><strong>How can I tell if a specific used car is overpriced?</strong> Compare the asking price to a current valuation (Kelley Blue Book or Edmunds), then check the car's own listing history: past and current asking prices, mileage, days on market, and price drops. A long time on market with no price cut signals a sticky, likely overpriced listing.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/is-now-good-time-buy-used-car-2026">is now a good time to buy a used car 2026</a></li>
+<li><a href="https://zilocar.com/vehicle-news/record-car-payments-used-buyers-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-affordability-sub-20k-nearly-gone-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-top-30k-listing-history-leverage">how to check a used car's price history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-july-2026-trends/">Cox Automotive / Manheim - Used Vehicle Value Index: Mid-July 2026 Trends</a></li>
@@ -2614,6 +2808,14 @@
 <p><strong>What is the difference between an NHTSA defect petition, an investigation, and a recall?</strong> A petition (49 CFR Part 552) is a public request asking NHTSA to investigate; the agency can grant or deny it. An investigation (PE) is NHTSA formally studying a suspected defect. A recall (Part 573) is a manufacturer's legal action to repair a confirmed defect for free.</p>
 <p><strong>Should I avoid a 2011-2017 Honda Odyssey because of the airbag reports?</strong> Not on its own. Inadvertent-deployment complaints are a small, safety-critical slice of the record, roughly 23 of 1,492 by our keyword screen. Engine, brake, and powertrain complaints are far more common. Check the specific VIN's accident and recall history rather than judging the whole generation.</p>
 <p><strong>How do I check a used Odyssey for recalls by VIN, and can that confirm the recall was fixed?</strong> Enter the VIN at NHTSA.gov/recalls for open recalls; a paid VIN history report also surfaces recall presence plus accident, salvage, odometer, and ownership history. Neither confirms a recall was actually repaired. To verify a remedy, contact a Honda dealer with the VIN.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-deployment-probe-history-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-inadvertent-deployment-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-rearview-camera-recall-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-ridgeline-passport-mdx-rust-recall-check">used honda pilot rust problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/search-safety-issues">NHTSA: Search Safety Issues (complaints and investigations database)</a></li>
@@ -2716,6 +2918,14 @@
 <p><strong>Do BMW electric and plug-in-hybrid models hold value worse than gas BMWs?</strong> Yes. Nine of BMW's ten fastest-depreciating models are electric or plug-in hybrid, led by the i7 (73.6%), i5 (70.0%) and iX (68.6%). The only gas exception is the 7 Series at 61.8%.</p>
 <p><strong>How long is too long for a used EV to sit on the lot?</strong> Benchmark against 60.1 days for non-Tesla EVs and 32.4 days for Teslas. A non-Tesla EV listed well past 60 days, or one re-listed with price cuts, signals weak demand and room to negotiate. A VIN check can show that car's actual days-on-market.</p>
 <p><strong>Did used-car depreciation actually improve in 2026?</strong> Yes overall. Average five-year depreciation improved to 41.8% from 45.6%, a 3.8-point gain, with every segment retaining more value. EVs still trail at 57.2%, so the improvement did not close the EV gap.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-rising-worst-depreciation-listing-history-check">used ev price history check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-price-divergence-tesla-depreciation-listing-history-check">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-top-30k-listing-history-leverage">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">how to check a used car's listing and price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.iseecars.com/cars-that-hold-their-value-study">iSeeCars, Cars That Hold Their Value Best and Worst (2026 depreciation study)</a></li>
@@ -2805,6 +3015,14 @@
 <p><strong>What are the physical warning signs of a flood-damaged car?</strong> A musty or moldy smell, damp or mismatched carpet, rust on screws, brackets, door hinges and pedals, silt or mud in the trunk well and under seats, water lines in the engine bay or lights, fogging inside lamps and the instrument cluster, and brittle or newly replaced wiring.</p>
 <p><strong>Can a flood car show up for sale far from where the storm hit?</strong> Yes. CARFAX reports flood cars surface nationwide, including non-storm states like Pennsylvania and Illinois. It can take months to over a year for flooded vehicles to reach the market, often after being retitled in another state.</p>
 <p><strong>Can a VIN check tell me whether airbags deployed or the odometer was rolled back?</strong> A history report can surface accident and damage records including airbag-deployment status, plus odometer readings that flag possible rollback. It cannot read the legal title brand itself, confirm a recall was repaired, or track open safety investigations.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-flood-damage-title-washing-vin-check-2026">how to check if a used car has flood damage</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-fsd-crash-accident-history-check-before-buying">how to check if a used Tesla Model 3 was in an accident before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-no-title-dealer-fraud-history-check-before-paying">how to check a used car's history before buying from a dealer</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/odometer-rollback-check-used-car-vin">how to check if a used car odometer was rolled back</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nicb.org/news/blog/damaged-vehicles-flooding-used-car-market">NICB — Damaged Vehicles Flooding the Used Car Market</a></li>
@@ -2907,6 +3125,14 @@
 <p><strong>What does it mean if a car has been re-listed or has high days-on-market?</strong> It means the car has sat unsold or was pulled and posted again, often after price changes. A VIN check that shows listing history and days-on-market lets you see this pattern and use it as a negotiating input. It does not by itself prove the car is a bad buy.</p>
 <h2>Check the car, not just the market</h2>
 <p>The national numbers set expectations; the VIN tells you about the car you are actually buying. A Zilocar VIN check surfaces a vehicle's listing-price history, days-on-market, mileage, ownership, accident and airbag-deployment records, salvage- and junk-auction and odometer and theft records, specs, NHTSA and IIHS ratings, and a market valuation — so you can compare a specific car against its own documented history before you make an offer. For recall remedy status and open investigations, check NHTSA and the dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-rising-worst-depreciation-listing-history-check">used ev price history check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-prices-rising-tesla-2026-what-to-check">what to check before buying a used tesla</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-fsd-crash-accident-history-check-before-buying">how to check if a used Tesla Model 3 was in an accident before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.iseecars.com/used-car-prices-study">iSeeCars — used-car-prices study, "Tesla Leads a Sharp Rebound in Used EV Prices" (July 21, 2026)</a></li>
@@ -2996,6 +3222,14 @@
 <p><strong>Does a car from a struggling subprime chain automatically mean it's a bad or salvage car?</strong> No. A former buy-here-pay-here or repossessed car is an elevated-risk signal, not a verdict. Many are simply high-mileage vehicles sold to credit-challenged buyers. The risk is a higher share of hard-used, odometer-questionable, or previously wrecked cars in the pool, which is exactly what a VIN check plus a pre-purchase inspection is meant to screen.</p>
 <p><strong>Are buy-here-pay-here interest rates really 19-22%?</strong> Not at America's Car-Mart. Its FY2026 10-K reports installment-contract rates ranging from 6.0% to 20.3%, with a portfolio weighted-average of 17.7%, capped by state usury laws. The broader subprime used-car market can run higher, into the 19-22%+ range, but that is market context, not Car-Mart's book.</p>
 <p><strong>Should I get a pre-purchase inspection on a former-subprime or repossessed car?</strong> Yes. Repossessed and high-mileage cars are more likely to have deferred maintenance or unrepaired damage. A VIN check surfaces recorded history, but an independent mechanic's pre-purchase inspection catches mechanical and structural problems that never generated a record. Pair the two before you sign.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/priced-out-of-new-cars-first-used-car-verification-guide">first time buying a used car what to check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-buyers-shift-older-high-mileage-cars-2026-history-check">what to check before buying an older high mileage used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/odometer-rollback-check-used-car-vin">how to check if a used car odometer was rolled back</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.sec.gov/Archives/edgar/data/0000799850/000162828026048191/crmt-20260430.htm">America's Car-Mart FY2026 Form 10-K (SEC EDGAR, period ended April 30, 2026)</a></li>
@@ -3147,6 +3381,14 @@
 <p><strong>Do dangerous safety recalls get fixed faster than minor ones?</strong> Slightly slower overall, but the gap is an air-bag composition effect rather than a danger effect. Safety-critical recalls sit at 65.2% completion versus 68.6% for convenience and electronics. Air bags are 48% of the safety bucket by units and only 60.7% complete; remove them and safety-critical rises to 69.3%, marginally ahead.</p>
 <p><strong>Does a low national completion rate mean a specific car still has an open recall?</strong> Not necessarily. Completion rate is a national snapshot from manufacturer reporting, not a per-vehicle status. Check the VIN — a VIN check surfaces whether a recall is present or outstanding, and NHTSA's free lookup plus a dealer can confirm the remedy.</p>
 <p><strong>Why are some recent recalls at such low completion rates?</strong> Partly because they are recent: owner notification and parts supply lag months. Table 1 removes this by only including recalls where the remedy has been available two or more years.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-brands-most-recalls-2026-data">used car brands with the most recalls</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-recall-completed-stamp-verify-before-buying">what does recall completed mean when buying a used car</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><strong>Download the exact data behind this article</strong> (CSV, 10,494 rows, 1.5 MB, snapshot taken 2026-08-12). This is the frozen file every figure above was computed from, so you can reproduce them after NHTSA's live dataset moves on. https://zilocar-news.github.io/zilocar-rss/data/nhtsa-recall-completion-2026-08-12.csv</li>
@@ -3225,6 +3467,14 @@
 <p><strong>Will a private seller even know about the recall?</strong> Possibly not. Hyundai's owner letters are not due until September 11, 2026, so a seller who bought earlier may be unaware of the defect. Verify the VIN yourself at NHTSA.gov/recalls rather than relying on the seller.</p>
 <p><strong>Can a prior owner get reimbursed if they already paid for the repair?</strong> Yes. Hyundai has said it will reimburse owners who previously paid out of pocket for the buckle repair. Keep the receipt and reference recall 306 when contacting Hyundai at 1-855-371-9460.</p>
 <p><strong>Should this recall make me negotiate the price or walk away?</strong> The recall by itself is not a dealbreaker — the fix is free at any Hyundai dealer. More serious concerns are prior accidents, airbag deployment, salvage-auction records, or odometer rollback, which a full history report can surface before you commit.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-ioniq5-kia-ev6-ev9-battery-fire-recall-check">used electric car battery recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-santa-cruz-phantom-braking-recall-check">used hyundai tucson problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-instrument-display-recall-check-before-buying">used hyundai tucson problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA recalls lookup — search VIN or campaign 26V452000</a> (authoritative recall record: component, consequence, remedy, remedy status, Sept 11 2026 owner-letter date)</li>
@@ -3312,6 +3562,14 @@
 <p><strong>What history should I pull on a high-mileage used Explorer?</strong> Accident and damage records, salvage or junk auction records, an odometer/rollback check, ownership history, and past and current sales-listing history (price, mileage, days on market). Together these tell you far more about a specific Explorer than the model year alone.</p>
 <h2>Try this</h2>
 <p>Before buying a 2016-2019 Explorer, run the VIN through a Zilocar vehicle history report. It screens for recall presence and surfaces accident and airbag-deployment records, salvage and junk-auction records, odometer/rollback checks, theft records, ownership history, sales-listing history, specs, NHTSA and IIHS safety ratings, and market valuation in one place. For confirmation that the roof-rail remedy was completed, and for any recall's open-vs-fixed status, check with NHTSA or a Ford dealer using the VIN.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-expedition-navigator-park-rollaway-recall-check">used ford explorer transmission problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-center-console-recall-stacking-check">used ford expedition problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V448-4416.pdf">NHTSA Part 573 Safety Recall Report 26V448 (Ford 26S54)</a> — primary recall report, 288,314 Explorers</li>
@@ -3391,6 +3649,14 @@
 <p><strong>What is the NHTSA campaign number for this recall?</strong> None was publicly available at research time. The action stems from Docket NHTSA-2024-0019 and Federal Register document 2026-14506; a searchable campaign code will appear only after Tesla files its amended Part 573 remedy plan.</p>
 <p><strong>Is the fix free, and is it software or hardware?</strong> The remedy is mandated and free to owners. The method — over-the-air adjustment versus physical headlamp replacement or re-aim — was not stated by NHTSA or Tesla at research time.</p>
 <p><strong>Should I negotiate or walk away if the recall is still open?</strong> An open recall is not by itself a reason to walk away, since the fix is free. Verify it by VIN, factor unresolved status into your offer, and plan to have Tesla complete the remedy after purchase.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-y-weight-label-recall-check-before-buying">how to check if a used tesla has open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-y-suspension-complaints-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.federalregister.gov/documents/2026/07/17/2026-14506/tesla-inc-denial-of-petition-for-decision-of-inconsequential-noncompliance">Federal Register — Tesla, Inc., Denial of Petition for Decision of Inconsequential Noncompliance (Docket NHTSA-2024-0019, Notice 2)</a></li>
@@ -3463,6 +3729,14 @@
 <p><strong>What does the airbag recall repair involve and is it free?</strong> A Honda dealer reprograms or replaces the SRS ECU with corrected side and side-curtain deployment parameters, free of charge. Honda began notifying dealers around April 10, 2026 and mailing owner letters around May 25, 2026.</p>
 <p><strong>Is there a do-not-drive warning on the recalled Odysseys?</strong> Major coverage describes only a free dealer software update, with Honda estimating about 0.1% of vehicles carry the defect. No confirmed do-not-drive or park-outside order is reported. If in doubt, confirm current guidance directly with NHTSA or a Honda dealer.</p>
 <p><strong>How is the airbag recall different from the Odyssey rearview-camera recall?</strong> They are separate. The airbag recall is 26V227 (MY2018-2022, SRS ECU). The camera recall is 26V423, covering 325,588 MY2018-2020 Odyssey vans for rearview-camera water intrusion, with the remedy being replacement of the Magna camera with a Sony unit.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-deployment-probe-history-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-rearview-camera-recall-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-acura-airbag-sensor-recall-check">how to check if a used car had an airbag deployed</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-passport-rear-subframe-bolt-recall-check">used honda pilot problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://hondanews.com/en-US/honda-corporate/releases/release-037be8ff6b3f99e0bc37a5613402f462-american-honda-recalls-approximately-440000-honda-odyssey-vehicles-to-update-side-curtain-and-side-airbag-software">American Honda newsroom — recall of ~440,000 Odyssey to update side-curtain and side airbag software</a></li>
@@ -3536,6 +3810,14 @@
 <p><strong>Is this recall a title brand or a reason not to buy?</strong> No. An open recall is not a title brand and does not by itself lower a car's legal status. The manufacturer must provide the fix free of charge. You should still confirm the remedy was performed before buying.</p>
 <p><strong>Will fixing the headlight recall cost me anything?</strong> No. Under 49 U.S.C. 30118 and 30120, the manufacturer must remedy a safety-standard noncompliance free of charge to the owner.</p>
 <p><strong>When will owners be notified and what is the fix?</strong> Not yet published as of the July 16, 2026 denial. Tesla must file a remedy plan and notify owners; the specific fix and schedule were not available. Verify current status with Tesla and NHTSA by VIN.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-headlight-recall-check-before-buying">used tesla recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-y-weight-label-recall-check-before-buying">how to check if a used tesla has open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-fsd-crash-accident-history-check-before-buying">how to check if a used Tesla Model 3 was in an accident before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.transportation.gov/regulations/federal-register-documents/2026-06023">NHTSA / U.S. DOT — Denial of Tesla's inconsequential-noncompliance petition (July 16, 2026; Federal Register doc 2026-06023)</a></li>
@@ -3630,6 +3912,14 @@
 <p><strong>Should I still buy a used Leaf that has this recall open?</strong> An open recall is not a dealbreaker; the seat-belt fix is free at a Nissan dealer. Because remedy parts aren't expected until winter 2026, most affected units are currently unrepaired, so plan to schedule the replacement and verify status through NHTSA and the dealer after purchase.</p>
 <h2>Before you buy a used Leaf</h2>
 <p>Screen the VIN before you commit. Use NHTSA's free tool at nhtsa.gov/recalls to confirm which recalls are open and whether they have been remedied, then run a <a href="https://zilocar.com">Zilocar VIN check</a> to screen for recall presence and pull the car's accident, salvage-auction, odometer, ownership, and sales-listing history in one report. It does not confirm a recall was remedied, track NHTSA investigations, or show firmware or title-brand status; leave those to NHTSA and your Nissan dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-nissan-kicks-driver-display-recall-check">used nissan kicks problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-nissan-rogue-vc-turbo-engine-complaints-check-before-buying">used nissan rogue problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-center-console-recall-stacking-check">used ford expedition problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-mustang-wiper-differential-recall-check-before-buying">used ford mustang problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — Check for Recalls by VIN (free official tool)</a></li>
@@ -3710,6 +4000,14 @@
 <p><strong>Are the 2018–2022 airbag recall and the 2018–2020 camera recall the same as this investigation?</strong> No. Recall 26V227000 (2018–2022, SRS software) and recall 26V423000 (2018–2020, rearview-camera water intrusion) are separate, already-issued recalls on newer model years. DP26005 is a distinct open petition covering 2011–2017 vehicles.</p>
 <h2>Try this</h2>
 <p>Before you buy a used Honda Odyssey, run the VIN through NHTSA's free recall tool and a <a href="https://zilocar.com">Zilocar</a> VIN check. Zilocar screens for recall presence and surfaces accident and airbag-deployment records, salvage and junk-auction records, odometer/rollback, theft, ownership, and sales-listing history — the verifiable facts that shape a fair price. For the DP26005 airbag petition itself, keep watching NHTSA, since no VIN report can track an open investigation.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-inadvertent-deployment-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-rearview-camera-recall-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-acura-airbag-sensor-recall-check">how to check if a used car had an airbag deployed</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-ridgeline-passport-mdx-rust-recall-check">used honda pilot rust problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li>NHTSA ODI — <a href="https://www.nhtsa.gov/?nhtsaId=DP26005">Defect Petition DP26005, "Inadvertent Deployment of Air Bags," MY2011–2017 Honda Odyssey (opened 2026-07-13, Open)</a></li>
@@ -3797,6 +4095,14 @@
 <p><strong>Where do I confirm remedy status if the VIN check only shows the recall applies?</strong> Use NHTSA's VIN lookup at nhtsa.gov/recalls, the Kia owners portal at owners.kia.com, or call the Kia Customer Care Center at 1-800-333-4542 and reference campaign 26V430 (SC374).</p>
 <h2>Try this</h2>
 <p>Before you buy a 2020–2024 Telluride, run the VIN through NHTSA's free recall lookup and owners.kia.com to check whether 26V430 is open, then run a Zilocar VIN check to screen open-recall presence and pull the vehicle's accident and airbag-deployment records, salvage/junk-auction records, odometer, theft, ownership, and sales-listing history. Confirm the fuse remedy itself with NHTSA or a Kia dealer — a VIN check shows the recall applies, not that it was fixed.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-fire-recall-check-before-buying">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-seat-belt-recall-vin-check">how to check a used kia for open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-ioniq5-kia-ev6-ev9-battery-fire-recall-check">used electric car battery recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V430-6699.pdf">NHTSA Part 573 Safety Recall Report 26V430 (Kia SC374)</a> — authoritative filing: population, defect, remedy, dates</li>
@@ -3873,6 +4179,14 @@
 <p><strong>Can a VIN check prove the corrected label was installed?</strong> No. A VIN check shows a recall is present, not whether the mailed label was received or applied. Because the remedy is a physical label, confirm it by inspecting the doorjamb label or calling Subaru at 1-844-373-6614 (reference WRH-26).</p>
 <p><strong>Have there been any crashes or injuries?</strong> No. Subaru reported no crashes, injuries or fatalities related to this condition as of the filing.</p>
 <p><strong>Bottom line:</strong> Before buying a used Ascent, Forester or Crosstrek Hybrid, run the VIN through NHTSA's free tool and a Zilocar VIN check to see recall 26V436000 next to the car's accident, salvage-auction, odometer and listing history, then confirm the label fix itself with a Subaru dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-subaru-forester-moonroof-detachment-recall-check">used subaru forester problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-bz4x-lexus-rz-subaru-solterra-ev-recall-check">used Toyota bZ4X problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-y-weight-label-recall-check-before-buying">how to check if a used tesla has open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-acura-airbag-sensor-recall-check">how to check if a used car had an airbag deployed</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-tundra-v35a-engine-problems-check-before-buying">used toyota tundra problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls?nhtsaId=26V436000">NHTSA — recall campaign 26V436000 official record</a> (regulator)</li>
@@ -3956,6 +4270,14 @@
 <p><strong>When will these BMW VINs become searchable on NHTSA.gov, and what do I do before then?</strong> Affected 26V441 VINs are expected to be searchable on NHTSA.gov starting August 28, 2026. Before then, confirm the model and year against the list above and ask a BMW dealer to check the VIN, or call BMW at 1-800-525-7417 (reference 26V441).</p>
 <p><strong>Does an open recall lower a used BMW's value or give me room to negotiate?</strong> The repair is free, so an open recall is fixable at no cost — but an unresolved fire-risk item is a fair point to raise on price or to make the sale contingent on completing the fix. Confirm remedy status before buying.</p>
 <p><strong>Are conventional gas BMWs affected by 26V441?</strong> No. Campaign 26V441 covers only iPerformance plug-in hybrids — the 330e, 530e, 530e xDrive and 740Le xDrive. Trade coverage notes this PHEV recall is a companion to a separate, larger 2026 BMW starter-relay recall on conventionally powered B48-engine models, but that is a different campaign; check any specific VIN on NHTSA.gov.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/check-used-car-interior-camera-driver-monitoring-before-buying">how to check what features and options a used car has by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-seat-belt-recall-vin-check">how to check a used kia for open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-headlight-recall-check-before-buying">used tesla recalls to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=26V441000">NHTSA recalls API — campaign 26V441000</a> (authoritative: units, models/years, defect, consequence, remedy, park-outside flag, August 28, 2026 dates)</li>
@@ -4033,6 +4355,14 @@
 <p><strong>When will owners be notified and when is the VIN searchable?</strong> Kia (26V431000) owner letters mailed August 7, 2026, with dealers notified about July 6 and VINs reported searchable around July 17, 2026. Hyundai (26V432000) owner letters mailed August 31, 2026. A VIN may not flag immediately for every unit.</p>
 <p><strong>Does the recall transfer to me if I buy the car used?</strong> Yes. Federal safety recalls attach to the vehicle, not the owner. A franchised Hyundai or Kia dealer will perform the battery replacement free of charge for a subsequent owner. Confirm the open recall by VIN before purchase.</p>
 <p><strong>Is this the same as the Kia Telluride fire recall?</strong> No. The Telluride recall is a separate 2020-2024 campaign for a front power-seat motor, an unrelated defect. This story covers only the Ioniq 5, EV6, and EV9 high-voltage battery-cell recall.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-fire-recall-check-before-buying">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-seat-switch-fire-park-outside-recall-vin-check">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-santa-cruz-phantom-braking-recall-check">used hyundai tucson problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls?nhtsaId=26V432000">NHTSA recall lookup — Hyundai campaign 26V432000 (Ioniq 5 traction battery)</a></li>
@@ -4126,6 +4456,14 @@
 <p><strong>What's the difference between NHTSA's free VIN check and a paid history report?</strong> NHTSA's free tool shows open recalls and remedy status by VIN. A history report adds accident and airbag-deployment records, odometer/rollback checks, salvage-auction records, ownership count, and sales-listing history. For a nearly-new used SUV, use both.</p>
 <p><strong>Does an open recall give me negotiating room?</strong> An open safety recall is a legitimate point to raise, since the buyer will need to schedule the free dealer repair. The recall fix itself costs nothing, but the inconvenience and any related history findings can factor into price discussions.</p>
 <p><strong>Before you buy:</strong> run the VIN of any used 2026 Pilot or Passport through Zilocar to screen for recall presence and pull its accident, salvage-auction, odometer, ownership, and sales-listing history — then confirm whether recall 26V424000 has actually been remedied with NHTSA's VIN lookup or a Honda dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-ridgeline-passport-mdx-rust-recall-check">used honda pilot rust problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-crv-accord-hybrid-tire-repair-kit-recall-check">used honda cr-v hybrid problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-acura-airbag-sensor-recall-check">how to check if a used car had an airbag deployed</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-inadvertent-deployment-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-rearview-camera-recall-check-before-buying">used honda odyssey problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls?nhtsaId=26V424000">NHTSA Recall Campaign 26V424000 — 2026 Honda Pilot &amp; Passport, rear subframe bolts</a> (regulator)</li>
@@ -4212,6 +4550,14 @@
 <p><strong>Could a used Telluride have hidden fire or interior burn damage?</strong> It is possible. Kia reported 7 seat fires and 11 melted or overheated seat motors (no injuries). A vehicle that experienced a seat fire could carry undisclosed interior-burn damage. Accident, damage, and salvage-auction records in a vehicle-history report can help surface it.</p>
 <p><strong>Is the recall repair free, and what does it involve?</strong> Yes. Kia dealers install an electronic fuse assembly free of charge. The fuse cuts power to the seat motor if the switch is dislodged, misaligned, or damaged, replacing the earlier mechanical bracket-and-knob remedy.</p>
 <p><strong>What should I ask the selling dealer?</strong> Ask for documentation that the new SC374 (26V430000) electronic-fuse remedy specifically was performed — not just the 2024 fix — and confirm open-vs-remedied status through NHTSA's VIN tool and Kia customer service before you buy.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-seat-switch-fire-park-outside-recall-vin-check">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-seat-belt-recall-vin-check">how to check a used kia for open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-ioniq5-kia-ev6-ev9-battery-fire-recall-check">used electric car battery recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=26V430000">NHTSA recalls API — campaign 26V430000 full record</a> (regulator)</li>
@@ -4288,6 +4634,14 @@
 <p><strong>When can I get the free camera replacement?</strong> Honda notified dealers on or about July 2, 2026, and plans to mail owner letters on or about August 24, 2026. The remedy — replacing the rearview camera with an improved Sony-produced unit — is free, with prior costs reimbursable under Honda's general reimbursement plan.</p>
 <p><strong>Is there a Do Not Drive or Park Outside warning?</strong> No such advisory has been reported for 26V423. Honda logged 1,648 warranty claims and no injuries or deaths as of June 25, 2026. The risk is reduced rearward visibility when the image fails in reverse; use mirrors and a direct look behind you, and get the free repair when available.</p>
 <p><strong>Who pays for the fix, and does it transfer to a new owner?</strong> Recall repairs are free and tied to the VIN, not the original owner, so the remedy transfers to you as a subsequent buyer at any authorized Honda dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-inadvertent-deployment-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-deployment-probe-history-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-ridgeline-passport-mdx-rust-recall-check">used honda pilot rust problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V423-4353.pdf">NHTSA — Part 573 Safety Recall Report, campaign 26V423 (Honda HOX)</a> (primary)</li>
@@ -4364,6 +4718,14 @@
 <p><strong>Does the free recall repair transfer to me as the second owner?</strong> Yes. Safety-recall repairs under NHTSA campaigns 26V418 and 26V417 are tied to the VIN, not the owner, and are performed free of charge regardless of how many owners the car has had.</p>
 <p><strong>How is this different from the earlier Ford park/rollaway and Mach-E door-latch recalls?</strong> The July 2026 wiper (26V418) and pinion-shaft (26V417) recalls are brand-new and unrelated to the July 1 park-system rollaway recall (26V402) or the earlier Mach-E door-latch recall (25V404). A single VIN can carry more than one open recall, so check all of them.</p>
 <p><strong>Does an open recall lower the price of a used Mustang?</strong> An open recall doesn't change a car's book value directly, but it's legitimate negotiating leverage — especially for the wiper recall, where parts aren't expected until late March 2027 and the buyer inherits the wait. Confirm the open recall by VIN and factor the repair timeline into your offer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-mustang-mach-e-door-latch-lockout-recall-check">used ford mustang mach-e problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-center-console-recall-stacking-check">used ford expedition problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-roof-rail-cover-detach-recall-check">used ford explorer problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls?nhtsaId=26V418000">NHTSA Recall 26V418000 — Ford Mustang / GTD windshield wiper motor</a></li>
@@ -4450,6 +4812,14 @@
 <p><strong>How do I know a used Vistiq wasn't wrecked or salvaged?</strong> Because so few Vistiqs exist, a damaged or bought-back unit is a real risk. A VIN history check surfaces accident and airbag-deployment records, junk and salvage auction records, odometer/rollback signals, theft records, ownership count, and sales-listing history.</p>
 <p><strong>When will Vistiq owners be notified about the recall?</strong> GM expects to mail interim owner notification letters by August 3, 2026. A separate final-remedy notification date had not been set at publication. Owners can call Cadillac customer service at 1-800-333-4223 for status.</p>
 <p><strong>Is a used Vistiq with an open seat recall safe if I have young kids?</strong> The recall exists because the third-row seat can trap a child. If the seat-module replacement is not done, keep the one-touch power-fold disabled and get the recall repaired free at a Cadillac dealer before relying on the third row.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-fire-recall-check-before-buying">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-seat-switch-fire-park-outside-recall-vin-check">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-kona-seat-belt-recall-check-before-buying">used hyundai kona problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-nissan-kicks-driver-display-recall-check">used nissan kicks problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-subaru-forester-moonroof-detachment-recall-check">used subaru forester problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls?nhtsaId=26V394000">NHTSA recall record — campaign 26V394000 (Cadillac Vistiq third-row seat)</a></li>
@@ -4535,6 +4905,13 @@
 <p><strong>Q: Is paying over MSRP for a used hybrid ever worth it?</strong> A: It can be if the model is scarce, holds value, and fits your needs — but because you have no depreciation cushion, verify history thoroughly so a hidden defect doesn't cost you on resale.</p>
 <p><strong>Q: Which used hybrids hold value best right now?</strong> A: Toyota's hybrids lead: 2024-and-newer RAV4 Hybrids retain roughly 90%+ of value, and the Camry Hybrid holds about 74.8% after five years — among the strongest retention in the market.</p>
 <p><strong>Q: Will used hybrid prices come down soon?</strong> A: Unlikely in the near term while gas stays above $4/gallon and new-hybrid supply remains under a week on dealer lots. Prices tend to ease only as inventory recovers.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/record-car-payments-used-buyers-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-rav4-hybrid-value-history-vin-check">is a used toyota rav4 hybrid worth buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-tariffs-sub-30k-inventory-clearing-fastest-2026">how to check used car price history by vin before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-buyers-shift-older-high-mileage-cars-2026-history-check">what to check before buying an older high mileage used car</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li>Kelley Blue Book — <em>How Do Electric Car Tax Credits Work in 2026?</em> — https://www.kbb.com/car-advice/how-do-electric-car-tax-credits-work/ · Last verified 2026-07-06</li>
@@ -4615,6 +4992,14 @@
 <p><strong>Does a VIN check also show accidents, salvage, and odometer rollback?</strong> Yes. A Zilocar VIN check surfaces accident and damage records (including airbag-deployment status), odometer/rollback checks, theft (NICB) records, junk and salvage auction records, ownership history, and past and current sales listings — the history a recall lookup alone cannot provide.</p>
 <p><strong>Is the Toyota bZ / Lexus RZ EV recall the same as the hybrid recall?</strong> No. NHTSA 26V393 is a separate recall covering 20,991 MY2026 Toyota bZ, Lexus RZ, and Subaru Solterra battery-electric vehicles for a battery-ECU software fault. It is not a hybrid recall and is not a do-not-drive order.</p>
 <p><strong>What should I do if I already own a recalled hybrid and the remedy isn't ready?</strong> Watch for Toyota's owner letters (25V869 interim letters were mailed March 11, 2026; a second letter follows once the remedy is available), heed any warning lamps, and contact your dealer or Toyota at 1-800-331-4331 for the latest remedy status. The remedy is a free dealer replacement of the inverter assembly, which Toyota anticipated would be available in late May or early June 2026 — verify current availability by VIN with NHTSA or the dealer. Because no do-not-drive order was issued for 25V869, you may continue driving, but schedule the free repair as soon as it's available.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-bz4x-lexus-rz-subaru-solterra-ev-recall-check">used Toyota bZ4X problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-tundra-v35a-engine-problems-check-before-buying">used toyota tundra problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-rav4-hybrid-value-history-vin-check">is a used toyota rav4 hybrid worth buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-title-risk-dealer-collapse-vin-check">how to verify a used car title is clean before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-dodge-chrysler-jeep-takata-do-not-drive-airbag-recall-check">how to check if a used car has an open airbag recall</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://pressroom.toyota.com/toyota-recalls-certain-toyota-camry-and-corolla-cross-hybrid-vehicles/">Toyota Newsroom — Camry &amp; Corolla Cross Hybrid inverter recall (Dec 16, 2025; states no do-not-drive)</a></li>
@@ -4702,6 +5087,14 @@
 <p><strong>Is a used Tesla Model 3 with FSD safe to buy given the 2026 NHTSA investigation?</strong> NHTSA opened Engineering Analysis EA26002 in March 2026 into FSD collisions in reduced-visibility conditions across about 3.2 million vehicles. It is an open investigation, not a recall or a finding of defect. Both FSD and Autopilot remain SAE Level 2 systems that require an attentive driver.</p>
 <p><strong>What's the difference between a VIN accident check, the NHTSA recall lookup, and an SCI/NTSB investigation?</strong> A VIN accident check shows one car's crash, damage, salvage and title-adjacent history. NHTSA's recall lookup shows open recalls by VIN. An SCI or NTSB investigation is a federal safety probe of a specific crash or defect theory — it is not searchable by VIN.</p>
 <p><strong>Should I get a pre-purchase inspection in addition to a VIN report?</strong> Yes. A VIN report surfaces recorded history, but it cannot confirm a repair was done correctly or a recall was actually remedied. An independent pre-purchase inspection checks structural repairs, battery health and current condition that records alone can miss.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-y-suspension-complaints-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf">NHTSA ODI — Engineering Analysis EA26002 opening resume (PDF)</a></li>
@@ -4787,6 +5180,14 @@
 <p><strong>Is my 2.0L or hybrid Escape or Bronco Sport affected?</strong> No. Recall 25V467 covers only 1.5L-engine variants. The 2.0L EcoBoost, 2.5L hybrid Escape, and 2.0L Bronco Sport Badlands are not included. Even so, confirm any specific VIN at nhtsa.gov/recalls.</p>
 <p><strong>How can I tell if a used Bronco Sport was previously in a fire?</strong> A VIN history report can surface accident and damage records — including thermal/fire damage and airbag-deployment events — plus junk and salvage auction records that can expose a previously burned unit re-entering the market. Confirm suspected damage with an in-person inspection.</p>
 <p><strong>What other used Bronco Sport problems should I check before buying?</strong> Beyond the fire recall, check for odometer rollback, theft records (NICB), prior accidents and airbag deployments, salvage/junk auction history, ownership count, and sales-listing history (repeated relists or a suspiciously churned price can flag a cleaned-up damaged unit).</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-maverick-do-not-drive-recall-check">used ford bronco sport problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-engine-fire-complaints-check-before-buying">used ford bronco problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-navigator-seatbelt-recall-check">how to check if a used car was in an accident by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-center-console-recall-stacking-check">used ford expedition problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.ford.com/support/how-tos/recall/recalls-and-faqs/25s76-bronco-sport-2021-2024-and-escape-2020-2022-cracked-fuel-injector-and-underhood-fire-risk-recall/">Ford Owner Support — 25S76 Cracked Fuel Injector &amp; Underhood Fire Risk Recall</a> (manufacturer; official VIN lookup)</li>
@@ -4872,6 +5273,14 @@
 <p><strong>Is it legal to buy a used Mach-E that still has this open recall?</strong> Yes. The federal rule barring sale of a vehicle with an open safety defect until it is remedied applies to new and dealer inventory (the reported stop-sale), not to private used-vehicle resale. You can buy a used Mach-E with the open recall and have the free software fix done afterward.</p>
 <p><strong>Was anyone actually hurt by this defect?</strong> Ford states it is not aware of any accident or injury related to this condition. InsideEVs reported an infant was trapped about 40 minutes and a parent smashed a window to free the child; NHTSA's report notes only that a VOQ involved a child in the rear seat, not the specific duration or outcome.</p>
 <p><strong>Does an open recall lower a used Mach-E's value?</strong> An open recall is a legitimate negotiating point because the buyer must schedule the free dealer fix, but the remedy costs nothing, so it does not permanently reduce value. More consequential to price are accident, airbag-deployment, salvage-auction, and odometer findings, which a VIN check surfaces.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-mustang-wiper-differential-recall-check-before-buying">used ford mustang problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-roof-rail-cover-detach-recall-check">used ford explorer problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-maverick-do-not-drive-recall-check">used ford bronco sport problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25V404-6081.pdf">NHTSA Part 573 Safety Recall Report 25V404 (Ford 25S65)</a> — primary: defect, cause, chronology, remedy, dates.</li>
@@ -4960,6 +5369,14 @@
 <p><strong>What else should I check on an older used Dodge, Chrysler or Jeep besides the recall?</strong> On a 10-to-20-year-old vehicle, check for prior accidents and airbag deployment, salvage or junk auction history, odometer rollback, theft records, and ownership and sales-listing history. A prior airbag deployment on a Takata-era car is a major red flag worth investigating before purchase.</p>
 <h2>Screen the VIN before you buy</h2>
 <p>Before you buy any older Chrysler, Dodge, Jeep or Ram, run the VIN through NHTSA's free tool at nhtsa.gov/recalls to see whether an airbag recall is open, then confirm the actual repair with a Stellantis dealer. A <a href="https://zilocar.com">Zilocar VIN check</a> complements that by screening for recall presence and surfacing the car's accident and airbag-deployment records, salvage and junk-auction history, odometer, theft, ownership and sales-listing history, specs, NHTSA/IIHS ratings and market valuation — the hidden past a recall lookup won't show. It does not confirm a recall was remedied; leave that to NHTSA and the dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-grand-cherokee-airbag-recall-check">used jeep grand cherokee problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-brands-most-recalls-2026-data">used car brands with the most recalls</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-power-steering-fire-recall-check">should i buy a used jeep wrangler with an open recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-fire-complaints-check-before-buying">used jeep wrangler problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/press-releases/do-not-drive-warning-unrepaired-takata-chrysler-dodge-jeep">NHTSA Consumer Alert: FCA "Do Not Drive" Warning for Unrepaired Takata Recalls</a> (regulator)</li>
@@ -5052,6 +5469,14 @@
 <p><strong>Can the park pawl already be damaged on a used truck, and how would I detect it?</strong> Yes — the defect can damage park-system components during prior in-motion shifting. Warning signs include a wrench light in the instrument cluster and the electronic parking brake auto-applying when Park is commanded. A test drive can't confirm hidden damage; get the transmission inspected and the recall completed by a dealer.</p>
 <p><strong>Is 26S48 the same as the 2014 F-150 downshift recall or the 6R80 recalls?</strong> No. Recall 26S48 (NHTSA 26V402) is a 10R80-family park-pawl rollaway recall covering 741,195 units. It is distinct from 26S45/26V378 (2014 F-150, 6R80, unintended downshift, ~44,963 units) and from the 2015-2017 F-150 6R80 downshift investigation.</p>
 <p><strong>Can I get the recall fixed for free as a second or third owner?</strong> Yes. Recall repairs are tied to the vehicle, not the owner. Any current owner of an affected VIN can have the PCM software updated, the transmission inspected and damaged park-system components replaced free of charge at a Ford or Lincoln dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-roof-rail-cover-detach-recall-check">used ford explorer problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-navigator-seatbelt-recall-check">how to check if a used car was in an accident by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-2015-2017-transmission-problems-check-before-buying">used ford f-150 transmission problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-downshift-first-gear-recall-check-before-buying">used ford f150 problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V402-1380.pdf">NHTSA Part 573 Safety Recall Report 26V402 (Ford 26S48) — authoritative PDF</a></li>
@@ -5138,6 +5563,14 @@
 <p><strong>Is it dangerous to drive a 2014 F-150 with this recall?</strong> The defect can cause an abrupt, unintended downshift into first gear without warning, which NHTSA says may result in loss of vehicle control and increased crash risk. The trucks are not under a do-not-drive or park-outside order. The remedy is a free dealer software reflash.</p>
 <p><strong>What else should I check on a used F-150 besides recalls?</strong> Check accident and damage records, airbag deployment, odometer rollback, salvage and junk auction records, theft records, ownership count, and the truck's past sales-listing history. A Zilocar VIN check surfaces all of these; it does not confirm recall remedy status.</p>
 <p><strong>How is this different from the 1.4 million F-150 recall in the news?</strong> That is a separate April 2026 recall (NHTSA 26V237) covering about 1,392,935 2015-2017 F-150s with the 6R80 transmission, where a lead-frame issue can cause a downshift from 6th to 2nd gear, not 1st. Recall 26V378 is a smaller 2014-only recall for a different defect.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-recall-completed-stamp-verify-before-buying">what does recall completed mean when buying a used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-2015-2017-transmission-problems-check-before-buying">used ford f-150 transmission problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-navigator-seatbelt-recall-check">how to check if a used car was in an accident by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.ford.com/support/recalls/">Ford Owner Support — Recalls (look up by VIN; Ford recall line 1-866-436-7332, ref 26S45)</a></li>
@@ -5222,6 +5655,14 @@
 <p><strong>Can a VIN check tell me if this recall was already fixed on the car?</strong> No. A Zilocar VIN check surfaces whether an open recall is present on the VIN, but not whether the gel was applied. For remedy status, use NHTSA's free VIN lookup once VINs become searchable, or have a JLR dealer check the car's repair record.</p>
 <p><strong>The airbag warning light is on in a used Land Rover I'm viewing — is that related?</strong> It can be. JLR's analysis shows the airbag warning lamp illuminates at least 300–400 miles before potential non-deployment, so a lit airbag light is an early indicator of this defect. On an affected model, treat it as a reason to stop and verify before buying.</p>
 <p><strong>Does this recall lower resale value or give me negotiating leverage?</strong> A free, gel-only fix is a low-cost remedy, so it shouldn't permanently dent value once applied. But an unrepaired open recall — especially on a vehicle with prior collision and airbag-deployment history — is fair grounds to ask the seller to complete the free fix first or adjust price accordingly.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-grand-cherokee-airbag-recall-check">used jeep grand cherokee problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-acura-airbag-sensor-recall-check">how to check if a used car had an airbag deployed</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-subaru-forester-moonroof-detachment-recall-check">used subaru forester problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-navigator-seatbelt-recall-check">how to check if a used car was in an accident by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-power-steering-fire-recall-check">should i buy a used jeep wrangler with an open recall</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V389-8830.pdf">NHTSA Part 573 Safety Recall Report 26V389 — official PDF</a> (Jaguar Land Rover North America, LLC; driver airbag clockspring)</li>
@@ -5310,6 +5751,14 @@
 <p><strong>Is this the same as the Tucson phantom-braking recall?</strong> No. The display recall is 26V400000 (96,310 Tucson units, instrument-panel display). Phantom braking is a separate, earlier campaign, 26V316000, covering 421,078 Tucson, Tucson Hybrid/PHEV and Santa Cruz vehicles for forward-collision-avoidance software. A single VIN can show both.</p>
 <p><strong>Which used Hyundai Tucson years should I be most careful with?</strong> Reliability flags cluster on 2016-2018 Tucsons: the 7-speed EcoShift dual-clutch transmission can hesitate or lurch, and the Theta II 2.4L engine carries oil-consumption, knock and rod-bearing failure risk across roughly 2010-2019. A 2017 knock recall covered 95,515 vehicles. Screen these years carefully by VIN and inspection.</p>
 <p><strong>Does a clean recall lookup mean the car is safe to buy?</strong> No. A recall lookup only shows recall presence. It does not reveal accident or airbag-deployment history, odometer rollback, salvage-auction records, or ownership history. Pair the recall check with a full VIN history report and an independent inspection before buying.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-santa-cruz-phantom-braking-recall-check">used hyundai tucson problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-ioniq5-kia-ev6-ev9-battery-fire-recall-check">used electric car battery recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-kona-seat-belt-recall-check-before-buying">used hyundai kona problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://owners.hyundaiusa.com/us/en/vehicle-recall-campaign.html">Hyundai Owner Recall / Service Campaign portal</a> — confirm open-vs-remedied status for a specific VIN (manufacturer)</li>
@@ -5401,6 +5850,14 @@
 <p><strong>Can a VIN check tell me if this recall was already fixed?</strong> No. A VIN check shows whether an open recall is present, but it cannot confirm the battery-ECU software was flashed. Confirm remedy status only via NHTSA's free VIN lookup at nhtsa.gov/recalls or a Toyota, Lexus or Subaru dealer.</p>
 <p><strong>What is the remedy and does it cost anything?</strong> Dealers update the battery-ECU software free of charge. It is a dealer-administered fix, not an over-the-air update. Owner notification letters are expected to mail August 3, 2026.</p>
 <p><strong>Besides the recall, what else should I check on a used 2026 bZ?</strong> Run the VIN for accident and airbag-deployment history, odometer rollback, salvage and junk auction records, theft (NICB), ownership history and prior sales listings — then verify the recall remedy separately with NHTSA or a dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-subaru-forester-moonroof-detachment-recall-check">used subaru forester problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-tundra-v35a-engine-problems-check-before-buying">used toyota tundra problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-subaru-ascent-forester-crosstrek-weight-label-recall-check">used subaru weight label recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-rav4-hybrid-value-history-vin-check">is a used toyota rav4 hybrid worth buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://pressroom.toyota.com/toyota-recalls-certain-model-year-2026-toyota-bz-and-lexus-rz-vehicles/">Toyota USA Newsroom — Toyota Recalls Certain MY2026 Toyota bZ and Lexus RZ Vehicles</a> (manufacturer)</li>
@@ -5481,6 +5938,14 @@
 <p><strong>Is a used Tesla Model 3 safe to buy after the Katy crash?</strong> The Katy crash is under a NHTSA Special Crash Investigation, and the cause is disputed. It does not, by itself, change the safety of a specific used Model 3. Judge an individual car on its VIN history: accident, airbag, salvage and odometer records, plus recall presence.</p>
 <p><strong>How do I verify the odometer or check for mileage rollback on a used Model 3?</strong> A VIN history report records odometer readings over time and flags inconsistencies that suggest rollback. Cross-check those readings against the car's service history and the mileage shown in its past sales listings.</p>
 <p><strong>Where is the free official government recall lookup for a Tesla VIN?</strong> NHTSA's free VIN recall lookup at nhtsa.gov/recalls shows open recalls and remedy status for any U.S. vehicle. Tesla's own service VIN recall search and the selling dealer are the authoritative sources for whether a specific car's recalls were completed.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-fsd-crash-accident-history-check-before-buying">how to check if a used Tesla Model 3 was in an accident before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-headlight-recall-check-before-buying">used tesla recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — Free recall lookup by VIN (recall presence and remedy status)</a></li>
@@ -5568,6 +6033,14 @@
 <p><strong>Which used Ford models are most affected by 2026 recalls?</strong> The 2026 re-recall wave touches the 2012–2018 Focus, 2018–2020 F-150, 2017 Escape, 2013–2016 Fusion, 2019 Mustang, and Lincoln Navigator/Nautilus. The largest single 2026 campaign (26V104) covers ~4.3M trucks and SUVs including F-150, Super Duty, Maverick, Ranger and Expedition.</p>
 <p><strong>If the seller says the recall was taken care of, how do I confirm it?</strong> Independently verify the VIN at nhtsa.gov/recalls and ask a Ford/Lincoln dealer to check OASIS. This matters most for the 2026 re-recall wave, where vehicles were recorded as fixed yet the software never took — so even a "repaired" marker can be unreliable.</p>
 <p><strong>Do software or OTA recalls matter as much as mechanical ones when buying used?</strong> Yes. Software recalls can affect trailer brakes, instrument clusters, power-window pinch protection and stall behavior. Ford's 2026 re-recall wave shows software fixes can fail to install, so treat them as real safety items and confirm remedy status, not just presence.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-recall-completed-stamp-verify-before-buying">what does recall completed mean when buying a used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-brands-most-recalls-2026-data">used car brands with the most recalls</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-mustang-mach-e-door-latch-lockout-recall-check">used ford mustang mach-e problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V369-6344.pdf">NHTSA Part 573 Safety Recall Report 26V369 / Ford 26S40 — 2012–2018 Focus, 255,404 units</a> (regulator)</li>
@@ -5651,6 +6124,14 @@
 <p><strong>Is the Polestar 2 an SUV or a sedan?</strong> Neither. The Polestar 2 is a five-door fastback (liftback) EV, marketed by Polestar as a performance fastback. Several trade outlets mislabel it as an SUV.</p>
 <p><strong>Will the recall fix cost me anything as a used buyer?</strong> No. The 25V-615 remedy is a free dealer software update. Note that the final remedy software was only anticipated for Q1-Q2 2026, so confirm with a Polestar dealer whether the fix is available yet.</p>
 <p><strong>Have any crashes or injuries been linked to the defect?</strong> No crashes, injuries, or deaths have been linked to the Polestar 2 rearview camera defect, per the recall record. The concern is reduced rear visibility during low-speed backing maneuvers.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-rearview-camera-recall-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-maverick-do-not-drive-recall-check">used ford bronco sport problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-cybertruck-wheel-stud-recall-check-before-buying">used tesla cybertruck problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-2015-2017-transmission-problems-check-before-buying">used ford f-150 transmission problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2025/RCAK-25V615-7299.pdf">NHTSA Recall 25V-615 acknowledgement (current recall, 27,816 units)</a> — regulator</li>
@@ -5738,6 +6219,14 @@
 <p><strong>How is this different from the older 2011-2014 F-150 transmission recalls?</strong> The 2011-2014 recalls (16V248, 19V075, 19V433, 24V444) were caused by Output Shaft Speed sensor signal loss and could cause a 6th-to-1st downshift. The 2015-2017 issue is Transmission Range Sensor signal loss from in-service lead-frame degradation, causing a 6th-to-2nd downshift. Separate defects, same component family.</p>
 <h2>Try a VIN check before you buy</h2>
 <p>Before paying for a used 2015-2017 F-150, a <a href="https://zilocar.com">Zilocar VIN check</a> screens for recall presence and surfaces accident and airbag-deployment records, salvage/junk-auction records, odometer/rollback checks, theft data, ownership history, sales-listing history, specs, NHTSA and IIHS safety ratings, and market valuation. For whether recall 26V237 was actually remedied on a specific truck, confirm with NHTSA's free VIN lookup, Ford Owner Support, or a Ford dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-downshift-first-gear-recall-check-before-buying">used ford f150 problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-expedition-navigator-park-rollaway-recall-check">used ford explorer transmission problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-roof-rail-cover-detach-recall-check">used ford explorer problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-maverick-do-not-drive-recall-check">used ford bronco sport problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V237-6816.pdf">NHTSA Part 573 Safety Recall Report 26V237 (Ford 26S28)</a> — official recall: population, TRS/PCM defect, software remedy, chronology, schedule.</li>
@@ -5835,6 +6324,14 @@
 <p><strong>Does a vehicle history report show whether a recall was repaired?</strong> No. A history report, including a Zilocar VIN check, shows that recall entries exist and how many — the same presence data as NHTSA's free tool. It cannot show remedy, open-vs-closed, or firmware status. Only a Ford dealer querying OASIS can confirm the actual software state.</p>
 <p><strong>Is it safe to drive a Ford in this re-recall — is there a do-not-drive order?</strong> No. None of the six campaigns are do-not-drive recalls, and Ford reports no related accidents or injuries. Owners should still schedule the free software remedy at a Ford dealer once notified.</p>
 <p><strong>Will Ford fix a re-recalled vehicle for free if I'm the second owner?</strong> Recall remedies are free regardless of how many owners a vehicle has had; the remedy follows the VIN. All six campaigns have a software remedy available at a Ford dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-downshift-first-gear-recall-check-before-buying">used ford f150 problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-navigator-seatbelt-recall-check">how to check if a used car was in an accident by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.ford.com/support/recalls-details/">Ford Owner Support — official recall/VIN lookup and dealer remedy confirmation</a> (manufacturer)</li>
@@ -5922,6 +6419,14 @@
 <p><strong>Who do I call to confirm the repair?</strong> Ford customer service at 1-866-436-7332, or any Ford/Lincoln dealer, referencing Ford recall numbers 26C11 (NHTSA 26V123) or 26S09 (NHTSA 26V124).</p>
 <h2>Before you buy: screen the VIN first</h2>
 <p>Before you commit to a used Escape, Explorer, Bronco, Edge, Aviator, or Corsair, run the VIN through a <a href="https://zilocar.com">Zilocar VIN check</a> to confirm whether an open recall is present and to pull the accident, airbag-deployment, salvage-auction, odometer, theft, ownership, and sales-listing history a test drive can't show. Then confirm the camera recall's repair status on nhtsa.gov/recalls and with a Ford dealer before you sign.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-navigator-seatbelt-recall-check">how to check if a used car was in an accident by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-maverick-do-not-drive-recall-check">used ford bronco sport problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-expedition-navigator-park-rollaway-recall-check">used ford explorer transmission problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-escape-fuel-injector-fire-recall-history-check">used ford bronco sport problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-roof-rail-cover-detach-recall-check">used ford explorer problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.ford.com/support/recalls/">Ford Owner Support — Recalls (look up by VIN; 26C11 / 26S09)</a></li>
@@ -6010,6 +6515,14 @@
 <p><strong>Does a VIN check show whether this recall was already fixed?</strong> No. A VIN check (NHTSA's free tool or Zilocar) shows that an open recall exists, not whether the label was installed or the campaign closed. Remedy and open-versus-closed status must be confirmed with Tesla service or NHTSA's VIN lookup once that status updates.</p>
 <p><strong>Will the recall repair cost me anything if I buy the car used?</strong> No. Tesla will inspect the vehicle and affix the certification label at no cost to customers. The recall remedy follows the car by VIN, not the original owner, so a subsequent used buyer can have it completed free at Tesla service.</p>
 <p><strong>When will Tesla notify owners and start repairs?</strong> Tesla filed the Part 573 report on May 18, 2026 and notified dealers on or shortly after May 21, 2026. Owner remedy letters are scheduled to mail July 17, 2026 under a phased rollout. Affected cars can be screened by VIN before letters arrive.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-headlight-recall-check-before-buying">used tesla recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-prices-rising-tesla-2026-what-to-check">what to check before buying a used tesla</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V315-5410.pdf">NHTSA Part 573 Safety Recall Report — Tesla 26V315 (PDF)</a> — primary regulator filing.</li>
@@ -6102,6 +6615,14 @@
 <p><strong>Only 173 RWD Cybertrucks exist - how do I verify this one is genuinely affected?</strong> Run the VIN through nhtsa.gov/recalls; if 26V255000 returns, that VIN is in the recalled population of 173. Listing photos and specs can suggest the 18-inch steel wheel and RWD trim, but only the VIN result and Tesla confirm the physical hardware.</p>
 <h2>Before you buy a used Cybertruck</h2>
 <p>A Zilocar VIN check screens a used Cybertruck for recall presence and surfaces its accident and airbag-deployment records, salvage and junk-auction history, odometer-rollback check, theft records, ownership history, sales-listing history, specs, NHTSA and IIHS ratings, and a market valuation - the context that matters most on one of only 173 RWD trucks. It does not confirm a recall was remedied or show firmware status, so pair it with NHTSA's VIN tool and a call to Tesla to verify the rotor/hub/lug-nut repair before you buy.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-headlight-recall-check-before-buying">used tesla recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-y-suspension-complaints-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-y-weight-label-recall-check-before-buying">how to check if a used tesla has open recalls before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V255-9062.pdf">NHTSA Part 573 Safety Recall Report - 26V255 (Tesla, Inc.), submitted Apr 27, 2026</a></li>
@@ -6183,6 +6704,14 @@
 <p><strong>Which used cars are easiest to negotiate on right now?</strong> Mid- and higher-priced used cars, where the May 2026 slowdown is concentrated and days' supply sits at the 45-day market average or above. Budget cars under $15,000 remain tight at 33 days' supply, so deep discounts there are harder to win.</p>
 <p><strong>What's the difference between wholesale (Manheim) prices and the listing price I see online?</strong> The Manheim Used Vehicle Value Index (212.6 in May 2026) tracks wholesale auction values dealers pay, not retail. The figure you see online is the retail listing price — averaging $26,918 in May 2026. They are separate metrics from separate Cox Automotive reports and should not be conflated.</p>
 <p><strong>Can a VIN report tell me a car's past sale listings and asking-price changes?</strong> Yes. A VIN report can surface a vehicle's past and current sales listings, asking prices and price changes over time, mileage at each listing, and days on market. It does not set the market price or guarantee a discount — it shows the history so you can negotiate.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-top-30k-listing-history-leverage">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/record-car-payments-used-buyers-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-sedan-prices-cross-20k-first-time-fair-price-vin-check-2026">how to check if a used car price is fair before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-price-divergence-tesla-depreciation-listing-history-check">how to check a used car's price history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.coxautoinc.com/insights/used-vehicle-inventory-may-2026/">Cox Automotive — Used Vehicle Sales Pace Slows in May as Prices Climb Higher (June 12, 2026; author Scott Vanner; source: vAuto Live Market View)</a></li>
@@ -6257,6 +6786,14 @@
 <p><strong>Is a driver-monitoring camera required by law?</strong> In the EU, Advanced Driver Distraction Warning (ADDW) is mandatory for all new vehicle types from July 7, 2024 and for all new registrations by July 7, 2026, pushing camera-based driver monitoring across brands. So in-cabin monitoring is becoming industry-wide, not a BMW-only feature.</p>
 <p><strong>Will a VIN report tell me if a used car has an interior camera?</strong> A VIN check can surface installed options, features and original equipment, which may reveal whether a camera-related package or driving-assist tier was factory-fitted. It cannot detect a camera as a discrete sensor or confirm one is physically present or enabled. Always verify against the build sheet and an inspection.</p>
 <p><strong>Is this a recall or safety defect?</strong> No. This is a privacy and specifications story. There is no NHTSA recall, no Part 573 report, no PE/EA investigation, and no safety defect tied to the viral event. The camera systems involved are factory features, not defects.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-bmw-fire-risk-park-outside-recall-check-before-buying">how to check a used bmw for open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-dodge-chrysler-jeep-takata-do-not-drive-airbag-recall-check">how to check if a used car has an open airbag recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-brands-most-recalls-2026-data">used car brands with the most recalls</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-grand-cherokee-airbag-recall-check">used jeep grand cherokee problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://faq.bmwusa.com/s/article/Vehicle-Interior-Interior-camera-OS7-OS8-Benefits-gnqTO?language=en_US">BMW USA FAQ — Interior camera (OS7/OS8) benefits</a> (manufacturer)</li>
@@ -6345,6 +6882,14 @@
 <p><strong>Is the recall 26V366 repair free?</strong> Yes. Honda dealers will replace the tire repair kit nozzle or the sealant bottle free of charge; the replacement component does not have the one-way valve linked to the pressure buildup. Owners who already paid for a repair may seek reimbursement under Honda's general plan.</p>
 <p><strong>My CR-V Hybrid was built after May 20, 2026 — is it included in the recall?</strong> Honda corrected production on May 20, 2026, so vehicles built after that date have the fixed kit. Confirm any specific vehicle by entering its VIN at nhtsa.gov/recalls or recalls.honda.com rather than relying on the build date alone.</p>
 <p><strong>When will Honda mail recall letters for 26V366?</strong> Honda's Part 573 filing lists interim owner notification by first-class mail on or about July 27, 2026; dealers were notified around June 5, 2026. You do not need to wait for a letter — check the VIN at recalls.honda.com or call Honda at (888) 234-2138.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-passport-rear-subframe-bolt-recall-check">used honda pilot problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-acura-airbag-sensor-recall-check">how to check if a used car had an airbag deployed</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-ridgeline-passport-mdx-rust-recall-check">used honda pilot rust problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-rearview-camera-recall-check-before-buying">used honda odyssey problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V366-2401.pdf">NHTSA Part 573 Safety Recall Report, Recall 26V366 (primary filing)</a></li>
@@ -6433,6 +6978,14 @@
 <p><strong>Is the Ford Focus PowerShift transmission covered by a recall?</strong> No. The DPS6 PowerShift dual-clutch automatic in 2012-2018 Focus cars was never subject to a US safety recall; complaints were handled through service bulletins, extended warranties, and litigation, including the Vargas v. Ford class settlement covering 2012-2016 Focus. It will never appear in any VIN recall lookup.</p>
 <p><strong>Should I still buy a 2012-2018 Ford Focus with this recall open?</strong> The recall itself is manageable: the fix is a free dealer software update, the recall carries no do-not-drive or park-outside advisory, and Ford reports no known accidents or injuries. The larger risks on an 8-14-year-old budget car are undisclosed accidents, odometer rollback, salvage-auction history, and transmission condition.</p>
 <p><strong>Which Ford Focus engines are affected by recall 26V369?</strong> The parent 2018 recall covered 2012-2018 Focus cars with 2.0L GDI and 2.0L GTDI engines; 26V369 is a subset of that population. The 1.0L EcoBoost, Focus Electric, and 2.3L Focus RS were outside the parent recall's engine scope. Only a per-VIN lookup confirms whether a specific car is included.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-roof-rail-cover-detach-recall-check">used ford explorer problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-center-console-recall-stacking-check">used ford expedition problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-recall-completed-stamp-verify-before-buying">what does recall completed mean when buying a used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-downshift-first-gear-recall-check-before-buying">used ford f150 problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V369-6344.pdf">NHTSA Part 573 Safety Recall Report, 26V369 (Ford 26S40), submitted June 9, 2026</a></li>
@@ -6519,6 +7072,14 @@
 <p><strong>How do I spot the console defect on a test drive?</strong> Look at the chrome trim on the center console. Bubbling typically precedes peeling, and both are visible to occupants. A peeled edge is sharp enough to cut a hand resting on the console; reported injuries are hand and finger lacerations.</p>
 <hr>
 <p>Shopping a 2018–2024 Expedition before the console fix arrives? A Zilocar VIN check screens a specific vehicle for recall presence and pulls its accident and airbag-deployment records, salvage/junk-auction history, odometer check, theft records, ownership history, sales-listing history (prices, price drops, days on market), specs, NHTSA/IIHS ratings, and market valuation — then confirm repair status with NHTSA.gov and a Ford dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-navigator-seatbelt-recall-check">how to check if a used car was in an accident by vin</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-mustang-wiper-differential-recall-check-before-buying">used ford mustang problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-roof-rail-cover-detach-recall-check">used ford explorer problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V368-2966.pdf">NHTSA Part 573 Safety Recall Report 26V368 (Ford 26S38) — official defect report PDF</a></li>
@@ -6609,6 +7170,14 @@
 <p><strong>Should I buy a nearly-new used car instead of new on a $30,000 budget?</strong> Many buyers are. CarGurus reported nearly-new (two years old or less) used sales up 24% year over year in Q1 2026, with the share of new cars under $30,000 down roughly 60% over five years. Top nearly-new sellers were the Chevrolet Trax and Toyota Corolla. Verify any candidate's history by VIN first.</p>
 <hr>
 <p>If you are shopping in this market, a <a href="https://zilocar.com">Zilocar VIN check</a> compiles the data this article describes for one specific car: the sales-listing history (prior listings, asking-price changes, mileage at each listing, days on market), a market valuation to weigh against the current ask, plus accident and airbag-deployment records, odometer-rollback screening, NICB theft check, junk/salvage auction records, ownership history, specs, NHTSA and IIHS ratings, and recall presence. For recall remedy confirmation and investigation status, rely on NHTSA and the dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">how to check a used car's listing and price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/record-car-payments-used-buyers-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-affordability-sub-20k-nearly-gone-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-price-divergence-tesla-depreciation-listing-history-check">how to check a used car's price history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.cargurus.com/research/price-trends">CarGurus Pricing Index / price trends</a> — canonical home of the CarGurus index</li>
@@ -6687,6 +7256,14 @@
 <p><strong>Do 500-mile break-in oil changes prevent the bearing failure?</strong> There is no evidence they do. Early oil changes on new and replacement engines are a community practice reported on owner forums, not a Toyota-endorsed or proven preventive. The defect is machining debris adhering to the main bearing, and Toyota's remedy is engine replacement, not an oil change.</p>
 <hr>
 <p><strong>Before you buy:</strong> run a Zilocar VIN check to screen any used Tundra for recall presence, accident and airbag-deployment records, junk/salvage auction history, odometer issues, ownership count, and past sales listings with prices and days on market. It does not confirm recall completion — pair it with NHTSA's lookup and a Toyota dealer repair-history pull before you sign anything.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-bz4x-lexus-rz-subaru-solterra-ev-recall-check">used Toyota bZ4X problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-rav4-hybrid-value-history-vin-check">is a used toyota rav4 hybrid worth buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-title-risk-dealer-collapse-vin-check">how to verify a used car title is clean before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-grand-cherokee-airbag-recall-check">used jeep grand cherokee problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V320-0076.pdf">NHTSA Part 573 Safety Recall Report 26V-320 (May 20, 2026)</a></li>
@@ -6785,6 +7362,14 @@
 <p><strong>Has the 2027 Telluride had other seat-belt recalls?</strong> Yes. NHTSA 26V135 (Kia SC364), filed March 6, 2026, covers 13,499 2027 Tellurides built January 2–February 19, 2026, for a third-row center seat-belt anchor buckle that may not latch, plus 1,371 2026 K4 Hatchbacks. It is a separate campaign from 26V356, with a different component and build window.</p>
 <hr>
 <p><strong>Buying a used Kia?</strong> A Zilocar VIN check screens any VIN for recall presence and count, plus accident records with airbag-deployment status, junk/salvage auction history, odometer rollback flags, theft records, ownership history, past sales listings, specs, NHTSA and IIHS safety ratings, and market valuation — the triage that tells you what to verify with the seller and dealer before you commit. It does not confirm whether a recall repair was performed; get that in writing from a Kia dealer or via NHTSA's VIN tool.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-fire-recall-check-before-buying">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-seat-switch-fire-park-outside-recall-vin-check">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-ioniq5-kia-ev6-ev9-battery-fire-recall-check">used electric car battery recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V356-0668.pdf">NHTSA Part 573 Safety Recall Report — Recall 26V356 (Kia SC372), filed June 2, 2026 (PDF)</a></li>
@@ -6890,6 +7475,14 @@
 <p><strong>Will insurance cover a used 2011–2022 Kia or Hyundai in 2026?</strong> In early 2023, Progressive and State Farm stopped writing new policies on certain turn-key models in high-theft cities. Current 2026 underwriting varies by insurer and market and is not uniformly documented; get a binding quote for the specific VIN before purchase, and bring proof of the software upgrade if available.</p>
 <p><strong>Can a used buyer get the free zinc ignition-cylinder protector?</strong> The settlement requires free installation on more than 4 million eligible 2011–2022 vehicles, with owner notices expected in early 2026 and one year from the notice date to book the install. Check eligibility at HKMultistateImmobilizerSettlement.com or call 800-333-4542; eligibility of previously stolen-and-recovered cars is not publicly addressed.</p>
 <p><strong>Can I get settlement money if my Kia or Hyundai is stolen?</strong> The settlement pays up to $4,500 for a total-loss theft, $2,250 for partial loss, and $375 for attempted-theft expenses, for thefts on or after April 29, 2025 with the software upgrade installed or scheduled. Claims require proof and must be filed by March 31, 2027 at HKMultistateImmobilizerSettlement.com.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-ioniq5-kia-ev6-ev9-battery-fire-recall-check">used electric car battery recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-seat-belt-recall-vin-check">how to check a used kia for open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-fire-recall-check-before-buying">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-santa-cruz-phantom-braking-recall-check">used hyundai tucson problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/press-releases/hyundai-kia-campaign-prevent-vehicle-theft">NHTSA press release, Feb 14, 2023 — free anti-theft software for ~8.3M Hyundai/Kia vehicles; 14 crashes, 8 deaths</a></li>
@@ -6982,6 +7575,14 @@
 <p><strong>Can a vehicle history report show whether the subframe was already repaired?</strong> No. A VIN history check can show that recall 26V365 is present on a vehicle, but not whether the inspection, reinforcement, or replacement was completed. Only a Honda or Acura dealer — or Honda customer service at 1-888-234-2138 — can confirm remedy completion for a specific VIN.</p>
 <hr>
 <p>If you're evaluating one of these vehicles, a Zilocar VIN check screens the history this recall makes load-bearing — recall presence, state-by-state ownership, past sales listings, accident and salvage-auction records, and odometer checks — in one report. For confirmation that the subframe remedy was actually performed, go to a Honda or Acura dealer or NHTSA's VIN tool.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-passport-rear-subframe-bolt-recall-check">used honda pilot problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-acura-airbag-sensor-recall-check">how to check if a used car had an airbag deployed</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-crv-accord-hybrid-tire-repair-kit-recall-check">used honda cr-v hybrid problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-deployment-probe-history-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V365-6590.pdf">NHTSA Part 573 Safety Recall Report 26V365 (PDF)</a> — definitive counts, build dates, state list, chronology, remedy</li>
@@ -7066,6 +7667,14 @@
 <p><strong>Is a 2019 or 2020 Silverado 6.2 safe because it isn't in the recall?</strong> Not necessarily. The Powell lawsuit claims 2019–2024 Silverado 1500 and Sierra 1500 are affected, and NHTSA's open EA25-007 investigation covers 286,051 L87 vehicles built outside the recall window, including 2019–2021 and 2024 builds. Outside the recall means no free remedy — apply extra scrutiny, not less.</p>
 <hr>
 <p>Shopping a specific 6.2L truck? A Zilocar VIN check screens it for recall presence and surfaces accident and airbag-deployment records, salvage-auction hits, odometer rollback, NICB theft, ownership and sales-listing history, and market valuation — then close the loop with a GM dealer service-history pull and the GM Owner Center for remedy confirmation.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-gm-silverado-tahoe-escalade-transfer-case-recall-check">used chevy silverado problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-crv-accord-hybrid-tire-repair-kit-recall-check">used honda cr-v hybrid problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-subaru-forester-moonroof-detachment-recall-check">used subaru forester problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25V274-9575.pdf">NHTSA Part 573 Safety Recall Report 25V-274 (amended July 22, 2025) — GM campaign N252494000</a></li>
@@ -7163,6 +7772,14 @@
 <p><strong>How much more does a used EV cost than a used gas car in 2026?</strong> Almost nothing. Edmunds-derived figures put used EVs at roughly $34,700-$34,800 on average versus roughly $33,500-$33,600 for used gas cars — a premium of about $1,100-$1,300, down from roughly $3,900 a year earlier. The used market is near EV-gas price parity.</p>
 <hr>
 <p>Buying into this market? A Zilocar VIN check surfaces the records side of the checklist above — ownership history (including fleet/rental provenance), past listings with prices and days on market, odometer records, accident, NICB theft, and salvage-auction records, recall presence, and a market valuation. Pair it with an in-person battery diagnostic and NHTSA's recall-completion lookup, which a history report can't replace.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-rising-worst-depreciation-listing-history-check">used ev price history check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-price-divergence-tesla-depreciation-listing-history-check">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-prices-rising-tesla-2026-what-to-check">what to check before buying a used tesla</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-fsd-crash-accident-history-check-before-buying">how to check if a used Tesla Model 3 was in an accident before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.coxautoinc.com/market-insights/manheim-used-vehicle-value-index-may-2026/">Cox Automotive — Manheim Used Vehicle Value Index, May 2026</a> (index 212.6, +3.6% YoY; EV +11.9% vs non-EV +3.0%; Jeremy Robb commentary)</li>
@@ -7247,6 +7864,14 @@
 <p><strong>Does a salvage-auction record mean the title is branded salvage?</strong> Not necessarily — and that's the danger. A junk/salvage auction record in a VIN history means the car passed through a salvage channel, but the legal brand lives on the title itself. Treat any auction record as a mandatory trigger to pull an NMVTIS report and check brand history across states for title washing.</p>
 <hr>
 <p><em>Before you hand over money for any used car, a <a href="https://zilocar.com">Zilocar VIN check</a> screens the history a seller won't volunteer: ownership chain, sales-listing history (who listed it, how often, at what prices and mileage), junk/salvage auction records, accident and damage records with airbag-deployment status, odometer rollback, NICB theft status, recall presence, specs, NHTSA/IIHS ratings, and market valuation. It does not show liens or legal title brands — for those, use your state DMV and NMVTIS, exactly as outlined above.</em></p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-rav4-hybrid-value-history-vin-check">is a used toyota rav4 hybrid worth buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-tundra-v35a-engine-problems-check-before-buying">used toyota tundra problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-bz4x-lexus-rz-subaru-solterra-ev-recall-check">used Toyota bZ4X problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-no-title-dealer-fraud-history-check-before-paying">how to check a used car's history before buying from a dealer</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.courtlistener.com/docket/73147929/toyota-motor-credit-corporation-v-stephen-cadillac-gmc-inc/">Toyota Motor Credit Corporation v. Stephen Cadillac GMC, Inc., No. 3:26-cv-00511 (D. Conn., filed Apr. 4, 2026) — CourtListener docket</a></li>
@@ -7336,6 +7961,14 @@
 <p><strong>Do I still need a pre-purchase inspection if I ran a vehicle history report?</strong> Yes. A history report only contains reported events; unreported damage, deferred maintenance, and current mechanical condition are invisible to it. An independent mechanic's inspection is the complement, not the alternative.</p>
 <p><strong>Can a VIN check confirm the car has a clean title?</strong> No. Commercial VIN checks surface junk and salvage auction records — strong warning signs — but not the legal title brand itself. Verify the official title document with the seller and your state DMV before paying.</p>
 <p><strong>Should I wait for used-car prices to drop later in 2026, or buy now?</strong> Off-lease supply is recovering from the 2025 trough — up roughly 25.7% per Cox/Autotrader, with Edmunds expecting about 400,000 additional lease returns, up to 215,000 of them EVs — which may bring some relief late in 2026, especially for EVs. But supply remains structurally tight, so no near-term price collapse is a safe assumption.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-buyers-shift-older-high-mileage-cars-2026-history-check">what to check before buying an older high mileage used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">how to check a used car's listing and price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/buy-here-pay-here-used-car-history-check-before-buying">what to check before buying a buy here pay here car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/odometer-rollback-check-used-car-vin">how to check if a used car odometer was rolled back</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/vehicle-safety/odometer-fraud">NHTSA — Odometer Fraud</a> (450,000+ rolled-back vehicles sold yearly; $1B+ annual consumer cost)</li>
@@ -7428,6 +8061,14 @@
 <p><strong>Does the RAV4 Hybrid hold value better than a CR-V Hybrid?</strong> Yes. Per iSeeCars it retains ~74.8% of value after 5 years — best among hybrid SUVs and ~15.6 points above the ~59.2% hybrid-SUV average. In the compared listings, the RAV4 Hybrid sat above MSRP while a comparable CR-V Hybrid listed slightly below.</p>
 <p><strong>Will RAV4 Hybrid used prices drop once 2026 supply catches up?</strong> Likely they ease as 6th-gen production rebuilds inventory beyond the current sub-5-day supply, but no specific timeline is confirmed. Note new 2026s still reportedly sell ~4% over sticker, so waiting isn't guaranteed to be cheaper.</p>
 <p><strong>Should I check for open recalls before buying a used RAV4 Hybrid?</strong> Always check any used car's VIN for recalls via NHTSA's free tool and confirm open-vs-closed status with Toyota or a dealer. A history report shows recall presence but cannot confirm a fix was performed. This article makes no recall claim about the RAV4 Hybrid.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-tundra-v35a-engine-problems-check-before-buying">used toyota tundra problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-title-risk-dealer-collapse-vin-check">how to verify a used car title is clean before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-bz4x-lexus-rz-subaru-solterra-ev-recall-check">used Toyota bZ4X problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-record-prices-history-checks-2026">how to tell if a used car is overpriced before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.bloomberg.com/news/articles/2026-06-08/as-gas-prices-surge-used-toyota-hybrids-are-worth-more-than-new">Bloomberg — As Gas Prices Surge, Used Toyota Hybrids Are Worth More Than New (Jun 8, 2026)</a></li>
@@ -7519,6 +8160,14 @@
 <p><strong>Can a VIN check tell me if the recall was already fixed?</strong> No. A VIN history check shows that a truck is subject to the recall, but not whether the repair was completed — and right now no vehicle can show a completed 26V363 repair, because the remedy does not exist yet. Confirm repair status with a Jeep dealer or NHTSA's VIN lookup.</p>
 <h2>Run a check before you buy</h2>
 <p><a href="https://zilocar.com">Run a Zilocar VIN check</a> on any 2021-2025 Wrangler or Gladiator to screen for recall presence and pull its accident, salvage-auction, odometer, theft, ownership and sales-listing history — then confirm 26V363 repair status with a Jeep dealer or at nhtsa.gov/recalls.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-fire-complaints-check-before-buying">used jeep wrangler problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-brands-most-recalls-2026-data">used car brands with the most recalls</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-dodge-chrysler-jeep-takata-do-not-drive-airbag-recall-check">how to check if a used car has an open airbag recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-grand-cherokee-airbag-recall-check">used jeep grand cherokee problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-seat-switch-fire-park-outside-recall-vin-check">used kia telluride problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V363-5757.pdf">NHTSA Part 573 Safety Recall Report 26V363 (PDF)</a> — regulator: population, per-model counts, chronology, incident tallies, remedy schedule</li>
@@ -7628,6 +8277,14 @@
 <p><strong>Why are some 2015–2020 SUVs included if the defect was a 2026 production error?</strong> Because one suspect transfer case was shipped as a service-replacement part, and GM could not pinpoint which vehicle received it. It cast a wider net across 54 dealers and 21 vehicles that got a transfer-case replacement during the suspect window. Most of these 21 are precautionary.</p>
 <p><strong>Should I avoid buying a used 2026 Silverado, Tahoe or Escalade because of this?</strong> Not on the basis of this recall alone. It covers only 66 vehicles, no crashes or injuries are reported, and the remedy is free. Run the specific VIN; if it is in scope, confirm the repair was completed before buying.</p>
 <p><strong>Are there reports of crashes or injuries?</strong> No. GM reports no crashes and no injuries related to 26V289, and cites four field complaints potentially related to the defect.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-gm-l87-62-v8-engine-history-check">what to check before buying a used silverado with the 6.2 v8</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-downshift-first-gear-recall-check-before-buying">used ford f150 problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-lexus-hybrid-do-not-drive-recall-vin-check-before-buying">used Toyota hybrid recall problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-maverick-do-not-drive-recall-check">used ford bronco sport problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V289-5674.pdf">NHTSA Part 573 Safety Recall Report 26V289 (PDF)</a> — authoritative source for count, model list, defect mechanism, supplier, chronology, remedy and dates.</li>
@@ -7709,6 +8366,14 @@
 <p><strong>Is this a "do not drive" recall?</strong> No. The Expedition/Navigator seat-belt recall (26V344) is not a "do not drive" recall. The early-June 2026 "do not drive" advisory applies to about 4,653 Bronco Sport and Maverick vehicles for a separate ball-joint defect.</p>
 <p><strong>These are fleet-heavy, high-mileage SUVs — how do I check for odometer rollback or prior rental use?</strong> Run the VIN through a history report that includes an odometer/rollback check plus ownership and sales-listing history; patterns in mileage readings, owner count and past listings can indicate rollback or prior commercial/rental use.</p>
 <p><strong>What should I inspect on a test drive given the locking defect?</strong> Watch for an illuminated airbag/restraint warning light (which can precede pretensioner deployment), and verify the front belts both retract and extend smoothly, since a deployed pretensioner leaves the belt locked.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-center-console-recall-stacking-check">used ford expedition problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-recall-completed-stamp-verify-before-buying">what does recall completed mean when buying a used car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-f150-downshift-first-gear-recall-check-before-buying">used ford f150 problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-explorer-expedition-navigator-park-rollaway-recall-check">used ford explorer transmission problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/recalls?nhtsaId=26V344000">NHTSA Recall Campaign 26V344000 lookup</a> — authoritative count, summary, consequence, remedy, owner-letter date (regulator)</li>
@@ -7805,6 +8470,14 @@
 <p><strong>What is the difference between an Engineering Analysis and a recall demand?</strong> An Engineering Analysis is NHTSA's deeper investigation tier that typically precedes any recall demand. It can end three ways: case closed, an influence letter, or a recall request/demand. An EA itself is not a recall and does not guarantee one is coming.</p>
 <p><strong>Can a VIN check tell me if a specific Tesla was in one of the FSD crashes?</strong> Not through the investigation — there is no VIN-to-incident mapping in EA26002. To screen a specific car's real history, use accident/damage records, airbag-deployment status, and salvage-auction records, which a VIN check can surface.</p>
 <p><strong>Where do I confirm recall remedy (open vs. completed) status?</strong> Use NHTSA's free VIN lookup at nhtsa.gov/recalls, which shows incomplete recalls by VIN, or contact the manufacturer's service center — especially for OTA software remedies, where only the manufacturer can confirm the installed update.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-y-weight-label-recall-check-before-buying">how to check if a used tesla has open recalls before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-fsd-crash-accident-history-check-before-buying">how to check if a used Tesla Model 3 was in an accident before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-headlight-recall-check-before-buying">used tesla recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-model-y-headlight-recall-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf">NHTSA ODI Resume — EA26002 opening document (Engineering Analysis; 3,203,754 vehicles, 9 incidents, models/years, mechanism)</a></li>
@@ -7890,6 +8563,14 @@
 <p><strong>How do I spot a Forester that already had glass or roof damage?</strong> Run the VIN through a history report that surfaces accident and damage records, including type, location, severity, and airbag-deployment status. Because this recall involves moonroof bonding, any record of prior glass or roof damage or a replaced moonroof warrants extra inspection by a Subaru dealer before purchase.</p>
 <p><strong>Should I avoid a 2026 Forester with a moonroof, or is it safe once repaired?</strong> The remedy is an inspect-and-replace-if-needed fix performed free by Subaru dealers. The practical step is to confirm via NHTSA's VIN tool or a Subaru dealer that recall 26V346 / WRF-26 has been completed on that specific VIN before you rely on the vehicle.</p>
 <p><strong>Is the Forester Hybrid affected differently than the gas Forester?</strong> No — the defect mechanism is the same improper adhesion of the power-moonroof glass panel. The Hybrid simply has a narrower production window (February 20 – March 17, 2026) and far fewer units (4,007 of the 69,663 total).</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-toyota-bz4x-lexus-rz-subaru-solterra-ev-recall-check">used Toyota bZ4X problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-subaru-ascent-forester-crosstrek-weight-label-recall-check">used subaru weight label recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-telluride-fire-recall-check-before-buying">used kia telluride problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-santa-cruz-phantom-braking-recall-check">used hyundai tucson problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-expedition-navigator-seatbelt-recall-check">how to check if a used car was in an accident by vin</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://api.nhtsa.gov/recalls/campaignNumber?campaignNumber=26V346000">NHTSA Recall API — campaign 26V346000</a> (regulator)</li>
@@ -7982,6 +8663,14 @@
 <p><strong>How do I find out if a used Rivian was in an accident or had airbags deploy?</strong> Run a VIN-based vehicle history report. Accident records typically include location, type, severity, and airbag-deployment status - the kind of data that would reflect a prior swerve or collision event.</p>
 <p><strong>What should I ask the seller or a Rivian service center?</strong> Ask whether the vehicle is included in recall 26V-003, and if so, whether the free toe-link bolt replacement was completed (with documentation). Ask about any prior suspension repair or collision, and verify against the VIN's accident and recall records.</p>
 <p><strong>Where do I check the official investigation status?</strong> NHTSA's investigation lookup at nhtsa.gov, using the campaign reference PE26004, or the official ODI opening document linked in Sources below.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-deployment-probe-history-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-y-suspension-complaints-check-before-buying">used tesla model 3 and model y problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-subaru-forester-moonroof-detachment-recall-check">used subaru forester problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/inv/2026/INOA-PE26004-14315.pdf">NHTSA ODI Opening Resume - PE26004 (official investigation document, PDF)</a></li>
@@ -8073,6 +8762,14 @@
 <p><strong>Should I avoid a Kicks built before the January 2026 fix?</strong> Not necessarily. Vehicles built before the January 16, 2026 production fix can be covered by 26V331, but the remedy is a free, quick software update. Screen the VIN, then confirm the update was done or have a dealer complete it.</p>
 <h2>Before you buy a used Kicks</h2>
 <p>Run the VIN through <a href="https://zilocar.com">Zilocar</a> to screen for recall presence and pull together accident and airbag-deployment records, odometer/rollback checks, salvage and junk-auction records, theft (NICB), ownership history, and past and current sales listings — the history a budget shopper needs to avoid a problem unit or an inflated relist. To confirm the recall software update was actually performed, use NHTSA's recall lookup or a Nissan dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-nissan-leaf-seat-belt-recall-check-before-buying">used nissan leaf problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-nissan-rogue-vc-turbo-engine-complaints-check-before-buying">used nissan rogue problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-power-steering-fire-recall-check">should i buy a used jeep wrangler with an open recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-mustang-mach-e-door-latch-lockout-recall-check">used ford mustang mach-e problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V331-8971.pdf">NHTSA Part 573 Safety Recall Report — Campaign 26V331 (PDF, primary source)</a></li>
@@ -8167,6 +8864,14 @@
 <p><strong>Does this recall mean my Grand Cherokee can't be driven?</strong> No. The Grand Cherokee recall (26V328) is a software fix, not a "do not drive" order. The separate ~225,000-unit "do not drive" advisory (February 2026) applies to older Stellantis vehicles with unrepaired Takata inflators and does not include the 2022-2026 Grand Cherokee.</p>
 <p><strong>How do I confirm the recall was actually completed?</strong> Through NHTSA's VIN tool or a Jeep dealer — not the sales listing. A history report can confirm the recall exists on the VIN but cannot prove the ORC software was reflashed.</p>
 <p>Before you buy a used Grand Cherokee, run a Zilocar VIN check to screen recall presence alongside the accident, airbag-deployment, salvage-auction, odometer, ownership, and sales-listing records — then confirm the reflash itself at nhtsa.gov/recalls or a Jeep dealer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-dodge-chrysler-jeep-takata-do-not-drive-airbag-recall-check">how to check if a used car has an open airbag recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-power-steering-fire-recall-check">should i buy a used jeep wrangler with an open recall</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-fire-complaints-check-before-buying">used jeep wrangler problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-brands-most-recalls-2026-data">used car brands with the most recalls</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">how to check a used Tesla Model 3 accident history before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V328-9567.pdf">NHTSA — Part 573 Safety Recall Report 26V328 (Chrysler/FCA US), official filing PDF</a></li>
@@ -8253,6 +8958,14 @@
 <p><strong>Can I still get the fix free if I buy before the July 17, 2026 owner letters go out?</strong> Yes. The free software update follows the vehicle. Any Hyundai dealer can perform it now — reference recall 302 or call 1-855-371-9460.</p>
 <p><strong>Does an open recall hurt resale value or my ability to insure the car?</strong> The available record does not establish a specific resale or insurance impact. An open recall is a negotiating point; the remedy is free and transfers to you as the new owner.</p>
 <p>Before you commit to a specific 2025-2026 Tucson or Santa Cruz, a <a href="https://zilocar.com">Zilocar VIN check</a> can screen whether the 26V316 recall is listed and pull the car's accident, airbag-deployment, odometer, ownership and sales-listing history in one report — then confirm the actual repair with NHTSA's VIN lookup or a Hyundai dealer (recall 302).</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-tucson-instrument-display-recall-check-before-buying">used hyundai tucson problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-ioniq5-kia-ev6-ev9-battery-fire-recall-check">used electric car battery recall check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">how to check if a used kia or hyundai was stolen before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-hyundai-kona-seat-belt-recall-check-before-buying">used hyundai kona problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://owners.hyundaiusa.com/us/en/resources/recalls.html">Hyundai owner recall lookup / customer service 1-855-371-9460 (recall 302)</a> — manufacturer</li>
@@ -8371,6 +9084,14 @@
 <p><strong>Does a VIN check show whether the recall was already fixed at the dealer?</strong> No. A VIN check shows that a recall exists, but it cannot confirm the 26V332 sensor was replaced. Verify remedy status with NHTSA's VIN tool at recall time or a Honda/Acura dealer.</p>
 <p><strong>How much does the seat-weight sensor repair cost?</strong> Nothing. An authorized Honda/Acura dealer replaces the seat weight sensor with a non-defective part free of charge, and a general reimbursement plan is on file for owners who already paid for the repair.</p>
 <p><strong>What's the difference between a recall notice and an airbag-deployment record on a history report?</strong> A recall notice means the manufacturer identified a potential defect to fix — usually free and routine once remedied. An airbag-deployment record means the car was actually in a crash severe enough to fire the airbags, leaving a permanent history mark whose repair quality you're inheriting. For a used buyer, the deployment record usually matters more.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-ridgeline-passport-mdx-rust-recall-check">used honda pilot rust problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-inadvertent-deployment-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-odyssey-airbag-deployment-probe-history-check-before-buying">used honda odyssey problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-crv-accord-hybrid-tire-repair-kit-recall-check">used honda cr-v hybrid problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-honda-pilot-passport-rear-subframe-bolt-recall-check">used honda pilot problems to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V332-6150.pdf">NHTSA Part 573 Safety Recall Report 26V332 (official PDF)</a> — defect, consequence, 98,892 count, full model table, chronology, remedy, dates.</li>
@@ -8458,6 +9179,14 @@
 <p><strong>Could a seller be offloading a recalled unit before fixing it?</strong> It's possible. Cross-check the VIN's <strong>sales-listing and ownership history</strong> for a re-listing right after the June 3–4 order or an out-of-state flip, then confirm recall status with NHTSA or a dealer before buying.</p>
 <p><strong>What's the difference between the 420,000-vehicle recall and this one?</strong> The 420,000 figure and the seat-belt/pretensioner mechanism belong to the <strong>Expedition/Navigator</strong> recall (26V344 / 26S34). The Bronco Sport/Maverick action is the <strong>4,653-unit ball-joint</strong> do-not-drive recall (26V340 / 26S36).</p>
 <p><strong>What should I check before buying any used Bronco Sport or Maverick?</strong> Recall presence and remedy status (NHTSA/dealer), accident and airbag-deployment records, odometer/rollback, salvage/junk auction and theft records, ownership and sales-listing history, and the market valuation versus the asking price.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-sport-escape-fuel-injector-fire-recall-history-check">used ford bronco sport problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-rearview-backup-camera-recall-check-before-buying">used ford backup camera problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-bronco-engine-fire-complaints-check-before-buying">used ford bronco problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-focus-engine-stall-recall-check-before-buying">used ford focus problems to check before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ford-most-recalled-brand-2026-vin-recall-check-before-buying">used ford recalls to check before buying</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V340-0609.pdf">NHTSA Part 573 Safety Recall Report 26V340 (Ford 26S36) — Bronco Sport/Maverick ball-joint do-not-drive</a> (regulator, primary)</li>
@@ -8559,6 +9288,14 @@
 <p><strong>Can a VIN check confirm a car has a clean title?</strong> Not the legal title brand itself. It surfaces junk and salvage <em>auction</em> records, which are strong warning signs, but you should verify the official title with the seller and your state DMV.</p>
 <hr>
 <p>With used prices near multi-year highs, the cost of overpaying for a relisted, rolled-back, or salvage-sourced car is higher than ever. A <a href="https://zilocar.com">Zilocar VIN check</a> surfaces a car's past listings, prior prices and days-on-market, mileage drift, accident and airbag-deployment records, theft and salvage-auction history, and a market valuation — so you can benchmark the asking price before you make an offer.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-car-prices-wholesale-cooling-retail-record-july-2026">how to tell if a used car is overpriced</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-affordability-sub-20k-nearly-gone-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-ev-price-surge-history-check-before-buying">what to check before buying a used electric car</a></li>
+<li><a href="https://zilocar.com/vehicle-news/record-car-payments-used-buyers-price-history-check-2026">how to check a used car's price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-buyers-shift-older-high-mileage-cars-2026-history-check">what to check before buying an older high mileage used car</a></li>
+</ul>
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.nhtsa.gov/vehicle-safety/odometer-fraud">NHTSA — Odometer Fraud (450,000 vehicles/yr, $1B+ annual consumer cost)</a></li>
