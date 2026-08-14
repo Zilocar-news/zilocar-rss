@@ -1,0 +1,52 @@
+rank,state,state_name,complaints_2015_onward,population_census_vintage_2024,complaints_per_100k,fire_flagged_complaints,fire_rank,deaths_reported_floor,top_component
+1,MD,Maryland,25814,6263220,412.2,437,17,16,Engine
+2,VA,Virginia,34756,8811195,394.5,610,18,28,Engine
+3,DE,Delaware,4104,1051917,390.1,92,2,3,Engine
+4,VT,Vermont,2522,648493,388.9,51,7,0,Electrical System
+5,NH,New Hampshire,5374,1409032,381.4,99,16,9,Engine
+6,WV,West Virginia,6740,1769979,380.8,154,3,13,Engine
+7,MI,Michigan,37796,10140459,372.7,768,10,55,Engine
+8,DC,District of Columbia,2585,702250,368.1,96,1,8,Unknown Or Other
+9,GA,Georgia,40495,11180878,362.2,964,4,37,Engine
+10,FL,Florida,81985,23372215,350.8,1742,11,125,Engine
+11,OH,Ohio,41389,11883304,348.3,792,21,53,Engine
+12,ME,Maine,4882,1405012,347.5,113,6,5,Engine
+13,SC,South Carolina,18549,5478831,338.6,361,23,24,Engine
+14,CT,Connecticut,12332,3675069,335.6,247,20,25,Engine
+15,AL,Alabama,16795,5157699,325.6,381,12,18,Engine
+16,NC,North Carolina,35926,11046024,325.2,707,27,29,Engine
+17,PA,Pennsylvania,42381,13078751,324.0,779,32,46,Engine
+18,NJ,New Jersey,30305,9500851,319.0,581,30,24,Engine
+19,MO,Missouri,19874,6245466,318.2,478,9,34,Engine
+20,TN,Tennessee,22894,7227750,316.8,513,15,28,Engine
+21,KY,Kentucky,14504,4588372,316.1,314,19,7,Engine
+22,MA,Massachusetts,22509,7136171,315.4,404,36,18,Engine
+23,LA,Louisiana,14166,4597740,308.1,356,8,30,Engine
+24,CA,California,119898,39431263,304.1,2554,26,270,Electrical System
+25,WI,Wisconsin,17918,5960975,300.6,331,37,12,Engine
+26,RI,Rhode Island,3340,1112308,300.3,70,29,1,Engine
+27,AZ,Arizona,22659,7582384,298.8,414,39,18,Electrical System
+28,CO,Colorado,17732,5957493,297.6,325,40,16,Engine
+29,IL,Illinois,37734,12710158,296.9,838,24,61,Engine
+30,NV,Nevada,9596,3267467,293.7,175,41,13,Engine
+31,AK,Alaska,2158,740133,291.6,49,22,5,Electrical System
+32,AR,Arkansas,8963,3088354,290.2,221,14,15,Engine
+33,IN,Indiana,20079,6924275,290.0,424,31,26,Engine
+34,MS,Mississippi,8439,2943045,286.7,216,13,8,Engine
+35,TX,Texas,86520,31290831,276.5,1843,35,128,Engine
+36,KS,Kansas,8144,2970606,274.2,176,33,7,Engine
+37,WA,Washington,21723,7958180,273.0,471,34,37,Electrical System
+38,NM,New Mexico,5759,2130256,270.3,106,44,10,Engine
+39,OK,Oklahoma,10934,4095393,267.0,215,42,10,Engine
+40,MN,Minnesota,15033,5793151,259.5,241,50,8,Engine
+41,NY,New York,50837,19867248,255.9,981,45,51,Electrical System
+42,OR,Oregon,10753,4272371,251.7,221,43,19,Electrical System
+43,MT,Montana,2831,1137233,248.9,96,5,0,Engine
+44,HI,Hawaii,3597,1446146,248.7,54,51,6,Air Bags
+45,IA,Iowa,7789,3241488,240.3,153,47,12,Engine
+46,NE,Nebraska,4710,2005465,234.9,85,49,6,Engine
+47,WY,Wyoming,1322,587618,225.0,37,28,3,Electrical System
+48,SD,South Dakota,2071,924669,224.0,51,38,6,Engine
+49,ID,Idaho,4460,2001619,222.8,87,48,3,Engine
+50,UT,Utah,7470,3503613,213.2,168,46,2,Engine
+51,ND,North Dakota,1602,796568,201.1,52,25,2,Engine

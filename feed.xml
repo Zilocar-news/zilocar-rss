@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 14 Aug 2026 14:43:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 15:10:00 +0000</lastBuildDate>
 <item>
 <title>Do Owner Complaints Warn of a Recall? We Matched 2.1 Million NHTSA Complaints Against 8,448 Recalls</title>
 <link>https://zilocar.com/vehicle-news/do-owner-complaints-predict-car-recalls-nhtsa-data</link>
@@ -358,8 +358,13 @@
 </ul>
 <p>user-entered and unreliable in aggregate. Values at or above 99 are sentinels and single complaints reporting more than 8 casualties are not credible; both are zeroed while the complaint itself is retained. Treat any casualty total as a floor.</p>
 <h2>Get the data</h2>
-<p>The full dataset, all 917 model-years with fire share, crash share and raw counts, plus the brand rollup with thin-sample flags, is free to use and republish with attribution and a link to this page.</p>
-<p>Email <strong>press@zilocar.com</strong> and we will send the file, or run a specific model, model-year or brand cut for you. Tell us the deadline and we will work to it.</p>
+<p>The full dataset is free to download, use and republish with attribution and a link to this page. No email required:</p>
+<ul>
+<li><strong><a href="https://zilocar-news.github.io/zilocar-rss/data/nhtsa-fire-complaint-share-by-model-year-2026-08-11.csv">All 917 model-years (CSV)</a></strong> — make, model, model year, complaint count, fire- and crash-flagged counts, injury and death floors, fire share and crash share.</li>
+<li><strong><a href="https://zilocar-news.github.io/zilocar-rss/data/nhtsa-fire-complaint-share-by-brand-2026-08-11.csv">Brand rollup, 30 makes (CSV)</a></strong> — with the fire index against the 1.41% baseline and a <code>thin_sample</code> flag on brands below the reliable-sample threshold.</li>
+</ul>
+<p>Both files are the exact frozen snapshot these figures were computed from, so every percentage on this page can be recomputed from them: fire share is <code>fire_flagged / complaints</code>, and the fire index is that share divided by the 1.41% cohort baseline.</p>
+<p>If you need a cut that is not in the files — a specific model over time, a component breakdown, or a different model-year window — email <strong>press@zilocar.com</strong> with your deadline.</p>
 <p>Source data is public, so nothing here has to be taken on trust: the underlying NHTSA complaint file is linked in the Method section above, and the aggregation rules are stated in full.</p>
 <p>Zilocar is a US vehicle-history service. AutoIntel Systems LLC, Delaware.</p>
 <h2>Related checks</h2>
@@ -2583,10 +2588,16 @@
 <li><a href="https://zilocar.com/vehicle-news/vehicle-fire-complaints-by-model-nhtsa-data">which cars have the most fire complaints</a></li>
 <li><a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-fire-complaints-check-before-buying">used jeep wrangler problems to check before buying</a></li>
 </ul>
+<h2>Get the data</h2>
+<p>The full ranking is free to download, use and republish with attribution and a link to this page: <strong><a href="https://zilocar-news.github.io/zilocar-rss/data/nhtsa-complaints-by-state-2026-07-25.csv">all 51 states as a CSV</a></strong>.</p>
+<p>It carries every column behind the numbers above — rank, complaint count, the Census population used as the denominator, complaints per 100,000, fire-flagged complaints and fire rank, the reported-deaths floor, and the most-complained-about component in each state. The per-capita figure is the complaint count divided by that population column, so every rank can be recomputed from the file itself rather than taken on trust.</p>
+<p>If you need a cut that is not in the file — a single state over time, a component breakdown, or a specific make and model within a state — email <strong>press@zilocar.com</strong> with your deadline.</p>
+<p>Zilocar is a US vehicle-history service. AutoIntel Systems LLC, Delaware.</p>
 <h2>Sources</h2>
 <ul>
-<li>NHTSA Office of Defects Investigation complaint database, accessed 2026-07-25</li>
-<li>U.S. Census Bureau, Vintage 2024 state population estimates</li>
+<li><a href="https://static.nhtsa.gov/odi/ffdd/cmpl/FLAT_CMPL.zip">NHTSA Office of Defects Investigation complaint flat file</a>, accessed 2026-07-25, and the <a href="https://static.nhtsa.gov/odi/ffdd/cmpl/CMPL.txt">flat file record layout</a></li>
+<li><a href="https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html">U.S. Census Bureau, Vintage 2024 state population estimates</a></li>
+<li><a href="https://zilocar-news.github.io/zilocar-rss/data/nhtsa-complaints-by-state-2026-07-25.csv">Our frozen dataset, all 51 states (CSV)</a> — the exact snapshot these figures were computed from</li>
 </ul>
 <p><em>Last verified: 2026-07-25</em></p>]]></content:encoded>
 </item>
