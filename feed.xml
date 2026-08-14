@@ -6,7 +6,141 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 14 Aug 2026 09:51:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 10:17:00 +0000</lastBuildDate>
+<item>
+<title>Do Owner Complaints Warn of a Recall? We Matched 2.1 Million NHTSA Complaints Against 8,448 Recalls</title>
+<link>https://zilocar.com/vehicle-news/do-owner-complaints-predict-car-recalls-nhtsa-data</link>
+<guid isPermaLink="false">do-owner-complaints-predict-car-recalls-nhtsa-data</guid>
+<pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+<zilocar:canonical>https://zilocar.com/vehicle-news/do-owner-complaints-predict-car-recalls-nhtsa-data</zilocar:canonical>
+<zilocar:dateModified>2026-08-14</zilocar:dateModified>
+<category>data_story</category>
+<description>We matched 2.1M NHTSA complaints to 8,448 recalls. Only 2.9% of first-time defect recalls had any prior complaint naming that part. What that means for buyers.</description>
+<content:encoded><![CDATA[<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsArticle", "headline": "Do Owner Complaints Warn of a Recall? We Matched 2.1 Million NHTSA Complaints Against 8,448 Recalls", "description": "We matched 2.1M NHTSA complaints to 8,448 recalls. Only 2.9% of first-time defect recalls had any prior complaint naming that part. What that means for buyers.", "datePublished": "2026-08-14T12:00:00Z", "dateModified": "2026-08-14T12:00:00Z", "author": {"@type": "Organization", "name": "Zilocar Editorial", "url": "https://zilocar.com"}, "publisher": {"@type": "Organization", "name": "Zilocar", "url": "https://zilocar.com"}, "mainEntityOfPage": "https://zilocar.com/vehicle-news/do-owner-complaints-predict-car-recalls-nhtsa-data", "url": "https://zilocar.com/vehicle-news/do-owner-complaints-predict-car-recalls-nhtsa-data"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do owner complaints predict a car recall?", "acceptedAnswer": {"@type": "Answer", "text": "Usually not. Across 4,095 first-time defect recalls filed since 2015, only 2.9% had any prior complaint naming the same part, and only 0.46% had ten or more. Complaint clusters do precede some recalls, but they are the exception, not a reliable early warning."}}, {"@type": "Question", "name": "How long before a defect becomes a recall?", "acceptedAnswer": {"@type": "Answer", "text": "In the 19 recalls where at least ten owners had already named that exact part, the tenth complaint arrived a median of 0.94 years before the manufacturer filed. Where only a single earlier complaint existed, the median gap was 2.21 years, but one complaint is not a signal."}}, {"@type": "Question", "name": "What is the difference between an NHTSA complaint and a recall?", "acceptedAnswer": {"@type": "Answer", "text": "A complaint is one owner's unverified report filed with NHTSA. A recall is a manufacturer's formal Part 573 filing that a defect exists, with a free remedy. Complaints are not screened for accuracy, and most never lead to a recall."}}, {"@type": "Question", "name": "Can I tell whether a used car will be recalled in future?", "acceptedAnswer": {"@type": "Answer", "text": "No. Our analysis found no dependable early-warning pattern: 97% of first-time defect recalls arrived with no prior complaint naming that part. Treat complaint history as context about a model, never as a prediction about a specific car."}}, {"@type": "Question", "name": "Does a used car with no complaints mean it is safe?", "acceptedAnswer": {"@type": "Answer", "text": "No. Absence of complaints mostly reflects that few owners file them. Complaint volume also tracks how many of a model are on the road, so a rare model looks clean simply because fewer people drive it."}}, {"@type": "Question", "name": "Should I avoid a used car that has NHTSA complaints?", "acceptedAnswer": {"@type": "Answer", "text": "Not by itself. Complaint counts are dominated by fleet size and by how easy a symptom is to notice. What matters more for a specific car is whether it has an open recall, and what its accident, salvage-auction and odometer history show."}}, {"@type": "Question", "name": "How do I check recalls and complaints on a used car?", "acceptedAnswer": {"@type": "Answer", "text": "Enter the VIN in NHTSA's free recall lookup for open recall status on that exact car, and browse complaints by year, make and model on the NHTSA site. A VIN history report adds accident, odometer, salvage-auction, theft and ownership records."}}, {"@type": "Question", "name": "Why did most recalls in this study have no matching complaints?", "acceptedAnswer": {"@type": "Answer", "text": "Several reasons: many defects are found in factory testing or warranty data rather than by owners, many recalls cover cars too new to have accumulated complaints, and NHTSA's component coding is coarse, so genuine reports are often filed under a different category."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Vehicle News", "item": "https://zilocar.com/research"}, {"@type": "ListItem", "position": 2, "name": "Do Owner Complaints Warn of a Recall? We Matched 2.1 Million NHTSA Complaints Against 8,448 Recalls", "item": "https://zilocar.com/vehicle-news/do-owner-complaints-predict-car-recalls-nhtsa-data"}]}]}</script>
+<h1>Do Owner Complaints Warn of a Recall? We Matched 2.1 Million NHTSA Complaints Against 8,448 Recalls</h1>
+<p><strong>TL;DR:</strong> We matched 2,061,022 NHTSA owner complaints against 8,448 vehicle recall campaigns filed since 2015. Among 4,095 first-time defect recalls that named a specific part, only 2.9% had any earlier complaint naming that same part, and only 0.46% had ten or more. Where a cluster of ten did exist, it formed a median of 0.94 years before the recall. Public complaint history is not a dependable predictor of recalls, and a car with no complaints against it is not therefore sound.</p>
+<h2>Key facts</h2>
+<ul>
+<li><strong>Data:</strong> NHTSA ODI complaint flat file and vehicle recall flat file, both retrieved <strong>2026-08-14</strong>. 2,061,022 deduplicated vehicle complaint records; 8,448 recall campaigns filed 2015-01-01 onward that name a specific subcomponent.</li>
+<li><strong>Headline:</strong> of <strong>4,095</strong> first-time defect recalls, <strong>119 (2.9%)</strong> had any prior complaint naming that part; <strong>19 (0.46%)</strong> had ten or more.</li>
+<li><strong>Lead time:</strong> in those 19, the tenth complaint landed a median of <strong>0.94 years</strong> before the Part 573 filing.</li>
+<li><strong>Volume:</strong> those 19 recalls carry <strong>686</strong> distinct prior complaints across <strong>4,531,507</strong> potential units affected.</li>
+<li><strong>What we expected and did not find:</strong> we set out to measure how long owners warn before a recall. The honest answer is that in 97% of cases there is no warning to measure.</li>
+<li><strong>Free, checkable:</strong> every campaign in the analysis, including the ones with zero prior complaints, is in the <a href="https://zilocar-news.github.io/zilocar-rss/data/recall-complaint-precursors-2026-08-14.csv">downloadable CSV</a>.</li>
+</ul>
+<h2>Do owner complaints predict a car recall?</h2>
+<p>Mostly they do not. Of the 4,095 recalls in our analysis set — defect recalls, naming a specific part, and the first recall on that part for those vehicles — 3,976 had no earlier complaint at all naming that part. The 2.9% that did are a real but small minority, and the subset with a genuine cluster of ten or more reports is smaller still at 0.46%.</p>
+<p>That result runs against the common assumption that recalls are typically preceded by a visible pile-up of owner reports. For a handful of famous defects that is exactly what happened — it is the pattern we found when we counted NHTSA reports on the 2021-2024 Bronco while assembling the <a href="https://zilocar.com/vehicle-news/used-ford-bronco-engine-fire-complaints-check-before-buying">used Ford Bronco problems to check before buying</a>, which built up ahead of a 565,000-vehicle fire recall. As a general rule across a decade of recalls, it is not.</p>
+<h2>How much does the answer depend on how you count?</h2>
+<p>Enormously, and this is the part most likely to mislead. A loose match inflates the result by an order of magnitude. Matching only on NHTSA's top-level component category — treating any "ELECTRICAL SYSTEM" complaint as a precursor to any "ELECTRICAL SYSTEM" recall — suggests that 25% of recalls had prior complaints.</p>
+<p>We tested that looser method by hand before trusting it. For each of the ten largest apparent matches we read 30 of the matched complaint narratives against the recall's own defect description — 300 narratives in all. Weighted by volume, roughly <strong>37%</strong> plausibly describe the failure that was actually recalled. Two campaigns matched at about 95%; four matched at under 5%. In the worst case, Kia recall 18V907000, a fuel-pipe defect, <strong>zero of 1,311</strong> matched complaints mention a fuel pipe or a fuel leak.</p>
+<p>Two things drive the false matches. NHTSA's component categories are broad, so "AIR BAGS" collects everything from inflator ruptures to a sticky dashboard. And a large share of complaints filed against an already-recalled component are not defect reports at all — they are owners reporting that the repair part was unavailable, many carrying NHTSA's own boilerplate that the contact had not experienced a failure. Those are downstream of a recall, not a warning before one. We removed 66,866 of them.</p>
+<p>Every number in this article uses the strict method instead: exact subcomponent-string match, administration complaints removed, re-recalls excluded.</p>
+<table><thead><tr><th>Filter applied</th><th>Campaigns remaining</th></tr></thead><tbody>
+<tr><td>Vehicle recall campaigns filed 2015 onward</td><td>10,330</td></tr>
+<tr><td>...naming a specific subcomponent, not just a broad category</td><td>8,448</td></tr>
+<tr><td>...that are defect recalls, not compliance filings</td><td>6,577</td></tr>
+<tr><td>...that are the first recall on that part for those vehicles</td><td>4,095</td></tr>
+<tr><td>...with any prior complaint naming that same part</td><td>119</td></tr>
+<tr><td>...with ten or more</td><td>19</td></tr>
+</tbody></table>
+<h2>Which recalls did have a real complaint trail?</h2>
+<p>Nineteen, listed in full below. The per-100k column matters: raw complaint counts mostly track how many vehicles are on the road, so a large recall will out-count a small one even when owners of the small one complained far more intensively. The same caution applies when reading complaint counts for any single nameplate, which is why our model-year breakdowns — the <a href="https://zilocar.com/vehicle-news/honda-odyssey-2011-2017-nhtsa-complaints-airbag-analysis">used Honda Odyssey problems to check before buying</a> and the <a href="https://zilocar.com/vehicle-news/used-jeep-wrangler-gladiator-fire-complaints-check-before-buying">used Jeep Wrangler problems to check before buying</a> — compare model years within one model rather than ranking models against each other.</p>
+<table><thead><tr><th>Recall</th><th>Filed</th><th>Manufacturer</th><th>Part named in the recall</th><th>Prior complaints</th><th>Per 100k units</th><th>Lead to 10th</th></tr></thead><tbody>
+<tr><td>21V316000</td><td>2021-05-05</td><td>Ford</td><td>Structure: Body</td><td>115</td><td>19</td><td>4.1 yr</td></tr>
+<tr><td>26V316000</td><td>2026-05-18</td><td>Hyundai</td><td>Forward Collision Avoidance: AEB</td><td>95</td><td>22</td><td>0.9 yr</td></tr>
+<tr><td>15V861000</td><td>2015-12-22</td><td>Ford</td><td>Exterior Lighting: Headlights</td><td>88</td><td>30</td><td>7.5 yr</td></tr>
+<tr><td>21V846000</td><td>2021-10-29</td><td>Tesla</td><td>Forward Collision Avoidance: AEB</td><td>62</td><td>529</td><td>0.9 yr</td></tr>
+<tr><td>22V867000</td><td>2022-11-23</td><td>Honda</td><td>Back Over Prevention: Camera</td><td>40</td><td>34</td><td>0.5 yr</td></tr>
+<tr><td>19V701000</td><td>2019-10-03</td><td>Subaru</td><td>Air Bags: Occupant Classification Sensor</td><td>36</td><td>10</td><td>1.0 yr</td></tr>
+<tr><td>15V519000</td><td>2015-08-14</td><td>General Motors</td><td>Exterior Lighting: Headlights</td><td>35</td><td>8</td><td>3.3 yr</td></tr>
+<tr><td>15V246000</td><td>2015-04-24</td><td>Ford</td><td>Latches/Locks/Linkages: Door Latch</td><td>34</td><td>7</td><td>0.7 yr</td></tr>
+<tr><td>20V710000</td><td>2020-11-17</td><td>Tesla</td><td>Structure: Body</td><td>29</td><td>317</td><td>3.9 yr</td></tr>
+<tr><td>15V660000</td><td>2015-10-15</td><td>BMW</td><td>Steering: Electric Power Assist</td><td>23</td><td>27</td><td>4.2 yr</td></tr>
+<tr><td>24V024000</td><td>2024-01-18</td><td>Winnebago</td><td>Lane Departure: Blind Spot Detection</td><td>20</td><td>2,370</td><td>0.5 yr</td></tr>
+<tr><td>24V133000</td><td>2024-02-22</td><td>General Motors</td><td>Electrical: ADAS Driver-Monitoring Camera</td><td>18</td><td>32</td><td>0.2 yr</td></tr>
+<tr><td>15V205000</td><td>2015-04-06</td><td>BMW</td><td>Air Bags: Frontal</td><td>17</td><td>19</td><td>4.5 yr</td></tr>
+<tr><td>15V201000</td><td>2015-04-06</td><td>General Motors</td><td>Engine and Engine Cooling: Engine</td><td>16</td><td>5</td><td>5.5 yr</td></tr>
+<tr><td>25V732000</td><td>2025-10-24</td><td>Ford</td><td>Structure: Body</td><td>14</td><td>15</td><td>0.2 yr</td></tr>
+<tr><td>21V494000</td><td>2021-07-01</td><td>Mazda</td><td>Air Bags: Frontal</td><td>12</td><td>5</td><td>11.2 yr</td></tr>
+<tr><td>15V415000</td><td>2015-06-30</td><td>General Motors</td><td>Structure: Body, Hatchback/Liftgate</td><td>11</td><td>2</td><td>0.9 yr</td></tr>
+<tr><td>24V951000</td><td>2024-12-20</td><td>Ford</td><td>Back Over Prevention: Camera</td><td>11</td><td>36</td><td>0.1 yr</td></tr>
+<tr><td>15V421000</td><td>2015-07-01</td><td>General Motors</td><td>Visibility: Defroster/HVAC Fan</td><td>10</td><td>6</td><td>0.7 yr</td></tr>
+</tbody></table>
+<p>Recall 24V024000 covers a motorhome chassis, which is outside what a Zilocar VIN check covers; it is retained here because excluding it after seeing the result would be a choice made to flatter the table.</p>
+<h2>How long before a defect becomes a recall?</h2>
+<p>For the 19 recalls with a real complaint trail, the tenth complaint arrived a median of 0.94 years before the manufacturer filed. The spread is wide: 0.1 years for a Ford camera recall, 11.2 years for a Mazda frontal airbag campaign.</p>
+<p>One number we are deliberately not headlining: among the 119 recalls with <em>any</em> prior complaint, the gap back to the single earliest complaint has a median of 2.21 years. That figure is larger and more dramatic, and we think it is misleading. One complaint years earlier is not a warning anybody could have acted on, and the further back you reach the more likely it is that the earliest match is a coincidence of NHTSA's coding rather than the same defect.</p>
+<h2>How this differs from existing research</h2>
+<p>Recall timing has been studied before, and we found no published source reporting how often complaints precede a recall at the campaign level across the full recall universe. Prior work measures adjacent but different quantities, each starting its clock somewhere else:</p>
+<table><thead><tr><th>Study</th><th>Clock starts at</th><th>Clock stops at</th><th>Universe</th></tr></thead><tbody>
+<tr><td>Astvansh, Ball &amp; Josefy (2022)</td><td>Manufacturer's internal defect-awareness date</td><td>Recall decision</td><td>2,120 recalls, 2009-2018</td></tr>
+<tr><td>Eilert et al. (2017)</td><td>NHTSA opens an investigation</td><td>Recall announcement</td><td>381 investigations, 1999-2012</td></tr>
+<tr><td>Damavandi &amp; Astvansh (2024)</td><td>First consumer complaint</td><td>NHTSA opens an investigation</td><td>628 investigations, 2009-2021</td></tr>
+<tr><td>Colak &amp; Bray (working paper)</td><td>Complaint text features</td><td>Recall initiation decision</td><td>8,439 manufacturer + 5,685 government recalls</td></tr>
+<tr><td>This study</td><td>The Nth complaint naming the recalled part</td><td>Part 573 report received</td><td>8,448 campaigns, 2015-2026</td></tr>
+</tbody></table>
+<p>The closest is Damavandi &amp; Astvansh, but it stops at the investigation rather than the recall, covers only investigated cases, and uses a single threshold. None of these is an ongoing dataset; all are one-off academic exercises, most behind paywalls. Ours is a deterministic join of two official flat files that anyone can re-run the day NHTSA refreshes them.</p>
+<h2>What we are not claiming</h2>
+<p>We are not claiming that NHTSA or manufacturers ignored warnings, that any complaint was a missed signal, or that any recall could have come sooner. Our method measures whether complaint records existed beforehand, not whether anyone should have acted on them, and not whether a defect was knowable at the time. Given that most matched complaints describe a different problem than the one recalled, the data could not support such a claim even if we wanted to make it.</p>
+<p>We also tested and then dropped a finding. Recalls flagged as influenced by NHTSA's defect-investigation office appeared to have far longer complaint trails than manufacturer-initiated ones. That gap does not survive scrutiny: those campaigns cover much older vehicles, and lead time is mechanically limited by how long a car has existed. Age-standardising the comparison shrinks the gap sharply, and the pathway is close to circular in any case, because investigations are opened <em>because</em> complaints accumulate. It is not a finding, so it is not in this article.</p>
+<h2>What a VIN check can and cannot tell you here</h2>
+<table><thead><tr><th>Question</th><th>Can a VIN check answer it?</th></tr></thead><tbody>
+<tr><td>Does this car have an open recall right now?</td><td>Yes — recall presence and count</td></tr>
+<tr><td>Has this car been in a recorded accident, with airbag deployment?</td><td>Yes</td></tr>
+<tr><td>Has it appeared at a salvage or junk auction?</td><td>Yes</td></tr>
+<tr><td>Do its odometer readings show a rollback or inconsistency?</td><td>Yes</td></tr>
+<tr><td>Has it been reported stolen?</td><td>Yes (NICB)</td></tr>
+<tr><td>How many owners, and what did it list for previously?</td><td>Yes</td></tr>
+<tr><td>Was the recall repair actually performed on this car?</td><td>No — confirm with a franchised dealer</td></tr>
+<tr><td>Is NHTSA investigating this model right now?</td><td>No — check NHTSA directly</td></tr>
+<tr><td>Will this model be recalled in future?</td><td>No, and this study is why: complaint history does not reliably predict it</td></tr>
+</tbody></table>
+<p>Two distinctions in that table trip buyers up constantly. A recall being listed is not the same as it having been fixed, and the gap is not small: our analysis of <a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">car recall completion rates</a> found roughly a third of recall obligations still unrepaired. And an open investigation is not a recall at all, which is worth understanding before reading anything into one — we set out the difference in <a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">what does recall closed mean on a vin check</a>.</p>
+<p>For a specific used car, start with NHTSA's free VIN recall lookup, which is authoritative for open recall status. A Zilocar VIN check sits alongside it, adding the history NHTSA does not hold: accident and damage records, salvage and junk auction appearances, odometer readings, theft records, ownership and listing history, specs, safety ratings and valuation.</p>
+<h2>By the numbers</h2>
+<ul>
+<li>2,061,022 deduplicated vehicle complaint records analysed</li>
+<li>66,866 recall-administration complaints removed before matching</li>
+<li>8,448 recall campaigns naming a specific subcomponent, filed 2015 onward</li>
+<li>4,095 first-time defect recalls in the analysis set</li>
+<li>119 (2.9%) with any prior complaint naming that part; 19 (0.46%) with ten or more</li>
+<li>686 distinct prior complaints across those 19 campaigns; 11 flagged fire, 66 flagged crash</li>
+<li>Median lead to the tenth complaint: 0.94 years</li>
+</ul>
+<p><em>Based on the NHTSA ODI complaint flat file (FLAT_CMPL.zip) and vehicle recall flat file (FLAT_RCL_POST_2010.zip), both retrieved 2026-08-14. Complaints deduplicated on state, make, model, model year, date added, component and casualty fields.</em></p>
+<h2>Methodology and limits</h2>
+<p>We matched each recall campaign to complaints on the same make, model and model year whose NHTSA component string exactly equals one of the campaign's component strings, and whose date-added precedes the campaign's Part 573 report received date. Lead time is the interval from that date back to the Nth qualifying complaint.</p>
+<p>Four filters were applied before any number was computed, each to remove a specific way the naive result inflates. Campaigns naming only a broad category were excluded, because we verified by hand that those matches are mostly wrong. Compliance filings were separated from defect recalls. Re-recalls were excluded, because a complaint filed before a <em>second</em> recall on the same part is usually about the first one, and would otherwise be counted as a warning about something it could not have warned about. Complaints reporting that a repair part was unavailable were removed. Four campaigns whose Part 573 date disagreed with their campaign-number year by more than a year were dropped as anchoring errors.</p>
+<p>Honest limits. Complaint records are unverified consumer reports, not confirmed defects, and NHTSA's own component coding is noisy — our sampling turned up a seat-belt complaint coded as ENGINE, and a tyre tread separation coded as AIR BAGS. Even exact component matching therefore identifies complaints about the same <em>part category</em>, not proof of the same defect, and this article's language is chosen to say only that. The 2.9% figure is definition-sensitive in both directions: requiring an exact component-label match understates it, while counting anything looser overstates it badly, as the hand-validation above shows. Complaint volume tracks fleet size, so raw counts favour high-volume models; the per-100k column is the fairer comparison. Recalls covering very new vehicles cannot have precursors, which pushes the base rate down for reasons that are structural rather than meaningful. Potential-units-affected figures are summed across campaigns and count a vehicle more than once when it appears in several. The strict matching that protects against false positives certainly discards genuine reports filed under a different category, so 2.9% is a floor, not a precise estimate.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Do owner complaints predict a car recall?</strong> Usually not. Across 4,095 first-time defect recalls filed since 2015, only 2.9% had any prior complaint naming the same part, and only 0.46% had ten or more. Complaint clusters do precede some recalls, but they are the exception, not a reliable early warning.</p>
+<p><strong>How long before a defect becomes a recall?</strong> In the 19 recalls where at least ten owners had already named that exact part, the tenth complaint arrived a median of 0.94 years before the manufacturer filed. Where only a single earlier complaint existed, the median gap was 2.21 years, but one complaint is not a signal.</p>
+<p><strong>What is the difference between an NHTSA complaint and a recall?</strong> A complaint is one owner's unverified report filed with NHTSA. A recall is a manufacturer's formal Part 573 filing that a defect exists, with a free remedy. Complaints are not screened for accuracy, and most never lead to a recall.</p>
+<p><strong>Can I tell whether a used car will be recalled in future?</strong> No. Our analysis found no dependable early-warning pattern: 97% of first-time defect recalls arrived with no prior complaint naming that part. Treat complaint history as context about a model, never as a prediction about a specific car.</p>
+<p><strong>Does a used car with no complaints mean it is safe?</strong> No. Absence of complaints mostly reflects that few owners file them. Complaint volume also tracks how many of a model are on the road, so a rare model looks clean simply because fewer people drive it.</p>
+<p><strong>Should I avoid a used car that has NHTSA complaints?</strong> Not by itself. Complaint counts are dominated by fleet size and by how easy a symptom is to notice. What matters more for a specific car is whether it has an open recall, and what its accident, salvage-auction and odometer history show.</p>
+<p><strong>How do I check recalls and complaints on a used car?</strong> Enter the VIN in NHTSA's free recall lookup for open recall status on that exact car, and browse complaints by year, make and model on the NHTSA site. A VIN history report adds accident, odometer, salvage-auction, theft and ownership records.</p>
+<p><strong>Why did most recalls in this study have no matching complaints?</strong> Several reasons: many defects are found in factory testing or warranty data rather than by owners, many recalls cover cars too new to have accumulated complaints, and NHTSA's component coding is coarse, so genuine reports are often filed under a different category.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/americas-least-fixed-recalls">Car recall completion rates</a> — how much of a recall population actually gets repaired</li>
+<li><a href="https://zilocar.com/vehicle-news/what-recall-status-vs-investigation-means-on-vin-check">What does recall closed mean on a VIN check</a> — recall status versus an open NHTSA investigation</li>
+<li><a href="https://zilocar.com/vehicle-news/used-bmw-fire-risk-park-outside-recall-check-before-buying">How to check a used BMW for open recalls before buying</a> — the VIN lookup step by step</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://static.nhtsa.gov/odi/ffdd/cmpl/FLAT_CMPL.zip">NHTSA ODI complaint flat file (FLAT_CMPL.zip)</a> — primary data, retrieved 2026-08-14</li>
+<li><a href="https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip">NHTSA vehicle recall flat file (FLAT_RCL_POST_2010.zip)</a> — primary data, retrieved 2026-08-14</li>
+<li><a href="https://static.nhtsa.gov/odi/ffdd/cmpl/CMPL.txt">NHTSA complaint file record layout</a> and <a href="https://static.nhtsa.gov/odi/ffdd/rcl/RCL.txt">recall file record layout</a></li>
+<li><a href="https://www.nhtsa.gov/recalls">NHTSA recalls and VIN lookup</a> — authoritative open-recall status for a specific VIN</li>
+<li><a href="https://zilocar-news.github.io/zilocar-rss/data/recall-complaint-precursors-2026-08-14.csv">Our full dataset, all 8,448 campaigns (CSV)</a> — every campaign, including those with zero prior complaints, with each filter flag exposed so any step can be reproduced or rejected</li>
+<li>Damavandi, H. &amp; Astvansh, V. (2024), <a href="https://pubsonline.informs.org/doi/10.1287/msom.2023.0705">"Unveiling Regulatory Operations"</a>, <em>Manufacturing &amp; Service Operations Management</em> — first complaint to investigation opening, 628 investigations</li>
+<li>Astvansh, V., Ball, G.P. &amp; Josefy, M. (2022), <a href="https://ideas.repec.org/a/inm/ormsom/v24y2022i3p1457-1473.html">"The Recall Decision Exposed"</a>, <em>M&amp;SOM</em> 24(3) — manufacturer defect-awareness date to recall decision, 2,120 recalls</li>
+<li>Eilert, M., Jayachandran, S., Kalaignanam, K. &amp; Swartz, T.A. (2017), <a href="https://journals.sagepub.com/doi/10.1509/jm.15.0074">"Does It Pay to Recall Your Product Early?"</a>, <em>Journal of Marketing</em> — investigation opening to recall announcement, 381 investigations</li>
+</ul>
+<p>Last verified: 2026-08-14</p>]]></content:encoded>
+</item>
 <item>
 <title>The Sub-$20K Used Car Is Nearly Extinct: What 11.4M Sales Show, and How to Check a Fair Price by VIN</title>
 <link>https://zilocar.com/vehicle-news/sub-20k-used-cars-nearly-gone-2026-fair-price-history-check</link>
