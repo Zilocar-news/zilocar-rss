@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 18 Aug 2026 07:51:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 19:33:00 +0000</lastBuildDate>
 <item>
 <title>Which Used Cars Have the Most Backup-Camera Failure Complaints? We Counted the NHTSA Data</title>
 <link>https://zilocar.com/vehicle-news/used-cars-most-backup-camera-failure-complaints-nhtsa-data</link>
@@ -71,6 +71,17 @@
 <li>Complaint dates span <strong>2014-06-03 to 2026-08-07</strong>.</li>
 </ul>
 <p><em>Based on 2,235,299 NHTSA ODI complaint records (flat file dated 2026-08-15), filtered to 1,714 distinct backup-camera-image complaints and retrieved 2026-08-18. Counts exclude NHTSA's <code>TBD_TEST</code> placeholder rows. Frozen per-model dataset: <a href="https://zilocar-news.github.io/zilocar-rss/data/nhtsa-backup-camera-complaints-by-model-2026-08-18.csv">nhtsa-backup-camera-complaints-by-model-2026-08-18.csv</a>.</em></p>
+<h2>Method: how we counted, so you can reproduce it</h2>
+<p>Any reporter or reader can rebuild this table from the same public file in about ten minutes. Here is the full methodology, including the judgment calls.</p>
+<ol>
+<li><strong>Source.</strong> Download <a href="https://static.nhtsa.gov/odi/ffdd/cmpl/FLAT_CMPL.zip">FLAT_CMPL.zip</a> from NHTSA's ODI file server and extract <code>FLAT_CMPL.txt</code>. The copy used here was last modified <strong>2026-08-15</strong> and retrieved <strong>2026-08-18</strong>. It is tab-delimited with no header row; field 12 is <code>COMPDESC</code> (component), field 2 is <code>ODINO</code> (the complaint number), fields 4-6 are make, model and model year, and field 16 is <code>DATEA</code>, the date NHTSA added the record.</li>
+<li><strong>Universe.</strong> <strong>2,235,299</strong> component records.</li>
+<li><strong>Filter.</strong> Keep records whose <code>COMPDESC</code> begins with <code>BACK OVER PREVENTION</code> <strong>and</strong> contains either <code>CAMERA</code> or <code>DISPLAY FUNCTION</code>. That captures the three component strings NHTSA actually uses for a rear image that fails to appear: <code>BACK OVER PREVENTION: SENSING SYSTEM: CAMERA</code> (1,541), <code>BACK OVER PREVENTION: CAMERA SYSTEM</code> (152) and <code>BACK OVER PREVENTION:DISPLAY FUNCTION</code> (46). It deliberately <strong>excludes</strong> parking sensors, automatic braking, forward and surround cameras, and instrument-cluster displays, because those are different failures that would inflate the count.</li>
+<li><strong>Clean.</strong> Drop NHTSA's <code>TBD_TEST</code> placeholder rows, which appear as a second component line on 22 complaints and would otherwise be counted as their own "make".</li>
+<li><strong>Deduplicate.</strong> Count <strong>distinct <code>ODINO</code></strong>, not raw rows. A single complaint can list the camera alongside other components, which is why 1,727 component rows collapse to <strong>1,714 distinct complaints</strong>.</li>
+<li><strong>Aggregate.</strong> Group by <code>MAKETXT</code> + <code>MODELTXT</code> for the model ranking and by <code>MAKETXT</code> for the brand ranking, then sort descending. The frozen CSV publishes every make+model with three or more complaints, plus each model's peak model year, its filing-year distribution, and its count of distinct partial-VIN prefixes.</li>
+</ol>
+<p><strong>Known limits, stated rather than buried.</strong> ODI complaints are unverified owner reports, so this measures <em>what owners reported</em>, not a confirmed defect rate. Counts are not registration-adjusted in the main table — see the per-capita check above, which uses approximate cumulative US sales and is directional only. Recall publicity demonstrably drives filings, which is why we report that 340 of the Polestar 2's 393 complaints were added during calendar 2025. And NHTSA redacts VINs to their first 11 characters, so the data cannot establish how many individual vehicles are behind a model's total.</p>
 <h2>What a VIN check can and can't tell you here</h2>
 <p>A VIN check answers one question about backup cameras cleanly: does an open recall name this specific vehicle? It does not tell you whether that recall was fixed. Both a VIN check and NHTSA's free tool report recall <em>presence</em> by VIN; neither confirms that a software flash or camera replacement was actually completed on the car in front of you. Treat the two questions separately, and never assume a flagged recall was quietly handled by a prior owner.</p>
 <table><thead><tr><th>Question</th><th>VIN check</th><th>Where to confirm</th></tr></thead><tbody>
