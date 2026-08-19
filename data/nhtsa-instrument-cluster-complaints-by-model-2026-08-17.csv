@@ -1,10 +1,10 @@
 rank_raw,make,model,raw_complaints_all_model_years,peak_model_year,peak_my_complaints,complaints_2003_2005_window,approx_us_sales_2003_2005,complaints_per_100k,per_capita_note
 1,CHEVROLET,TRAILBLAZER,519,2004,245,498,600000,83.0,worst per-capita; worst single model string on raw (Silverado consolidated = 729, see article caveat)
-2,CHEVROLET,IMPALA,372,2004,252,343,600000,57.2,single worst model-year record (2004 = 252)
+2,CHEVROLET,IMPALA,372,2004,252,349,600000,58.2,single worst model-year record (2004 = 252)
 3,CHEVROLET,SILVERADO 1500,363,2004,160,328,2000000,16.4,high raw count is a sales-volume artifact; LOWEST per-capita of ranked models
-4,CHEVROLET,TAHOE,330,2003,124,307,480000,64.0,high per-capita rate
+4,CHEVROLET,TAHOE,330,2003/2004 tie,124,307,480000,64.0,high per-capita rate
 5,CHEVROLET,SILVERADO (base label),182,2004,100,,,,"combine with 1500+2500 -> Silverado all = 729"
-6,CHEVROLET,CAVALIER,171,2005,69,136,450000,30.2,
+6,CHEVROLET,CAVALIER,171,2005,69,167,450000,37.1,
 7,CHEVROLET,SILVERADO 2500,156,2004,57,,,,
 8,GMC,ENVOY,125,2004,66,,,,TrailBlazer's GMC twin
 9,GMC,SIERRA 1500,121,2004,,,,,Silverado's GMC twin
