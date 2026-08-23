@@ -6,7 +6,231 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 21 Aug 2026 10:35:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 18:34:00 +0000</lastBuildDate>
+<item>
+<title>China Just Recalled 4.3 Million Cars Because Drivers Can&#x27;t Find the Door Release. We Counted Every US Complaint From Someone Who Couldn&#x27;t Get Out</title>
+<link>https://zilocar.com/vehicle-news/used-cars-occupant-egress-complaints-nhtsa-data</link>
+<guid isPermaLink="false">used-cars-occupant-egress-complaints-nhtsa-data</guid>
+<pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+<zilocar:canonical>https://zilocar.com/vehicle-news/used-cars-occupant-egress-complaints-nhtsa-data</zilocar:canonical>
+<zilocar:dateModified>2026-08-23</zilocar:dateModified>
+<category>data_story</category>
+<description>Across 1,552,176 NHTSA complaints, 4,324 describe an occupant who could not get out of the vehicle — about 1 in 359. Only two in the entire 30-year file say the driver could not find the emergency door release, and both are Teslas.</description>
+<content:encoded><![CDATA[<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsArticle", "headline": "China Just Recalled 4.3 Million Cars Because Drivers Can't Find the Door Release. We Counted Every US Complain", "description": "Across 1,552,176 NHTSA complaints, 4,324 describe an occupant who could not get out of the vehicle — about 1 in 359. Only two in the entire 30-year file say the driver could not find the emergency door release, and both are Teslas.", "datePublished": "2026-08-23T12:00:00Z", "dateModified": "2026-08-23T12:00:00Z", "author": {"@type": "Organization", "name": "Zilocar Editorial", "url": "https://zilocar.com"}, "publisher": {"@type": "Organization", "name": "Zilocar", "url": "https://zilocar.com"}, "mainEntityOfPage": "https://zilocar.com/vehicle-news/used-cars-occupant-egress-complaints-nhtsa-data", "url": "https://zilocar.com/vehicle-news/used-cars-occupant-egress-complaints-nhtsa-data"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Why did China recall 4.3 million cars over door handles?", "acceptedAnswer": {"@type": "Answer", "text": "China's State Administration for Market Regulation accepted recall filings from Tesla and at least nine other automakers covering roughly 4.3 million vehicles, because the interior emergency mechanical door release is coloured close to the surrounding trim and is hard to identify and operate. Tesla's share is just under 3 million cars, the largest recall in its history. The remedy is scheduled to begin in late September 2026."}}, {"@type": "Question", "name": "Is there a US recall for hidden door releases?", "acceptedAnswer": {"@type": "Answer", "text": "No. As of 2026-08-23 there is no equivalent US recall. NHTSA denied a defect petition on the Model 3's concealed manual releases on 2026-07-24, citing only one complaint that matched the allegation. Separately it granted a petition to begin rulemaking on emergency door releases. FMVSS 206 governs door latches, locks and hinges but sets no requirement for the labelling or location of an interior manual release."}}, {"@type": "Question", "name": "Which car door won't open from the inside most often?", "acceptedAnswer": {"@type": "Answer", "text": "Measured as a share of each brand's own NHTSA complaints across all years, BMW is highest at 0.953%, then Hyundai at 0.619%, Tesla at 0.554% and Kia at 0.530%. At model level the Hyundai Tucson stands out at 3.018% on 187 egress complaints. These are shares of complaints, not failure rates — there is no count of cars on the road in this file."}}, {"@type": "Question", "name": "Do the numbers show Teslas trap people more than other cars?", "acceptedAnswer": {"@type": "Answer", "text": "Not once you account for publicity. Tesla sits third across all years, but in the pre-publicity window of 2015-2024 it ranks seventh at 0.379%. Its share then rises to 1.229% in 2025-2026, roughly 3.2 times higher, during the period the door-handle story was heavily covered and NHTSA opened its probes. Tesla is the only major brand whose share rose sharply in that window while others fell, which is consistent with either a genuine emerging problem or with reporting bias. This data cannot separate the two."}}, {"@type": "Question", "name": "How many owners say they could not find the emergency door release?", "acceptedAnswer": {"@type": "Answer", "text": "Two, in the entire 1,552,176-complaint file going back to 1995. Both are Teslas: a 2016 Model X and a 2024 Model Y. That is the exact defect China recalled 4.3 million vehicles for, and it is almost invisible in US complaint text. It means American owners rarely describe the problem in those words, not that the problem does not exist here."}}, {"@type": "Question", "name": "Can a VIN check tell me if a car's doors will open in a crash?", "acceptedAnswer": {"@type": "Answer", "text": "No, and no vehicle history report can. This is one of the few safety questions you have to answer with your hands, by sitting in the car and finding the manual release yourself. A VIN check covers the surrounding risk: whether the car has an open recall, whether it has recorded crash or salvage-auction damage that could have harmed door wiring and latches, and whether its history has been washed."}}, {"@type": "Question", "name": "Which used vehicles have a door problem with no recall behind it?", "acceptedAnswer": {"@type": "Answer", "text": "The Hyundai Tucson is the clearest case in this data at 3.018%. Its lock-actuator and latch fault was never recalled; Hyundai extended warranty coverage instead. A recall check will therefore come back clean on an affected car. The Fisker Ocean is the opposite case: it does carry a recall, 24V466, for doors that may not open from inside or outside, but Fisker is bankrupt and the remedy is largely unobtainable."}}, {"@type": "Question", "name": "What should I physically check on a used car before buying it?", "acceptedAnswer": {"@type": "Answer", "text": "Open and close every door from the inside, including the rears, with the engine off. Find the manual release on each door without looking it up first — if you cannot find it in a calm showroom, no one will find it in a dark, upside-down car. Check that child locks are off, that windows drop, and on any car with flush or electronic handles, ask what happens when the 12-volt battery dies."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Vehicle News", "item": "https://zilocar.com/research"}, {"@type": "ListItem", "position": 2, "name": "China Just Recalled 4.3 Million Cars Because Drivers Can't Find the Door Release. We Counted Every US Complaint From Someone Who Couldn't Get Out", "item": "https://zilocar.com/vehicle-news/used-cars-occupant-egress-complaints-nhtsa-data"}]}]}</script>
+<p><strong>TL;DR</strong> — China has recalled roughly 4.3 million cars because occupants cannot find the emergency door release. We searched all 1,552,176 NHTSA consumer complaints and found 4,324 from people who could not get out of a vehicle, about 1 in 359. Only two name the hidden emergency release, and both are Teslas.</p>
+<h2>Key facts</h2>
+<ul>
+<li><strong>4,324 of 1,552,176</strong> NHTSA complaints (<strong>0.279%</strong>, about 1 in 359) describe an occupant unable to get out of the vehicle.</li>
+<li><strong>2</strong> complaints in the entire file explicitly say the driver could not find the emergency or manual door release. Both are Teslas.</li>
+<li><strong>China recalled ~4.3 million vehicles</strong> across Tesla and at least nine other automakers; Tesla's portion is just under 3 million, its largest ever.</li>
+<li><strong>There is no US recall.</strong> NHTSA denied the Model 3 defect petition on 2026-07-24 and instead opened rulemaking. FMVSS 206 says nothing about where a manual release must be or how it must be labelled.</li>
+<li><strong>Tesla's share tripled after the story broke</strong> — 0.379% pre-2025, 1.229% in 2025-2026 — while every other top brand's share fell.</li>
+</ul>
+<h2>What exactly did China recall, and why?</h2>
+<p>China's market regulator accepted recall filings covering roughly 4.3 million vehicles because the <strong>interior emergency mechanical door release is too hard to find</strong>. The releases exist; regulators concluded they are coloured close to the surrounding trim and are not identifiable quickly by an occupant or a rescuer, particularly after a crash has cut electrical power.</p>
+<p>Tesla filed for just under 3 million cars, the largest recall in the company's history. Xiaomi filed for 390,435 SU7s, Leapmotor for 371,200 vehicles, and Zeekr for 92,658. Chery, Geely, Dongfeng, Arcfox, FAW and Xpeng also filed. Remedies begin in late September 2026.</p>
+<p>The trigger was not a statistic. It was a fatal crash in which a driver was trapped in a burning car while bystanders could not get the doors open.</p>
+<h2>Does the United States have the same problem?</h2>
+<p><strong>The US has the same hardware and none of the rules.</strong> This is the gap that matters for anyone buying a used EV or a modern car with flush handles.</p>
+<table><thead><tr><th></th><th>Status as of 2026-08-23</th></tr></thead><tbody>
+<tr><td>China</td><td>~4.3M vehicles recalled; retractable handle rules tightening</td></tr>
+<tr><td>US recall for hidden releases</td><td><strong>None</strong></td></tr>
+<tr><td>Model 3 defect petition (DP25002)</td><td><strong>Denied</strong> 2026-07-24 — only one matching complaint, traced to the petitioner</td></tr>
+<tr><td>Model Y probe (PE25010)</td><td><strong>Open</strong> — 174,290 MY2021 vehicles, exterior handles inoperative on low 12V</td></tr>
+<tr><td>Emergency-egress rulemaking</td><td><strong>Granted</strong>, formal rulemaking begun</td></tr>
+<tr><td>FMVSS 206</td><td>Covers latches, locks, hinges — <strong>silent on manual release location and labelling</strong></td></tr>
+</tbody></table>
+<p>FMVSS 206 exists to stop doors flying open in a crash. Nothing in it requires that a person inside can get a door open afterwards. That is the hole the rulemaking is meant to fill, and rulemaking takes years — so for the used car you are looking at this month, <strong>no fix is coming</strong>.</p>
+<h2>Which used vehicles have the most "I couldn't get out" complaints?</h2>
+<p>Ranked by each brand's egress complaints as a share of that brand's own complaints, restricted to brands with at least 30 such complaints:</p>
+<table><thead><tr><th>Rank</th><th>Brand</th><th>Egress complaints</th><th>Share, all years</th><th>Share 2015-2024</th><th>Share 2025-26</th></tr></thead><tbody>
+<tr><td>1</td><td>BMW</td><td>277</td><td><strong>0.953%</strong></td><td>0.693%</td><td>0.233%</td></tr>
+<tr><td>2</td><td>Hyundai</td><td>340</td><td>0.619%</td><td><strong>0.853%</strong></td><td>0.368%</td></tr>
+<tr><td>3</td><td>Tesla</td><td>74</td><td>0.554%</td><td>0.379%</td><td><strong>1.229%</strong></td></tr>
+<tr><td>4</td><td>Kia</td><td>229</td><td>0.530%</td><td>0.400%</td><td>0.194%</td></tr>
+<tr><td>5</td><td>Lincoln</td><td>68</td><td>0.510%</td><td>0.673%</td><td>0.600%</td></tr>
+<tr><td>6</td><td>Jeep</td><td>329</td><td>0.383%</td><td>0.220%</td><td>0.091%</td></tr>
+<tr><td>7</td><td>Mercedes-Benz</td><td>51</td><td>0.374%</td><td>0.392%</td><td>0.275%</td></tr>
+<tr><td>8</td><td>Nissan</td><td>201</td><td>0.286%</td><td>0.333%</td><td>0.543%</td></tr>
+<tr><td>—</td><td>All vehicles</td><td>4,324</td><td>0.279%</td><td>—</td><td>—</td></tr>
+</tbody></table>
+<p>At model level, with at least 15 egress complaints:</p>
+<table><thead><tr><th>Model</th><th>Egress complaints</th><th>Share, all years</th></tr></thead><tbody>
+<tr><td>BMW 3 Series</td><td>32</td><td>3.922%</td></tr>
+<tr><td>Fisker Ocean</td><td>34</td><td>3.851%</td></tr>
+<tr><td>Hyundai Tucson</td><td>187</td><td>3.018%</td></tr>
+<tr><td>BMW 325i</td><td>30</td><td>2.216%</td></tr>
+<tr><td>Chevrolet HHR</td><td>78</td><td>2.185%</td></tr>
+<tr><td>Volkswagen ID.4</td><td>17</td><td>1.736%</td></tr>
+<tr><td>Toyota Sienna</td><td>127</td><td>1.506%</td></tr>
+<tr><td>Kia Optima</td><td>110</td><td>1.476%</td></tr>
+<tr><td>Dodge Grand Caravan</td><td>145</td><td>1.085%</td></tr>
+<tr><td>Tesla Model Y</td><td>26</td><td>0.647%</td></tr>
+<tr><td>Tesla Model 3</td><td>21</td><td>0.495%</td></tr>
+</tbody></table>
+<h2>Did the Tesla ranking survive a publicity check?</h2>
+<p><strong>No, and that is the most important thing in this dataset.</strong> Complaint counts respond to news coverage, so we recomputed every share in a pre-publicity window (complaints received 2015-2024) and a post-publicity window (2025-2026), the period when Bloomberg's reporting landed, NHTSA opened PE25010, and the door-handle story became national news.</p>
+<p>Tesla ranks third across all years. In the pre-publicity window it ranks <strong>seventh</strong>, at 0.379%. In 2025-2026 its share is <strong>1.229%</strong> — about 3.2 times higher.</p>
+<p>Every other top brand moved the other way. BMW fell from 0.693% to 0.233%. Hyundai fell from 0.853% to 0.368%. Kia fell from 0.400% to 0.194%.</p>
+<p>Tesla being the only brand to rise sharply is genuinely ambiguous, and we are not going to resolve it here. It is consistent with a real and growing problem in a fleet that is young and heavily electronic. It is equally consistent with owners who have read the coverage now filing reports that owners of a 2003 sedan never filed. <strong>A complaint file cannot separate those two.</strong> Anyone citing the all-years ranking without the window split is citing an artefact.</p>
+<h2>What do these complaints actually describe?</h2>
+<p>Mostly not futuristic handles. The bulk of the file is ordinary mechanical failure on ordinary cars:</p>
+<blockquote>"THE PASSENGER SIDE DOOR JAMS, CAUSING PASSENGERS TO BE TRAPPED IN VEHICLE." — 1995 Mazda 626</blockquote>
+<blockquote>"INSIDE HANDLES BREAK OFF, UNABLE TO EXIT VEHICLE." — 1991 Geo Prizm</blockquote>
+<blockquote>"POWER DOOR LOCKS INTERMITTENTLY FAIL TO UNLOCK FOR 2-5 MINUTES WHEN IGNITION IS TURNED OFF, OCCUPANTS ARE UNABLE TO EXIT VEHICLE DURING THIS TIME." — 1991 Ford Taurus</blockquote>
+<p>The two that name the modern failure read differently:</p>
+<blockquote>"THE REAR SEAT OCCUPANTS WERE UNABLE TO OPEN THE FALCON DOORS. THE EMERGENCY DOOR RELEASE IS NOT OBVIOUS TO OCCUPANTS AND REQUIRES THEM TO REACH UP BEHIND THE SPEAKER GRILL TO FIND THE PULL." — 2016 Tesla Model X</blockquote>
+<p>The second is a 2024 Model Y that lost all 12-volt power in a parking garage at about 110°F with animals inside.</p>
+<p><strong>Two in 1.55 million is not evidence the problem is rare.</strong> It is evidence that US owners do not describe it in those words — and that a defect can be serious enough to trigger the largest recall in Chinese history while leaving almost no trace in the US complaint record.</p>
+<h2>Which of these cars would a recall check actually catch?</h2>
+<p>This is where a buyer gets caught out, and the two extremes are both in our top three models.</p>
+<p><strong>Hyundai Tucson — 3.018%, no recall.</strong> The lock-actuator and latch fault behind these complaints was never recalled. Hyundai issued a service bulletin and extended warranty coverage instead. A recall lookup on an affected Tucson comes back <strong>clean</strong>, because there is nothing to find.</p>
+<p><strong>Fisker Ocean — 3.851%, recall exists, remedy does not.</strong> Recall 24V466 covers 8,204 US vehicles for door handles that may stick and trap occupants. Fisker is bankrupt. The recall is real, open, and in practice very hard to have performed.</p>
+<p>A recall check tells you what a manufacturer was compelled to admit. It does not tell you what a car does.</p>
+<h2>What can a VIN check tell you here, and what can't it?</h2>
+<p><strong>It cannot tell you whether you can get out of the car.</strong> No vehicle history report can, and we are not going to pretend otherwise. Whether a manual release is findable in the dark is a property of the design and of your hands, not of the vehicle's record.</p>
+<p>What a Zilocar VIN check does cover is the risk around it:</p>
+<ul>
+<li><strong>Open safety recalls</strong>, including door, latch and handle campaigns — so you know if the car is named in one and whether it is a Fisker-style orphan.</li>
+<li><strong>Accident and damage records, including airbag deployment.</strong> A car that has taken a significant side impact is a car whose door wiring, latches and actuators have been disturbed and possibly repaired badly.</li>
+<li><strong>Salvage and junk auction records.</strong> Flood and fire history is the single best predictor of future electrical failure, and electronic latches are electrical.</li>
+<li><strong>Odometer readings and rollback flags, theft records, ownership and sales-listing history.</strong></li>
+</ul>
+<p>What it does not cover, and what you should get from NHTSA or a dealer instead: whether a recall has actually been <strong>remedied</strong> on that specific car, the status of open <strong>investigations</strong> like PE25010, and per-unit firmware.</p>
+<h2>The check to do yourself, in the car, in 60 seconds</h2>
+<ol>
+<li><strong>Open every door from the inside</strong> — including both rears — with the ignition off and the car locked.</li>
+<li><strong>Find the manual release on each door without searching for it first.</strong> If you cannot find it sitting calmly in daylight, you will not find it inverted in the dark. On many EVs the rear manual release is under a mat, behind a panel or beneath the seat, and on some cars the rear doors have no obvious release at all.</li>
+<li><strong>Check the child locks are off</strong> on both rear doors, then re-test from inside.</li>
+<li><strong>Ask what happens when the 12-volt battery dies.</strong> On PE25010's population, low voltage is precisely the failure mode.</li>
+<li><strong>Sit in the back and try it.</strong> Nearly every fatal case in the reporting involved rear-seat occupants.</li>
+</ol>
+<h2>Method</h2>
+<p><strong>Source.</strong> NHTSA Office of Defects Investigation consumer complaints flat file, <code>FLAT_CMPL.txt</code>, extracted from <code>FLAT_CMPL.zip</code>, retrieved 2026-08-21 and processed 2026-08-23. The file covers complaints received since 1 January 1995.</p>
+<p><strong>Universe.</strong> 2,237,179 records read. Complaints were deduplicated on <code>ODINO</code>, because a single complaint is repeated once per component, and restricted to records carrying a make and a plausible vehicle model year of 1990-2027. That leaves <strong>N = 1,552,176 unique complaints</strong>, the denominator for every share on this page.</p>
+<p><strong>Classification.</strong> The free-text <code>CDESCR</code> field (position 20 of the CMPL record layout) was matched against five explicit rules: (A) a door will not open <em>from the inside</em>; (B) an occupant is trapped or locked in; (C) someone could not exit or get out of the vehicle; (D) a window was broken <em>in order to</em> get out; (E) the emergency or manual <em>door</em> release could not be found. Counts by rule: A 1,439, B 1,474, C 1,390, D 19, E 2. Total <strong>4,324</strong>.</p>
+<p><strong>Cleanup.</strong> Narratives mentioning a seat belt, lap or shoulder belt, buckle, harness or child restraint are excluded outright — restraint entrapment is a real hazard but a different defect, and it was the largest false-positive class in an earlier draft of this analysis. Also excluded: trunks, liftgates, tailgates, hatches, gloveboxes, fuel-filler doors, cargo areas, garage doors, doors that will not <em>stay</em> open, "out of park", and non-occupant uses of "trapped" such as debris in a blower motor.</p>
+<p><strong>Validation.</strong> The classifier is pinned by a 40-case test suite built from real narratives drawn from this file — 17 that must match and 23 that must not, including every false positive found by reading samples. Matched narratives were read by category before publication. Rules A, B and C, which carry 99.5% of the hits, were clean on inspection; rule D (n=19) retains an estimated four crash-glass false positives and is too small to affect any share reported here.</p>
+<p><strong>Aggregation.</strong> A brand's share is its egress complaints divided by its own total complaints in the same window. Brands are ranked only with at least 30 egress complaints, models only with at least 15 and 400 total complaints; below that, single reports swing a share by whole percentage points. Every share is recomputed for complaints received 2015-2024 and 2025-2026 to expose publicity effects.</p>
+<p><strong>Limits, stated plainly.</strong> Complaints are voluntary and unverified. <strong>This file has no denominator of vehicles on the road, so nothing here is a failure rate</strong> — these are shares of complaints, a measure of composition, not risk. Complaint volume tracks sales volume, vehicle age and press coverage. The <code>VIN</code> field is truncated to 11 characters, so complaints cannot be tied to a specific car. Older records are terse and newer ones verbose, which affects any text-matching method. And an unknown number of genuine egress events are described in words none of our five rules capture; the counts here are a floor, not a census.</p>
+<h2>Sources</h2>
+<ul>
+<li>NHTSA ODI consumer complaints flat file — https://static.nhtsa.gov/odi/ffdd/cmpl/FLAT_CMPL.zip — <em>Last verified 2026-08-23</em></li>
+<li>Frozen dataset for this analysis (CSV) — https://zilocar-news.github.io/zilocar-rss/data/used-cars-occupant-egress-complaints-nhtsa-data-2026-08-23.csv — <em>Last verified 2026-08-23</em></li>
+<li>NHTSA recall lookup — https://www.nhtsa.gov/recalls — <em>Last verified 2026-08-23</em></li>
+<li>China SAMR recall reporting, Reuters / Bloomberg / CnEVPost, 21 August 2026 — <em>Last verified 2026-08-23</em></li>
+<li>NHTSA denial of Model 3 defect petition and grant of egress rulemaking, 24 July 2026 — <em>Last verified 2026-08-23</em></li>
+<li>NHTSA PE25010, Tesla Model Y door handles, opened 15 September 2025 — <em>Last verified 2026-08-23</em></li>
+<li>Fisker recall 24V466, door handles — https://static.nhtsa.gov/odi/rcl/2024/RCONL-24V466-4996.pdf — <em>Last verified 2026-08-23</em></li>
+</ul>]]></content:encoded>
+</item>
+<item>
+<title>GM&#x27;s 6.2L V8 Recall Fix Is Now Itself Under Investigation: 499 Engines Failed After the Repair — and GM Logged 6,953</title>
+<link>https://zilocar.com/vehicle-news/gm-6-2l-l87-v8-engine-failures-after-recall-fix-check-before-buying</link>
+<guid isPermaLink="false">gm-6-2l-l87-v8-engine-failures-after-recall-fix-check-before-buying</guid>
+<pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+<zilocar:canonical>https://zilocar.com/vehicle-news/gm-6-2l-l87-v8-engine-failures-after-recall-fix-check-before-buying</zilocar:canonical>
+<zilocar:dateModified>2026-08-22</zilocar:dateModified>
+<category>news_analysis</category>
+<description>NHTSA opened EA26005 on 2026-08-20 into GM&#x27;s L87 6.2L V8 remedy. 499 engines failed after the recall repair; GM reported 6,953. What it means for used Silverado, Sierra, Tahoe, Yukon, Suburban and Escalade buyers.</description>
+<content:encoded><![CDATA[<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsArticle", "headline": "GM's 6.2L V8 Recall Fix Is Now Itself Under Investigation: 499 Engines Failed After the Repair — and GM Logged", "description": "NHTSA opened EA26005 on 2026-08-20 into GM's L87 6.2L V8 remedy. 499 engines failed after the recall repair; GM reported 6,953. What it means for used Silverado, Sierra, Tahoe, Yukon, Suburban and Escalade buyers.", "datePublished": "2026-08-22T12:00:00Z", "dateModified": "2026-08-22T12:00:00Z", "author": {"@type": "Organization", "name": "Zilocar Editorial", "url": "https://zilocar.com"}, "publisher": {"@type": "Organization", "name": "Zilocar", "url": "https://zilocar.com"}, "mainEntityOfPage": "https://zilocar.com/vehicle-news/gm-6-2l-l87-v8-engine-failures-after-recall-fix-check-before-buying", "url": "https://zilocar.com/vehicle-news/gm-6-2l-l87-v8-engine-failures-after-recall-fix-check-before-buying"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is NHTSA investigation EA26005?", "acceptedAnswer": {"@type": "Answer", "text": "EA26005 is an Engineering Analysis that NHTSA's Office of Defects Investigation opened on 2026-08-20 into General Motors' 6.2L L87 V8. It asks whether the repair GM performed under recall 25V-274 actually fixed the engine. ODI says it has received 499 complaints of engine failure in vehicles that had already completed the recall remedy, and GM reported receiving 6,953 such complaints."}}, {"@type": "Question", "name": "Which GM vehicles does EA26005 cover?", "acceptedAnswer": {"@type": "Answer", "text": "Nine nameplates across model years 2021-2026 with the naturally aspirated 6.2L L87 V8: Chevrolet Silverado 1500, Tahoe, Suburban and Suburban 1500; GMC Sierra 1500, Yukon and Yukon XL; and Cadillac Escalade and Escalade ESV. Trucks and SUVs with the 5.3L V8, the 3.0L Duramax diesel or the turbo four are not part of this investigation."}}, {"@type": "Question", "name": "Did the recall repair fix the engine?", "acceptedAnswer": {"@type": "Answer", "text": "That is the open question EA26005 exists to answer, and NHTSA has not concluded. What is on the record is that ODI logged 499 failures after the remedy was completed — 473 of them after an oil viscosity change and 26 after a full engine replacement — and that GM itself reported 6,953 post-remedy complaints. An investigation is not a finding of defect, and most repaired engines have not been reported as failing."}}, {"@type": "Question", "name": "What was the original 25V-274 remedy?", "acceptedAnswer": {"@type": "Answer", "text": "GM inspected the engine. Engines that failed inspection were replaced outright. Engines that passed received 0W-40 oil in place of the specified 0W-20, with a matching filter and oil-fill cap. So the large majority of 'repaired' trucks did not get new internals — they got a different oil. That distinction matters when you are buying, because the 473 of 499 figure tracks the oil-change remedy."}}, {"@type": "Question", "name": "Can a VIN check tell me whether this recall was repaired?", "acceptedAnswer": {"@type": "Answer", "text": "No. A VIN history report shows whether a vehicle falls under an open recall campaign, and how many recalls it has. It cannot show remedy status, which repair path a given VIN received, or whether NHTSA is investigating that remedy. For repair status, use the free VIN lookup at nhtsa.gov/recalls or ask a GM dealer to read the VIN's service history."}}, {"@type": "Question", "name": "How many of these engines were already repaired?", "acceptedAnswer": {"@type": "Answer", "text": "Recall 25V-274 covered 597,571 vehicles and stood at an 85.06% completion rate in NHTSA's recall file as of our 2026-08-12 pull — roughly 508,000 engines that have already been through the remedy. That is why a remedy-effectiveness investigation matters more than a normal recall: the fix has already been applied to most of the fleet."}}, {"@type": "Question", "name": "Should I avoid buying a used 6.2L V8 Silverado, Tahoe or Escalade?", "acceptedAnswer": {"@type": "Answer", "text": "Not automatically, but price and inspect for it. Ask which remedy the VIN received and get it in writing, get a pre-purchase inspection with an oil analysis, ask for proof of oil-change intervals, and confirm how much of the 5-year/60,000-mile powertrain warranty remains, since that is what would cover a failure. Also check the car's accident, salvage-auction and odometer history separately — an engine investigation says nothing about whether the truck has been wrecked."}}, {"@type": "Question", "name": "Is there a new recall for this?", "acceptedAnswer": {"@type": "Answer", "text": "Not as of 2026-08-22. EA26005 is an investigation, not a recall, and NHTSA's investigation file lists no recall campaign number attached to it. An Engineering Analysis is the stage that can lead to a recall request, but it can also close without one."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Vehicle News", "item": "https://zilocar.com/research"}, {"@type": "ListItem", "position": 2, "name": "GM's 6.2L V8 Recall Fix Is Now Itself Under Investigation: 499 Engines Failed After the Repair — and GM Logged 6,953", "item": "https://zilocar.com/vehicle-news/gm-6-2l-l87-v8-engine-failures-after-recall-fix-check-before-buying"}]}]}</script>
+<h1>GM's 6.2L V8 Recall Fix Is Now Itself Under Investigation: 499 Engines Failed After the Repair — and GM Logged 6,953</h1>
+<p><strong>TL;DR —</strong> On 2026-08-20 NHTSA opened Engineering Analysis EA26005 into General Motors' 6.2L L87 V8, not to ask whether the engine fails, but whether last year's recall repair worked. ODI has 499 complaints of engines failing <em>after</em> the remedy was completed; GM reported 6,953. Recall 25V-274 covered 597,571 vehicles and is already 85% complete.</p>
+<h2>Key facts</h2>
+<table><thead><tr><th>Item</th><th>Value</th></tr></thead><tbody>
+<tr><td>Investigation</td><td>EA26005, Engineering Analysis</td></tr>
+<tr><td>Opened</td><td>2026-08-20 (upgraded from Recall Query RQ26001, opened 2026-01-16)</td></tr>
+<tr><td>Manufacturer</td><td>General Motors, LLC</td></tr>
+<tr><td>Component</td><td>Engine</td></tr>
+<tr><td>Subject</td><td>"Loss of motive power due to engine failure post recall remedy"</td></tr>
+<tr><td>Model years</td><td>2021–2026</td></tr>
+<tr><td>Nameplates</td><td>9 (Silverado 1500, Tahoe, Suburban, Suburban 1500, Sierra 1500, Yukon, Yukon XL, Escalade, Escalade ESV)</td></tr>
+<tr><td>Post-remedy failure complaints (ODI)</td><td>499 — 473 after oil viscosity change, 26 after engine replacement</td></tr>
+<tr><td>Post-remedy failure complaints (GM's own count)</td><td>6,953</td></tr>
+<tr><td>Failures outside the recall production window</td><td>191</td></tr>
+<tr><td>Underlying recall</td><td>25V-274, received 2025-04-24, 597,571 vehicles</td></tr>
+<tr><td>Completion rate of that recall</td><td>85.06% (NHTSA recall file, retrieved 2026-08-12)</td></tr>
+<tr><td>Recall attached to EA26005</td><td>None as of 2026-08-22</td></tr>
+</tbody></table>
+<h2>What exactly did NHTSA open, and why is it different from a recall?</h2>
+<p>EA26005 is a <strong>remedy-effectiveness investigation</strong>: it takes a repair that has already been performed on most of a 597,571-vehicle fleet and asks whether it worked. That is a rarer and more consequential thing than a normal defect probe, because the usual consumer advice — "check for open recalls, get them done" — has already been followed by the owners now complaining.</p>
+<p>The sequence on NHTSA's own record:</p>
+<ol>
+<li><strong>2025-04-24</strong> — GM files recall 25V-274 for engine failure in L87 engines built 2021-03-01 through 2024-05-31, citing "a supplier manufacturing and quality issue" as root cause.</li>
+<li><strong>2026-01-16</strong> — ODI opens Recall Query RQ26001 to assess the remedy's effectiveness after complaints arrive from owners whose recall work was already done.</li>
+<li><strong>2026-08-20</strong> — ODI upgrades to Engineering Analysis EA26005 and <em>expands the scope</em> to include engines built after the recall's production window.</li>
+</ol>
+<p>An Engineering Analysis is the last investigative stage before NHTSA can press for a recall. It is not a finding that a defect exists.</p>
+<h2>How many engines actually failed after being "fixed"?</h2>
+<p><strong>499, by NHTSA's count — but GM's own count is 6,953.</strong> Both numbers come from the same ODI opening summary, and the 14-fold gap is the most striking thing in the document. Manufacturers see warranty claims and dealer repair orders; NHTSA sees only what owners take the trouble to file. The gap is a reminder that complaint counts are a floor, never a rate.</p>
+<p>The 499 splits in a way that matters to a buyer:</p>
+<table><thead><tr><th>Remedy the vehicle received</th><th>Post-remedy failures logged by ODI</th></tr></thead><tbody>
+<tr><td>Oil viscosity change (0W-20 → 0W-40)</td><td>473</td></tr>
+<tr><td>Complete engine replacement</td><td>26</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>499</strong></td></tr>
+</tbody></table>
+<p>Do not read that table as "the oil change is 18× worse than a new engine." Almost all repaired vehicles got the oil change — engines were only replaced if they failed GM's inspection — so the denominators are wildly different and NHTSA does not publish them. What the split does establish is that the failures are concentrated in the cheap remedy, which is the one most used trucks on the market received.</p>
+<p>A separate <strong>191</strong> reports involve L87 engines built <em>after</em> 25V-274's production window closed. Those are not post-remedy failures at all; they are the reason ODI widened the scope. Several outlets have added 499 + 191 and reported "690 post-remedy failures." That is a misjoin — the two numbers count different things.</p>
+<h2>Which used trucks and SUVs are actually in scope?</h2>
+<p>The investigation covers the <strong>naturally aspirated 6.2L V8 (RPO L87)</strong> in model years 2021–2026:</p>
+<table><thead><tr><th>Brand</th><th>Nameplates in EA26005</th></tr></thead><tbody>
+<tr><td>Chevrolet</td><td>Silverado 1500, Tahoe, Suburban, Suburban 1500</td></tr>
+<tr><td>GMC</td><td>Sierra 1500, Yukon, Yukon XL</td></tr>
+<tr><td>Cadillac</td><td>Escalade, Escalade ESV</td></tr>
+</tbody></table>
+<p>Not in scope: the 5.3L V8, the 2.7L turbo four, the 3.0L Duramax diesel, heavy-duty 2500/3500 trucks, and the supercharged LT4/LT5. On a used lot, the 6.2L is usually the top trim's engine — High Country, Denali, Escalade generally, and the badge or window sticker is the fastest tell. Confirm with the VIN's build data rather than the badge.</p>
+<h2>What a Zilocar VIN check can and cannot tell you here</h2>
+<p>This story sits directly on the line between what vehicle history data covers and what it does not, so it is worth being exact.</p>
+<p><strong>A VIN check can tell you:</strong></p>
+<ul>
+<li>Whether the vehicle falls under an open recall campaign, and how many recalls it carries</li>
+<li>Accident and damage records, including airbag-deployment events</li>
+<li>Odometer readings and rollback indicators</li>
+<li>Salvage and junk <strong>auction</strong> records</li>
+<li>Theft records (NICB)</li>
+<li>Ownership history and sales-listing history</li>
+<li>Specs, NHTSA and IIHS ratings, and a valuation</li>
+</ul>
+<p><strong>A VIN check cannot tell you:</strong></p>
+<ul>
+<li>Whether the recall remedy was actually performed on that VIN</li>
+<li><strong>Which</strong> of the two remedies it received — the oil change or the engine replacement</li>
+<li>That an NHTSA investigation such as EA26005 or RQ26001 exists or applies</li>
+<li>Anything about the engine's internal condition or oil-change history</li>
+</ul>
+<p>For the three things this story turns on — remedy status, remedy type, and investigation exposure — go to <strong>nhtsa.gov/recalls</strong> with the VIN (free, and it reports repair status) and to a <strong>GM dealer</strong>, who can read the VIN's warranty and service history and tell you which repair was billed. Use the history report for the things it is genuinely authoritative on: whether this specific truck has been wrecked, flood-touched, clocked, or run through a salvage auction, which no recall database will ever tell you.</p>
+<h2>Is this a reason to walk away from a used 6.2L?</h2>
+<p>No — it is a reason to shift the price and the paperwork. Roughly 508,000 of these engines have been through the remedy and the overwhelming majority have not been reported as failing. Concretely, before you buy:</p>
+<ol>
+<li><strong>Ask which remedy the VIN got, and get it in writing.</strong> Oil change or engine replacement is the single most useful fact about the truck. A documented engine replacement is arguably a <em>plus</em> — it is a new long block.</li>
+<li><strong>Check the recall status at nhtsa.gov/recalls yourself.</strong> Do not rely on the seller's word or on a history report's recall count.</li>
+<li><strong>Get a pre-purchase inspection that includes an oil analysis.</strong> Metal in the oil is the practical early warning; the L87's known failure mode is bearing-related and it tends to arrive without much notice.</li>
+<li><strong>Confirm the remaining powertrain warranty.</strong> GM's is 5 years/60,000 miles from original in-service date and it transfers. On a 2021 truck that coverage is expiring now, which changes the risk materially.</li>
+<li><strong>Ask whether 0W-40 is actually in the sump</strong> and whether the owner kept to it. The remedy is only a remedy if it was maintained.</li>
+<li><strong>Run the history separately.</strong> An engine investigation tells you nothing about whether the truck has been in a crash or sat in an auction lane as a total loss.</li>
+</ol>
+<h2>Does the 85% completion rate make this better or worse?</h2>
+<p><strong>Worse, in one specific sense.</strong> A normal open recall is a to-do item: unrepaired vehicles are the exposed ones, and the fix is free and available. Here the exposure runs the other way — the repair has already been applied to about 508,000 of 597,571 vehicles, so "recall completed" is the <em>normal</em> state of a used L87 on the market today, and it is precisely that state EA26005 is questioning.</p>
+<p>It also means a clean recall check is weaker evidence than it looks. A truck showing "no open recalls" for 25V-274 is a truck that got the oil-viscosity remedy — the one associated with 473 of the 499 reports.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>What is NHTSA investigation EA26005?</strong> An Engineering Analysis opened 2026-08-20 by NHTSA's Office of Defects Investigation into GM's 6.2L L87 V8, asking whether the repair performed under recall 25V-274 actually fixed the engine. ODI has 499 post-remedy failure complaints; GM reported 6,953.</p>
+<p><strong>Which GM vehicles does it cover?</strong> Nine nameplates, model years 2021–2026, with the naturally aspirated 6.2L L87 V8: Chevrolet Silverado 1500, Tahoe, Suburban and Suburban 1500; GMC Sierra 1500, Yukon and Yukon XL; Cadillac Escalade and Escalade ESV.</p>
+<p><strong>Did the recall repair fix the engine?</strong> Unresolved — that is what the investigation is for. On the record: 499 failures after a completed remedy (473 after the oil change, 26 after an engine replacement), plus GM's own count of 6,953. NHTSA has made no defect finding, and most repaired engines have not been reported as failing.</p>
+<p><strong>What was the original remedy?</strong> An inspection. Engines that failed it were replaced; engines that passed got 0W-40 oil in place of 0W-20, plus a new filter and oil-fill cap. Most vehicles got the oil change.</p>
+<p><strong>Can a VIN check tell me whether the recall was repaired?</strong> No. A VIN history report shows recall presence and count, not remedy status, remedy type, or investigation exposure. Use nhtsa.gov/recalls or a GM dealer for repair status.</p>
+<p><strong>How many were already repaired?</strong> 25V-274 covered 597,571 vehicles at an 85.06% completion rate as of our 2026-08-12 pull of NHTSA's recall file — roughly 508,000 vehicles.</p>
+<p><strong>Should I avoid a used 6.2L V8 GM truck?</strong> Not automatically. Establish which remedy the VIN received, get a pre-purchase inspection with oil analysis, confirm remaining powertrain warranty, and price the risk. Check crash, salvage-auction and odometer history separately.</p>
+<p><strong>Is there a new recall?</strong> No. As of 2026-08-22, NHTSA's investigation file shows no recall campaign number attached to EA26005.</p>
+<h2>Sources</h2>
+<ul>
+<li>NHTSA Office of Defects Investigation, <strong>EA26005</strong> opening record — subject, scope, dates, and the 499 / 473 / 26 / 191 / 6,953 figures. Retrieved from the ODI investigations flat file (<code>FLAT_INV.zip</code>, server last-modified 2026-08-22 09:16 GMT). https://static.nhtsa.gov/odi/ffdd/inv/FLAT_INV.zip</li>
+<li>NHTSA ODI Recalls data — recall <strong>25V274000</strong>, received 2025-04-24, 597,571 potentially affected, 85.06% completion rate (retrieved 2026-08-12). https://www.nhtsa.gov/recalls</li>
+<li>NHTSA VIN recall lookup (free, reports repair status). https://www.nhtsa.gov/recalls</li>
+<li>Motor1, "Feds Expand Investigation Into GM's L87 V8 Engines After More Failures," 2026-08. https://www.motor1.com/news/805731/nhtsa-gm-l87-v8-investigation-expands/</li>
+<li>GM Authority, "GM 6.2L L87 Engine Post-Recall Failures Piling Up: NHTSA," 2026-08. https://gmauthority.com/blog/2026/08/gm-6-2l-l87-engine-post-recall-failures-piling-up-nhtsa-investigation-shows/</li>
+</ul>
+<p><strong>Last verified:</strong> 2026-08-22. Investigation status can change; confirm EA26005 at nhtsa.gov and any VIN's recall status at nhtsa.gov/recalls before relying on this page.</p>]]></content:encoded>
+</item>
 <item>
 <title>Only 1 in 9 Three-Year-Old Used Cars Now Costs Under $20K — You Have to Buy a 7-Year-Old Car to Beat It</title>
 <link>https://zilocar.com/vehicle-news/three-year-old-used-car-price-32k-2026-history-check</link>
