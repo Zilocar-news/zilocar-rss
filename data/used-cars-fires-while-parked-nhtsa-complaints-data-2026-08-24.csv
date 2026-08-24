@@ -1,0 +1,111 @@
+table,key,fire_complaints,parked_and_off,pct_of_fire_complaints,state_classifiable,pct_of_state_classifiable
+by_model_year,2000,2992,719,24.03,1435,50.1
+by_model_year,2001,2412,563,23.34,1138,49.47
+by_model_year,2022,501,96,19.16,300,32.0
+by_model_year,1997,2196,405,18.44,878,46.13
+by_model_year,1998,1839,334,18.16,802,41.65
+by_model_year,2002,2306,403,17.48,1048,38.45
+by_model_year,2025,143,23,16.08,88,26.14
+by_model_year,1999,2019,324,16.05,836,38.76
+by_model_year,2023,301,48,15.95,156,30.77
+by_model_year,2021,562,88,15.66,295,29.83
+by_model_year,1996,1621,244,15.05,635,38.43
+by_model_year,1994,1339,197,14.71,460,42.83
+by_model_year,2020,619,90,14.54,357,25.21
+by_model_year,1990,886,118,13.32,290,40.69
+by_model_year,2015,1659,218,13.14,997,21.87
+by_model_year,1992,1110,144,12.97,350,41.14
+by_model_year,2024,281,36,12.81,157,22.93
+by_model_year,2003,1842,231,12.54,755,30.6
+by_model_year,1993,1246,156,12.52,446,34.98
+by_model_year,1995,1799,220,12.23,604,36.42
+by_model_year,2017,1088,133,12.22,653,20.37
+by_model_year,2009,1080,130,12.04,469,27.72
+by_model_year,1991,1012,121,11.96,315,38.41
+by_model_year,2007,2243,266,11.86,995,26.73
+by_model_year,2008,1936,228,11.78,875,26.06
+by_model_year,2019,722,85,11.77,387,21.96
+by_model_year,2013,2143,247,11.53,1141,21.65
+by_model_year,2005,1706,195,11.43,631,30.9
+by_model_year,2010,1017,116,11.41,457,25.38
+by_model_year,2004,1957,222,11.34,845,26.27
+by_model_year,2016,1273,138,10.84,688,20.06
+by_model_year,2006,1682,162,9.63,662,24.47
+by_model_year,2014,1714,165,9.63,943,17.5
+by_model_year,2011,1647,155,9.41,772,20.08
+by_model_year,2012,1833,172,9.38,900,19.11
+by_model_year,2018,839,67,7.99,483,13.87
+by_brand_all_years,LINCOLN,710,197,27.75,328,60.06
+by_brand_all_years,MINI,404,109,26.98,244,44.67
+by_brand_all_years,FORD,10724,2475,23.08,5032,49.19
+by_brand_all_years,PONTIAC,1772,343,19.36,831,41.28
+by_brand_all_years,BMW,1838,340,18.5,886,38.37
+by_brand_all_years,MERCURY,747,130,17.4,287,45.3
+by_brand_all_years,LEXUS,242,34,14.05,127,26.77
+by_brand_all_years,PLYMOUTH,487,68,13.96,195,34.87
+by_brand_all_years,AUDI,307,42,13.68,137,30.66
+by_brand_all_years,MERCEDES-BENZ,403,55,13.65,198,27.78
+by_brand_all_years,NISSAN,1428,191,13.38,644,29.66
+by_brand_all_years,RAM,513,68,13.26,324,20.99
+by_brand_all_years,CADILLAC,501,65,12.97,230,28.26
+by_brand_all_years,HONDA,1293,167,12.92,595,28.07
+by_brand_all_years,ACURA,233,29,12.45,107,27.1
+by_brand_all_years,SUZUKI,202,25,12.38,85,29.41
+by_brand_all_years,BUICK,1187,142,11.96,467,30.41
+by_brand_all_years,HYUNDAI,2293,270,11.77,1274,21.19
+by_brand_all_years,JEEP,2600,294,11.31,1259,23.35
+by_brand_all_years,KIA,2959,333,11.25,1791,18.59
+by_brand_all_years,TOYOTA,2048,223,10.89,993,22.46
+by_brand_all_years,GMC,1022,110,10.76,416,26.44
+by_brand_all_years,OLDSMOBILE,458,47,10.26,213,22.07
+by_brand_all_years,CHEVROLET,4518,461,10.2,1765,26.12
+by_brand_all_years,CHRYSLER,1454,147,10.11,604,24.34
+by_brand_all_years,MITSUBISHI,320,31,9.69,133,23.31
+by_brand_all_years,LAND ROVER,198,19,9.6,99,19.19
+by_brand_all_years,SUBARU,560,53,9.46,278,19.06
+by_brand_all_years,DODGE,4111,374,9.1,1587,23.57
+by_brand_all_years,MAZDA,506,38,7.51,188,20.21
+by_brand_all_years,MERCEDES BENZ,672,46,6.85,233,19.74
+by_brand_all_years,VOLKSWAGEN,1214,78,6.43,478,16.32
+by_brand_all_years,SATURN,342,17,4.97,126,13.49
+by_brand_all_years,VOLVO,391,18,4.6,167,10.78
+by_brand_all_years,TESLA,210,8,3.81,55,14.55
+by_brand_my2019_2025,BMW,101,32,31.68,67,47.76
+by_brand_my2019_2025,LAND ROVER,38,10,26.32,25,40.0
+by_brand_my2019_2025,JEEP,285,68,23.86,181,37.57
+by_brand_my2019_2025,MERCEDES-BENZ,93,20,21.51,58,34.48
+by_brand_my2019_2025,TOYOTA,122,26,21.31,72,36.11
+by_brand_my2019_2025,HYUNDAI,176,35,19.89,94,37.23
+by_brand_my2019_2025,GMC,98,19,19.39,54,35.19
+by_brand_my2019_2025,RAM,162,29,17.9,100,29.0
+by_brand_my2019_2025,FOREST RIVER,59,10,16.95,16,62.5
+by_brand_my2019_2025,CHEVROLET,260,38,14.62,170,22.35
+by_brand_my2019_2025,DODGE,48,7,14.58,18,38.89
+by_brand_my2019_2025,KIA,247,32,12.96,145,22.07
+by_brand_my2019_2025,HONDA,125,16,12.8,69,23.19
+by_brand_my2019_2025,FORD,460,53,11.52,303,17.49
+by_brand_my2019_2025,NISSAN,102,10,9.8,44,22.73
+by_brand_my2019_2025,VOLKSWAGEN,62,5,8.06,25,20.0
+by_brand_my2019_2025,SUBARU,161,11,6.83,89,12.36
+by_brand_my2019_2025,TESLA,98,4,4.08,32,12.5
+by_brand_my2019_2025,WINNEBAGO,50,2,4.0,19,10.53
+by_component_all_years,VEHICLE SPEED CONTROL,2117,751,35.47,1114,67.41
+by_component_all_years,ELECTRICAL SYSTEM,16630,2832,17.03,7371,38.42
+by_component_all_years,UNKNOWN OR OTHER,2704,442,16.35,1510,29.27
+by_component_all_years,ENGINE AND ENGINE COOLING,5984,892,14.91,2794,31.93
+by_component_all_years,STRUCTURE,1414,203,14.36,677,29.99
+by_component_all_years,ENGINE,7058,984,13.94,4243,23.19
+by_component_all_years,"SERVICE BRAKES, HYDRAULIC",1109,139,12.53,423,32.86
+by_component_all_years,EQUIPMENT,651,63,9.68,181,34.81
+by_component_all_years,STEERING,1094,101,9.23,422,23.93
+by_component_all_years,ELECTRONIC STABILITY CONTROL (ESC),246,22,8.94,107,20.56
+by_component_all_years,VISIBILITY,773,67,8.67,222,30.18
+by_component_all_years,"FUEL SYSTEM, GASOLINE",1852,152,8.21,685,22.19
+by_component_all_years,FUEL/PROPULSION SYSTEM,1401,111,7.92,696,15.95
+by_component_all_years,SERVICE BRAKES,813,64,7.87,366,17.49
+by_component_all_years,WHEELS,202,14,6.93,74,18.92
+by_component_all_years,SEATS,1516,102,6.73,508,20.08
+by_component_all_years,EXTERIOR LIGHTING,1315,81,6.16,282,28.72
+by_component_all_years,SUSPENSION,379,17,4.49,109,15.6
+by_component_all_years,AIR BAGS,1074,41,3.82,297,13.8
+by_component_all_years,POWER TRAIN,1775,58,3.27,649,8.94

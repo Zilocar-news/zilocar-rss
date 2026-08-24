@@ -6,7 +6,143 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 23 Aug 2026 18:34:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 11:52:00 +0000</lastBuildDate>
+<item>
+<title>1 in 7 Vehicle Fire Complaints Describes a Car That Was Parked and Switched Off. We Counted All 51,587</title>
+<link>https://zilocar.com/vehicle-news/used-cars-fires-while-parked-nhtsa-complaints-data</link>
+<guid isPermaLink="false">used-cars-fires-while-parked-nhtsa-complaints-data</guid>
+<pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+<zilocar:canonical>https://zilocar.com/vehicle-news/used-cars-fires-while-parked-nhtsa-complaints-data</zilocar:canonical>
+<zilocar:dateModified>2026-08-24</zilocar:dateModified>
+<category>data_study</category>
+<description>We classified every fire-flagged complaint in NHTSA&#x27;s ODI file by what the vehicle was doing. 7,269 of 51,587 (14.1%) describe a fire that started while the car was parked and shut off. The share is rising again in 2020-2022 model years — but model year 2000 was worse.</description>
+<content:encoded><![CDATA[<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsArticle", "headline": "1 in 7 Vehicle Fire Complaints Describes a Car That Was Parked and Switched Off. We Counted All 51,587", "description": "We classified every fire-flagged complaint in NHTSA's ODI file by what the vehicle was doing. 7,269 of 51,587 (14.1%) describe a fire that started while the car was parked and shut off. The share is rising again in 2020-2022 model years — but model year 2000 was worse.", "datePublished": "2026-08-24T12:00:00Z", "dateModified": "2026-08-24T12:00:00Z", "author": {"@type": "Organization", "name": "Zilocar Editorial", "url": "https://zilocar.com"}, "publisher": {"@type": "Organization", "name": "Zilocar", "url": "https://zilocar.com"}, "mainEntityOfPage": "https://zilocar.com/vehicle-news/used-cars-fires-while-parked-nhtsa-complaints-data", "url": "https://zilocar.com/vehicle-news/used-cars-fires-while-parked-nhtsa-complaints-data"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How often do cars actually catch fire while parked and switched off?", "acceptedAnswer": {"@type": "Answer", "text": "In NHTSA's consumer complaint file, 7,269 of 51,587 fire-flagged vehicle complaints — 14.1%, about 1 in 7 — describe a fire that began while the vehicle was parked and shut off. That is a share of complaints, not a rate per vehicle on the road. The file has no denominator of how many cars were parked without incident, so it cannot tell you the odds that any particular car will burn."}}, {"@type": "Question", "name": "Are modern cars more likely to catch fire while parked?", "acceptedAnswer": {"@type": "Answer", "text": "Recent model years are rising, but they are not the worst on record. The parked-and-off share of fire complaints fell to 8.0% for model year 2018, then rose to 14.5% (MY2020), 15.7% (MY2021) and 19.2% (MY2022). Model year 2000 was higher than any of them at 24.0%. So the 'modern cars burn while parked' framing is half right: the recent rise is real, but the all-time peak was a 26-year-old model year."}}, {"@type": "Question", "name": "What caused the model year 2000 spike?", "acceptedAnswer": {"@type": "Answer", "text": "Ford. Of the roughly 1,282 parked-and-off fire complaints for model years 2000 and 2001, 788 are Ford vehicles, and the single largest component category is vehicle speed control. This is the Ford speed control deactivation switch, a cruise-control brake switch that carried electrical power at all times, so a seal leak could ignite a fire with the ignition off and the car unattended. Ford recalled roughly 14.9 million vehicles across six campaigns."}}, {"@type": "Question", "name": "Which component is most associated with parked fires?", "acceptedAnswer": {"@type": "Answer", "text": "Electrical system complaints are the largest group in absolute terms — 2,832 of the 7,269 parked fires, 39.0%. But the highest parked-fire concentration belongs to vehicle speed control: 35.5% of its fire complaints describe a parked, shut-off vehicle, against 17.0% for electrical system. That is the signature of a circuit that stays energised after the key is out."}}, {"@type": "Question", "name": "Can a VIN check tell me whether a used car is likely to catch fire while parked?", "acceptedAnswer": {"@type": "Answer", "text": "No. Nothing predicts an individual fire. A VIN history report can tell you whether the car falls under an open recall campaign and how many recalls it carries, and it can show prior fire or accident damage that reached an insurer or an auction — including salvage-auction and airbag-deployment records. It cannot show whether a recall was actually repaired, and it cannot show whether NHTSA is investigating the car's platform."}}, {"@type": "Question", "name": "What is a 'park outside' recall?", "acceptedAnswer": {"@type": "Answer", "text": "It is a recall where the manufacturer tells owners to park away from buildings and other vehicles because the fire risk exists while the vehicle is switched off. The Washington Post reported on 2026-08-17 that more than 3.2 million US vehicles are under one, and that the first seven months of 2026 brought 17 such campaigns covering about 1.7 million vehicles. Our own census of active park-outside campaigns is a separate piece."}}, {"@type": "Question", "name": "Do EV charging fires show up in this count?", "acceptedAnswer": {"@type": "Answer", "text": "They are separated out, not included. A charging vehicle is parked but energised, so it is a different failure mode from a car that burns with everything off. Charging-related fire complaints are 226 records, 0.44% of fire complaints. The number is small partly because the file spans 1990-2026 and most of it predates mass EV adoption, so it should not be read as an EV safety verdict."}}, {"@type": "Question", "name": "Does this data prove one brand is more dangerous than another?", "acceptedAnswer": {"@type": "Answer", "text": "No, and it is important not to read it that way. These are shares of a brand's own fire complaints, not fires per vehicle sold, because the complaint file carries no sales denominator. A brand can rank high because it had one long-running defect that burned parked cars, which is exactly what happened to Ford. Recall publicity also drives complaint volume, so brands under a well-publicised fire recall attract more reports."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Vehicle News", "item": "https://zilocar.com/research"}, {"@type": "ListItem", "position": 2, "name": "1 in 7 Vehicle Fire Complaints Describes a Car That Was Parked and Switched Off. We Counted All 51,587", "item": "https://zilocar.com/vehicle-news/used-cars-fires-while-parked-nhtsa-complaints-data"}]}]}</script>
+<h1>1 in 7 Vehicle Fire Complaints Describes a Car That Was Parked and Switched Off. We Counted All 51,587</h1>
+<p><strong>TL;DR:</strong> We classified every fire-flagged complaint in NHTSA's public consumer complaint file by what the vehicle was doing when the fire started. Of 51,587 fire complaints, 7,269 — 14.1%, about 1 in 7 — describe a car that was parked and shut off. The share is rising again in 2020-2022 model years, but model year 2000 remains the worst on record.</p>
+<h2>Key facts</h2>
+<ul>
+<li><strong>7,269 of 51,587</strong> fire-flagged vehicle complaints (<strong>14.1%</strong>) describe a fire that began while the vehicle was parked and switched off.</li>
+<li>Drawn from <strong>2,165,535 vehicle complaints</strong> in NHTSA's ODI flat file, retrieved <strong>2026-08-24</strong>.</li>
+<li><strong>Electrical system</strong> accounts for <strong>39.0%</strong> of parked fires (2,832 records) — the largest single component group.</li>
+<li><strong>Vehicle speed control</strong> has the highest concentration: <strong>35.5%</strong> of its fire complaints are parked-and-off, versus 17.0% for electrical system.</li>
+<li><strong>Model year 2000 is the peak at 24.0%</strong>, driven by Ford: 788 of ~1,282 parked fires in MY2000-2001 are Ford vehicles.</li>
+<li>Recent model years are rising from a trough: <strong>8.0% (MY2018) → 19.2% (MY2022)</strong>.</li>
+<li><strong>Charging fires are counted separately</strong> (226 records, 0.44%) — a charging car is parked but energised.</li>
+</ul>
+<h2>How often does a car actually catch fire while parked and off?</h2>
+<p>About one time in seven, among fire complaints. Of the 51,587 fire-flagged vehicle complaints in NHTSA's file, 7,269 narratives describe a fire that started while the vehicle was parked with the engine off — 14.09%.</p>
+<p>That number needs one guardrail stated immediately: it is a share <strong>of complaints</strong>, not a rate per vehicle. NHTSA's complaint file records what people reported. It contains no count of how many cars sat parked overnight without incident, so nothing here tells you the probability that a given car will burn. What it does tell you is the <em>composition</em> of vehicle fires that reach the federal record — and the fact that a seventh of them happen with the key out is the part most buyers get wrong.</p>
+<p>The remaining complaints break down like this:</p>
+<table><thead><tr><th>Vehicle state at fire onset</th><th>Complaints</th><th>Share</th></tr></thead><tbody>
+<tr><td>No vehicle state stated</td><td>16,491</td><td>32.0%</td></tr>
+<tr><td>Driving, or pulled over because of the fire</td><td>14,037</td><td>27.2%</td></tr>
+<tr><td>Other / state unclear</td><td>11,836</td><td>22.9%</td></tr>
+<tr><td><strong>Parked and shut off</strong></td><td><strong>7,269</strong></td><td><strong>14.1%</strong></td></tr>
+<tr><td>Running, idling or being started</td><td>1,728</td><td>3.4%</td></tr>
+<tr><td>Charging</td><td>226</td><td>0.4%</td></tr>
+</tbody></table>
+<p>The single largest bucket is complaints that never say what the car was doing. That is why the trend analysis below reports a second, normalised measure alongside the raw share.</p>
+<h2>Are newer cars really more likely to burn while parked?</h2>
+<p>Partly. The recent rise is real, but it is not unprecedented, and the honest version of this finding is more interesting than the headline version.</p>
+<p>Here is the parked-and-off share of fire complaints by model year, with the normalised measure that only counts complaints which actually stated a vehicle state:</p>
+<table><thead><tr><th>Model year</th><th>Fire complaints</th><th>Parked &amp; off</th><th>% of all fire complaints</th><th>% of state-stating complaints</th></tr></thead><tbody>
+<tr><td>2000</td><td>2,992</td><td>719</td><td><strong>24.0%</strong></td><td><strong>50.1%</strong></td></tr>
+<tr><td>2001</td><td>2,412</td><td>563</td><td>23.3%</td><td>49.5%</td></tr>
+<tr><td>2011</td><td>1,647</td><td>155</td><td>9.4%</td><td>20.1%</td></tr>
+<tr><td>2014</td><td>1,714</td><td>165</td><td>9.6%</td><td>17.5%</td></tr>
+<tr><td>2018</td><td>839</td><td>67</td><td><strong>8.0%</strong></td><td><strong>13.9%</strong></td></tr>
+<tr><td>2020</td><td>619</td><td>90</td><td>14.5%</td><td>25.2%</td></tr>
+<tr><td>2021</td><td>562</td><td>88</td><td>15.7%</td><td>29.8%</td></tr>
+<tr><td>2022</td><td>501</td><td>96</td><td><strong>19.2%</strong></td><td><strong>32.0%</strong></td></tr>
+<tr><td>2023</td><td>301</td><td>48</td><td>15.9%</td><td>30.8%</td></tr>
+</tbody></table>
+<p>The shape is a U, not a ramp. Parked fires peaked with model year 2000, collapsed through the 2010s, and have been climbing again since model year 2018. Model year 2022 sits at roughly two-and-a-half times the MY2018 trough — but still well below MY2000.</p>
+<h2>We ran the check most likely to kill this finding</h2>
+<p>The obvious way this result could be an artefact: complaint narratives have got longer and more detailed over 30 years. If newer complaints simply describe the situation more often, the parked share would rise without any change in what is actually burning.</p>
+<p>That effect is real. The share of fire complaints that state <em>any</em> vehicle state climbs from <strong>33.6% (MY1995)</strong> to about <strong>55-61%</strong> in recent model years. So part of the raw rise is a writing-style artefact, and anyone reporting the raw number alone would be overstating the trend.</p>
+<p>The finding survives the correction. Restricting to complaints that stated a vehicle state, the parked share still falls to <strong>13.9% at MY2018</strong> and still rises to <strong>32.0% at MY2022</strong> — a 2.3x increase that descriptiveness cannot explain. And MY2000 remains the peak at <strong>50.1%</strong> on the same corrected measure.</p>
+<p>So both halves hold, and they point in opposite directions from the usual framing: <strong>parked fires are genuinely rising again in recent model years, and the worst model year on record is still a car from the year 2000.</strong></p>
+<h2>What made model year 2000 the worst on record?</h2>
+<p>One defect family, in one manufacturer's vehicles. Of the roughly 1,282 parked-and-off fire complaints across model years 2000 and 2001, <strong>788 are Ford</strong> vehicles. The leading component categories are electrical system (425) and vehicle speed control (295).</p>
+<p>That is the Ford speed control deactivation switch — a brake-mounted cruise-control switch that was wired to a circuit carrying power at all times, whether or not the key was in the ignition. When a seal failed and brake fluid leaked into the switch, it could overheat and ignite with the car parked, unattended and switched off. Ford recalled roughly 14.9 million vehicles across six campaigns between 1999 and 2009.</p>
+<p>It is the cleanest illustration of the mechanism behind every park-outside recall: <strong>a circuit that stays live after the key comes out.</strong> That is also why vehicle speed control tops the concentration table below.</p>
+<h2>Which components burn while parked?</h2>
+<p>Electrical system dominates by volume; vehicle speed control dominates by concentration.</p>
+<table><thead><tr><th>Component category</th><th>Parked &amp; off</th><th>Fire complaints</th><th>Parked share</th></tr></thead><tbody>
+<tr><td>Vehicle speed control</td><td>751</td><td>2,117</td><td><strong>35.5%</strong></td></tr>
+<tr><td>Electrical system</td><td>2,832</td><td>16,630</td><td>17.0%</td></tr>
+<tr><td>Engine and engine cooling</td><td>892</td><td>5,984</td><td>14.9%</td></tr>
+<tr><td>Structure</td><td>203</td><td>1,414</td><td>14.4%</td></tr>
+<tr><td>Engine</td><td>984</td><td>7,058</td><td>13.9%</td></tr>
+<tr><td>Service brakes, hydraulic</td><td>139</td><td>1,109</td><td>12.5%</td></tr>
+</tbody></table>
+<p>Read the last column, not the first. Electrical system has the most parked fires simply because it has the most fire complaints of any category. Vehicle speed control is the outlier: more than a third of its fire complaints involve a car that was switched off, roughly double the electrical-system rate.</p>
+<h2>Which brands show the highest parked-fire share?</h2>
+<p>Lincoln, Mini and Ford lead across all model years. This table needs the heaviest caveat on the page, so it comes first: <strong>these are shares of each brand's own fire complaints, not fires per vehicle sold.</strong> The complaint file has no sales denominator. A brand ranks high here if it had a defect that burned parked cars — not necessarily if it burns more often overall.</p>
+<table><thead><tr><th>Brand (min. 150 fire complaints)</th><th>Parked &amp; off</th><th>Fire complaints</th><th>Parked share</th></tr></thead><tbody>
+<tr><td>Lincoln</td><td>197</td><td>710</td><td>27.7%</td></tr>
+<tr><td>Mini</td><td>109</td><td>404</td><td>27.0%</td></tr>
+<tr><td>Ford</td><td>2,475</td><td>10,724</td><td>23.1%</td></tr>
+<tr><td>Pontiac</td><td>343</td><td>1,772</td><td>19.4%</td></tr>
+<tr><td>BMW</td><td>340</td><td>1,838</td><td>18.5%</td></tr>
+<tr><td>Mercury</td><td>130</td><td>747</td><td>17.4%</td></tr>
+<tr><td>…</td><td></td><td></td><td></td></tr>
+<tr><td>Volkswagen</td><td>78</td><td>1,214</td><td>6.4%</td></tr>
+<tr><td>Saturn</td><td>17</td><td>342</td><td>5.0%</td></tr>
+<tr><td>Volvo</td><td>18</td><td>391</td><td>4.6%</td></tr>
+<tr><td>Tesla</td><td>8</td><td>210</td><td>3.8%</td></tr>
+</tbody></table>
+<p>Lincoln, Ford and Mercury are the same corporate family and the same switch. Their position in this table is substantially a 1990s-2000s defect still sitting in a 30-year file, not a statement about vehicles on sale now.</p>
+<p>Tesla ranks <strong>lowest</strong> of any brand clearing the threshold, at 3.8%. That cuts against the popular association between EVs and parked fires, but it is a small sample (210 fire complaints) and Tesla's fire complaints skew heavily to recent years, so it is a weak signal rather than a finding.</p>
+<p>Restricting to model years 2019-2025 changes the leaderboard entirely — and these counts are small enough that they should be read as a watch list, not a ranking:</p>
+<table><thead><tr><th>Brand (MY2019-2025, min. 25 fire complaints)</th><th>Parked &amp; off</th><th>Fire complaints</th><th>Parked share</th></tr></thead><tbody>
+<tr><td>BMW</td><td>32</td><td>101</td><td>31.7%</td></tr>
+<tr><td>Land Rover</td><td>10</td><td>38</td><td>26.3%</td></tr>
+<tr><td>Jeep</td><td>68</td><td>285</td><td>23.9%</td></tr>
+<tr><td>Mercedes-Benz</td><td>20</td><td>93</td><td>21.5%</td></tr>
+<tr><td>Toyota</td><td>26</td><td>122</td><td>21.3%</td></tr>
+<tr><td>Hyundai</td><td>35</td><td>176</td><td>19.9%</td></tr>
+</tbody></table>
+<h2>What can a VIN check tell you — and what can't it?</h2>
+<p><strong>It can tell you</strong> whether the specific car falls under an open recall campaign and how many recalls it carries; whether it has accident and damage records, including airbag deployment; whether it appears in salvage or junk <strong>auction</strong> records; its odometer readings and any rollback indication; theft records; ownership history; sales-listing history; specs, NHTSA and IIHS ratings, and valuation.</p>
+<p><strong>It cannot tell you</strong> whether a recall was actually repaired — remedy and "flashed" status is not in vehicle history data. It cannot tell you whether NHTSA has an open investigation (a PE or EA) on that platform, because investigations attach to vehicle populations, not VINs. It cannot show per-unit firmware or software version. And it cannot make a legal title-brand determination.</p>
+<p>For a fire recall specifically, the split matters more than usual. A history report tells you the campaign exists on that VIN. <strong>Only the free VIN lookup at nhtsa.gov/recalls or a franchise dealer can tell you whether the repair was done</strong> — and with a park-outside recall, an unrepaired car is one you are being told not to park in a garage.</p>
+<p>Practical order for a used car with a fire recall in its history: check the VIN at nhtsa.gov/recalls for open campaigns and remedy status, pull a history report for prior fire or flood damage and auction records that suggest the car already burned once, and ask the seller for the dealer repair order that closes the campaign.</p>
+<h2>Method</h2>
+<p><strong>Source file.</strong> NHTSA Office of Defects Investigation consumer complaints flat file, <code>FLAT_CMPL.txt</code>, downloaded from <code>https://static.nhtsa.gov/odi/ffdd/cmpl/FLAT_CMPL.zip</code> on <strong>2026-08-24</strong>. The file contained <strong>2,237,560</strong> records.</p>
+<p><strong>Universe.</strong> Restricted to records with product type <code>V</code> (vehicles), excluding tires, child seats and equipment: <strong>2,165,535</strong> records. Model year was then restricted to 1990-2027, dropping the sentinel values <code>9999</code> and <code>0000</code> and blank years, leaving <strong>2,120,294</strong> complaints. Of those, <strong>51,587</strong> carry NHTSA's fire flag (field 9 = <code>Y</code>). That 51,587 is the denominator for every percentage on this page unless stated otherwise.</p>
+<p><strong>Classification.</strong> Each fire complaint's free-text narrative (field 20) was classified into exactly one state at fire onset:</p>
+<ol>
+<li><strong>No event</strong> — the narrative describes no actual fire, only a recall notice or a fear of fire. Requires an explicit event phrase ("caught fire", "burst into flames", "fire department") to escape this bucket. 16,491 records.</li>
+<li><strong>Driving or reaction</strong> — the fire began in motion, or the driver pulled over <em>because</em> of it. This was the dominant false positive in early drafts: a driver smells smoke, pulls into a parking lot, and the narrative then contains the word "parked". Vetoed on phrases like "pulled over", "pulled into", "came to a stop", "while driving", "off ramp". 14,037 records.</li>
+<li><strong>Running, idling or being started</strong> — parked but energised, including remote starts and warm-ups. 1,728 records.</li>
+<li><strong>Charging</strong> — parked but energised via a charger. 226 records.</li>
+<li><strong>Parked and shut off</strong> — the load-bearing category. 7,269 records.</li>
+<li><strong>Other</strong> — a fire occurred but no vehicle state is recoverable. 11,836 records.</li>
+</ol>
+<p><strong>Cleanup rules.</strong> "Parking lot", "parking garage", "parking brake" and "in park" (the gear selector) are stripped before testing, because they are not evidence the engine was off. A bare time gap ("36 minutes later the car was on fire") is not accepted as off-state evidence unless it is tied to parking language within 90 characters. Running/idling and driving/reaction vetoes take priority over parked evidence, so "caught fire while parked and idling" is classified as running, not parked.</p>
+<p><strong>Validation.</strong> The matcher is pinned by a <strong>39-case test suite</strong> (20 must-match, 19 must-not-match) built entirely from real narratives in this file. Three rounds of blind precision audits were run on random samples of matches; the final audit was 16 of 16 correct after fixing four defects found in earlier rounds — a misspelled "IDELING", "started it up", an equipment record with model year 9999, and a bare time-gap match with no parking evidence.</p>
+<p><strong>Robustness check.</strong> Because narrative descriptiveness rises over time, every model-year figure is reported twice: as a share of all fire complaints, and as a share of complaints that stated any vehicle state. The trend is reported only where it survives both.</p>
+<p><strong>Known limits.</strong> This is a complaint file, not an incident census — it counts reports, not fires, and recall publicity measurably increases reporting for the affected vehicles. There is no sales or fleet denominator, so no rate per vehicle can be computed and no brand comparison of actual fire risk is possible. The classifier is rule-based on free text and is imperfect in both directions: about 23% of fire complaints state no usable vehicle state and are excluded from the parked count, which means <strong>7,269 is a floor, not a ceiling</strong>. Model years 2024-2026 are still accumulating complaints and their percentages are volatile on small counts. The file lists <code>MERCEDES-BENZ</code> and <code>MERCEDES BENZ</code> as separate makes; they are not merged here.</p>
+<p><strong>Frozen dataset.</strong> The full model-year, brand, recent-brand and component tables are published as a CSV alongside this article, linked in Sources.</p>
+<h2>FAQ</h2>
+<p><strong>How often do cars actually catch fire while parked and switched off?</strong> In NHTSA's consumer complaint file, 7,269 of 51,587 fire-flagged vehicle complaints — 14.1%, about 1 in 7 — describe a fire that began while the vehicle was parked and shut off. That is a share of complaints, not a rate per vehicle on the road.</p>
+<p><strong>Are modern cars more likely to catch fire while parked?</strong> Recent model years are rising but are not the worst on record. The share fell to 8.0% for model year 2018, then rose to 14.5% (MY2020), 15.7% (MY2021) and 19.2% (MY2022). Model year 2000 was higher than all of them at 24.0%.</p>
+<p><strong>What caused the model year 2000 spike?</strong> Ford. Of roughly 1,282 parked-and-off fire complaints for model years 2000-2001, 788 are Ford vehicles, and vehicle speed control is a leading component. This is the Ford speed control deactivation switch, which carried power with the ignition off.</p>
+<p><strong>Which component is most associated with parked fires?</strong> Electrical system is largest by volume (2,832 records, 39.0% of parked fires), but vehicle speed control has the highest concentration at 35.5% of its own fire complaints, against 17.0% for electrical system.</p>
+<p><strong>Can a VIN check tell me whether a used car is likely to catch fire while parked?</strong> No. A VIN report shows open recall presence and count, accident and airbag-deployment records, salvage-auction history, odometer, theft, ownership and listing history. It cannot show recall remedy status, open NHTSA investigations, or per-unit firmware.</p>
+<p><strong>What is a "park outside" recall?</strong> A recall where the manufacturer tells owners to park away from structures because the fire risk exists with the vehicle switched off. The Washington Post reported on 2026-08-17 that more than 3.2 million US vehicles are under one.</p>
+<p><strong>Do EV charging fires show up in this count?</strong> No — they are separated out. Charging complaints are 226 records (0.44%). A charging car is parked but energised, which is a different failure mode. The file spans 1990-2026, so most of it predates mass EV adoption.</p>
+<p><strong>Does this data prove one brand is more dangerous than another?</strong> No. These are shares of each brand's own fire complaints, not fires per vehicle sold. There is no sales denominator in the file, and recall publicity inflates complaint counts for affected brands.</p>
+<h2>Sources</h2>
+<ul>
+<li>NHTSA Office of Defects Investigation, consumer complaints flat file (<code>FLAT_CMPL.zip</code>) — https://static.nhtsa.gov/odi/ffdd/cmpl/FLAT_CMPL.zip — retrieved and analysed 2026-08-24. <strong>Last verified 2026-08-24.</strong></li>
+<li>Zilocar frozen dataset for this analysis (CSV) — https://zilocar-news.github.io/zilocar-rss/data/used-cars-fires-while-parked-nhtsa-complaints-data-2026-08-24.csv — <strong>Last verified 2026-08-24.</strong></li>
+<li>The Washington Post, "They were told to park outside. Then their cars burst into flames." 2026-08-17. <strong>Last verified 2026-08-24.</strong></li>
+<li>Center for Auto Safety, "Ford Cruise Control Deactivation Switch Recalls and History" — https://www.autosafety.org/ford-cruise-control-deactivation-switch-recalls-and-history/ — <strong>Last verified 2026-08-24.</strong></li>
+<li>NHTSA recall VIN lookup — https://www.nhtsa.gov/recalls — <strong>Last verified 2026-08-24.</strong></li>
+</ul>]]></content:encoded>
+</item>
 <item>
 <title>China Just Recalled 4.3 Million Cars Because Drivers Can&#x27;t Find the Door Release. We Counted Every US Complaint From Someone Who Couldn&#x27;t Get Out</title>
 <link>https://zilocar.com/vehicle-news/used-cars-occupant-egress-complaints-nhtsa-data</link>
