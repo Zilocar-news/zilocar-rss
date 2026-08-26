@@ -1,0 +1,16 @@
+model,model_year_scope,group,total_complaints,service_brakes_complaints,pct_service_brakes_of_own,loss_of_braking_complaints,pct_loss_of_braking_of_own,share_of_cohort_loss_of_braking_pct
+Chevrolet Traverse,2024-2026,eBoost cohort (EA26006),301,167,55.5,26,8.6,32.9
+GMC Acadia,2024-2026,eBoost cohort (EA26006),117,60,51.3,9,7.7,11.4
+Acura ZDX,2024-2026,eBoost cohort (EA26006),54,20,37.0,2,3.7,2.5
+Buick Enclave,2024-2026,eBoost cohort (EA26006),43,14,32.6,2,4.7,2.5
+Chevrolet Blazer EV,2024-2026,eBoost cohort (EA26006),94,23,24.5,2,2.1,2.5
+Buick Envision,2024-2026,eBoost cohort (EA26006),17,4,23.5,1,5.9,1.3
+Chevrolet Colorado,2023-2026,eBoost cohort (EA26006),271,59,21.8,8,3.0,10.1
+Cadillac Lyriq,2023-2026,eBoost cohort (EA26006),152,32,21.1,10,6.6,12.7
+Cadillac Optiq,2025-2026,eBoost cohort (EA26006),12,2,16.7,0,0.0,0.0
+Chevrolet Equinox EV,2024-2026,eBoost cohort (EA26006),268,30,11.2,5,1.9,6.3
+GMC Canyon,2023-2026,eBoost cohort (EA26006),271,23,8.5,7,2.6,8.9
+Honda Prologue,2024-2026,eBoost cohort (EA26006),960,61,6.4,7,0.7,8.9
+Cadillac Celestiq,2025-2026,eBoost cohort (EA26006),0,0,,0,,0.0
+Chevrolet Silverado 1500,2023-2026,contrast group (non-eBoost),729,35,4.8,8,1.1,
+GMC Sierra 1500,2023-2026,contrast group (non-eBoost),861,31,3.6,5,0.6,
