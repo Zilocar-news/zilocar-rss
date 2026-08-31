@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 31 Aug 2026 08:19:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 08:20:00 +0000</lastBuildDate>
 <item>
 <title>Are Used EVs a Bigger Fire Risk Than Gas Cars? We Split Every &#x27;Park Outside&#x27; Recall by Powertrain</title>
 <link>https://zilocar.com/vehicle-news/are-used-evs-bigger-fire-risk-than-gas-cars-nhtsa-recall-data</link>
@@ -125,7 +125,7 @@
 <li><a href="https://www.eia.gov/todayinenergy/detail.php?id=67144">U.S. EIA — EV sales fell as hybrid sales rose in 2025</a></li>
 <li><a href="https://www.cnbc.com/2026/08/28/ev-maker-lucid-to-recall-more-than-27000-luxury-sedans-over-fire-risk-nhtsa-says.html">CNBC — Lucid to recall more than 27,000 luxury sedans over fire risk</a></li>
 <li><a href="https://insideevs.com/news/806421/lucid-fire-risk-recall-27k/">InsideEVs — Lucid recalls 27,185 Air sedans over fire risk</a></li>
-<li><a href="https://zilocar.com/data/park-outside-fire-recalls-by-powertrain-2015-2026.csv">Frozen campaign-level dataset (this analysis, powertrain split)</a></li>
+<li><a href="https://zilocar-news.github.io/zilocar-rss/data/are-used-evs-bigger-fire-risk-than-gas-cars-nhtsa-recall-data-2026-08-31.csv">Frozen campaign-level dataset (this analysis, powertrain split)</a></li>
 </ul>
 <p>Last verified: 2026-08-31</p>]]></content:encoded>
 </item>
