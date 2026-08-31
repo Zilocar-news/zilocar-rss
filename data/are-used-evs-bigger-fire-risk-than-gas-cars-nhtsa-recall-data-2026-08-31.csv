@@ -1,0 +1,27 @@
+section,powertrain,campaigns,pct_campaigns,potentially_affected_units,pct_units,avg_units_per_campaign,notes
+composition,Gas/diesel ICE only,59,52.2,7800887,57.1,132218,Pure internal-combustion campaigns
+composition,Mixed ICE + electrified,10,8.8,5317822,38.9,531782,Mainstream ICE platforms with a few electrified trims; includes 23V651 (1.65M) 23V652 (1.73M) 26V363 (1.08M); POTAFF cannot be split ICE vs electrified
+composition,Battery-electric (BEV) only,35,31.0,255502,1.87,7300,Chevy Bolt saga (20V701 21V560 21V650 24V481 24V812) = 160939 units = 63% of BEV; BEV ex-Bolt = 94563
+composition,Plug-in hybrid (PHEV) only,5,4.4,219408,1.61,43881,
+composition,Hybrid (HEV) only,1,0.9,69870,0.51,69870,Subaru Crosstrek/Forester Hybrid 26V106
+composition,Hydrogen fuel-cell (FCEV) only,3,2.7,2521,0.02,840,Hyundai Nexo
+composition,TOTAL,113,100.0,13666010,100.0,120938,All-electrified (BEV+PHEV+HEV+FCEV) = 44 campaigns (38.9%) / 547301 units (4.00%)
+fleet_normalization,BEV,,,,,,Fleet share 1.87% (5.5M of 293.5M); 31.0% of campaigns; 6.36 campaigns per million registered; ~30x over-represented at campaign level; units recalled = 4.65% of BEV fleet
+fleet_normalization,Gas/diesel ICE,,,,,,Fleet share ~93% (~274.3M); 52.2% of campaigns (pure); 0.215 campaigns per million registered; units recalled = 2.84% pure / 4.78% incl. mixed of ICE fleet
+mechanism,High-voltage/traction battery or hybrid propulsion,40,,786979,5.8,,Fire originates in the HV/traction battery or hybrid propulsion system
+mechanism,Conventional system shared with gas cars,73,,12879031,94.2,,"ABS/HECU modules, brake fluid, engine, wiring, trailer hitch, seat switch"
+official_flag_only,ICE only,57,,6797229,,,"PARK_OUTSIDE advisory flag = Yes only, 2020-2026"
+official_flag_only,BEV only,29,,235979,,,"PARK_OUTSIDE advisory flag = Yes only, 2020-2026"
+official_flag_only,Other electrified,8,,137767,,,"PARK_OUTSIDE advisory flag = Yes only, 2020-2026"
+official_flag_only,Mixed,6,,5116469,,,"PARK_OUTSIDE advisory flag = Yes only, 2020-2026"
+peg,Lucid Air BEV (26V540000),1,,27185,,,"MY2022-2026 Air; exterior-lighting circuit overheat (ELECTRICAL SYSTEM:SOFTWARE), NOT a traction-battery fire; parkOutside=true parkIt=false; OTA remedy; owner letters 2026-10-16; included in BEV-only bucket"
+robustness,BEV all campaigns,35,,,,,6.36 campaigns per million registered BEV (5.5M VIO); baseline as published
+robustness,ICE all campaigns,59,,,,,0.215 per million registered ICE (288.0M VIO); baseline as published
+robustness,BEV nameplate-deduplicated,18,,,,,"3.27/M; 35 campaigns collapse to 18 nameplates (I-Pace 7, Bolt 5, EQB 4, ID.4 3)"
+robustness,ICE nameplate-deduplicated,43,,,,,0.149/M; ratio 21.9x - weakens but does not close the gap
+robustness,BEV light-duty only,31,,,,,"5.64/M; 4 commercial BEV campaigns removed (New Flyer x2, Nikola, Cushman)"
+robustness,ICE light-duty only,45,,,,,0.156/M; 14 commercial ICE campaigns removed; ratio widens to 36.1x
+robustness,BEV light-duty + deduplicated,15,,,,,2.73/M; strictest cut; ratio 23.1x
+robustness,ICE light-duty + deduplicated,34,,,,,0.118/M; strictest cut
+reversal,BEV units excl. Bolt,,,94563,,,1.72% of BEV fleet vs 2.84% pure-gas = 0.75x - THIS CUT REVERSES the unit-level claim
+reversal,BEV units incl. Bolt,,,255502,,,"4.65% of BEV fleet; Bolt saga = 160,939 units = 63% of BEV-only total"
