@@ -1,0 +1,13 @@
+make,model,model_year,service_brakes_complaints,note
+Toyota,Prius,2016,23,within-nameplate fleet-age breakdown
+Toyota,Prius,2017,14,within-nameplate fleet-age breakdown
+Toyota,Prius,2018,4,within-nameplate fleet-age breakdown
+Toyota,Prius,2024,2,within-nameplate fleet-age breakdown
+Ford,Fusion Hybrid,2016,122,within-nameplate fleet-age breakdown
+Ford,Fusion Hybrid,2017,102,within-nameplate fleet-age breakdown
+Ford,Fusion Hybrid,2018,9,within-nameplate fleet-age breakdown
+Ford,Fusion Hybrid,2019,7,within-nameplate fleet-age breakdown
+Ford,Fusion Hybrid,2020,0,within-nameplate fleet-age breakdown
+Ford,Maverick Hybrid,2022,97,within-nameplate fleet-age breakdown
+Ford,Maverick Hybrid,2023,7,within-nameplate fleet-age breakdown
+Ford,Maverick Hybrid,2024,12,within-nameplate fleet-age breakdown
