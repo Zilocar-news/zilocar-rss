@@ -1,6 +1,5 @@
 make,model,model_year_range,total_complaints,service_brakes_complaints,service_brakes_share
 Toyota,Sienna Hybrid,2021-2024,183,53,0.290
-Ford,Mustang Mach-E (BEV),2023-2024,160,30,0.188
 Ford,Maverick Hybrid (MAVERICK HEV),2022-2024,634,116,0.183
 Honda,Accord Hybrid,2016-2024,1045,189,0.181
 Toyota,Prius,2016-2024,422,66,0.156
@@ -10,11 +9,12 @@ Honda,Insight,2019-2022,183,25,0.137
 Toyota,Prius c,2016-2018,259,35,0.135
 Toyota,Prius v,2016-2018,268,34,0.127
 Toyota,RAV4 Hybrid,2016-2024,403,51,0.127
+Ford,Mustang Mach-E (both ODI strings; MUSTANG MACH-E + MUSTANG MACH-E BEV),2021-2024,636,77,0.121
 Honda,CR-V Hybrid,2020-2024,766,67,0.087
 Nissan,Leaf (EV),2016-2021,571,49,0.086
 Ford,Fusion Energi (PHEV),2016-2020,2598,219,0.084
 Ford,Fusion Hybrid (FUSION HEV),2016-2020,2945,240,0.081
 Hyundai,Ioniq 5 (EV),2022-2024,1009,53,0.053
 Chevrolet,Volt (PHEV),2016-2019,1120,43,0.038
-Kia,Soul EV,2016-2019,,,0.033
+Kia,Soul EV,2016-2019,1181,39,0.033
 Ford,Focus BEV,2016-2018,2722,41,0.015
