@@ -1,0 +1,4 @@
+# Zilocar Data Desk cut of NHTSA ODI complaints (FLAT_CMPL.txt, file dated 2026-09-03), computed 2026-09-04
+# filter: no filter ; N = 1616769 distinct complaints (ODINO). Counts are complaints, not vehicles; no denominator in this file.
+state,distinct_complaints,share_of_national_pct
+NE,7017,0.43

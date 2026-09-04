@@ -1,0 +1,267 @@
+{
+ "filter": "no filter",
+ "n": 1616769,
+ "states": [
+  {
+   "state": "CA",
+   "complaints": 180512,
+   "file": "CA.csv"
+  },
+  {
+   "state": "FL",
+   "complaints": 115684,
+   "file": "FL.csv"
+  },
+  {
+   "state": "TX",
+   "complaints": 115177,
+   "file": "TX.csv"
+  },
+  {
+   "state": "NY",
+   "complaints": 90396,
+   "file": "NY.csv"
+  },
+  {
+   "state": "PA",
+   "complaints": 72168,
+   "file": "PA.csv"
+  },
+  {
+   "state": "OH",
+   "complaints": 69618,
+   "file": "OH.csv"
+  },
+  {
+   "state": "MI",
+   "complaints": 63256,
+   "file": "MI.csv"
+  },
+  {
+   "state": "IL",
+   "complaints": 58812,
+   "file": "IL.csv"
+  },
+  {
+   "state": "GA",
+   "complaints": 55804,
+   "file": "GA.csv"
+  },
+  {
+   "state": "VA",
+   "complaints": 54600,
+   "file": "VA.csv"
+  },
+  {
+   "state": "NJ",
+   "complaints": 51876,
+   "file": "NJ.csv"
+  },
+  {
+   "state": "NC",
+   "complaints": 50959,
+   "file": "NC.csv"
+  },
+  {
+   "state": "MD",
+   "complaints": 43075,
+   "file": "MD.csv"
+  },
+  {
+   "state": "MA",
+   "complaints": 40402,
+   "file": "MA.csv"
+  },
+  {
+   "state": "AZ",
+   "complaints": 32269,
+   "file": "AZ.csv"
+  },
+  {
+   "state": "TN",
+   "complaints": 32182,
+   "file": "TN.csv"
+  },
+  {
+   "state": "WA",
+   "complaints": 31513,
+   "file": "WA.csv"
+  },
+  {
+   "state": "MO",
+   "complaints": 30939,
+   "file": "MO.csv"
+  },
+  {
+   "state": "IN",
+   "complaints": 30835,
+   "file": "IN.csv"
+  },
+  {
+   "state": "WI",
+   "complaints": 29397,
+   "file": "WI.csv"
+  },
+  {
+   "state": "CO",
+   "complaints": 24950,
+   "file": "CO.csv"
+  },
+  {
+   "state": "SC",
+   "complaints": 24823,
+   "file": "SC.csv"
+  },
+  {
+   "state": "MN",
+   "complaints": 23888,
+   "file": "MN.csv"
+  },
+  {
+   "state": "AL",
+   "complaints": 23377,
+   "file": "AL.csv"
+  },
+  {
+   "state": "CT",
+   "complaints": 21827,
+   "file": "CT.csv"
+  },
+  {
+   "state": "KY",
+   "complaints": 21766,
+   "file": "KY.csv"
+  },
+  {
+   "state": "LA",
+   "complaints": 20461,
+   "file": "LA.csv"
+  },
+  {
+   "state": "OK",
+   "complaints": 15951,
+   "file": "OK.csv"
+  },
+  {
+   "state": "OR",
+   "complaints": 15845,
+   "file": "OR.csv"
+  },
+  {
+   "state": "NV",
+   "complaints": 12551,
+   "file": "NV.csv"
+  },
+  {
+   "state": "AR",
+   "complaints": 12504,
+   "file": "AR.csv"
+  },
+  {
+   "state": "KS",
+   "complaints": 12471,
+   "file": "KS.csv"
+  },
+  {
+   "state": "MS",
+   "complaints": 11804,
+   "file": "MS.csv"
+  },
+  {
+   "state": "IA",
+   "complaints": 11780,
+   "file": "IA.csv"
+  },
+  {
+   "state": "WV",
+   "complaints": 10656,
+   "file": "WV.csv"
+  },
+  {
+   "state": "UT",
+   "complaints": 10465,
+   "file": "UT.csv"
+  },
+  {
+   "state": "NH",
+   "complaints": 9584,
+   "file": "NH.csv"
+  },
+  {
+   "state": "NM",
+   "complaints": 8603,
+   "file": "NM.csv"
+  },
+  {
+   "state": "ME",
+   "complaints": 8160,
+   "file": "ME.csv"
+  },
+  {
+   "state": "NE",
+   "complaints": 7017,
+   "file": "NE.csv"
+  },
+  {
+   "state": "DE",
+   "complaints": 6110,
+   "file": "DE.csv"
+  },
+  {
+   "state": "ID",
+   "complaints": 6096,
+   "file": "ID.csv"
+  },
+  {
+   "state": "DC",
+   "complaints": 6005,
+   "file": "DC.csv"
+  },
+  {
+   "state": "RI",
+   "complaints": 5461,
+   "file": "RI.csv"
+  },
+  {
+   "state": "HI",
+   "complaints": 5180,
+   "file": "HI.csv"
+  },
+  {
+   "state": "VT",
+   "complaints": 4267,
+   "file": "VT.csv"
+  },
+  {
+   "state": "MT",
+   "complaints": 4196,
+   "file": "MT.csv"
+  },
+  {
+   "state": "PR",
+   "complaints": 3775,
+   "file": "PR.csv"
+  },
+  {
+   "state": "AK",
+   "complaints": 3555,
+   "file": "AK.csv"
+  },
+  {
+   "state": "SD",
+   "complaints": 2926,
+   "file": "SD.csv"
+  },
+  {
+   "state": "ND",
+   "complaints": 2310,
+   "file": "ND.csv"
+  },
+  {
+   "state": "WY",
+   "complaints": 2253,
+   "file": "WY.csv"
+  }
+ ],
+ "computed": "2026-09-04"
+}
