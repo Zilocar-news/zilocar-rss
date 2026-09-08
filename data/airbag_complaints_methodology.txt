@@ -1,0 +1,51 @@
+METHODOLOGY — Used cars with the most airbag complaints (NHTSA ODI)
+
+DATASET: NHTSA Office of Defects Investigation (ODI) Consumer Complaints flat file.
+FILE: FLAT_CMPL.txt (tab-delimited), from https://static.nhtsa.gov/odi/ffdd/cmpl/FLAT_CMPL.zip
+FILE POSTED/DATED BY NHTSA: 2026-09-06
+RETRIEVED & PROCESSED: 2026-09-08
+TOTAL COMPLAINT RECORDS IN FILE: 2,243,124
+
+AIRBAG FILTER: records whose component field (COMPDESC, field 12) contains the
+string "AIR BAGS". This captures "AIR BAGS", "AIR BAGS:FRONTAL",
+"AIR BAGS:SIDE/WINDOW", sensor/occupant-classification, inflator-module, clockspring,
+and the "ALLEGED COUNTERFEIT AIR BAG" subtype.
+AIRBAG COMPLAINTS MATCHED: 156,619 across 1,873 distinct make/model combinations.
+
+FAILURE-TYPE CLASSIFICATION: regex applied to the free-text complaint narrative
+(CDESCR, field 20), uppercased, in priority order:
+  1. non_deploy  — a negation/failure token ("did not / didn't / failed to / never /
+     none of / would not") bound to a deploy/activate/go-off/inflate token
+     (the scariest failure: airbag did NOT deploy in a crash).
+  2. inadvertent — inadvertent/unexpected/spontaneous/for-no-reason/while-driving deployment.
+  3. warn_light  — airbag/SRS warning light or lamp on/illuminated.
+  4. recall_process — mentions Takata or a recall (parts-wait, remedy-delay complaints)
+     but none of the failure modes above.
+  5. other — none of the above.
+Priority means a narrative describing multiple issues is assigned to the most severe
+matched category. non_deploy outranks warning-light and recall mentions.
+
+OVERALL SPLIT (n=156,619):
+  recall_process 54,659 (34.9%)
+  non_deploy     34,664 (22.1%)
+  warn_light     33,359 (21.3%)
+  other          27,353 (17.5%)
+  inadvertent     6,584  (4.2%)
+
+HARM (self-reported by complainants, DEATHS field 11 / INJURED field 10):
+  Deaths 960, Injuries 40,323 — after excluding two obvious data-entry errors
+  (a 2006 Honda Pilot complaint listing 99 deaths and a 2005 Toyota Highlander
+  complaint listing 45 deaths for a single-driver incident). Uncleaned death sum: 1,104.
+
+NORMALIZATION / ROBUSTNESS CHECK: raw complaint volume favors high-population
+best-sellers, so we also report the WITHIN-MODEL SHARE of complaints that are
+non-deployment. Because the denominator is each model's own airbag-complaint total,
+this share is fleet-size neutral and it REVERSES the raw leaderboard (see article).
+A literal complaints-per-100,000-registered-vehicles rate would require proprietary
+registration counts (S&P Global Mobility / Experian) that are not freely available;
+we did not estimate or fabricate them. The within-model non-deployment share is our
+fleet-neutral metric.
+
+OUTPUT: airbag_complaints_by_model.csv — one row per make/model with total airbag
+complaints, non_deploy count and %, inadvertent, warning_light, recall_process, other,
+non-deployment-in-a-crash count (CRASH flag = Y), and self-reported deaths.
