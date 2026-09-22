@@ -1,0 +1,100 @@
+cut,key,initiator_flag,initiator_meaning,campaigns,pct_of_campaigns,units,pct_of_units,median_units,campaigns_over_1m_units,note
+era_total,2015-01-01..2026-09-17,MFR,manufacturer-filed,9682,93.1,255836166,61.3,322,38,headline universe
+era_total,2015-01-01..2026-09-17,ODI,NHTSA Office of Defects Investigation,656,6.3,153460621,36.8,26479,41,headline universe
+era_total,2015-01-01..2026-09-17,OVSC,NHTSA Office of Vehicle Safety Compliance,65,0.6,7868229,1.9,6864,2,headline universe
+era_total_ex_inflator,2015-01-01..2026-09-17,MFR,manufacturer-filed,9558,94.8,250754616,74.7,318,38,reversal check: every Takata/airbag-inflator campaign removed
+era_total_ex_inflator,2015-01-01..2026-09-17,ODI,NHTSA Office of Defects Investigation,460,4.6,77138024,23.0,14895,19,reversal check: every Takata/airbag-inflator campaign removed
+era_total_ex_inflator,2015-01-01..2026-09-17,OVSC,NHTSA Office of Vehicle Safety Compliance,64,0.6,7813161,2.3,6494,2,reversal check: every Takata/airbag-inflator campaign removed
+by_year,2011,MFR,manufacturer-filed,450,75.4,6576656,48.3,340,1,
+by_year,2011,ODI,NHTSA Office of Defects Investigation,131,21.9,6774159,49.8,305,3,
+by_year,2011,OVSC,NHTSA Office of Vehicle Safety Compliance,16,2.7,251371,1.8,618,0,
+by_year,2012,MFR,manufacturer-filed,436,74.8,6991363,42.4,390,0,
+by_year,2012,ODI,NHTSA Office of Defects Investigation,144,24.7,9177395,55.6,125,2,
+by_year,2012,OVSC,NHTSA Office of Vehicle Safety Compliance,3,0.5,327332,2.0,691,0,
+by_year,2013,MFR,manufacturer-filed,460,73.4,13100718,64.7,421,1,
+by_year,2013,ODI,NHTSA Office of Defects Investigation,159,25.4,7019690,34.7,400,1,
+by_year,2013,OVSC,NHTSA Office of Vehicle Safety Compliance,8,1.3,137827,0.7,298,0,
+by_year,2014,MFR,manufacturer-filed,647,84.0,40641407,82.2,561,7,
+by_year,2014,ODI,NHTSA Office of Defects Investigation,122,15.8,8816953,17.8,58,3,
+by_year,2014,OVSC,NHTSA Office of Vehicle Safety Compliance,1,0.1,9,0.0,9,0,
+by_year,2015,MFR,manufacturer-filed,783,90.7,22782931,45.7,386,5,
+by_year,2015,ODI,NHTSA Office of Defects Investigation,75,8.7,26662799,53.5,7104,8,
+by_year,2015,OVSC,NHTSA Office of Vehicle Safety Compliance,5,0.6,413038,0.8,9137,0,
+by_year,2016,MFR,manufacturer-filed,861,93.7,22472450,44.8,276,3,
+by_year,2016,ODI,NHTSA Office of Defects Investigation,57,6.2,27660227,55.1,62940,8,
+by_year,2016,OVSC,NHTSA Office of Vehicle Safety Compliance,1,0.1,64038,0.1,64038,0,
+by_year,2017,MFR,manufacturer-filed,757,93.5,22131743,72.0,293,5,
+by_year,2017,ODI,NHTSA Office of Defects Investigation,45,5.6,8369357,27.2,54751,0,
+by_year,2017,OVSC,NHTSA Office of Vehicle Safety Compliance,8,1.0,227078,0.7,16133,0,
+by_year,2018,MFR,manufacturer-filed,850,93.2,18842736,62.6,329,4,
+by_year,2018,ODI,NHTSA Office of Defects Investigation,60,6.6,11180528,37.1,54854,3,
+by_year,2018,OVSC,NHTSA Office of Vehicle Safety Compliance,2,0.2,73576,0.2,36788,0,
+by_year,2019,MFR,manufacturer-filed,833,94.7,20975960,54.3,274,3,
+by_year,2019,ODI,NHTSA Office of Defects Investigation,45,5.1,16392793,42.5,69879,6,
+by_year,2019,OVSC,NHTSA Office of Vehicle Safety Compliance,2,0.2,1228854,3.2,614427,1,
+by_year,2020,MFR,manufacturer-filed,741,94.8,18596557,59.5,365,3,
+by_year,2020,ODI,NHTSA Office of Defects Investigation,41,5.2,12658280,40.5,127547,3,
+by_year,2021,MFR,manufacturer-filed,959,97.1,18906691,64.5,295,1,
+by_year,2021,ODI,NHTSA Office of Defects Investigation,28,2.8,10427787,35.5,66595,3,
+by_year,2021,OVSC,NHTSA Office of Vehicle Safety Compliance,1,0.1,72,0.0,72,0,
+by_year,2022,MFR,manufacturer-filed,915,98.1,28202478,90.5,446,3,
+by_year,2022,ODI,NHTSA Office of Defects Investigation,12,1.3,1604653,5.1,61927,0,
+by_year,2022,OVSC,NHTSA Office of Vehicle Safety Compliance,6,0.6,1359687,4.4,70946,0,
+by_year,2023,MFR,manufacturer-filed,852,95.3,25826249,74.2,371,4,
+by_year,2023,ODI,NHTSA Office of Defects Investigation,31,3.5,7765413,22.3,37997,3,
+by_year,2023,OVSC,NHTSA Office of Vehicle Safety Compliance,11,1.2,1208391,3.5,6124,0,
+by_year,2024,MFR,manufacturer-filed,822,86.5,18561534,63.2,281,3,
+by_year,2024,ODI,NHTSA Office of Defects Investigation,112,11.8,8309141,28.3,3194,2,
+by_year,2024,OVSC,NHTSA Office of Vehicle Safety Compliance,16,1.7,2495691,8.5,5028,1,
+by_year,2025,MFR,manufacturer-filed,793,89.0,14203297,48.5,313,1,
+by_year,2025,ODI,NHTSA Office of Defects Investigation,92,10.3,14896513,50.8,26027,3,
+by_year,2025,OVSC,NHTSA Office of Vehicle Safety Compliance,6,0.7,204126,0.7,2324,0,
+by_year,2026,MFR,manufacturer-filed,516,88.8,24333540,75.0,428,3,2026 is partial: Part 573 receipts through 2026-09-17
+by_year,2026,ODI,NHTSA Office of Defects Investigation,58,10.0,7533130,23.2,4104,2,2026 is partial: Part 573 receipts through 2026-09-17
+by_year,2026,OVSC,NHTSA Office of Vehicle Safety Compliance,7,1.2,593678,1.8,1835,0,2026 is partial: Part 573 receipts through 2026-09-17
+by_manufacturer_2015_2026,Ford Motor Company,MFR,manufacturer-filed,621,86.9,45902406,54.2,2711,5,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Ford Motor Company,ODI,NHTSA Office of Defects Investigation,82,11.5,37342802,44.1,263728,14,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Ford Motor Company,OVSC,NHTSA Office of Vehicle Safety Compliance,12,1.7,1437574,1.7,64506,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Forest River, Inc.",MFR,manufacturer-filed,554,97.0,843959,95.0,77,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Forest River, Inc.",ODI,NHTSA Office of Defects Investigation,14,2.5,40089,4.5,2271,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Forest River, Inc.",OVSC,NHTSA Office of Vehicle Safety Compliance,3,0.5,4075,0.5,854,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Chrysler (FCA US, LLC)",MFR,manufacturer-filed,431,89.8,43686000,70.1,8390,12,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Chrysler (FCA US, LLC)",ODI,NHTSA Office of Defects Investigation,45,9.4,18375480,29.5,80620,4,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Chrysler (FCA US, LLC)",OVSC,NHTSA Office of Vehicle Safety Compliance,4,0.8,226327,0.4,18647,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Daimler Trucks North America, LLC",MFR,manufacturer-filed,352,96.4,2364271,94.1,314,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Daimler Trucks North America, LLC",ODI,NHTSA Office of Defects Investigation,11,3.0,103757,4.1,600,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Daimler Trucks North America, LLC",OVSC,NHTSA Office of Vehicle Safety Compliance,2,0.5,45107,1.8,22553,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"General Motors, LLC",MFR,manufacturer-filed,321,90.2,24861522,59.9,2781,3,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"General Motors, LLC",ODI,NHTSA Office of Defects Investigation,34,9.6,16578609,40.0,93119,5,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"General Motors, LLC",OVSC,NHTSA Office of Vehicle Safety Compliance,1,0.3,55068,0.1,55068,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Volkswagen Group of America, Inc.",MFR,manufacturer-filed,288,91.4,9554009,69.4,3212,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Volkswagen Group of America, Inc.",ODI,NHTSA Office of Defects Investigation,26,8.3,4135948,30.1,106254,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Volkswagen Group of America, Inc.",OVSC,NHTSA Office of Vehicle Safety Compliance,1,0.3,73549,0.5,73549,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"BMW of North America, LLC",MFR,manufacturer-filed,286,92.9,7414014,70.0,779,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"BMW of North America, LLC",ODI,NHTSA Office of Defects Investigation,20,6.5,3145668,29.7,71490,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"BMW of North America, LLC",OVSC,NHTSA Office of Vehicle Safety Compliance,2,0.6,33792,0.3,16896,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Toyota Motor Corporation,MFR,manufacturer-filed,210,92.9,21908012,63.9,8143,5,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Toyota Motor Corporation,ODI,NHTSA Office of Defects Investigation,15,6.6,12208316,35.6,591377,5,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Toyota Motor Corporation,OVSC,NHTSA Office of Vehicle Safety Compliance,1,0.4,145254,0.4,145254,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Honda (American Honda Motor Co.),MFR,manufacturer-filed,177,83.9,22509107,45.2,5810,4,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Honda (American Honda Motor Co.),ODI,NHTSA Office of Defects Investigation,34,16.1,27238988,54.8,221946,9,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Hyundai Motor America,MFR,manufacturer-filed,167,83.5,10149962,57.3,10409,1,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Hyundai Motor America,ODI,NHTSA Office of Defects Investigation,31,15.5,6951400,39.3,145642,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Hyundai Motor America,OVSC,NHTSA Office of Vehicle Safety Compliance,2,1.0,603540,3.4,301770,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Nissan North America, Inc.",MFR,manufacturer-filed,162,85.3,11705792,53.7,7402,1,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Nissan North America, Inc.",ODI,NHTSA Office of Defects Investigation,26,13.7,8815960,40.4,128658,2,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Nissan North America, Inc.",OVSC,NHTSA Office of Vehicle Safety Compliance,2,1.1,1273094,5.8,636547,1,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Kia America, Inc.",MFR,manufacturer-filed,132,85.7,9729116,70.8,12380,1,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Kia America, Inc.",ODI,NHTSA Office of Defects Investigation,21,13.6,3935107,28.6,100063,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Kia America, Inc.",OVSC,NHTSA Office of Vehicle Safety Compliance,1,0.6,76918,0.6,76918,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Daimler Vans USA, LLC",MFR,manufacturer-filed,116,91.3,812633,56.4,358,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Daimler Vans USA, LLC",ODI,NHTSA Office of Defects Investigation,11,8.7,629181,43.6,48400,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Jaguar Land Rover North America, LLC",MFR,manufacturer-filed,108,88.5,975045,66.2,1454,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Jaguar Land Rover North America, LLC",ODI,NHTSA Office of Defects Investigation,14,11.5,498574,33.8,16645,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Tesla, Inc.",MFR,manufacturer-filed,74,82.2,6720796,50.0,4230,2,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Tesla, Inc.",ODI,NHTSA Office of Defects Investigation,11,12.2,3305169,24.6,68673,1,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Tesla, Inc.",OVSC,NHTSA Office of Vehicle Safety Compliance,5,5.6,3414400,25.4,578607,1,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Subaru of America, Inc.",MFR,manufacturer-filed,69,77.5,6303163,66.3,7741,1,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,"Subaru of America, Inc.",ODI,NHTSA Office of Defects Investigation,20,22.5,3206738,33.7,102385,0,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Mazda Motor Corp.,MFR,manufacturer-filed,61,70.1,4946920,74.3,13891,1,"Part 573 filer (MFGTXT), not badge make"
+by_manufacturer_2015_2026,Mazda Motor Corp.,ODI,NHTSA Office of Defects Investigation,26,29.9,1715146,25.7,35207,0,"Part 573 filer (MFGTXT), not badge make"
