@@ -1,0 +1,28 @@
+COUNTERFEIT / NON-GENUINE PARTS RECALL CENSUS — METHODOLOGY
+Dataset: NHTSA ODI recalls flat file FLAT_RCL_POST_2010.txt
+Source archive: https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip
+Retrieved: 2026-09-29 07:24 UTC (proxy). Archive member timestamp: 2026-09-29 07:02.
+Archive member Last-Modified header: Tue, 29 Sep 2026 07:04:54 GMT. ETag c57dde17a7770c1267ffa9c50a788e0c.
+Freshness assert (max RCDATE, field 16) = 20260924 = 2026-09-24, within 5 days of retrieval. PASS.
+File integrity: 245,556 rows, every row exactly 29 tab-delimited fields; no HTML tags; defect field up to 1,982 chars (not truncated).
+Cross-validation: campaign 26V605000 units (11,405) and RCDATE (22/09/2026) match the live NHTSA recalls API exactly.
+
+Layout (1-indexed, tab-delimited, no header): 2=CAMPNO 3=MAKETXT 4=MODELTXT 5=YEARTXT 6=MFGCAMPNO 7=COMPNAME 11=RCLTYPECD 12=POTAFF 16=RCDATE 20=DESC_DEFECT 21=CONEQUENCE_DEFECT 22=CORRECTIVE_ACTION.
+
+Filter: RCLTYPECD == 'V' (vehicle recalls only). Base population = 13,642 distinct V campaigns / 218,820 rows, RCDATE 2010-01-01 .. 2026-09-24.
+Keyword regex (case-insensitive) applied to lowercased concat of fields 20+21+22:
+  counterfeit | non-?genuine | not genuine | uncertified | fraudulent | suspect
+Deduplicated to distinct CAMPNO. POTAFF counted once per campaign (repeated per model row in source).
+
+RESULT (distinct V campaigns):
+  counterfeit  = 0
+  non-genuine  = 0
+  uncertified  = 0
+  fraudulent   = 0
+  suspect      = 41   (all use "suspect" to mean the suspected defective lot/part, e.g. "replace the suspect solenoids" — a quality-control term, NOT counterfeit)
+  5-term union = 41 ; robust set (drop ambiguous "suspect") = 0
+Across ALL recall types (V+E+T+C): counterfeit=0, non-genuine=0, uncertified=0, fraudulent=0.
+Adjacent term "aftermarket" (not in core regex) = 31 distinct V campaigns (recalls of aftermarket accessories or vehicles fitted with them; not counterfeit).
+Normalization: "suspect" share of V campaigns falls 1.24% (2010) -> 0.00% (2022-2026). No rising trend under any keyword set.
+
+This CSV lists the 41 campaigns matched by the 5-term regex (all matched on "suspect").
