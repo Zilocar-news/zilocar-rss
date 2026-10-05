@@ -1,0 +1,21 @@
+METHODOLOGY — CFPB Vehicle-Loan/Lease Complaints by State (Zilocar vehicle-data desk)
+
+Dataset: CFPB Consumer Complaint Database (public, CC0 license).
+Endpoint: https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/
+Filter: product="Vehicle loan or lease"; date_received_min=2024-01-01; date_received_max=2026-10-05.
+Retrieval date: 2026-10-05.
+Freshness assert (passed): max(date_received) in the pull = 2026-10-03 (sorted created_date_desc), 2 days before retrieval.
+N = 52,911 complaints in window. Per-issue server-side aggregation buckets sum to 52,911; per-state buckets sum to 52,841 (a 70-record gap of complaints with a blank state field, excluded from per-state math).
+
+SCOPE: "Vehicle loan or lease" is the CFPB product label covering auto LOANS AND LEASES on BOTH new and used vehicles. It is NOT used-car-only. No used-only superlative is claimed.
+
+Per-capita denominator: US Census Bureau Vintage 2024 state population estimates (POPESTIMATE2024, reference date 2024-07-01), file NST-EST2024-ALLDATA.csv.
+Third normalization (sensitivity check): FHWA Highway Statistics Table MV-1 (2023, published Nov 2024), "All motor vehicles total" state registrations. Series-year mismatch (regs 2023, pop 2024, complaints 2024-2026) means the per-vehicle cut is a sensitivity check, not an exact-year ratio.
+
+"Repossession" is the CFPB issue label — a count of complaints that mention repossession, NOT a repossession rate. It cannot be converted to one.
+
+Columns: per_capita_rank | state | complaints_total | pop_2024 | complaints_per_100k_residents | absolute_rank | registrations_fhwa_2023 | complaints_per_100k_vehicles | per_vehicle_rank | repossession_complaints | repossession_share_pct
+
+National repossession share = 26.3% (13,917 / 52,911).
+Ranks cover all 50 states + DC. Small-N jurisdictions (DC 216, DE 284, AK 41) rest on small samples and are more volatile. Repossession-share ranking limited to states with n>=200.
+Data refreshes daily; a re-pull on a later date will differ slightly.
