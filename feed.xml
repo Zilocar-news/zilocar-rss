@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 07 Oct 2026 07:39:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 07:41:00 +0000</lastBuildDate>
 <item>
 <title>One in Five US Car Recalls Misses the 60-Day Legal Deadline to Tell Owners — and the Typical One Uses 46 of Those Days</title>
 <link>https://zilocar.com/vehicle-news/car-recall-owner-notification-delay-nhtsa-data</link>
@@ -125,7 +125,10 @@
 <li>49 CFR 577.7, "Time and manner of notification" — the 60-day ceiling, the interim-notice provision and the Administrator's power to modify a schedule. Cornell Legal Information Institute. Last verified 2026-10-07.</li>
 <li>NHTSA recalls API, <code>api.nhtsa.gov/recalls/campaignNumber</code> — used to corroborate 70 campaigns on units and report dates. Last verified 2026-10-07.</li>
 <li>NHTSA recall lookup, nhtsa.gov/recalls — the authority on whether a specific VIN has an open recall and whether it was remedied. Last verified 2026-10-07.</li>
-<li>Frozen datasets for this analysis: the campaign-level file, the per-filer summary and the annual series, all linked in the front matter above. Last verified 2026-10-07.</li>
+<li>Frozen datasets for this analysis, published alongside the article and reproducible without re-pulling NHTSA's moving file. Last verified 2026-10-07.</li>
+<li>All 1,013 campaign rows with both dates, the lag and the over-60 flag: https://zilocar-news.github.io/zilocar-rss/data/car-recall-owner-notification-delay-nhtsa-data-2026-10-07.csv</li>
+<li>Per-filer summary, both windows: https://zilocar-news.github.io/zilocar-rss/data/car-recall-owner-notification-delay-nhtsa-data-by-filer-2026-10-07.csv</li>
+<li>Annual series 2010-2026 on both bases: https://zilocar-news.github.io/zilocar-rss/data/car-recall-owner-notification-delay-nhtsa-data-by-year-2026-10-07.csv</li>
 </ul>]]></content:encoded>
 </item>
 <item>
