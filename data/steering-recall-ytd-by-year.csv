@@ -1,0 +1,8 @@
+year,ytd_through_oct8_strict_campaigns,ytd_through_oct8_broad_campaigns,notes
+2020,26,26,strict=component label begins STEERING; broad=any component containing STEERING; vehicle recalls only (RCLTYPECD=V)
+2021,52,52,
+2022,55,56,
+2023,32,32,
+2024,61,61,
+2025,25,26,
+2026,20,21,2026 is the LOWEST YTD of 2020-2026 by campaign count

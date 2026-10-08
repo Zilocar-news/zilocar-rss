@@ -1,0 +1,8 @@
+year,window,car_light_truck_strict,car_light_truck_broad,all_vehicle_strict,all_vehicle_broad,label_or_defecttext_union_all_vehicles,units_car_light_truck_strict,units_all_vehicle_strict
+2020,Jan 1 - Oct 8,12,12,26,26,40,953515,956550
+2021,Jan 1 - Oct 8,15,15,52,52,65,280986,423476
+2022,Jan 1 - Oct 8,17,18,55,56,62,159202,299593
+2023,Jan 1 - Oct 8,15,15,32,32,46,859239,923953
+2024,Jan 1 - Oct 8,25,25,61,61,81,2316056,2390538
+2025,Jan 1 - Oct 8,12,13,25,26,38,646761,664444
+2026,Jan 1 - Oct 8,10,11,20,21,28,1584424,1662335
