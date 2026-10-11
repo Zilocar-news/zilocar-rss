@@ -1,0 +1,16 @@
+# Zilocar analysis of NHTSA ODI consumer complaints: share of complaints on file within N days of the reported failure date
+"# source: COMPLAINTS_RECEIVED_2015-2019/2020-2024/2025-2026.zip, static.nhtsa.gov/odi/ffdd/cmpl/, retrieved 2026-10-11; newest filing inside 2026-10-08"
+"# universe: 784,010 distinct vehicle complaints (ODINO-deduped, PROD_TYPE=V), 783,339 with a usable FAILDATE/LDATE pair"
+"# cohort: failures 2017-2023 (n=420,008) - the band with neither left nor right truncation. Pooled curve capped at day 730, which every cohort supports."
+"# denominator is complaints ON FILE at 2026-10-08, not all complaints that will ever be filed. No registration denominator exists, so no figure here is a failure rate."
+days_since_failure,pct_on_file_as_filed,pct_on_file_excluding_same_day_mass,pct_cohort_2017,pct_cohort_2018,pct_cohort_2019,pct_cohort_2020,pct_cohort_2021,pct_cohort_2022,pct_cohort_2023,note
+0,16.1,,16.3,14.6,14.8,15.7,17.0,17.3,17.4,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+7,45.0,34.4,44.1,44.5,46.3,46.7,46.1,44.1,43.2,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+14,54.0,45.2,52.4,53.8,55.6,56.2,55.3,52.9,51.9,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+30,64.2,57.3,61.8,63.9,66.3,66.4,65.5,63.2,62.4,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+60,72.6,67.3,69.6,71.9,75.0,74.6,73.9,71.7,71.3,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+90,77.3,73.0,74.2,76.5,79.8,79.2,78.3,76.7,76.5,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+180,84.6,81.7,81.6,83.7,86.7,86.3,85.0,84.3,84.6,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+365,91.2,89.5,89.5,90.4,92.3,92.0,90.8,91.2,91.7,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+730,96.1,95.4,95.3,96.0,96.7,95.9,95.6,96.1,97.0,"day 0 = the same-day filing mass, 16.1% of records; those records are LESS severe than later ones, so it reads as a data-entry convention rather than urgency"
+1095,97.9,,,,,,,,,"computed on failures 2017-2022 only (n=355,775): the 2023 cohort has just 1,012 days of observation and cannot support a 3-year horizon"

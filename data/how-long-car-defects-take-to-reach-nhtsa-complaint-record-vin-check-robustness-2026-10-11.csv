@@ -1,0 +1,48 @@
+"# Zilocar: every robustness check run on the reporting-lag analysis, with its result, including the ones that killed a planned finding"
+check,basis,result,verdict
+two-sided truncation: median lag by FAILURE year,failures in 2010 (n=1509),median 2192 days,left-truncated (only long lags observable)
+two-sided truncation: median lag by FAILURE year,failures in 2011 (n=1603),median 1685 days,left-truncated (only long lags observable)
+two-sided truncation: median lag by FAILURE year,failures in 2012 (n=2962),median 1284 days,left-truncated (only long lags observable)
+two-sided truncation: median lag by FAILURE year,failures in 2013 (n=5615),median 787 days,left-truncated (only long lags observable)
+two-sided truncation: median lag by FAILURE year,failures in 2014 (n=19479),median 354 days,left-truncated (only long lags observable)
+two-sided truncation: median lag by FAILURE year,failures in 2015 (n=69971),median 21 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2016 (n=76490),median 25 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2017 (n=61744),median 12 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2018 (n=63138),median 11 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2019 (n=72203),median 10 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2020 (n=54807),median 10 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2021 (n=48666),median 10 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2022 (n=55217),median 12 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2023 (n=64233),median 13 days,clean band
+two-sided truncation: median lag by FAILURE year,failures in 2024 (n=66492),median 11 days,right-truncated (no time to accrue long lags)
+two-sided truncation: median lag by FAILURE year,failures in 2025 (n=69097),median 11 days,right-truncated (no time to accrue long lags)
+two-sided truncation: median lag by FAILURE year,failures in 2026 (n=46626),median 7 days,right-truncated (no time to accrue long lags)
+same-day filing mass: sensitivity of the median,"failures 2017-2023, as filed",median 11 days,as-filed figure
+same-day filing mass: sensitivity of the median,"failures 2017-2023, excluding lag=0",median 20 days,"BITES: the median nearly doubles, so the as-filed figure is published beside it"
+is the same-day mass urgency or convention?,lag=0 (n=67565),"fire 1.05%, crash 1.93%, injury 1.21%, recall mail 11.5%","same-day records are LESS severe, so the spike is a filing convention, not urgency"
+is the same-day mass urgency or convention?,lag>=1 (n=352443),"fire 2.14%, crash 4.85%, injury 3.14%, recall mail 11.4%","same-day records are LESS severe, so the spike is a filing convention, not urgency"
+"recall-mail contamination (loose screen, 15.51% of corpus)",as filed (n=420008),median 11 days,"recall correspondence is SLOWER, the opposite of the intuition, and removing it moves the headline by 1 day"
+"recall-mail contamination (loose screen, 15.51% of corpus)",recall-referencing only (n=48076),median 29 days,"recall correspondence is SLOWER, the opposite of the intuition, and removing it moves the headline by 1 day"
+"recall-mail contamination (loose screen, 15.51% of corpus)",excluding recall mail (n=371932),median 10 days,"recall correspondence is SLOWER, the opposite of the intuition, and removing it moves the headline by 1 day"
+fleet-age confounding (predicted by our own prior work),model year 2008 (n=14879),median 9 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2009 (n=13062),median 9 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2010 (n=16279),median 8 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2011 (n=21852),median 10 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2012 (n=27404),median 11 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2013 (n=35258),median 11 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2014 (n=34114),median 11 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2015 (n=34837),median 10 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2016 (n=36053),median 12 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2017 (n=36276),median 13 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2018 (n=31245),median 15 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2019 (n=24144),median 13 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2020 (n=15341),median 12 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2021 (n=12833),median 12 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2022 (n=11272),median 11 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2023 (n=6488),median 13 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+fleet-age confounding (predicted by our own prior work),model year 2024 (n=671),median 30 days,DOES NOT BITE: a date difference does not accumulate with vehicle age the way an odometer reading does
+component ranking: cross-validation on two independent failure-year bases,"MY2015-2018, ex recall mail, 18 groups in both","Spearman 0.492; SUSPENSION 18th->9th, SEATS 16th->5th, SERVICE BRAKES 1st->13th",KILLS THE RANKING: not published as a ranking
+apparent component outlier,"ENGINE AND ENGINE COOLING, 41-day median (n=1,041)","70% of the records are Ford (Escape 214, Edge 197, Fusion 136)","KILLED: one manufacturer's defect wave, not a property of the component"
+per-state ranking: split-half validation,48 states with >=400 complaints in both halves,spread only 9-16 days (1.72x); Spearman 0.466 across halves,KILLS THE RANKING: not published as a ranking
+independent corroboration,"2017 Honda CR-V, api.nhtsa.gov complaintsByVehicle","count 1,773 vs 1,773; ODINO sets identical; median lag 7 vs 7; day-30 68.8% vs 68.8%",EXACT
+independent corroboration,"2016 Toyota Tacoma, api.nhtsa.gov complaintsByVehicle",count 323 vs 323; ODINO sets identical; median lag 29 vs 29; day-30 51.7% vs 51.7%,EXACT
