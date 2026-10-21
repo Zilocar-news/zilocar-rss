@@ -1,0 +1,44 @@
+fmvss,title,campaigns,units,units_per_campaign,median_units,largest_campaign,largest_campaign_units,largest_campaign_share_pct,rankable
+108,"Lamps, reflective devices, and associated equipment",201,6754870,33606,3633,22V137000,740581,10.96,yes
+208,Occupant crash protection,189,5500655,29103,2580,22V045000,817143,14.86,yes
+111,Rear visibility,156,16192156,103795,18411,19V654000,1228830,7.59,yes
+110,"Tire selection and rims (GVWR 10,000 lb or less)",112,1800904,16079,655,26V436000,541237,30.05,yes
+101,Controls and displays,64,2577214,40268,5885,20V439000,607786,23.58,yes
+135,Light vehicle brake systems,42,1524483,36297,5770,24V674000,449671,29.5,yes
+207,Seating systems,40,386590,9664,222,25V086000,167802,43.41,yes
+138,Tire pressure monitoring systems,39,1559374,39983,1091,24V935000,696281,44.65,yes
+114,Theft protection and rollaway prevention,34,2885365,84863,14330,19V615000,679027,23.53,yes
+126,Electronic stability control systems for light vehicles,33,3077075,93244,6925,24V653000,1025432,33.32,yes
+225,Child restraint anchorage systems,29,934105,32210,951,23V339000,668187,71.53,no - one campaign is >50% of units
+214,Side impact protection,27,607462,22498,295,26V328000,419035,68.98,no - one campaign is >50% of units
+202,Head restraints,25,291014,11640,4212,25V472000,121398,41.72,yes
+118,"Power-operated window, partition, and roof panel systems",24,1614394,67266,15998,22V702000,1096762,67.94,no - one campaign is >50% of units
+226,Ejection mitigation,24,1718011,71583,7549,26V034000,568576,33.1,yes
+301,,23,727825,31644,374,16V064000,268799,36.93,yes
+567,,22,63698,2895,192,25V188000,37003,58.09,no - one campaign is >50% of units
+201,,21,768676,36603,8763,14V117000,303013,39.42,yes
+103,,17,1227164,72186,9137,20V771000,737233,60.08,no - one campaign is >50% of units
+102,,17,401620,23624,6768,11V273000,100308,24.98,yes
+141,,17,1409079,82887,6557,22V235000,594894,42.22,yes
+210,Seat belt assembly anchorages,15,1784563,118970,780,26V495000,1271294,71.24,no - one campaign is >50% of units
+209,,15,446560,29770,2590,20V378000,308260,69.03,no - one campaign is >50% of units
+206,,13,145413,11185,5470,16V698000,64038,44.04,yes
+104,,10,280656,28065,3861,26V547000,148663,52.97,no - one campaign is >50% of units
+212,,10,107092,10709,203,22V451000,63294,59.1,no - one campaign is >50% of units
+205,,8,106632,13329,1373,25V730000,56841,53.31,no - one campaign is >50% of units
+401,,8,1179265,147408,125024,21V619000,348158,29.52,yes
+105,Hydraulic and electric brake systems,7,2211765,315966,88,24V051000,2193869,99.19,no - one campaign is >50% of units
+113,,4,252393,63098,60915,21V00B000,130441,51.68,no - one campaign is >50% of units
+120,,3,3048,1016,447,22V073000,2564,84.12,no - one campaign is >50% of units
+305,,3,6324,2108,2108,23V309000,3828,60.53,no - one campaign is >50% of units
+139,,3,2071,690,181,24V508000,1725,83.29,no - one campaign is >50% of units
+403,,2,214,107,107,19V183000,137,64.02,no - one campaign is >50% of units
+122,,2,9757,4878,4878,20V476000,9392,96.26,no - one campaign is >50% of units
+302,,2,24091,12045,12045,23V750000,24025,99.73,no - one campaign is >50% of units
+124,,2,2956,1478,1478,24V741000,2098,70.97,no - one campaign is >50% of units
+303,,1,1808,1808,1808,13V544000,1808,100.0,no - one campaign is >50% of units
+106,,1,26961,26961,26961,22V759000,26961,100.0,no - one campaign is >50% of units
+216,,1,59,59,59,23V570000,59,100.0,no - one campaign is >50% of units
+217,,1,111,111,111,24V151000,111,100.0,no - one campaign is >50% of units
+119,,1,255,255,255,25V435000,255,100.0,no - one campaign is >50% of units
+123,,1,340,340,340,25V723000,340,100.0,no - one campaign is >50% of units
