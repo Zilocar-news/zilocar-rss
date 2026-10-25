@@ -1,0 +1,47 @@
+"# Speed at failure in NHTSA vehicle complaints, 2020-2026"
+"# Source: static.nhtsa.gov/odi/ffdd/cmpl/ COMPLAINTS_RECEIVED_2020-2024 + 2025-2026, retrieved 2026-10-25"
+"# Universe: PROD_TYPE=V, deduplicated on ODINO. VEH_SPEED (field 32) populated and 0-200."
+# Blank VEH_SPEED is NOT counted as zero; coverage falls 69.0% (2020) to 41.4% (2026).
+
+section,key,n,pct_of_speed_reported,pct_ge_55mph,pct_stationary,median_mph,pct_towed,pct_police,pct_medical,note
+speed_band,0 (stationary),50154,22.72,,,,3.37,2.10,1.63,
+speed_band,1-15,27454,12.44,,,,8.60,5.48,2.94,
+speed_band,16-30,28775,13.04,,,,9.46,4.90,3.12,
+speed_band,31-45,38918,17.63,,,,9.42,4.49,3.02,
+speed_band,46-54,9148,4.14,,,,9.29,4.65,2.85,
+speed_band,55-70,58270,26.40,,,,7.26,2.87,1.70,
+speed_band,71+,8011,3.63,,,,7.25,2.65,1.69,
+component,ENGINE,39088,17.71,36.0,16.5,40,7.2,1.2,0.4,components with N>=400 only
+component,ELECTRICAL SYSTEM,26874,12.18,21.8,35.3,25,2.9,1.5,0.8,components with N>=400 only
+component,POWER TRAIN,24956,11.31,29.8,15.2,35,5.5,0.7,0.5,components with N>=400 only
+component,STEERING,19122,8.66,36.7,9.9,40,5.1,1.9,1.1,components with N>=400 only
+component,SERVICE BRAKES,18718,8.48,24.6,11.3,30,6.4,5.2,2.3,components with N>=400 only
+component,UNKNOWN OR OTHER,17252,7.82,29.2,32.3,25,2.4,2.7,1.7,components with N>=400 only
+component,AIR BAGS,9839,4.46,17.5,33.2,25,35.8,35.1,26.6,components with N>=400 only
+component,FUEL/PROPULSION SYSTEM,8200,3.71,27.1,28.0,30,1.4,1.4,0.5,components with N>=400 only
+component,STRUCTURE:BODY,6816,3.09,32.0,39.4,25,3.2,2.6,1.6,components with N>=400 only
+component,VISIBILITY/WIPER,6256,2.83,34.1,33.1,35,0.1,0.4,0.2,components with N>=400 only
+component,SUSPENSION,5207,2.36,34.0,12.0,35,7.8,1.9,1.1,components with N>=400 only
+component,VEHICLE SPEED CONTROL,3940,1.78,45.1,9.8,45,9.6,6.7,3.4,components with N>=400 only
+component,ENGINE AND ENGINE COOLING,3429,1.55,29.3,26.4,35,38.4,1.7,0.4,components with N>=400 only
+component,FORWARD COLLISION AVOIDANCE: AUTOMATIC EMERGENCY BRAKING,3133,1.42,34.4,4.1,40,4.1,4.2,2.5,components with N>=400 only
+component,EXTERIOR LIGHTING,2671,1.21,25.6,27.1,35,1.0,0.7,0.2,components with N>=400 only
+component,FORWARD COLLISION AVOIDANCE: ADAPTIVE CRUISE CONTROL,2204,1.00,70.0,7.8,65,2.5,2.5,1.0,components with N>=400 only
+component,SEATS,1989,0.90,13.8,48.5,5,3.2,3.1,6.5,components with N>=400 only
+component,ELECTRONIC STABILITY CONTROL (ESC),1678,0.76,29.0,16.0,35,2.9,1.6,1.1,components with N>=400 only
+component,"SERVICE BRAKES, HYDRAULIC",1666,0.75,14.4,37.3,20,20.8,5.7,2.5,components with N>=400 only
+component,WHEELS,1431,0.65,39.8,21.2,45,6.7,3.6,1.6,components with N>=400 only
+component,"FUEL SYSTEM, GASOLINE",1409,0.64,19.9,46.3,10,21.6,1.4,0.7,components with N>=400 only
+component,SEAT BELTS,1331,0.60,11.9,53.3,0,7.1,6.9,6.0,components with N>=400 only
+component,STRUCTURE,1043,0.47,48.5,29.5,50,4.5,0.7,0.2,components with N>=400 only
+component,TIRES,1040,0.47,56.0,11.6,55,5.8,2.5,1.3,components with N>=400 only
+component,FORWARD COLLISION AVOIDANCE: WARNINGS,1021,0.46,31.5,8.4,35,5.1,5.3,2.0,components with N>=400 only
+component,VISIBILITY:SUN/MOON ROOF ASSEMBLY,539,0.24,61.4,11.9,60,2.4,0.4,0.4,components with N>=400 only
+component,BACK OVER PREVENTION,430,0.19,2.6,80.2,0,1.6,2.1,0.5,components with N>=400 only
+year,2020,40308,18.26,25.6,28.3,30,,,,coverage 69.0% of 58447 complaints that year
+year,2021,28709,13.01,27.4,26.2,30,,,,coverage 58.8% of 48866 complaints that year
+year,2022,28941,13.11,32.6,20.6,35,,,,coverage 54.6% of 52977 complaints that year
+year,2023,32083,14.53,32.2,20.6,35,,,,coverage 51.3% of 62531 complaints that year
+year,2024,30648,13.88,31.3,20.6,35,,,,coverage 45.6% of 67196 complaints that year
+year,2025,33466,15.16,31.1,19.2,35,,,,coverage 45.4% of 73759 complaints that year
+year,2026,26575,12.04,31.5,22.1,35,,,,coverage 41.4% of 64132 complaints that year
