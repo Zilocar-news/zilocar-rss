@@ -1,0 +1,82 @@
+table,key,n_complaints,hotline_evoq,website_ivoq,hotline_share_pct,towed_pct_hotline,towed_pct_website,note
+channel_summary,EVOQ hotline VOQ,85690,85690,0,100.0,17.6,,as filed; ex-recall 20.74%
+channel_summary,IVOQ NHTSA web site,285013,0,285013,0.0,,2.39,as filed; ex-recall 2.45%
+compdesc_label,"SERVICE BRAKES, HYDRAULIC",4867,4808,59,98.79,12.06,5.08,label is >=90% one intake channel
+compdesc_label,"FUEL SYSTEM, GASOLINE",4267,4213,54,98.73,12.72,7.41,label is >=90% one intake channel
+compdesc_label,ENGINE AND ENGINE COOLING,8301,8139,162,98.05,25.37,4.94,label is >=90% one intake channel
+compdesc_label,BACK OVER PREVENTION,2662,2586,76,97.15,0.5,0.0,label is >=90% one intake channel
+compdesc_label,STRUCTURE,3156,3065,91,97.12,2.45,0.0,label is >=90% one intake channel
+compdesc_label,AIR BAGS,18300,5887,12413,32.17,20.26,20.58,
+compdesc_label,TIRES,2014,609,1405,30.24,7.88,2.35,
+compdesc_label,POWER TRAIN,38341,9840,28501,25.66,20.22,0.78,
+compdesc_label,STEERING,24807,5412,19395,21.82,17.04,2.14,
+compdesc_label,SEAT BELTS,3607,771,2836,21.38,5.45,3.07,
+compdesc_label,SUSPENSION,8102,1572,6530,19.4,19.4,2.28,
+compdesc_label,ENGINE,62635,10570,52065,16.88,33.47,0.6,
+compdesc_label,ELECTRICAL SYSTEM,46585,6287,40298,13.5,15.05,0.79,
+compdesc_label,VEHICLE SPEED CONTROL,4968,665,4303,13.39,37.14,7.39,
+compdesc_label,SEATS,3178,374,2804,11.77,2.94,1.93,
+compdesc_label,EXTERIOR LIGHTING,7094,782,6312,11.02,2.43,0.27,
+compdesc_label,FORWARD COLLISION AVOIDANCE: AUTOMATIC EMERGENCY BRAKING,4118,385,3733,9.35,4.94,4.29,label is >=90% one intake channel
+compdesc_label,SERVICE BRAKES,25634,1553,24081,6.06,24.02,4.31,label is >=90% one intake channel
+compdesc_label,WHEELS,2351,132,2219,5.61,21.21,3.24,label is >=90% one intake channel
+compdesc_label,FORWARD COLLISION AVOIDANCE: ADAPTIVE CRUISE CONTROL,3418,142,3276,4.15,8.45,2.38,label is >=90% one intake channel
+compdesc_label,STRUCTURE:BODY,11359,361,10998,3.18,4.99,1.54,label is >=90% one intake channel
+compdesc_label,VISIBILITY/WIPER,8041,188,7853,2.34,1.06,0.04,label is >=90% one intake channel
+compdesc_label,UNKNOWN OR OTHER,33060,360,32700,1.09,24.44,1.48,label is >=90% one intake channel
+compdesc_label,FUEL/PROPULSION SYSTEM,13280,13,13267,0.1,46.15,0.84,label is >=90% one intake channel
+nameplate_recall_screened,FORD EDGE,5001,,,,4.22,,MY2017 34.9% (n=992); MY2018 37.3% (n=689); MY2019 21.2% (n=698) | quartile-stable across two adjacent model years
+nameplate_recall_screened,FORD ESCAPE,9605,,,,7.13,,MY2017 32.8% (n=2165); MY2018 31.9% (n=1547); MY2019 32.3% (n=496) | quartile-stable across two adjacent model years
+nameplate_recall_screened,FORD EXPEDITION,2056,,,,3.45,,MY2018 23.5% (n=307); MY2019 30.1% (n=415) | quartile-stable across two adjacent model years
+nameplate_recall_screened,FORD EXPLORER,6252,,,,4.96,,MY2017 23.1% (n=789); MY2018 24.8% (n=407) | quartile-stable across two adjacent model years
+nameplate_recall_screened,FORD F-150,10240,,,,3.47,,MY2017 27.4% (n=948); MY2018 26.8% (n=1682); MY2019 24.0% (n=1147) | quartile-stable across two adjacent model years
+nameplate_recall_screened,FORD FOCUS,3184,,,,9.3,,MY2017 33.3% (n=439); MY2018 31.2% (n=487) | quartile-stable across two adjacent model years
+nameplate_recall_screened,FORD FUSION,4824,,,,7.38,,MY2017 39.9% (n=714); MY2018 36.1% (n=385); MY2019 36.4% (n=269) | quartile-stable across two adjacent model years
+nameplate_recall_screened,HONDA CIVIC,3953,,,,4.02,,MY2017 6.6% (n=363); MY2018 8.4% (n=475); MY2019 10.4% (n=298) | quartile-stable across two adjacent model years
+nameplate_recall_screened,HONDA ODYSSEY,3487,,,,2.06,,MY2018 7.1% (n=717); MY2019 6.7% (n=742) | quartile-stable across two adjacent model years
+nameplate_recall_screened,TESLA MODEL 3,3934,,,,6.38,,MY2018 5.7% (n=808); MY2019 7.0% (n=489) | quartile-stable across two adjacent model years
+consumer_state,WV,2212,594,1618,26.85,,,"consumer state of residence, not incident state"
+consumer_state,MS,2807,752,2055,26.79,,,"consumer state of residence, not incident state"
+consumer_state,NY,16900,4433,12467,26.23,,,"consumer state of residence, not incident state"
+consumer_state,DE,1565,408,1157,26.07,,,"consumer state of residence, not incident state"
+consumer_state,KY,5025,1286,3739,25.59,,,"consumer state of residence, not incident state"
+consumer_state,LA,4654,1190,3464,25.57,,,"consumer state of residence, not incident state"
+consumer_state,FL,28792,7350,21442,25.53,,,"consumer state of residence, not incident state"
+consumer_state,NM,1952,498,1454,25.51,,,"consumer state of residence, not incident state"
+consumer_state,GA,13793,3494,10299,25.33,,,"consumer state of residence, not incident state"
+consumer_state,MO,7098,1798,5300,25.33,,,"consumer state of residence, not incident state"
+consumer_state,MI,13145,3305,9840,25.14,,,"consumer state of residence, not incident state"
+consumer_state,AL,5710,1425,4285,24.96,,,"consumer state of residence, not incident state"
+consumer_state,NJ,10642,2608,8034,24.51,,,"consumer state of residence, not incident state"
+consumer_state,PA,14219,3457,10762,24.31,,,"consumer state of residence, not incident state"
+consumer_state,OH,14451,3486,10965,24.12,,,"consumer state of residence, not incident state"
+consumer_state,AR,3144,757,2387,24.08,,,"consumer state of residence, not incident state"
+consumer_state,SC,6764,1627,5137,24.05,,,"consumer state of residence, not incident state"
+consumer_state,IL,13052,3110,9942,23.83,,,"consumer state of residence, not incident state"
+consumer_state,NC,12857,3056,9801,23.77,,,"consumer state of residence, not incident state"
+consumer_state,CT,4299,999,3300,23.24,,,"consumer state of residence, not incident state"
+consumer_state,MD,8393,1918,6475,22.85,,,"consumer state of residence, not incident state"
+consumer_state,IN,7061,1611,5450,22.82,,,"consumer state of residence, not incident state"
+consumer_state,NH,2003,456,1547,22.77,,,"consumer state of residence, not incident state"
+consumer_state,MA,7841,1754,6087,22.37,,,"consumer state of residence, not incident state"
+consumer_state,NV,3405,757,2648,22.23,,,"consumer state of residence, not incident state"
+consumer_state,TN,8044,1774,6270,22.05,,,"consumer state of residence, not incident state"
+consumer_state,RI,1166,257,909,22.04,,,"consumer state of residence, not incident state"
+consumer_state,OK,3876,853,3023,22.01,,,"consumer state of residence, not incident state"
+consumer_state,AZ,8380,1839,6541,21.95,,,"consumer state of residence, not incident state"
+consumer_state,WI,6441,1411,5030,21.91,,,"consumer state of residence, not incident state"
+consumer_state,HI,1159,252,907,21.74,,,"consumer state of residence, not incident state"
+consumer_state,ID,1715,369,1346,21.52,,,"consumer state of residence, not incident state"
+consumer_state,VA,12169,2618,9551,21.51,,,"consumer state of residence, not incident state"
+consumer_state,TX,31697,6795,24902,21.44,,,"consumer state of residence, not incident state"
+consumer_state,CA,41313,8849,32464,21.42,,,"consumer state of residence, not incident state"
+consumer_state,NE,1723,365,1358,21.18,,,"consumer state of residence, not incident state"
+consumer_state,IA,2875,604,2271,21.01,,,"consumer state of residence, not incident state"
+consumer_state,KS,2973,618,2355,20.79,,,"consumer state of residence, not incident state"
+consumer_state,OR,3996,826,3170,20.67,,,"consumer state of residence, not incident state"
+consumer_state,ME,1720,353,1367,20.52,,,"consumer state of residence, not incident state"
+consumer_state,MT,1053,212,841,20.13,,,"consumer state of residence, not incident state"
+consumer_state,MN,5339,1069,4270,20.02,,,"consumer state of residence, not incident state"
+consumer_state,CO,6764,1306,5458,19.31,,,"consumer state of residence, not incident state"
+consumer_state,UT,3048,580,2468,19.03,,,"consumer state of residence, not incident state"
+consumer_state,WA,8286,1463,6823,17.66,,,"consumer state of residence, not incident state"
