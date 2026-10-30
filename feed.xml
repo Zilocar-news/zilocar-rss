@@ -6,7 +6,118 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 06:54:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 07:49:00 +0000</lastBuildDate>
+<item>
+<title>Can You Find Your Paint Code by VIN? The Honest Answer (and What a Mismatch Reveals)</title>
+<link>https://zilocar.com/vehicle-news/paint-code-by-vin</link>
+<guid isPermaLink="false">paint-code-by-vin</guid>
+<pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+<zilocar:canonical>https://zilocar.com/vehicle-news/paint-code-by-vin</zilocar:canonical>
+<zilocar:dateModified>2026-10-30</zilocar:dateModified>
+<category>evergreen_guide</category>
+<description>No — the 17-character VIN does not encode a paint code (NHTSA vPIC returns zero paint fields). Where the code sticker lives by make, and what a paint mismatch reveals.</description>
+<content:encoded><![CDATA[<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsArticle", "headline": "Can You Find Your Paint Code by VIN? The Honest Answer (and What a Mismatch Reveals)", "description": "No — the 17-character VIN does not encode a paint code (NHTSA vPIC returns zero paint fields). Where the code sticker lives by make, and what a paint mismatch reveals.", "datePublished": "2026-10-30T12:00:00Z", "dateModified": "2026-10-30T12:00:00Z", "author": {"@type": "Organization", "name": "Zilocar Editorial", "url": "https://zilocar.com"}, "publisher": {"@type": "Organization", "name": "Zilocar", "url": "https://zilocar.com"}, "mainEntityOfPage": "https://zilocar.com/vehicle-news/paint-code-by-vin", "url": "https://zilocar.com/vehicle-news/paint-code-by-vin"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Can I find my car's paint code from the VIN?", "acceptedAnswer": {"@type": "Answer", "text": "No. The 17-character VIN contains no paint or color code. NHTSA's free vPIC decoder returned 141 fields for a test VIN and zero paint fields. The code is on a body sticker; a dealer maps VIN to factory color only through the original build record."}}, {"@type": "Question", "name": "Where is the paint code sticker on my car?", "acceptedAnswer": {"@type": "Answer", "text": "It varies by make and model year. Most common: the driver's door jamb. Frequent alternates: the glovebox, the strut tower or slam panel under the hood, and (many European cars) the trunk floor near the spare tire."}}, {"@type": "Question", "name": "Can a dealer look up my factory paint color using the VIN?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, as general industry practice. A dealer parts department or the manufacturer looks up the original color by VIN by querying the build record — data the VIN is a key to, not data it contains."}}, {"@type": "Question", "name": "My paint code doesn't match the door sticker — what does that mean?", "acceptedAnswer": {"@type": "Answer", "text": "The car, or that panel, has been repainted. A repaint alone is not conclusive, but it is the cue to check why — a damage, collision-repair or salvage-auction question answered by history records."}}, {"@type": "Question", "name": "Does Carfax, AutoCheck, Bumper or Zilocar show a paint code?", "acceptedAnswer": {"@type": "Answer", "text": "No. No commercial vehicle-history report returns a factory paint code — it is not in the VIN. They surface history (accidents, salvage/auction, odometer, ownership), which tells you why a car was repainted, not its original color."}}, {"@type": "Question", "name": "Should I worry about buying a used car that has been repainted?", "acceptedAnswer": {"@type": "Answer", "text": "Not automatically — a repaint can be cosmetic. Worry only once you know the cause: check the VIN for accident, airbag-deployment and salvage-auction records. A clean history makes it minor; an undisclosed collision or salvage past does not."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Vehicle News", "item": "https://zilocar.com/research"}, {"@type": "ListItem", "position": 2, "name": "Can You Find Your Paint Code by VIN? The Honest Answer (and What a Mismatch Reveals)", "item": "https://zilocar.com/vehicle-news/paint-code-by-vin"}]}]}</script>
+<h1>Can You Find Your Paint Code by VIN? The Honest Answer</h1>
+<p>No. The 17-character VIN does not encode a paint or color code. Checked live on 2026-10-30, the free federal NHTSA vPIC decoder returned 141 fields for a test VIN and zero paint or color fields. The paint code lives on a physical body sticker whose location varies by make, and the only VIN-to-color path is a dealer or manufacturer build-record lookup. A paint code that does not match that sticker means the car was repainted.</p>
+<h2>Key facts</h2>
+<ul>
+<li><strong>The VIN carries no paint code.</strong> Its positions encode the World Manufacturer Identifier (chars 1-3), vehicle attributes (chars 4-8), check digit (char 9), model year (char 10), plant (char 11) and serial number (chars 12-17). None is exterior paint.</li>
+<li><strong>vPIC proves it.</strong> A <code>DecodeVin</code> call to the authoritative free federal decoder returned 141 variables and <strong>0</strong> matching paint/color/colour (verified 2026-10-30).</li>
+<li><strong>The code is on a body label.</strong> Most common single location: the <strong>driver's door jamb</strong> sticker. Frequent alternates: glovebox, under the hood on the strut tower or slam panel, and the trunk/spare-tire well floor. It varies by make and model year.</li>
+<li><strong>A dealer can map VIN to factory color</strong> by querying the original build record — general industry practice, not a feature of any VIN-history product.</li>
+<li><strong>A code mismatch means a repaint.</strong> If panels carry different codes, or a panel differs from the body label, the car was repainted; the question then is <em>why</em>.</li>
+</ul>
+<h2>Can you find your paint code by VIN?</h2>
+<p>No. No free tool and no paid tool derives the factory paint code from the VIN string itself, because the code is not in the VIN. The 17 characters identify the vehicle's make, attributes, model year, plant and serial number — not its exterior finish. Querying NHTSA's free vPIC decoder confirmed it: 141 fields came back, none of them paint or color. The code is a few characters printed on a sticker on the car, and that is where you read it.</p>
+<h2>Does a free VIN decoder (NHTSA vPIC) show the paint color code?</h2>
+<p>No. The free federal NHTSA vPIC decoder returns a great deal about a vehicle, but not its paint. Here is what it does and does not return for a decoded VIN:</p>
+<table><thead><tr><th>vPIC returns</th><th>vPIC does NOT return</th></tr></thead><tbody>
+<tr><td>Make, model, model year, body class</td><td>Exterior paint code</td></tr>
+<tr><td>Assembly plant, manufacturer (WMI)</td><td>Factory color name</td></tr>
+<tr><td>Engine, displacement, fuel type</td><td>Interior trim color</td></tr>
+<tr><td>Trim, series, GVWR class</td><td>Any paint/color field at all</td></tr>
+<tr><td>Safety and airbag systems (141 fields total for the test VIN)</td><td>(0 paint/color fields)</td></tr>
+</tbody></table>
+<p>Because vPIC is the decoder the public is pointed to and it has no paint field, any "free VIN paint decode" result elsewhere is reading the body sticker, doing a dealer-style build-record lookup, or guessing.</p>
+<h2>Where is the paint code sticker on my car?</h2>
+<p>It varies by make and model year. The single most common location is the driver's door jamb; frequent alternates are the glovebox, under the hood on the strut tower or slam panel, and — on many European cars — the trunk floor near the spare tire. The table gives the primary location per major make; confirm on the individual vehicle rather than assuming one universal spot.</p>
+<table><thead><tr><th>Make</th><th>Primary location</th><th>Alternate location(s)</th><th>Code format example</th></tr></thead><tbody>
+<tr><td>Ford / Lincoln / Mercury</td><td>Driver's door jamb ("Ext. Paint")</td><td>Glovebox; under hood near strut tower</td><td>2 chars (e.g. J7, UG, YZ)</td></tr>
+<tr><td>GM — Chevrolet / Buick / Cadillac / GMC</td><td>Glovebox or driver's door jamb ("BC/CC")</td><td>Trunk, radiator support (older)</td><td>e.g. WA8555 (sometimes last 4 digits)</td></tr>
+<tr><td>Honda / Acura</td><td>Driver's door jamb</td><td>—</td><td>Letter-number (e.g. NH-731P)</td></tr>
+<tr><td>Toyota / Lexus</td><td>Driver's door jamb ("C/TR")</td><td>—</td><td>3 chars after C/ (e.g. 1G3)</td></tr>
+<tr><td>Nissan / Infiniti</td><td>Driver's door jamb</td><td>Under the hood</td><td>3 chars (e.g. KH3)</td></tr>
+<tr><td>Hyundai / Kia</td><td>Driver's door jamb</td><td>—</td><td>2-3 chars (e.g. SAW)</td></tr>
+<tr><td>Subaru</td><td>Strut tower, under the hood</td><td>Glovebox</td><td>3 chars (e.g. K1X)</td></tr>
+<tr><td>BMW / Mini</td><td>Driver's door jamb or strut tower</td><td>Slam panel</td><td>3 digits (e.g. 475)</td></tr>
+<tr><td>Mercedes-Benz</td><td>Under hood on slam panel</td><td>Door jamb</td><td>3 digits, often prefixed 9</td></tr>
+<tr><td>Volkswagen / Audi</td><td>Trunk floor near spare tire ("under the trunk liner")</td><td>Service book</td><td>4 chars (e.g. LY9B)</td></tr>
+<tr><td>Chrysler / Dodge / Jeep / Ram (Mopar)</td><td>Driver's door jamb / B-pillar ("PAINT")</td><td>Jeep Wrangler: spare-tire mount; Charger/Challenger: may also be on the trunk lid</td><td>3 chars starting with P (e.g. PW7)</td></tr>
+</tbody></table>
+<p>Format examples come from trade touch-up sources, not manufacturer service manuals; treat them as illustrative and expect variation by model year. Mazda and Volvo are commonly reported at the driver's door jamb, but that was not confirmed against a manufacturer source here.</p>
+<h2>What does a paint code look like, and how is it different from the VIN?</h2>
+<p>A paint code is short — typically two to four characters, sometimes with a letter prefix such as Honda's <code>NH-731P</code> or Mopar's <code>PW7</code>. The VIN is always 17 characters and identifies the whole vehicle. They are not related: the paint code sits on a body label alongside the trim and build codes, while the VIN is stamped on the dash, door jamb and title. A door-jamb sticker may show both, but they are separate fields — one identifies the car, the other names the factory finish.</p>
+<h2>Can a dealer look up my factory paint color using the VIN?</h2>
+<p>Yes — and this is the one real VIN-to-color path, confirmed as standard practice by trade sources including PaintScratch and ExpressPaint. A franchised dealer parts department, or the manufacturer directly, can look up the original factory color by VIN because they query the vehicle's <strong>original build record</strong> — the data the plant recorded when it built the car. The VIN is the key to that record; it does not contain the color. Without the build record, the VIN alone yields no paint code.</p>
+<h2>What if the paint code sticker is missing or unreadable?</h2>
+<p>Give the VIN to a dealer parts department for a build-record lookup. On a used car, a missing or sprayed-over door-jamb sticker is itself worth noting, because that sticker sits exactly where collision shops mask and respray. The factory color still exists in the build record even when the car no longer shows it.</p>
+<h2>My paint code doesn't match the door sticker — what does that mean?</h2>
+<p>It means the car, or that panel, has been repainted. A repaint on its own is not proof of a problem — it can be cosmetic or touch-up — but it is the signal to ask the real question: <em>why</em> was it repainted?</p>
+<p>That is a damage-history question, not a paint-code question. The most common reasons a panel gets resprayed are collision repair and prior salvage. So the next move is to check the car's <a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">accident, airbag and salvage history by VIN</a>, whether <a href="https://zilocar.com/vehicle-news/used-honda-acura-airbag-sensor-recall-check">a used car had an airbag deployed</a> (a strong indicator of a serious impact), and whether there is <a href="https://zilocar.com/vehicle-news/used-flood-car-title-washing-clean-title-vin-check-before-buying">flood or salvage history</a> behind the car. If a history report shows a salvage-auction record, you may be looking at <a href="https://zilocar.com/vehicle-news/what-is-a-rebuilt-title-used-car-vin-check">what a rebuilt title</a> represents — a repaired total loss — regardless of the current title.</p>
+<h2>Is 'paint code by VIN free' a real thing?</h2>
+<p>No free tool returns the factory paint code from the VIN alone, because the code is not encoded in the VIN — the free NHTSA vPIC decoder shows no paint field. Any site that displays a color after you enter a VIN is doing a build-record lookup behind the scenes, not decoding the 17 characters. The free route is to read the body sticker; the authoritative route, when the sticker is gone, is a dealer VIN lookup.</p>
+<h2>Does Carfax, AutoCheck, Bumper or Zilocar show a paint code?</h2>
+<p>No. No commercial vehicle-history report returns a factory paint code — the code is not in the VIN, so no VIN product can decode it. What these reports surface is <em>history</em>, which is how you learn why a car was repainted. Competitor prices below are reported by third-party comparisons and were not confirmable at each provider's own checkout on 2026-10-30 (several were bot-blocked), so sources disagree and the figures are labeled "reported."</p>
+<table><thead><tr><th>Provider</th><th>Returns a paint code?</th><th>What it surfaces</th><th>Price (as of 2026-10-30)</th></tr></thead><tbody>
+<tr><td>NHTSA vPIC (free)</td><td>No</td><td>Make/model/year, plant, engine, trim, safety systems</td><td>Free (<code>vpic.nhtsa.dot.gov</code>)</td></tr>
+<tr><td>Carfax</td><td>No</td><td>Accident, service, ownership history</td><td>Single report reported at ~$44.99; an older $39.99 also cited — sources disagree (<code>carfax.com</code>, <em>unlinked by policy</em>)</td></tr>
+<tr><td>AutoCheck (Experian)</td><td>No</td><td>Auction, accident, scoring</td><td>Reported at $29.99/report and "5 reports for 21 days, $59.99"; some sources say $24.99 (<code>autocheck.com</code>, <em>unlinked by policy</em>)</td></tr>
+<tr><td>Bumper</td><td>No</td><td>History records, subscription model</td><td>Reported as a $1 seven-day trial auto-renewing to ~$19.99-$24.99/month; single ~$31.99 (<code>bumper.com</code>, <em>unlinked by policy</em>)</td></tr>
+<tr><td>Zilocar</td><td>No</td><td>Accident/airbag-deployment, salvage/junk-auction, odometer, theft, ownership, sales-listing history; recall presence</td><td>$39.50 single report; $29.50 first month then $59.75/month for 20 reports</td></tr>
+</tbody></table>
+<p>By reported single-report price, AutoCheck's ~$29.99 is lower than Zilocar's $39.50 — the relevant criterion being single-report cost, not records shown. None returns the paint code, so for the color itself the sticker or a dealer lookup is the only route.</p>
+<h2>What to check by VIN before you buy a repainted car</h2>
+<p>A repaint sends you to the history, not to a color lookup. Verify these before you buy, starting with the authoritative free source and then a paid history report:</p>
+<ol>
+<li><strong>Open recalls</strong> — NHTSA's free VIN tool at <code>nhtsa.gov/recalls</code> is the authority for recall <em>presence</em>; history reports screen the same presence/count but do not confirm a recall was remedied.</li>
+<li><strong>Accident and collision records</strong> — location, type, severity; collision repair is the most common reason a panel is resprayed.</li>
+<li><strong>Airbag-deployment status</strong> — a strong signal of a serious impact behind a repaint.</li>
+<li><strong>Salvage and junk auction records</strong> — a prior total loss often precedes a full respray; these records precede, but are not, a legal title brand.</li>
+<li><strong>Title brand itself</strong> — confirm with <a href="https://vehiclehistory.gov/">NMVTIS</a> and the state DMV, the brand authorities.</li>
+<li><strong>Odometer / rollback check</strong> — rolled-back mileage often travels with cosmetic reconditioning.</li>
+</ol>
+<h2>What a VIN check can and can't tell you here</h2>
+<p>A VIN check cannot give you a paint code — the code is on a body sticker, and the only VIN-to-color path is a dealer build-record lookup. Where a VIN history report earns its place is the follow-on question a repaint raises: why was the car refinished?</p>
+<p>A Zilocar VIN check can surface accident and damage records (location, type, severity, airbag-deployment status), junk and salvage <strong>auction</strong> records, odometer/rollback checks, theft records (NICB), ownership history, and sales-listing history (past and current listings, prices, mileage, days on market) — useful when you are also weighing <a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">a used car's listing and price history</a> against a repaint discount. It also screens for recall <em>presence</em> and shows specs, safety ratings and a market valuation.</p>
+<p>A Zilocar VIN report does not show the legal <strong>title brand</strong>, does not confirm whether a recall was <em>remedied</em> or flashed, and cannot flag NHTSA investigations (PE/EA) or per-unit dealer firmware detail; nor can it return a paint code. For the legal brand, the authorities are NMVTIS (<a href="https://vehiclehistory.gov/">vehiclehistory.gov</a>) and the state DMV — a history report shows the salvage/auction records that precede a brand, not the classification.</p>
+<p>Get the paint code from the body sticker or a dealer VIN lookup; to find out <em>why</em> a car was repainted, a Zilocar VIN report (single report $39.50, as of 2026-10-30) surfaces the accident, salvage-auction and listing history behind the respray.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Can I find my car's paint code from the VIN?</strong> No. The 17-character VIN contains no paint or color code. NHTSA's free vPIC decoder returned 141 fields for a test VIN and zero paint fields. The code is on a body sticker; a dealer maps VIN to factory color only through the original build record.</p>
+<p><strong>Where is the paint code sticker on my car?</strong> It varies by make and model year. Most common: the driver's door jamb. Frequent alternates: the glovebox, the strut tower or slam panel under the hood, and (many European cars) the trunk floor near the spare tire.</p>
+<p><strong>Can a dealer look up my factory paint color using the VIN?</strong> Yes, as general industry practice. A dealer parts department or the manufacturer looks up the original color by VIN by querying the build record — data the VIN is a key to, not data it contains.</p>
+<p><strong>My paint code doesn't match the door sticker — what does that mean?</strong> The car, or that panel, has been repainted. A repaint alone is not conclusive, but it is the cue to check why — a damage, collision-repair or salvage-auction question answered by history records.</p>
+<p><strong>Does Carfax, AutoCheck, Bumper or Zilocar show a paint code?</strong> No. No commercial vehicle-history report returns a factory paint code — it is not in the VIN. They surface history (accidents, salvage/auction, odometer, ownership), which tells you why a car was repainted, not its original color.</p>
+<p><strong>Should I worry about buying a used car that has been repainted?</strong> Not automatically — a repaint can be cosmetic. Worry only once you know the cause: check the VIN for accident, airbag-deployment and salvage-auction records. A clean history makes it minor; an undisclosed collision or salvage past does not.</p>
+<h2>Related checks</h2>
+<ul>
+<li><a href="https://zilocar.com/vehicle-news/used-tesla-model-3-accident-history-vin-check-before-buying">How to check accident, airbag and salvage history by VIN</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-car-sales-cooling-prices-rising-listing-history-leverage">How to check a used car's listing and price history before buying</a></li>
+<li><a href="https://zilocar.com/vehicle-news/used-kia-hyundai-theft-recall-stolen-history-check">How to check if a used Kia or Hyundai was stolen before buying</a></li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://vpic.nhtsa.dot.gov/decoder/">NHTSA vPIC VIN decoder</a> — free federal decoder; decoded output contains no paint/color field.</li>
+<li><a href="https://vpic.nhtsa.dot.gov/api/vehicles/DecodeVin/1HGCM82633A004352?format=json">NHTSA vPIC DecodeVin API</a> — machine-verifiable: 141 variables returned, 0 paint/color fields (pulled 2026-10-30).</li>
+<li><a href="https://vehiclehistory.gov/">NMVTIS / vehiclehistory.gov</a> — authoritative U.S. government title-brand and salvage data system.</li>
+<li><a href="https://www.paintscratch.com/touch-up-paint-codes/paint-code.html">PaintScratch — Finding Your Vehicle Paint Color Code</a> — VIN is not the paint code; a dealer parts department can look up color by VIN via the build record.</li>
+<li><a href="https://www.dipyourcar.com/blogs/dipyourcar-daily/how-to-find-your-cars-paint-code-every-major-brand">DipYourCar — How to find your car's paint code, every major brand</a> — per-make sticker locations and code formats.</li>
+<li><a href="https://www.automotivetouchup.com/paint-codes/">AutomotiveTouchup — color code locator</a> — per-make, varies by model and year.</li>
+<li>Carfax — vehicle history reports, <code>carfax.com</code>. Pricing reported by third-party comparisons as of 2026-10-30; not confirmed at source (checkout bot-blocked). <em>(unlinked by policy)</em></li>
+<li>AutoCheck (Experian) — vehicle history reports, <code>autocheck.com</code>. Pricing reported as of 2026-10-30; not confirmed at source. <em>(unlinked by policy)</em></li>
+<li>Bumper — vehicle history reports, <code>bumper.com</code>. Pricing reported as of 2026-10-30; not confirmed at source. <em>(unlinked by policy)</em></li>
+</ul>
+<p>Last verified: 2026-10-30</p>]]></content:encoded>
+</item>
 <item>
 <title>7% of Car Recalls Reach Back to a Decade-Old Model Year. They Carry 28% of Every Vehicle Ever Recalled - and NHTSA, Not the Carmaker, Opens Them</title>
 <link>https://zilocar.com/vehicle-news/recalls-on-older-used-cars-nhtsa-data-vin-check-2026</link>
