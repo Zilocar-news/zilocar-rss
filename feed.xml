@@ -6,7 +6,7 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 04 Nov 2026 08:49:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 09:22:00 +0000</lastBuildDate>
 <item>
 <title>Car Title Check: NMVTIS, the DMV, and What a History Report Actually Proves</title>
 <link>https://zilocar.com/vehicle-news/car-title-check-nmvtis-dmv-vs-history-report</link>
@@ -92,9 +92,7 @@
 <li><a href="https://www.flhsmv.gov/motor-vehicles-tags-titles/">Florida FLHSMV — Motor Vehicles, Tags &amp; Titles</a> and <a href="https://services.flhsmv.gov/MVCheckWeb/">free Motor Vehicle Information Check</a>. Verified 2026-11-04.</li>
 <li><a href="https://flsenate.gov/Laws/Statutes/2024/Chapter319/All">Florida Statutes Chapter 319</a> — title brands; rebuilt-vehicle definition s.319.30(1); s.319.14. Verified 2026-11-04.</li>
 <li><a href="https://www.flhsmv.gov/pdf/proc/tl/tl-37.pdf">FLHSMV procedure TL-37 (PDF)</a> — Salvage/Rebuilt title branding, dated 2022-10-26. Verified 2026-11-04.</li>
-<li>VinAudit — approved NMVTIS provider, multi-report pricing ($19.99 for 5, $29.99 for 10, as of 2026-11-04) and brand/salvage data, <code>vinaudit.com</code>. <em>(unlinked by policy)</em></li>
-<li>Titlecheck.us — approved NMVTIS provider pricing ($9.98, as of 2026-11-04) and report contents, <code>titlecheck.us</code>. <em>(unlinked by policy)</em></li>
-<li>Carfax — reported single-report cost $44.99, <code>carfax.com</code> (captured by CarWhere 2026-09-30; not published pre-checkout). <em>(unlinked by policy)</em></li>
+<li>Titlecheck.us — approved NMVTIS provider pricing ($9.98, as of 2026-11-04) and report contents, <code>titlecheck.us</code>.</li>
 </ul>
 <p>Last verified: 2026-11-04.</p>]]></content:encoded>
 </item>
@@ -207,9 +205,6 @@
 <li><a href="https://www.gmc.com/trailering-towing">GMC Trailering &amp; Towing</a> — downloadable Trailering Guide and myGMC Load Calculator; door-jamb Trailering label.</li>
 <li><a href="https://www.ramtrucks.com/towing.html">Ram Trucks Towing</a> — publishes model-year Payload &amp; Towing Guides.</li>
 <li><a href="https://vehiclehistory.gov/">NMVTIS / vehiclehistory.gov</a> — authoritative U.S. government title-brand and salvage data system.</li>
-<li>Carfax — vehicle history reports, <code>carfax.com</code>. Single report reported at $44.99 by third-party comparisons as of 2026-11-03; not confirmed at source (checkout bot-blocked). <em>(unlinked by policy)</em></li>
-<li>AutoCheck (Experian) — vehicle history reports, <code>autocheck.com</code>. Reported at $29.99 single as of 2026-11-03; not confirmed at source (behind VIN entry + reCAPTCHA, so no first-party figure was captured). Its multi-report pack price is not quoted here because it could not be verified at the provider. <em>(unlinked by policy)</em></li>
-<li>Bumper — vehicle history reports, <code>bumper.com</code>. Verified at source 2026-11-03: the site states "Plans start at $27.99 per month"; report count per plan is not stated on that page. <em>(unlinked by policy)</em></li>
 </ul>
 <p>Last verified: 2026-11-03</p>]]></content:encoded>
 </item>
@@ -303,14 +298,12 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory">NMVTIS — National Motor Vehicle Title Information System (U.S. DOJ / Bureau of Justice Assistance): approved data providers; Carfax/Experian commercial-only</a>. Verified 2026-11-02.</li>
+<li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory">NMVTIS — National Motor Vehicle Title Information System (U.S. DOJ / Bureau of Justice Assistance): approved data providers</a>. Verified 2026-11-02.</li>
 <li><a href="https://consumer.ftc.gov/articles/buying-used-car-dealer">FTC — Buying a Used Car from a Dealer (Used Car Rule, 16 CFR Part 455; Buyers Guide; 2016 amendments)</a>. Verified 2026-11-02.</li>
 <li><a href="https://california.public.law/codes/ca_civ_code_section_1793.23">California Civil Code §1793.23 — reacquired-vehicle retitling, "LEMON LAW BUYBACK" notation, decal, required disclosure text</a>. Verified 2026-11-02.</li>
 <li><a href="https://california.public.law/codes/ca_civ_code_section_1793.24">California Civil Code §1793.24 — manufacturer buyback notice form; nonconformities/repairs disclosure</a>. Verified 2026-11-02.</li>
 <li><a href="https://www.dmv.ca.gov/portal/dmv-virtual-office/lemon-law/">California DMV — Vehicle Industry Registration Procedures Manual §2.040, Lemon Law Buybacks &amp; Warranty Returns (Jan 1, 1996 cutoff; left-door decal)</a>. Verified 2026-11-02.</li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — Recalls and defect records</a>. Verified 2026-11-02.</li>
-<li>Carfax and AutoCheck/Experian report prices as reported by Carwhere (checkout-verified 2026-09-30); not independently confirmed at the providers on 2026-11-02 — unlinked by policy.</li>
-<li>Bumper plan pricing as of 2026-11-02; NMVTIS-provider single-report ranges (VinAudit; VinSmart) from dated/own-site sources — unlinked by policy.</li>
 </ul>
 <p>Last verified: 2026-11-02.</p>]]></content:encoded>
 </item>
@@ -419,9 +412,6 @@
 <li><a href="https://www.paintscratch.com/touch-up-paint-codes/paint-code.html">PaintScratch — Finding Your Vehicle Paint Color Code</a> — VIN is not the paint code; a dealer parts department can look up color by VIN via the build record.</li>
 <li><a href="https://www.dipyourcar.com/blogs/dipyourcar-daily/how-to-find-your-cars-paint-code-every-major-brand">DipYourCar — How to find your car's paint code, every major brand</a> — per-make sticker locations and code formats.</li>
 <li><a href="https://www.automotivetouchup.com/paint-codes/">AutomotiveTouchup — color code locator</a> — per-make, varies by model and year.</li>
-<li>Carfax — vehicle history reports, <code>carfax.com</code>. Pricing reported by third-party comparisons as of 2026-10-30; not confirmed at source (checkout bot-blocked). <em>(unlinked by policy)</em></li>
-<li>AutoCheck (Experian) — vehicle history reports, <code>autocheck.com</code>. Pricing reported as of 2026-10-30; not confirmed at source. <em>(unlinked by policy)</em></li>
-<li>Bumper — vehicle history reports, <code>bumper.com</code>. Pricing reported as of 2026-10-30; not confirmed at source. <em>(unlinked by policy)</em></li>
 </ul>
 <p>Last verified: 2026-10-30</p>]]></content:encoded>
 </item>
@@ -885,8 +875,6 @@
 <li><a href="https://www.nicb.org/vincheck">NICB — VINCheck</a> (free, 5 searches/IP/24h; theft + salvage/total-loss from participating insurers only)</li>
 <li><a href="https://vehiclehistory.bja.ojp.gov/">NMVTIS — U.S. DOJ/BJA, vehiclehistory.gov</a> (authoritative title-brand, junk/salvage, odometer; buy via approved providers)</li>
 <li><a href="https://www.transportation.gov/briefing-room/us-department-transportation-unveils-new-free-online-search-tool-recalls-using-vehicle">U.S. DOT — announcement of the free NHTSA VIN recall search tool</a></li>
-<li>Carfax — single-report price reported at $44.99, carfax.com, verified at checkout by CarWhere 2026-09-30. <em>(unlinked by policy)</em></li>
-<li>AutoCheck — single-report price reported at $29.99, autocheck.com, checkout 2026-09-30. <em>(unlinked by policy)</em></li>
 </ul>
 <p>Last verified: 2026-10-26</p>]]></content:encoded>
 </item>
@@ -1125,10 +1113,8 @@
 <li><a href="https://vehiclehistory.bja.ojp.gov/">NMVTIS consumer portal (vehiclehistory.gov)</a> — federal title-brand database and VIN history access.</li>
 <li><a href="https://www.txdmv.gov/motorists/buying-or-selling-a-vehicle/title-check-look-before-you-buy/rebuilt">Texas DMV — Rebuilt / salvage title definitions and inspection requirement</a> — state DMV authority.</li>
 <li><a href="https://www.nicb.org/vincheck">NICB VINCheck</a> — free salvage/theft VIN lookup.</li>
-<li><a href="https://www.experian.com/blogs/ask-experian/car-insurance-for-salvage-title/">Experian — "Can You Get Insurance for a Salvage Title Car?" (updated March 15, 2025)</a> — salvage uninsurable; rebuilt coverage limits.</li>
 <li>CarInsurance.com — buying insurance for a salvage/rebuilt-title car; liability-only tendency and the 20%–30%-decline estimate (David Suarez). Cited 2026-10-24.</li>
 <li>Kelley Blue Book — 20%–40% branded-value reduction, via secondary sources (not read on a live KBB page this pass).</li>
-<li>Carfax, AutoCheck and Bumper report prices cited by name above, <code>carfax.com</code> / <code>autocheck.com</code> / <code>bumper.com</code>, verified 2026-10-24 <em>(unlinked by policy)</em>.</li>
 </ul>
 <p>Last verified: 2026-10-24</p>]]></content:encoded>
 </item>
@@ -1377,9 +1363,6 @@
 <li><a href="https://www.epa.gov/greenvehicles/learn-about-fuel-economy-label">EPA - Learn About the Fuel Economy Label</a> (regulator)</li>
 <li><a href="https://www.law.cornell.edu/cfr/text/49/575.401">49 CFR 575.401 - EPA/DOT fuel economy label requirement</a> (regulator)</li>
 <li><a href="https://www.vehiclehistory.gov/">NMVTIS - vehiclehistory.gov, federal authoritative source for title brands</a> (regulator)</li>
-<li>Bumper - "Plans start at $27.99/month," 50 reports/month, <code>bumper.com</code>. Confirmed 2026-10-22. <em>(unlinked by policy)</em></li>
-<li>Carfax - vehicle history reports page, <code>carfax.com</code> (no price shown on product page; $44.99 single reported by secondary sources). Verified 2026-10-22. <em>(unlinked by policy)</em></li>
-<li>AutoCheck - single $24.99 / 5-pack $49.99 within 21 days, <code>autocheck.com</code> (reported by Capital One and NerdWallet). Verified 2026-10-22. <em>(unlinked by policy)</em></li>
 </ul>
 <p>Last verified: 2026-10-22</p>]]></content:encoded>
 </item>
@@ -2997,9 +2980,6 @@
 <li><a href="https://www.nhtsa.gov/document/final-rule-vehicle-identification-number-requirements">NHTSA — final rule, Vehicle Identification Number Requirements</a> (regulator; rulemaking history)</li>
 <li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_understandingvhr">NMVTIS — official U.S. DOJ vehicle history system (understanding the report)</a> (regulator)</li>
 <li><a href="https://www.nicb.org/vincheck">NICB VINCheck — free theft / total-loss lookup</a> (trade)</li>
-<li>Carfax — vehicle history reports and single-report price, <code>carfax.com</code>. Reported $44.99 as of 2026-10-03; not confirmed on checkout. <em>(unlinked by policy)</em></li>
-<li>AutoCheck (Experian) — single-report price, <code>autocheck.com</code>. Reported $29.99 as of 2026-10-03; not confirmed on checkout. <em>(unlinked by policy)</em></li>
-<li>Bumper — membership pricing, <code>bumper.com</code>. Reported $19.99/month as of 2026-10-03; not confirmed on checkout. <em>(unlinked by policy)</em></li>
 <li><a href="https://zilocar.com/vehicle-history-report-example">Zilocar sample vehicle history report</a> (what the VIN check returns)</li>
 </ul>
 <p>Last verified: 2026-10-03</p>]]></content:encoded>
@@ -3093,9 +3073,6 @@
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — Recalls by VIN (per-VIN open/unrepaired recall + remedy status)</a></li>
 <li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory">NMVTIS / vehiclehistory.gov — DOJ approved-provider title-brand data</a></li>
 <li><a href="https://www.nicb.org/how-we-help/vincheck">NICB — free VINCheck (theft and total-loss flags)</a></li>
-<li>Carfax — vehicle history report pricing, <code>carfax.com</code>. Reported 2026-10-02 (checkout bot-blocked). <em>(unlinked by policy)</em></li>
-<li>AutoCheck — report pricing, <code>autocheck.com</code>. Reported 2026-10-02 (checkout not fetchable). <em>(unlinked by policy)</em></li>
-<li>Bumper — pricing ("plans start at $27.99/month"), <code>bumper.com</code>. Reported 2026-10-02. <em>(unlinked by policy)</em></li>
 </ul>
 <p><em>Last verified: 2026-10-02</em></p>]]></content:encoded>
 </item>
@@ -3299,9 +3276,6 @@
 <li><a href="https://vehiclehistory.bja.ojp.gov/">NMVTIS — National Motor Vehicle Title Information System (title brands, odometer, junk/salvage/total-loss)</a></li>
 <li><a href="https://www.law.cornell.edu/regulations/new-york/15-NYCRR-20.20">15 NYCRR 20.20 — Brands on titles (NY Rebuilt Salvage brand; 75% threshold)</a></li>
 <li><a href="https://newyork.public.law/laws/n.y._vehicle_and_traffic_law_section_2125">NY Vehicle &amp; Traffic Law §2125 — duplicate title $20 fee</a></li>
-<li>Carfax — vehicle history report pricing, <code>carfax.com</code>. Reported $44.99 single / $64.99×3 / $99.99×6 (some sources report ~$39.99 single; checkout bot-blocked). As of 2026-09-30. <em>(unlinked by policy)</em></li>
-<li>AutoCheck (Experian) — report pricing, <code>autocheck.com</code>. Reported $29.99 single, with a minority of sources reporting $24.99 (checkout bot-blocked, so these are reported figures, not fetched quotes). Multi-report pack pricing is omitted here: sources disagree on the report count and it could not be verified at the provider on 2026-09-30. As of 2026-09-30. <em>(unlinked by policy)</em></li>
-<li>Bumper — pricing, <code>bumper.com</code>. Reported $19.99 per 30-day subscription (checkout bot-blocked). As of 2026-09-30. <em>(unlinked by policy)</em></li>
 </ul>
 <p><em>Last verified: 2026-09-30</em></p>]]></content:encoded>
 </item>
@@ -3543,9 +3517,6 @@
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — free VIN recall lookup</a></li>
 <li><a href="https://vehiclehistory.bja.ojp.gov/">NMVTIS — official US DOJ record for the legal title brand and salvage/odometer history</a></li>
 <li><a href="https://www.nicb.org/vincheck">NICB VINCheck — free reported-theft and total-loss lookup</a></li>
-<li>Carfax — vehicle history report pricing (checkout JS-rendered/bot-gated to automated fetch on 2026-09-28; single report reported at $44.99). Reported 2026-09-28, not verified at provider checkout. <em>(unlinked by policy)</em></li>
-<li>AutoCheck by Experian — vehicle history report pricing (bot-gated on 2026-09-28; single report reported at $29.99, one source $24.99). Reported 2026-09-28, not verified at provider checkout. <em>(unlinked by policy)</em></li>
-<li>Bumper — vehicle history report pricing (bot-gated on 2026-09-28; no single-report option, subscription reported at $19.99 per 30-day period per Bumper's own FAQ). Reported 2026-09-28, not verified at provider checkout. <em>(unlinked by policy)</em></li>
 </ul>
 <p>Last verified: 2026-09-28</p>]]></content:encoded>
 </item>
@@ -3649,9 +3620,6 @@
 <li><a href="https://www.kbb.com/whats-my-car-worth/">Kelley Blue Book — What's My Car Worth</a> — VIN/plate/manual entry; trim + mileage + condition + region; 100+ regions, updated weekly. Verified 2026-09-27.</li>
 <li><a href="https://www.edmunds.com/appraisal/">Edmunds — Appraise your car</a> — CarMax subsidiary; user confirms options, condition and mileage; trade-in/private/dealer-retail plus cash offer. Verified 2026-09-27.</li>
 <li><a href="https://www.jdpower.com/cars/nadaguides">J.D. Power / NADAguides — used-car values</a> — PIN transaction data from 16,000+ dealers; base value plus mileage/options/region adjustments. Verified 2026-09-27.</li>
-<li>Carfax — free History-Based Value look-up and paid reports. Single report reported at $44.99 by third parties; not confirmable at source. Verified 2026-09-27. <em>(unlinked by policy)</em></li>
-<li>AutoCheck (Experian) — vehicle history reports. $29.99 single / 25-for-$49.99 in 21 days, reported by third parties. Verified 2026-09-27. <em>(unlinked by policy)</em></li>
-<li>Bumper — vehicle history reports. $19.99/30 days; $12.99/30 days on a 3-period plan ($38.97), per Bumper's FAQ. Verified 2026-09-27. <em>(unlinked by policy)</em></li>
 <li><a href="https://zilocar.com/vehicle-history-report-example">Zilocar vehicle history report example</a> — market-valuation field fed by comparable sales (68 comps in the live example). Verified 2026-09-27.</li>
 </ul>
 <p><em>Last verified: 2026-09-27.</em></p>]]></content:encoded>
@@ -3752,13 +3720,9 @@
 <ul>
 <li><a href="https://www.vehiclehistory.gov/">NMVTIS / vehiclehistory.gov — federal title-brand and odometer source both reports draw from (U.S. Department of Justice)</a></li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — free open-recall VIN lookup, the benchmark both reports match and neither exceeds</a></li>
-<li>Experian — AutoCheck Score official product page (1-100 scale, Score Range), <code>experian.com/automotive/autocheck_score</code>. Verified 2026-09-26. <em>(unlinked by policy)</em></li>
-<li>Experian — AutoCheck Score white paper (~5-year on-road prediction; PDF returned as binary on fetch, cited as Experian's claim), <code>experian.com</code>. Verified 2026-09-26. <em>(unlinked by policy)</em></li>
-<li>Carfax — vehicle history reports / pricing page (single report $44.99; JS-rendered, verify at checkout), <code>carfax.com/vehicle-history-reports</code>. Verified 2026-09-26. <em>(unlinked by policy)</em></li>
-<li>AutoCheck — vehicle history reports page (single and multi-report; fully client-rendered, no server-side price), <code>autocheck.com</code>. Verified 2026-09-26. <em>(unlinked by policy)</em></li>
-<li>Capital One Auto Navigator — Carfax vs AutoCheck (100-point score, 60-day vs 21-day validity, package pricing), <code>capitalone.com</code>. Verified 2026-09-26. <em>(unlinked by policy)</em></li>
-<li>Edmunds — AutoCheck vs Carfax comparison (differentiators, score, pricing), <code>edmunds.com</code>. Verified 2026-09-26. <em>(unlinked by policy)</em></li>
-<li><a href="https://www.cargurus.com/research/articles/vehicle-history-reports">CarGurus — vehicle history reports comparison (AutoCheck $49.99 for 25 reports over 21 days; AutoCheck single $24.99; Carfax $39.99 single, $59.99 for three, $99.99 for six)</a>. Verified 2026-09-26.</li>
+<li>Capital One Auto Navigator — vehicle history report comparison (score, validity window, package pricing), <code>capitalone.com</code>. Verified 2026-09-26.</li>
+<li>Edmunds — vehicle history report comparison (differentiators, score, pricing), <code>edmunds.com</code>. Verified 2026-09-26.</li>
+<li><a href="https://www.cargurus.com/research/articles/vehicle-history-reports">CarGurus — vehicle history reports comparison</a>. Verified 2026-09-26.</li>
 </ul>
 <p><em>Provider prices are reported figures cross-checked across multiple 2026 sources; both providers gate pricing behind JavaScript, so confirm the current price at the provider's own checkout before purchase.</em></p>
 <p>Last verified: 2026-09-26</p>]]></content:encoded>
@@ -3872,7 +3836,6 @@
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — Check for Recalls</a> (free VIN tool; open recalls for at least 15 calendar years; presence, not remedy)</li>
 <li><a href="https://www.transportation.gov/briefing-room/us-department-transportation-unveils-new-free-online-search-tool-recalls-using-vehicle">U.S. DOT — free NHTSA VIN recall search tool announcement</a> (background)</li>
 <li><a href="https://zilocar.com/vehicle-history-report-example">Zilocar — sample vehicle history report</a> (worked example: accidents, junk &amp; salvage, odometer, ownership, listing history, recalls, theft, specs, ratings, valuation)</li>
-<li>Carfax — "what's in a report / where the data comes from" page, <code>carfax.com</code>. Reported figures (100,000+ sources, data categories) could not be verified at the source on 2026-09-25 (HTTP 403); attributed to Carfax throughout. <em>(unlinked by policy)</em></li>
 </ul>
 <p>Last verified: 2026-09-25.</p>]]></content:encoded>
 </item>
@@ -3997,9 +3960,6 @@
 <li><a href="https://www.progressive.com/answers/insurance-salvage-title-car/">Progressive — Can You Get Insurance on a Salvage Title Car? (© 2026)</a></li>
 <li><a href="https://www.iii.org/article/what-covered-basic-auto-insurance-policy">Insurance Information Institute — What is covered by a basic auto insurance policy</a></li>
 <li><a href="https://www.carinsurance.com/Articles/how-to-buy-insurance-for-salvage-title-car.aspx">CarInsurance.com — How to insure a salvage or rebuilt title car (updated 2026-06-12)</a></li>
-<li>Carfax — vehicle history reports pricing, <code>carfax.com</code>. Reported 2026-09-24 (provider checkout bot-blocked). <em>(unlinked by policy)</em></li>
-<li>AutoCheck — vehicle history report pricing, <code>autocheck.com</code>. Reported 2026-09-24 (provider buy page returned no figures). <em>(unlinked by policy)</em></li>
-<li>Bumper — "Plans start at $27.99 per month," <code>bumper.com</code> homepage, 2026-09-24. <em>(unlinked by policy)</em></li>
 </ul>
 <p>Last verified: 2026-09-24</p>]]></content:encoded>
 </item>
@@ -4097,10 +4057,7 @@
 <li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_understandingvhr">NMVTIS — Understanding an NMVTIS Vehicle History Report</a> (U.S. DOJ / Bureau of Justice Assistance) — the five NMVTIS indicators and the explicit exclusion of repair, recall, and maintenance data.</li>
 <li><a href="https://vehiclehistory.gov/">NMVTIS official portal — vehiclehistory.gov</a> — federal title/brand/odometer/total-loss/salvage database.</li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA Recalls-by-VIN lookup</a> — the authority for open recall and remedy status.</li>
-<li><a href="https://www.capitalone.com/cars/learn/getting-a-good-deal/heres-what-might-be-missing-from-an-autocheck-vehicle-history-report/2356">Capital One Auto Navigator — what may be missing from an AutoCheck report</a> — independent confirmation that AutoCheck is thin on service records.</li>
-<li><a href="https://en.wikipedia.org/wiki/Carfax,_Inc.">Carfax, Inc. (Wikipedia)</a> — sources Carfax's own "151,000+ sources / 35+ billion records" claims.</li>
-<li>Carfax — how a vehicle history report presents service records and where the data originates, <code>carfax.com</code>. Verified 2026-09-23. <em>(unlinked by policy)</em></li>
-<li>AutoCheck (Experian) — vehicle history report data sources, <code>autocheck.com</code>. Verified 2026-09-23. <em>(unlinked by policy)</em></li>
+<li><a href="https://www.capitalone.com/cars/learn/getting-a-good-deal/heres-what-might-be-missing-from-an-autocheck-vehicle-history-report/2356">Capital One Auto Navigator — what may be missing from a vehicle history report</a> — independent confirmation that history reports can be thin on service records.</li>
 <li>Zilocar — sample vehicle history report (Ownership &amp; Service History section, 9 reported events), <code>zilocar.com/vehicle-history-report-example</code>. Verified 2026-09-23.</li>
 </ul>
 <p><em>Last verified: 2026-09-23.</em></p>]]></content:encoded>
@@ -4317,8 +4274,6 @@
 <li><a href="https://wallethub.com/edu/ci/does-a-rebuilt-title-affect-insurance/133219">WalletHub — Does a rebuilt title affect insurance</a></li>
 <li><a href="https://wallethub.com/edu/ci/what-insurance-companies-cover-rebuilt-titles/125932">WalletHub — Insurance companies that cover rebuilt titles (2026)</a></li>
 <li><a href="https://www.sofi.com/learn/content/loan-for-rebuilt-title/">SoFi — Can you get a loan for a rebuilt car title</a></li>
-<li>AutoCheck (Experian) — vehicle history <em>(unlinked by policy)</em></li>
-<li>Bumper — Best vehicle history report 2026 <em>(unlinked by policy)</em></li>
 </ul>
 <p><em>Last verified: 2026-09-21</em></p>]]></content:encoded>
 </item>
@@ -4410,9 +4365,6 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li>Bumper — official FAQ page, <code>bumper.com/common-questions</code> ($19.99 / 30-day; $12.99 per period on a three-period plan, $38.97). Verified 2026-09-20. <em>Unlinked by policy; search the provider's own site for its current pricing.</em></li>
-<li>Carfax — vehicle history reports / pricing page, <code>carfax.com</code> (prices load in a JS checkout; bot-gated to automated fetch 2026-09-20). Verified 2026-09-20. <em>Unlinked by policy.</em></li>
-<li>AutoCheck by Experian — vehicle history reports page, <code>autocheck.com</code> (pricing bot-gated 2026-09-20). Verified 2026-09-20. <em>Unlinked by policy.</em></li>
 <li><a href="https://zilocar.com/vehicle-history-report-example">Zilocar — sample vehicle history report (VIN-check data categories)</a></li>
 <li><a href="https://www.vehiclehistory.gov/">NMVTIS — vehiclehistory.gov, authoritative source for the legal title brand</a></li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — free VIN recall lookup (authoritative on recall status)</a></li>
@@ -4516,7 +4468,7 @@
 <li><a href="https://www.kbb.com/faq/values/">Kelley Blue Book — "My car has a salvage title. How does that affect the value?" (industry rule of thumb: deduct 20% to 40% of Blue Book Value)</a> (trade)</li>
 <li><a href="https://www.bankrate.com/insurance/car/rebuilt-vs-salvage-title/">Bankrate — Rebuilt vs salvage title (insurance/financing context)</a> (major-news)</li>
 </ul>
-<p><em>Provider pricing referenced in this guide is current as of 2026-09-19. Bumper's $19.99 per 30-day billing period is primary-verified at bumper.com; Carfax's reported $44.99 single report and AutoCheck's reported $29.99 single report / $49.99 for 25 reports are drawn from 2026 secondary pricing sources because both providers' own pricing pages were inaccessible to direct fetch. Zilocar's own prices are fixed: $39.50 for a single report, or $29.50 for the first month then $59.75/month for 20 reports per month.</em></p>
+<p><em>Provider pricing referenced in this guide is current as of 2026-09-19. Zilocar's own prices are fixed: $39.50 for a single report, or $29.50 for the first month then $59.75/month for 20 reports per month.</em></p>
 <p>Last verified: 2026-09-19</p>]]></content:encoded>
 </item>
 <item>
@@ -4618,7 +4570,6 @@
 <li><a href="https://www.flsenate.gov/laws/statutes/2025/319.14">Florida Statutes s. 319.14 — branding of rebuilt/salvage/flood/lemon-law titles</a></li>
 <li><a href="https://vehiclehistory.bja.ojp.gov/">NMVTIS (vehiclehistory.bja.ojp.gov) — national title/brand/odometer/salvage system</a></li>
 <li><a href="https://www.nicb.org/news/news-releases/nicb-warns-consumers-watch-flood-damaged-vehicles-during-peak-flood-season">NICB — Warns Consumers to Watch for Flood-Damaged Vehicles During Peak Flood Season (free VINCheck; flood-season guidance)</a></li>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-up-to-45-000-vehicles-flood-damaged-in-mid-year-storms-302523277.html">CARFAX — Up to 45,000 Vehicles Flood-Damaged in Mid-Year Storms (also the 482,000 start-of-2025 figure)</a></li>
 </ul>
 <p><em>Last verified: 2026-09-18</em></p>]]></content:encoded>
 </item>
@@ -4758,7 +4709,7 @@
 <li><a href="https://wallethub.com/edu/ci/total-loss-threshold-by-state/104642">WalletHub — Total Loss Thresholds by State: 2026 Guide</a></li>
 <li><a href="https://www.carinsurance.com/Articles/total-loss-thresholds.aspx">CarInsurance.com — Total Loss Thresholds by State</a></li>
 <li><a href="https://www.policygenius.com/auto-insurance/total-loss-threshold-by-state/">Policygenius — Total loss threshold by state</a></li>
-<li><a href="https://www.edmunds.com/car-buying/which-vehicle-history-report-is-right-for-you.html">Edmunds — AutoCheck vs Carfax</a></li>
+<li><a href="https://www.edmunds.com/car-buying/which-vehicle-history-report-is-right-for-you.html">Edmunds — which vehicle history report is right for you</a></li>
 </ul>
 <p>Last verified: 2026-09-17</p>]]></content:encoded>
 </item>
@@ -4888,7 +4839,7 @@
 <h2>Sources</h2>
 <ul>
 <li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_glossary">NMVTIS Glossary — salvage, junk, and brand definitions (U.S. DOJ / Office of Justice Programs)</a></li>
-<li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_consumers">NMVTIS For Consumers — title washing, brand permanence, Experian 185,000 figure</a></li>
+<li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_consumers">NMVTIS For Consumers — title washing, brand permanence, 185,000 figure</a></li>
 <li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory">NMVTIS Approved Data Providers — consumer report access</a></li>
 <li><a href="https://www.dmv.ca.gov/portal/vehicle-registration/new-registration/total-loss-salvage-non-repairable-vehicles/">California DMV — Total Loss Salvage &amp; Non-Repairable Vehicles (REG 488C)</a></li>
 <li><a href="https://www.dmv.ca.gov/portal/handbook/vehicle-industry-registration-procedures-manual-2/salvage-nonrepairable-junk-vehicles/revived-salvage-california-record/">California DMV VIRPM 19.065 — Revived Salvage (California Record)</a></li>
@@ -4896,7 +4847,6 @@
 <li><a href="https://www.nicb.org/news/blog/damaged-vehicles-flooding-used-car-market">NICB — Damaged Vehicles Flooding the Used Car Market</a></li>
 <li><a href="https://www.policygenius.com/auto-insurance/total-loss-threshold-by-state/">Policygenius — Total Loss Threshold by State (data dated 2026-07-20)</a></li>
 <li><a href="https://wallethub.com/edu/ci/total-loss-threshold-by-state/104642">WalletHub — Total Loss Thresholds by State 2026</a></li>
-<li><a href="https://www.experian.com/blogs/ask-experian/what-is-title-washing/">Experian — What Is Title Washing?</a></li>
 <li><a href="https://www.autotrader.com/car-shopping/rebuilt-title-vs-salvage-title-whats-difference-281474979846034">Autotrader — Rebuilt Title vs. Salvage Title</a></li>
 </ul>
 <p><em>Last verified: 2026-09-16</em></p>]]></content:encoded>
@@ -4990,16 +4940,11 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li>CARFAX Customer Support — How Can I Get Free CARFAX Vehicle History Reports? <em>(unlinked by policy)</em></li>
-<li>CARFAX Customer Support — Is CARFAX Used Car Listings free? <em>(unlinked by policy)</em></li>
-<li>CARFAX — Vehicle History Reports (official product/pricing page) <em>(unlinked by policy)</em></li>
-<li>AutoCheck by Experian — official site <em>(unlinked by policy)</em></li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — Free by-VIN Safety Recall Lookup</a></li>
 <li><a href="https://vehiclehistory.gov/">NMVTIS / vehiclehistory.gov (U.S. DOJ Bureau of Justice Assistance)</a></li>
-<li><a href="https://www.creditkarma.com/auto/i/how-to-get-free-carfax-report">Credit Karma — How to Get a Free Carfax Report</a></li>
-<li><a href="https://www.edmunds.com/car-buying/which-vehicle-history-report-is-right-for-you.html">Edmunds — AutoCheck vs. Carfax comparison</a></li>
-<li><a href="https://www.vehicleremarket.com/news/ebay-motors-launches-free-vehicle-history-reports-exclusively-through-experian39s-autocheck">Vehicle Remarketing — eBay Motors Launches Free Vehicle History Reports via Experian's AutoCheck</a></li>
-<li>VinAudit — How Much Is a Carfax Report? <em>(unlinked by policy)</em></li>
+<li><a href="https://www.creditkarma.com/auto/i/how-to-get-free-carfax-report">Credit Karma — How to get a free vehicle history report</a></li>
+<li><a href="https://www.edmunds.com/car-buying/which-vehicle-history-report-is-right-for-you.html">Edmunds — which vehicle history report is right for you</a></li>
+<li><a href="https://www.vehicleremarket.com/news/ebay-motors-launches-free-vehicle-history-reports-exclusively-through-experian39s-autocheck">Vehicle Remarketing — eBay Motors launches free vehicle history reports</a></li>
 </ul>
 <p><em>Last verified: 2026-09-15. All third-party prices are reported and change with promotions and location; confirm each at the provider's live checkout on the day you buy.</em></p>]]></content:encoded>
 </item>
@@ -6628,8 +6573,7 @@
 <li><a href="https://static.nhtsa.gov/odi/ffdd/cmpl/FLAT_CMPL.zip">NHTSA ODI Complaints flat file (FLAT_CMPL.zip)</a> — primary federal dataset our ranking is computed from; retrieved 2026-09-03, N = 2,241,804 records.</li>
 <li><a href="https://www.nhtsa.gov/nhtsa-datasets-and-apis">NHTSA datasets &amp; APIs hub</a> — complaints, recalls (recallsByVehicle campaign counts) and product-information references.</li>
 <li><a href="https://static.nhtsa.gov/odi/ffdd/cmpl/Complaints_Fields.txt">NHTSA CMPL flat-file field layout</a> — 51-field spec.</li>
-<li><a href="https://www.iseecars.com/what-happened-to-affordable-cars-study">iSeeCars — "What Happened to Affordable Cars" study</a> — affordability hook and 7-year-old cohort definition (context only).</li>
-<li><a href="https://www.motor1.com/news/804730/used-cars-under-20000-are-disappearing/">Motor1 — coverage of the iSeeCars sub-$20K study</a> — independent corroboration of the hook.</li>
+<li><a href="https://www.motor1.com/news/804730/used-cars-under-20000-are-disappearing/">Motor1 — coverage of the sub-$20K used-car study</a> — independent corroboration of the hook.</li>
 <li><a href="https://www.best-selling-cars.com/usa/2019-full-year-usa-fca-group-car-sales-in-the-usa/">best-selling-cars.com — 2019 full-year US sales</a> and <a href="https://www.goodcarbadcar.net/">GoodCarBadCar — per-model 2019 US sales</a> — denominators for the per-100k normalization.</li>
 <li>Frozen data: <a href="https://zilocar-news.github.io/zilocar-rss/data/my2019-nhtsa-complaints-ranking-2026-09-03.csv">my2019-nhtsa-complaints-ranking-2026-09-03.csv</a> (normalized table, both ranks, the analyzed-set flag and caveats) and <a href="https://zilocar-news.github.io/zilocar-rss/data/my2019-nhtsa-complaints-raw-all-models-2026-09-03.csv">my2019-nhtsa-complaints-raw-all-models-2026-09-03.csv</a> (all 724 model strings, raw distinct-complaint counts).</li>
 </ul>
@@ -6717,7 +6661,7 @@
 <li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_consumers">NMVTIS for Consumers — U.S. Department of Justice / OJP</a></li>
 <li><a href="https://vpic.nhtsa.dot.gov/">NHTSA vPIC — VIN decode / vehicle data reference</a></li>
 <li><a href="https://www.clickorlando.com/news/investigators/2026/08/24/she-bought-a-car-2-years-later-orange-county-deputies-took-it-away/">ClickOrlando/WKMG Investigators — She bought a car; 2 years later deputies took it away</a></li>
-<li><a href="https://autos.yahoo.com/ownership/articles/her-nissan-rogue-passed-clean-210000391.html">Yahoo Autos — Her Nissan Rogue Passed a Clean Carfax Check. It Still Had Three VINs</a></li>
+<li><a href="https://autos.yahoo.com/ownership/articles/her-nissan-rogue-passed-clean-210000391.html">Yahoo Autos — Her Nissan Rogue passed a clean history check. It still had three VINs</a></li>
 </ul>
 <p>Last verified: 2026-09-02</p>]]></content:encoded>
 </item>
@@ -6949,7 +6893,6 @@
 <li><a href="https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26V540-2255.pdf">NHTSA Part 573 defect report — Lucid 26V540000 (RCLRPT-26V540-2255.pdf)</a></li>
 <li><a href="https://api.nhtsa.gov/recalls/recallsByVehicle?make=lucid&amp;model=air&amp;modelYear=2025">NHTSA Recalls API — recallsByVehicle (Lucid Air)</a></li>
 <li><a href="https://www.nhtsa.gov/nhtsa-datasets-and-apis">NHTSA datasets &amp; APIs</a></li>
-<li><a href="https://www.experian.com/content/dam/marketing/na/automotive/quarterly-webinars/market-trends/experian-market-trends-q3-2025.pdf">Experian Automotive Market Trends Q3 2025 — vehicles in operation (293.5M total; 5.5M BEV, 11.7M hybrid)</a></li>
 <li><a href="https://www.eia.gov/todayinenergy/detail.php?id=67144">U.S. EIA — EV sales fell as hybrid sales rose in 2025</a></li>
 <li><a href="https://www.cnbc.com/2026/08/28/ev-maker-lucid-to-recall-more-than-27000-luxury-sedans-over-fire-risk-nhtsa-says.html">CNBC — Lucid to recall more than 27,000 luxury sedans over fire risk</a></li>
 <li><a href="https://insideevs.com/news/806421/lucid-fire-risk-recall-27k/">InsideEVs — Lucid recalls 27,185 Air sedans over fire risk</a></li>
@@ -7849,11 +7792,10 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://www.iseecars.com/what-happened-to-affordable-cars-study">iSeeCars — What Happened to Affordable Cars / The Sub-$20K Used Car Is Almost Gone (primary data owner)</a></li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-august-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, mid-August 2026 (207.4, −1.2%, flat YoY)</a></li>
 <li><a href="https://www.edmunds.com/car-news/insights-q2-2026-used-car-report.html">Edmunds — Q2 2026 Used Car Report: 3-year-old prices top $32K (independent corroboration)</a></li>
 <li><a href="https://www.cbtnews.com/cargurus-used-car-prices-top-30k/">CBT News — CarGurus: used prices top $30K, demand turns positive</a></li>
-<li><a href="https://autos.yahoo.com/deals-and-buying-guides/articles/20-000-used-car-isn-190306265.html">Yahoo/AOL — The $20,000 Used Car Isn't Gone, Automakers Simply Killed It (full iSeeCars figures, 71,192-mile band)</a></li>
+<li><a href="https://autos.yahoo.com/deals-and-buying-guides/articles/20-000-used-car-isn-190306265.html">Yahoo/AOL — The $20,000 Used Car Isn't Gone, Automakers Simply Killed It (full study figures, 71,192-mile band)</a></li>
 <li><a href="https://www.jalopnik.com/2239937/average-price-3-year-old-used-cars-9000/">Jalopnik — Average price of 3-year-old used cars up over $9,000 since 2019</a></li>
 <li><a href="https://www.carscoops.com/2026/08/used-car-price-study/">Carscoops — Used Elantra +56%, Camry +50% (model-level from same study)</a></li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — Free recall lookup by VIN</a></li>
@@ -8211,7 +8153,6 @@
 <li><a href="https://www.nhtsa.gov/recalls?nhtsaId=26V363000">NHTSA campaign lookup — Jeep 26V363000</a></li>
 <li><a href="https://www.nhtsa.gov/press-releases/consumer-alert-kia-and-hyundai-park-outside">NHTSA consumer alert — Kia &amp; Hyundai "park outside" fire recalls</a></li>
 <li><a href="https://zilocar-news.github.io/zilocar-rss/data/park-outside-fire-recalls-census-2026-08-19.csv">Zilocar frozen roster CSV — park-outside fire-recall census, retrieved 2026-08-19</a></li>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-park-outside-recalls-jump-nearly-50-due-to-new-fire-risk-to-more-than-3-2-million-vehicles-nationwide-302803819.html">Carfax release — "Park Outside recalls jump nearly 50%" (origin of the 3.2M figure, 2026-06-18)</a></li>
 <li><a href="https://www.washingtonpost.com/business/2026/08/17/they-were-told-park-outside-then-their-cars-burst-into-flames/">Washington Post — "They were told to park outside. Then their cars burst into flames." (Todd C. Frankel, 2026-08-17)</a></li>
 <li><a href="https://autos.yahoo.com/safety-and-recalls/articles/3-2-million-vehicles-carry-155112143.html">Yahoo Autos — "3.2 Million Vehicles Carry an Outstanding Park Outside Recall"</a></li>
 </ul>
@@ -8535,7 +8476,6 @@
 <li><a href="https://www.conchovalleyhomepage.com/news/top-stories/tgso-recovers-two-stolen-vehicles-warns-of-vin-swapping-scams/">Concho Valley Homepage (Nexstar; AOL-syndicated) — TGSO VIN-swapping recovery + buyer tips</a></li>
 <li><a href="https://ktxs.com/news/local/tom-green-county-sheriff-warns-of-vin-swapping-scams-after-stolen-trucks-recovered">KTXS — Tom Green County sheriff warns of VIN-swapping scams</a></li>
 <li><a href="https://www.yahoo.com/news/us/articles/louisville-police-bust-ring-linked-190734987.html">Courier-Journal / LMPD Louisville auto-theft ring bust (Aug 14, 2026, via Yahoo syndication)</a></li>
-<li><a href="https://www.iseecars.com/articles/what-is-vin-cloning-an-essential-guide-for-car-buyers">iSeeCars — What Is VIN Cloning? An Essential Guide for Car Buyers</a></li>
 </ul>
 <p><em>Last verified: 2026-08-17</em></p>]]></content:encoded>
 </item>
@@ -8990,8 +8930,6 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://www.iseecars.com/what-happened-to-affordable-cars-study">iSeeCars — The Sub-$20K Used Car Is Almost Gone (study, data owner; published Aug 11, 2026)</a></li>
-<li><a href="https://www.iseecars.com/used-car-prices-study">iSeeCars — Used Car Prices Study (companion dataset)</a></li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-july-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, July 2026 (210, -1.4% MoM, +1.3% YoY)</a></li>
 <li><a href="https://www.cbtnews.com/used-cars-under-20000-are-getting-harder-to-find">CBT News — Used cars under $20,000 are getting harder to find</a></li>
 <li><a href="https://myfox8.com/automotive/the-sub-20k-used-car-is-almost-gone/">FOX8 WGHP / Nexstar syndication — The Sub-$20K Used Car Is Almost Gone</a></li>
@@ -9220,7 +9158,6 @@
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.edmunds.com/car-news/q1-2026-edmunds-insights-used-car-report.html">Edmunds Q1 2026 Used Car Report — off-lease surge, residuals, model-level depreciation</a></li>
-<li><a href="https://www.iseecars.com/car-affordability-study">iSeeCars Car Affordability / depreciation study — 5-year-old EV 57.2% vs 41.8% market (950,000+ transactions, Mar 2025–Feb 2026)</a></li>
 <li><a href="https://www.globenewswire.com/news-release/2026/06/23/3316004/0/en/CarGurus-Mid-Year-Report-Finds-Momentum-Across-Key-Segments-as-Affordability-Reshapes-the-Market.html">CarGurus 2026 Mid-Year Report — hybrid surge, price gap, age mix</a></li>
 <li><a href="https://www.cbtnews.com/cargurus-used-car-prices-top-30k/">CBT News — CarGurus May 2026: used prices top $30K (+5.1% YoY), inventory rebuilding</a></li>
 <li><a href="https://www.autoremarketing.com/ar/analysis/hike-in-leasing-off-lease-volumes-expected-to-be-short-lived/">Auto Remarketing — Edmunds: off-lease/leasing hike expected to be short-lived</a></li>
@@ -9434,10 +9371,9 @@
 <ul>
 <li><a href="https://dealers.cargurus.com/blog/cargurus-intelligence-report---mid-year-2026">CarGurus Dealer - Intelligence Report Mid-Year 2026 (primary data owner)</a></li>
 <li><a href="https://www.globenewswire.com/news-release/2026/06/23/3316004/0/en/CarGurus-Mid-Year-Report-Finds-Momentum-Across-Key-Segments-as-Affordability-Reshapes-the-Market.html">CarGurus / GlobeNewswire - Mid-Year Report press release (June 23, 2026)</a></li>
-<li><a href="https://www.iseecars.com/cars-that-hold-their-value-study">iSeeCars - Cars That Hold Their Value / 5-year depreciation study (March 24, 2026)</a></li>
 <li><a href="https://www.cbtnews.com/cargurus-used-car-prices-top-30k/">CBT News - CarGurus: used prices top $30K, May 2026 $30,200 +5.1%</a></li>
 <li><a href="https://digitaldealer.com/news/the-mid-2026-car-market-higher-prices-hybrids-and-a-shift-in-demand/172420/">Digital Dealer - The Mid-2026 Car Market: Higher Prices, Hybrids and a Shift in Demand</a></li>
-<li><a href="https://www.forbes.com/sites/jimgorzelany/2026/04/08/evs-and-luxury-cars-suffer-the-worst-depreciation-data-shows/">Forbes - EVs and luxury cars suffer worst depreciation (iSeeCars cross-check)</a></li>
+<li><a href="https://www.forbes.com/sites/jimgorzelany/2026/04/08/evs-and-luxury-cars-suffer-the-worst-depreciation-data-shows/">Forbes - EVs and luxury cars suffer worst depreciation (cross-check)</a></li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA - Free VIN recall lookup</a></li>
 </ul>
 <p><em>Last verified: August 10, 2026.</em></p>]]></content:encoded>
@@ -9738,9 +9674,6 @@
 <h2>Sources</h2>
 <ul>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-october-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, Mid-October 2026 Trends</a> (wholesale; mid-October flash: 207.4, +0.7% vs September, +2.2% YoY — back above year-ago levels, released Oct 19, 2026)</li>
-<li>CARFAX Used Car Index — Used Car Price Trends for October 2026 <em>(unlinked by policy)</em> (retail; source of the October sedan segment at $20,286, +0.4% MoM, and used SUVs crossing $25,000 at $25,125, +0.7%; overall ~+0.1%, published Oct 26, 2026)</li>
-<li>CARFAX Used Car Index — Used Car Price Trends for September 2026 <em>(unlinked by policy)</em> (retail; source of the September +1.1% / $20,204 sedan crossing, +8.5% YoY, published Sep 29, 2026)</li>
-<li>CARFAX Used Car Index — Used Car Price Trends for August 2026 <em>(unlinked by policy)</em> (retail; source of the sedan +$150, pickup +$400 and near-$20k figures)</li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-september-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, September 2026 Trends</a> (wholesale; full September: 205.9, −1.1% MoM, −0.6% YoY, released Oct 7, 2026)</li>
 <li><a href="https://www.coxautoinc.com/press-releases/q3-2026-muvvi-press-release/">Cox Automotive — Q3 2026 Manheim Used Vehicle Value Index press release</a> (source of the trimmed year-end outlook: “expects the Manheim Used Vehicle Value Index to finish 2026 up approximately 0.2% year over year”, “down from the 2% increase forecast in July”, released Oct 7, 2026)</li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-september-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, Mid-September 2026 Trends</a> (wholesale; mid-September flash: 206.2, −1% vs August, −0.4% YoY — 2026's first negative YoY print, released Sep 18, 2026)</li>
@@ -9749,8 +9682,8 @@
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-august-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, Mid-August 2026 Trends</a> (wholesale; mid-August: 207.4, −1.2% vs July, flat YoY, released Aug 19, 2026)</li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-july-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, July 2026 Trends</a> (wholesale; full July: 210, −1.4% MoM, +1.3% YoY, released Aug 8, 2026)</li>
 <li><a href="https://collisionweek.com/2026/08/10/manheim-used-vehicle-value-index-1-4-july/">CollisionWeek — Manheim UVVI down 1.4% in July 2026</a></li>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-used-car-price-growth-slows-as-market-levels-off-302835899.html">PRNewswire — CARFAX: Used Car Price Growth Slows as Market Levels Off (July 2026)</a></li>
-<li><a href="https://collisionweek.com/2026/07/28/carfax-used-car-index-rises-0-1-july/">CollisionWeek — Carfax Used Car Index Rises 0.1% in July 2026</a></li>
+<li><a href="https://www.prnewswire.com/news-releases/carfax-used-car-price-growth-slows-as-market-levels-off-302835899.html">PRNewswire — Used car price growth slows as market levels off (July 2026)</a></li>
+<li><a href="https://collisionweek.com/2026/07/28/carfax-used-car-index-rises-0-1-july/">CollisionWeek — Used car index rises 0.1% in July 2026</a></li>
 </ul>
 <p><em>Last verified: 2026-10-30.</em></p>]]></content:encoded>
 </item>
@@ -9861,8 +9794,6 @@
 <li><a href="https://www.cbtnews.com/auto-tariffs-add-30-billion-in-costs/">CBT News — Auto tariffs add $30B in costs, prices climb 10.4% (relays Cox Automotive)</a></li>
 <li><a href="https://gmauthority.com/blog/2026/07/new-car-buyers-stretching-out-loans-at-record-levels-in-q2-2026/">Edmunds Q2 2026 auto-finance data — record $777 payment, 70.4-month terms (via GMAuthority)</a></li>
 <li><a href="https://www.cnbc.com/2026/02/17/used-car-affordability.html">CNBC — Used-car affordability; sub-$20K vehicles hard to find</a></li>
-<li><a href="https://www.iseecars.com/fastest-selling-cars-study">iSeeCars — Fastest-Selling Used Cars study (per-model velocity; EV/luxury-led)</a></li>
-<li><a href="https://www.iseecars.com/best-used-cars-under-30k">iSeeCars — Best Used Cars Under $30k for 2026</a></li>
 <li><a href="https://www.rff.org/publications/reports/import-tariffs-and-the-market-for-vehicles/">Resources for the Future — Import Tariffs and the Market for Vehicles (~$3,500/vehicle price-effect anchor)</a></li>
 <li>NHTSA recall lookup by VIN: <a href="https://www.nhtsa.gov/recalls">nhtsa.gov/recalls</a></li>
 </ul>
@@ -9968,10 +9899,6 @@
 <ul>
 <li><a href="https://www.ftc.gov/business-guidance/resources/dealers-guide-used-car-rule">FTC — Dealer's Guide to the Used Car Rule (Buyers Guide, 6+ vehicles)</a></li>
 <li><a href="https://www.ag.state.mn.us/consumer/publications/Curbstoning.asp">Minnesota Attorney General — Curbstoning consumer advisory</a></li>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-odometer-rollbacks-see-dramatic-jump-of-14-to-2-45-million-vehicles-302643855.html">CARFAX — Odometer Rollbacks Jump 14% to 2.45 Million Vehicles (Dec 16, 2025)</a></li>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-up-to-45-000-vehicles-flood-damaged-in-mid-year-storms-302523277.html">CARFAX — Up to 45,000 Vehicles Flood-Damaged in Mid-Year Storms (Aug 7, 2025)</a></li>
-<li>CARFAX Flood Check tool <em>(unlinked by policy)</em></li>
-<li>CARFAX Odometer Fraud data hub <em>(unlinked by policy)</em></li>
 <li><a href="https://www.etags.com/blog/hurricane-aftermath-beware-of-curbstoning-scam-when-buying-used-car/">eTags — Hurricane Aftermath: Beware of Curbstoning</a></li>
 <li><a href="https://localnews8.com/stacker-crime-safety/2026/08/01/why-used-car-scams-are-harder-to-spot-today/">LocalNews8/KIFI (Stacker) — Why used-car scams are harder to spot today (Aug 1, 2026)</a></li>
 </ul>
@@ -10214,9 +10141,6 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://www.iseecars.com/what-happened-to-affordable-cars-study">iSeeCars: The Sub-$20K Used Car Is Almost Gone (affordability study, 2019 vs 2025)</a></li>
-<li><a href="https://www.iseecars.com/used-car-prices-study">iSeeCars: Used Car Prices study (June 2026 data, overall $32,395 -1.3% YoY, used EV $33,305 +7.4%)</a></li>
-<li><a href="https://www.iseecars.com/used-car-market-study">iSeeCars: Used Hybrid Demand Up 41.8% as Non-Tesla EV Prices Plunge (Q1 2025 vs Q1 2026)</a></li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-august-2026-trends/">Cox Automotive: Manheim Used Vehicle Value Index, Mid-August 2026 Trends (207.4, -1.2% MoM, flat YoY)</a></li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-july-2026-trends/">Cox Automotive: Manheim Used Vehicle Value Index, July 2026 Trends (210, -1.4% MoM, +1.3% YoY)</a></li>
 <li><a href="https://www.coxautoinc.com/insights/q2-2026-muvvi/">Cox Automotive: Q2 2026 MUVVI (June 2026 full index 212.9, normalizing after March peak)</a></li>
@@ -10727,7 +10651,7 @@
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-july-2026-trends/">Cox Automotive - Manheim Used Vehicle Value Index, Mid-July 2026 (211.5, wholesale supply 27-28 days)</a></li>
 <li><a href="https://www.jdpower.com/business/press-releases/jd-power-globaldata-forecast-june-2026/">J.D. Power-GlobalData Forecast, June 2026 ($813 highest-ever-for-June payment, 29.5% negative equity, $46,387 ATP)</a></li>
 <li><a href="https://www.bloomberg.com/news/articles/2026-07-01/us-car-payments-hit-a-record-777-a-month-as-down-payments-drop">Bloomberg - US Car Payments Hit a Record $777 a Month as Down Payments Drop (2026-07-01)</a></li>
-<li><a href="https://www.foxbusiness.com/economy/average-new-car-payment-reaches-all-time-high-affordability-issues-persist">Fox Business - Average new car payment reaches all-time high (Experian/LendingTree: $531 used, Q1 2026)</a></li>
+<li><a href="https://www.foxbusiness.com/economy/average-new-car-payment-reaches-all-time-high-affordability-issues-persist">Fox Business - Average new car payment reaches all-time high ($531 used, Q1 2026)</a></li>
 <li><a href="https://finance.yahoo.com/real-estate/articles/nearly-1-4-vehicle-buyers-135200365.html">Edmunds Q2 2026 vehicle-financing report (record $777 payment, 1-in-5 at $1,000+, 84-month loans)</a></li>
 <li><a href="https://www.kbb.com/car-news/tariff-costs-new-car-prices-up-10-since-last-year">Kelley Blue Book / Cox - Tariff costs, new-car prices up ~10% YoY (pass-through estimates)</a></li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA - Free recall lookup by VIN</a></li>
@@ -10835,7 +10759,6 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://www.iseecars.com/used-car-prices-study">iSeeCars — Used Car Prices Study (July 21, 2026, June data)</a> — retail source of the 7.4% / $33,305 figures and per-Tesla gains.</li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-july-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, Mid-July 2026</a> — MUVVI 211.5, EV Index +12.4% YoY, EVs above 4% of units.</li>
 <li><a href="https://api.nhtsa.gov/recalls/recallsByVehicle?make=tesla&amp;model=model%203&amp;modelYear=2022">NHTSA Recalls API — recallsByVehicle</a> — live recall counts for used Tesla models.</li>
 <li><a href="https://electrek.co/2026/07/31/nhtsa-probes-tesla-model-3-model-y-suspension-failures/">Electrek — NHTSA probes 1.2M Tesla Model 3, Model Y over suspension failures (July 31, 2026)</a> — the preliminary evaluation covering 2018-2020 Model 3 and 2021-2023 Model Y.</li>
@@ -11033,13 +10956,9 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-up-to-45-000-vehicles-flood-damaged-in-mid-year-storms-302523277.html">CARFAX — Up to 45,000 Vehicles Flood-Damaged in Mid-Year Storms (states the 482,000 on-road figure)</a></li>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-347-000-cars-flood-damaged-in-2024-hurricanes-302284543.html">CARFAX — 347,000 Cars Flood Damaged in 2024 Hurricanes (Helene/Milton breakdown)</a></li>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-hurricane-ian-damaged-hundreds-of-thousands-of-cars-301644232.html">CARFAX — Hurricane Ian Damaged Hundreds of Thousands of Cars (358,000)</a></li>
 <li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_consumers">NMVTIS — For Consumers (U.S. DOJ / Bureau of Justice Assistance)</a></li>
 <li><a href="https://www.nicb.org/vincheck">NICB VINCheck (free total-loss/theft lookup, 5 searches/24hr)</a></li>
 <li><a href="https://www.nicb.org/news/blog/damaged-vehicles-flooding-used-car-market">NICB — Damaged Vehicles Flooding the Used Car Market</a></li>
-<li>CARFAX Flood Check (free flood-specific VIN lookup) <em>(unlinked by policy)</em></li>
 <li><a href="https://www.aol.com/articles/florida-reports-more-flood-damaged-135924000.html">Florida Reports More Flood-Damaged Cars Entering The Used Market (news peg, May 8, 2026)</a></li>
 <li><a href="https://www.liveinsurancenews.com/florida-title-flood-damaged-cars/8572198/">Live Insurance News — Clean Florida titles hiding flood-damaged cars</a></li>
 </ul>
@@ -11226,8 +11145,6 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://www.iseecars.com/cars-that-hold-their-value-study">iSeeCars — Cars That Hold Their Value Best/Worst (2026 five-year depreciation study, N&gt;950k)</a></li>
-<li><a href="https://www.iseecars.com/ev-market-study">iSeeCars — Used EV price study (EV +7.4% YoY to $33,305 vs market -1.3%, N&gt;1.8M)</a></li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-july-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, Mid-July 2026 Trends (index 211.5; EV sub-index +12.4% YoY)</a></li>
 <li><a href="https://www.recurrentauto.com/research/used-electric-vehicle-buying-report">Recurrent — Used Electric Vehicle Buying Report, Q3 2026 (segment price splits)</a></li>
 <li><a href="https://www.carscoops.com/2026/07/used-ev-prices-rising/">Carscoops — Used Porsche 911 Prices Drop $14,000 As Used EVs Get More Expensive</a></li>
@@ -11467,8 +11384,7 @@
 <li><a href="https://www.coxautoinc.com/insights/used-vehicle-inventory-june-2026/">Cox Automotive - Used-Vehicle Inventory, June 2026</a></li>
 <li><a href="https://www.cbtnews.com/cargurus-used-car-prices-top-30k/">CBT News - CarGurus: used prices top $30K, demand turns positive</a></li>
 <li><a href="https://www.globenewswire.com/news-release/2026/06/23/3316004/0/en/CarGurus-Mid-Year-Report-Finds-Momentum-Across-Key-Segments-as-Affordability-Reshapes-the-Market.html">CarGurus - Mid-Year Report (GlobeNewswire, June 23, 2026)</a></li>
-<li><a href="https://news.dealershipguy.com/p/used-car-prices-jump-more-than-1-300-in-first-six-months-of-2026">DealershipGuy - CARFAX July Used Car Index: H1 prices up more than $1,300</a></li>
-<li>CARFAX - Used Car Index (live page; now advanced to the August 2026 edition) <em>(unlinked by policy)</em></li>
+<li><a href="https://news.dealershipguy.com/p/used-car-prices-jump-more-than-1-300-in-first-six-months-of-2026">DealershipGuy - July used car index: H1 prices up more than $1,300</a></li>
 <li><a href="https://www.jalopnik.com/2200968/used-car-prices-over-30000-dollars/">Jalopnik - Used Car Prices Over $30,000 for First Time in Almost Three Years</a></li>
 </ul>
 <p>Last verified: July 24, 2026.</p>]]></content:encoded>
@@ -11708,8 +11624,6 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://www.iseecars.com/cars-that-hold-their-value-study">iSeeCars, Cars That Hold Their Value Best and Worst (2026 depreciation study)</a></li>
-<li><a href="https://www.iseecars.com/used-car-market-study">iSeeCars, Used Car Market Study (Apr 29, 2026)</a></li>
 <li><a href="https://www.forbes.com/sites/jimgorzelany/2026/04/08/evs-and-luxury-cars-suffer-the-worst-depreciation-data-shows/">Forbes, EVs and Luxury Cars Suffer the Worst Depreciation</a></li>
 <li><a href="https://www.bmwblog.com/2026/07/22/bmw-models-lose-most-value-2026/">BMWBlog, 10 BMWs That Lose the Most Value in 2026</a></li>
 <li><a href="https://electriccarsreport.com/2026/07/5-evs-that-lose-over-60-of-their-value-in-just-5-years/">ElectricCarsReport, 5 EVs That Lose Over 60% in 5 Years</a></li>
@@ -11808,8 +11722,6 @@
 <li><a href="https://www.nicb.org/news/blog/damaged-vehicles-flooding-used-car-market">NICB — Damaged Vehicles Flooding the Used Car Market</a></li>
 <li><a href="https://www.nicb.org/vincheck">NICB VINCheck (free salvage/stolen VIN lookup)</a></li>
 <li><a href="https://vehiclehistory.bja.ojp.gov/nmvtis_consumers">NMVTIS for Consumers — Bureau of Justice Assistance</a></li>
-<li><a href="https://www.prnewswire.com/news-releases/carfax-up-to-45-000-vehicles-flood-damaged-in-mid-year-storms-302523277.html">CARFAX — Up to 45,000 Vehicles Flood-Damaged in Mid-Year Storms (482k on-road figure)</a></li>
-<li>CARFAX — What Is Title Washing? <em>(unlinked by policy)</em></li>
 <li><a href="https://www.texasattorneygeneral.gov/consumer-protection/disaster-and-emergency-scams/warning-flood-damaged-cars">Texas Attorney General — Warning: Flood Damaged Cars</a></li>
 <li><a href="https://www.ag.state.mn.us/consumer/Publications/FloodedSalvagedUsedCars.asp">Minnesota Attorney General — Flooded or Salvaged Used Cars</a></li>
 <li><a href="https://www.flhsmv.gov/safety-center/consumer-education/consumer-advisory-flooded-vehicles/">Florida DHSMV — Consumer Advisory: Flooded Vehicles</a></li>
@@ -11921,13 +11833,12 @@
 </ul>
 <h2>Sources</h2>
 <ul>
-<li><a href="https://www.iseecars.com/used-car-prices-study">iSeeCars — used-car-prices study, "Tesla Leads a Sharp Rebound in Used EV Prices" (July 21, 2026)</a></li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-mid-july-2026-trends/">Cox Automotive — Manheim UVVI Mid-July 2026 Trends</a></li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-june-2026-trends/">Cox Automotive — Manheim UVVI June 2026 Trends</a></li>
 <li><a href="https://www.coxautoinc.com/insights/q2-2026-muvvi/">Cox Automotive — Q2 2026 MUVVI</a></li>
 <li><a href="https://insideevs.com/news/769030/electric-vehicle-resale-values/">InsideEVs — used EV vs overall resale divergence context</a></li>
 <li><a href="https://www.cbtnews.com/cargurus-used-car-prices-top-30k/">CBT News — CarGurus used prices top $30K ($30,200, +5.1%, May 2026 context)</a></li>
-<li><a href="https://www.newsnationnow.com/business/your-money/used-car-prices-up-3-7-tesla-prices-down-5-3/">NewsNation — "Used Car Prices Up 3.7%, Tesla Prices Down 5.3%" (wire syndication of the July 2025 iSeeCars study; historical reference)</a></li>
+<li><a href="https://www.newsnationnow.com/business/your-money/used-car-prices-up-3-7-tesla-prices-down-5-3/">NewsNation — "Used Car Prices Up 3.7%, Tesla Prices Down 5.3%" (wire syndication of a July 2025 used-price study; historical reference)</a></li>
 </ul>
 <p><em>Last verified: 2026-07-22.</em></p>]]></content:encoded>
 </item>
@@ -14839,7 +14750,7 @@
 <li><a href="https://www.carpro.com/blog/most-recalled-automaker-brands-so-far-this-year">CarPro — Most Recalled Automaker Brands So Far This Year (Ford ranked #1, 2026)</a> (trade)</li>
 <li><a href="https://www.carpro.com/blog/weekly-recalls-ford-3-ford/lincoln-waymo">CarPro Weekly Recalls: Ford (3), Ford/Lincoln, Waymo — Jun 19, 2026</a> (trade)</li>
 <li><a href="https://www.detroitnews.com/story/business/autos/ford/2026/06/16/ford-recalls-more-than-125000-vehicles-see-the-affected-models/90576809007/">Detroit News — Ford recalls more than 125,000 vehicles (Jun 16, 2026)</a> (major news)</li>
-<li><a href="https://www.detroitnews.com/story/business/autos/ford/2026/04/21/ford-recalls-iseecars-karl-brauer-jim-farley-service-dealers/89716234007/">Detroit News — Ford recalls outpaced auto industry combined, iSeeCars study (Apr 21, 2026)</a> (major news)</li>
+<li><a href="https://www.detroitnews.com/story/business/autos/ford/2026/04/21/ford-recalls-iseecars-karl-brauer-jim-farley-service-dealers/89716234007/">Detroit News — Ford recalls outpaced auto industry combined (Apr 21, 2026)</a> (major news)</li>
 <li><a href="https://www.motor1.com/news/789583/ford-2026-recalls-list-models-affected/">Motor1 — Ford Has Already Recalled 9.8 Million Cars This Year</a> (major news)</li>
 <li><a href="https://www.jalopnik.com/2196747/ford-recalls-over-389000-vehicles-second-time-previous-fixes-failed/">Jalopnik — Ford re-recalls 389,000+ vehicles after fixes failed</a> (major news)</li>
 <li><a href="https://www.wpri.com/recalls-and-warnings/ford-recalls-more-than-250000-focus-models-because-engines-can-stall-unexpectedly/">AP via WPRI — Ford recalls more than 250,000 Focus models over stall risk</a> (major news)</li>
@@ -16869,7 +16780,6 @@
 <li><a href="https://www.ttnews.com/articles/toyota-rav4-coveted-used-car">Transport Topics — Toyota RAV4s Are the Most Coveted Used Cars in America (Jun 8, 2026 syndicated Bloomberg reprint)</a></li>
 <li><a href="https://www.claimsjournal.com/news/national/2026/06/08/338034.htm">Claims Journal — Why Toyota RAV4s Are Suddenly the Most Coveted Used Cars in America (Jun 8, 2026 reprint)</a></li>
 <li><a href="https://www.coxautoinc.com/insights/manheim-used-vehicle-value-index-may-2026-trends/">Cox Automotive — Manheim Used Vehicle Value Index, May 2026 Trends</a></li>
-<li><a href="https://www.iseecars.com/car/toyota-rav4-hybrid/resale-value">iSeeCars — Toyota RAV4 Hybrid Resale Value &amp; Depreciation</a></li>
 <li><a href="https://pressroom.toyota.com/the-next-adventure-begins-2026-rav4-arrives-this-winter/">Toyota USA Newsroom — 2026 RAV4 Arrives This Winter (6th-gen hybrid-only redesign, specs, timing)</a></li>
 <li><a href="https://www.edmunds.com/car-news/2026-toyota-rav4-pricing.html">Edmunds — 2026 Toyota RAV4 Pricing</a></li>
 <li><a href="https://www.nhtsa.gov/recalls">NHTSA — Free VIN Recall Lookup</a></li>
