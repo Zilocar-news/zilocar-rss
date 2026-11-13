@@ -6,7 +6,152 @@
 <atom:link href="https://zilocar-news.github.io/zilocar-rss/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily, fact-checked guides on US car recalls, NHTSA investigations, and exactly what to verify by VIN before buying a used car.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 12 Nov 2026 08:53:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 08:29:00 +0000</lastBuildDate>
+<item>
+<title>1 in 6 Car Recalls Covers More Than One Brand - and Those Campaigns Hold 46% of Every Vehicle Recalled Since 2010 (NHTSA Data)</title>
+<link>https://zilocar.com/vehicle-news/recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026</link>
+<guid isPermaLink="false">recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026</guid>
+<pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+<zilocar:canonical>https://zilocar.com/vehicle-news/recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026</zilocar:canonical>
+<zilocar:dateModified>2026-11-13</zilocar:dateModified>
+<category>data_story</category>
+<description>We counted the brands on every car and light-truck recall campaign NHTSA has on file since 2010: 951 of 5,603 (16.97%) name more than one brand, and because they are the big ones they account for 46.47% of all recalled vehicles. Seventy campaigns cross company lines entirely.</description>
+<content:encoded><![CDATA[<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsArticle", "headline": "1 in 6 Car Recalls Covers More Than One Brand - and Those Campaigns Hold 46% of Every Vehicle Recalled Since 2", "description": "We counted the brands on every car and light-truck recall campaign NHTSA has on file since 2010: 951 of 5,603 (16.97%) name more than one brand, and because they are the big ones they account for 46.47% of all recalled vehicles. Seventy campaigns cross company lines entirely.", "datePublished": "2026-11-13T12:00:00Z", "dateModified": "2026-11-13T12:00:00Z", "author": {"@type": "Organization", "name": "Zilocar Editorial", "url": "https://zilocar.com"}, "publisher": {"@type": "Organization", "name": "Zilocar", "url": "https://zilocar.com"}, "mainEntityOfPage": "https://zilocar.com/vehicle-news/recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026", "url": "https://zilocar.com/vehicle-news/recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Does a car recall cover more than one brand?", "acceptedAnswer": {"@type": "Answer", "text": "Often, yes. Of 5,603 car and light-truck recall campaigns NHTSA has on file since 2010, 951 (16.97%, about 1 in 6) name two or more brands. Because multi-brand campaigns tend to be the large ones, they account for 239,449,263 of the 515,231,969 vehicles covered - 46.47%, nearly half. The current Honda power-steering recall is one of them: campaign 26V721000 covers the Acura TLX and MDX alongside the Honda Pilot."}}, {"@type": "Question", "name": "Could my car be recalled under a different brand name?", "acceptedAnswer": {"@type": "Answer", "text": "It can be listed under a sister brand in the same campaign, which is why searching by model name is unreliable. Seventy campaigns since 2010 cross company lines entirely - the Pontiac Vibe was recalled in the same campaign as the Toyota Corolla Matrix, and the Saab 9-2X in the same campaign as the Subaru Impreza, because they are the same cars wearing different badges. Searching by VIN avoids the problem completely."}}, {"@type": "Question", "name": "Which manufacturer files the most multi-brand recalls?", "acceptedAnswer": {"@type": "Answer", "text": "General Motors, at 299 of 535 campaigns (55.89%). But read that with the confound stated: GM's filings touch 17 distinct brand strings including discontinued marques like Pontiac, Saturn, Hummer and Oldsmobile, so it has far more chances to span brands than a filer that sells one. Kia (0 of 169), Porsche (0 of 118) and Mazda (0 of 101) sit at zero because each sells a single brand and cannot produce a multi-brand campaign at all."}}, {"@type": "Question", "name": "How many recall campaigns cover two different automakers?", "acceptedAnswer": {"@type": "Answer", "text": "Seventy of the 5,603 (1.25%), holding 32,856,148 vehicles (6.38% of units). The largest pairings are GM with Toyota (15 campaigns, 14,450,596 vehicles, mostly the NUMMI-built twins and Takata inflators), Mitsubishi with Stellantis (4 campaigns, 9,223,045) and GM with Nissan (3 campaigns, 3,623,295). In these the same defect is reported by two separate Part 573 filers under one campaign number."}}, {"@type": "Question", "name": "Is the share of multi-brand recalls rising?", "acceptedAnswer": {"@type": "Answer", "text": "No, and it should not be described as a trend. Across the 17 years in the file the share moves between 12.46% (2017) and 25.08% (2014) with no consistent direction; 2026 stands at 19.40% through 6 November. Every year is published in the table on this page rather than a selected subset."}}, {"@type": "Question", "name": "What can a VIN check tell me about a recall that a model-name search cannot?", "acceptedAnswer": {"@type": "Answer", "text": "A VIN is specific to one car, so it is not confused by a shared campaign, a rebadge or a sister brand. A Zilocar VIN check shows whether a recall is present on that car along with its accident, odometer, theft, salvage-auction, ownership and listing history. It cannot tell you whether the recall repair was actually performed - no public file carries completion status per car - so confirm the outstanding repair with NHTSA's free VIN tool or a franchised dealer."}}, {"@type": "Question", "name": "Why does NHTSA list several brands on one campaign number?", "acceptedAnswer": {"@type": "Answer", "text": "Because a Part 573 report covers a defect in a part or a platform, not a nameplate. When the same airbag inflator, window switch or control module is fitted across several brands, one campaign covers all of them. That is also why a single campaign can be filed jointly: 94 of the 5,603 campaigns carry two Part 573 filers, three carry three and one carries five."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Vehicle News", "item": "https://zilocar.com/research"}, {"@type": "ListItem", "position": 2, "name": "1 in 6 Car Recalls Covers More Than One Brand - and Those Campaigns Hold 46% of Every Vehicle Recalled Since 2010 (NHTSA Data)", "item": "https://zilocar.com/vehicle-news/recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026"}]}]}</script>
+<p>Checking a used car's recall history by its model name is less reliable than most buyers assume, because NHTSA does not organise recalls by nameplate. It organises them by defect. We counted the brands on every car and light-truck recall campaign in the agency's own file to find out how often one campaign reaches across badges.</p>
+<h2>The answer in brief</h2>
+<p>Of <strong>5,603</strong> car and light-truck recall campaigns NHTSA has on file since 2010, <strong>951 (16.97%, about 1 in 6)</strong> name more than one brand. Those campaigns are disproportionately large, so they account for <strong>239,449,263 of the 515,231,969 vehicles covered - 46.47%</strong>. Seventy campaigns (1.25%) reach across different automakers entirely. Search by VIN, not by model name.</p>
+<h2>Key facts</h2>
+<ul>
+<li><strong>951 of 5,603 (16.97%)</strong> car and light-truck campaigns since 2010 name two or more brands.</li>
+<li><strong>46.47% of recalled vehicles</strong> sit in those campaigns - the count share and the unit share differ by nearly a factor of three.</li>
+<li><strong>70 campaigns (1.25%)</strong> cross company lines, covering <strong>32,856,148</strong> vehicles (6.38% of units).</li>
+<li><strong>General Motors 55.89%</strong> of its campaigns are multi-brand; <strong>Kia, Porsche and Mazda are at exactly zero</strong>, because each sells one brand.</li>
+<li>Today's biggest recall story is an example: <strong>Honda campaign 26V721000</strong>, 635,808 vehicles, covers the <strong>Acura TLX and MDX</strong> as well as the <strong>Honda Pilot</strong>.</li>
+<li><strong>94 campaigns carry two Part 573 filers</strong>, three carry three and one carries five, so "one campaign, one manufacturer" is not a safe assumption either.</li>
+</ul>
+<h2>Does a car recall cover more than one brand?</h2>
+<p>Frequently. <strong>951 of the 5,603 campaigns (16.97%) name two or more brands after spelling variants are merged.</strong> The pattern follows corporate structure: Ford campaigns routinely cover Ford and Lincoln, Honda campaigns cover Honda and Acura, Stellantis campaigns sweep Chrysler, Dodge, Jeep and Ram together.</p>
+<p>The live example is the week's biggest recall. Honda's <strong>26V721000</strong>, filed 29 October 2026 and covering 635,808 vehicles for an electric power-steering control defect, lists the <strong>Acura TLX</strong>, the <strong>Acura MDX</strong> and the <strong>Honda Pilot</strong> on one campaign number. An owner searching "Honda Pilot recall" finds it. An Acura MDX owner searching "Acura recall" finds it too - but only because Acura happens to be named. The VIN finds it either way.</p>
+<h2>Why is the unit share so much higher than the campaign share?</h2>
+<p><strong>Because multi-brand campaigns are the big ones.</strong> They are 16.97% of campaigns and <strong>46.47% of units</strong>. A defect shared across several brands is, almost by definition, a defect in a widely fitted part, and widely fitted parts produce large recalls.</p>
+<table><thead><tr><th>Basis</th><th>Multi-brand</th><th>Cross-company</th></tr></thead><tbody>
+<tr><td>Share of campaigns (N = 5,603)</td><td><strong>951 (16.97%)</strong></td><td><strong>70 (1.25%)</strong></td></tr>
+<tr><td>Share of vehicles (515,231,969)</td><td><strong>239,449,263 (46.47%)</strong></td><td><strong>32,856,148 (6.38%)</strong></td></tr>
+</tbody></table>
+<p>This is the single most important thing to carry away from the numbers, and it is a warning about quoting either one alone. The two statistics do not move together, and neither is wrong - they answer different questions. "How often does this happen?" is 1 in 6. "How much of the recalled fleet does it touch?" is nearly half.</p>
+<h2>Which manufacturers file the most multi-brand recalls?</h2>
+<p><strong>General Motors, at 299 of 535 campaigns (55.89%) - but the ranking is confounded and the confound is worth more than the ranking.</strong> A company that sells one brand cannot file a multi-brand campaign. Twenty-seven of the 42 filers on our car basis sell exactly one brand; between them they account for 990 campaigns and, by construction, zero multi-brand ones.</p>
+<p>The brand count is shown beside every share for that reason.</p>
+<table><thead><tr><th>Part 573 filer</th><th>Brand strings</th><th>Multi-brand campaigns</th><th>Share</th></tr></thead><tbody>
+<tr><td>General Motors, LLC</td><td>17</td><td>299 of 535</td><td><strong>55.89%</strong></td></tr>
+<tr><td>Daimler Vans USA, LLC</td><td>4</td><td>65 of 126</td><td><strong>51.59%</strong></td></tr>
+<tr><td>Chrysler (FCA US, LLC)</td><td>15</td><td>139 of 603</td><td>23.05%</td></tr>
+<tr><td>Ford Motor Company</td><td>5</td><td>186 of 851</td><td>21.86%</td></tr>
+<tr><td>Honda (American Honda Motor Co.)</td><td>2</td><td>58 of 287</td><td>20.21%</td></tr>
+<tr><td>Toyota Motor Corporation</td><td>3</td><td>56 of 304</td><td>18.42%</td></tr>
+<tr><td>Nissan North America, Inc.</td><td>2</td><td>41 of 258</td><td>15.89%</td></tr>
+<tr><td>Mercedes-Benz USA, LLC</td><td>3</td><td>30 of 388</td><td>7.73%</td></tr>
+<tr><td>BMW of North America, LLC</td><td>5</td><td>29 of 383</td><td>7.57%</td></tr>
+<tr><td>Volkswagen Group of America, Inc.</td><td>2</td><td>25 of 349</td><td>7.16%</td></tr>
+<tr><td>Subaru of America, Inc.</td><td>4</td><td>7 of 108</td><td>6.48%</td></tr>
+<tr><td>Hyundai Motor America</td><td>2</td><td>12 of 238</td><td>5.04%</td></tr>
+<tr><td>Jaguar Land Rover North America, LLC</td><td>2</td><td>3 of 137</td><td>2.19%</td></tr>
+<tr><td>Kia America, Inc.</td><td>1</td><td>0 of 169</td><td><strong>0.00%</strong></td></tr>
+<tr><td>Porsche Cars North America, Inc.</td><td>1</td><td>0 of 118</td><td><strong>0.00%</strong></td></tr>
+<tr><td>Mazda Motor Corp.</td><td>1</td><td>0 of 101</td><td><strong>0.00%</strong></td></tr>
+</tbody></table>
+<p>Filers with at least 100 car campaigns. Brand strings are the distinct normalised MAKETXT values appearing on that filer's campaigns, which is why GM's count includes discontinued marques and the handful of other-company brands it has co-filed with.</p>
+<p>Restricting to the filers that actually sell two or more brands, the multi-brand share is <strong>951 of 4,613 = 20.62%</strong>, not 16.97%. Both numbers are correct on their own basis and both are printed here.</p>
+<p>Daimler Vans' 51.59% deserves its own sentence: it is almost entirely one vehicle, the Sprinter van, sold simultaneously as a Mercedes-Benz and a Freightliner. That is a badge decision, not a safety signal.</p>
+<h2>Which recalls covered cars from two different automakers?</h2>
+<p><strong>Seventy, holding 32,856,148 vehicles.</strong> These are the badge-engineered twins and the joint ventures - cars built on one line and sold under two companies' names.</p>
+<table><thead><tr><th>Companies on one campaign</th><th>Campaigns</th><th>Vehicles</th></tr></thead><tbody>
+<tr><td>GM + Toyota</td><td>15</td><td>14,450,596</td></tr>
+<tr><td>Mitsubishi + Stellantis</td><td>4</td><td>9,223,045</td></tr>
+<tr><td>GM + Nissan</td><td>3</td><td>3,623,295</td></tr>
+<tr><td>Saab + Subaru</td><td>8</td><td>1,759,054</td></tr>
+<tr><td>Subaru + Toyota</td><td>7</td><td>1,490,796</td></tr>
+<tr><td>Mercedes + Stellantis</td><td>4</td><td>891,759</td></tr>
+<tr><td>GM + Saab</td><td>3</td><td>784,455</td></tr>
+<tr><td>BMW + Toyota</td><td>10</td><td>623,992</td></tr>
+<tr><td>Ford + Stellantis</td><td>5</td><td>1,620</td></tr>
+<tr><td>All other pairings</td><td>11</td><td>7,536</td></tr>
+</tbody></table>
+<p>Concrete cases from the file, each verifiable by campaign number:</p>
+<ul>
+<li><strong>12V491000</strong> (2,519,424 vehicles, power-window switch) covers the <strong>Pontiac Vibe</strong> and the <strong>Toyota Corolla Matrix</strong> - the same car, built at the same California plant, sold under two companies' badges.</li>
+<li><strong>15V323000</strong> (432,016 vehicles, Takata passenger inflator) covers the <strong>Saab 9-2X</strong> alongside the <strong>Subaru Impreza</strong> and <strong>Legacy</strong>. The 9-2X was a rebadged Impreza.</li>
+<li><strong>16V352000</strong> (4,648,270 vehicles, Takata passenger inflator) covers <strong>Chrysler, Dodge, Jeep and Ram</strong> and also the <strong>Mitsubishi Raider</strong>, which was a rebadged Dodge Dakota.</li>
+<li><strong>16V244000</strong> (3,296,947 vehicles, occupant-classification sensor) covers the <strong>Chevrolet City Express</strong> with the <strong>Nissan NV200</strong> it was built from.</li>
+<li><strong>25V744000</strong> (1,024,407 vehicles, rear-camera display) covers <strong>Subaru</strong>, <strong>Toyota</strong> and <strong>Lexus</strong> models together.</li>
+</ul>
+<p>A buyer who knows only the badge has no way to anticipate any of this. The campaign number and the VIN do.</p>
+<h2>Is the share of multi-brand recalls rising?</h2>
+<p><strong>No. It fluctuates without direction, and it should not be described as a trend.</strong> Every year in the file is published below rather than a selected subset, because a selected subset of these rows can be made to look like a clean staircase in either direction.</p>
+<table><thead><tr><th>Year</th><th>Campaigns</th><th>Multi-brand</th><th>Share</th><th>Cross-company</th><th>Share</th></tr></thead><tbody>
+<tr><td>2010</td><td>170</td><td>32</td><td>18.82%</td><td>1</td><td>0.59%</td></tr>
+<tr><td>2011</td><td>143</td><td>27</td><td>18.88%</td><td>1</td><td>0.70%</td></tr>
+<tr><td>2012</td><td>169</td><td>23</td><td>13.61%</td><td>1</td><td>0.59%</td></tr>
+<tr><td>2013</td><td>198</td><td>40</td><td>20.20%</td><td>2</td><td>1.01%</td></tr>
+<tr><td>2014</td><td>323</td><td>81</td><td>25.08%</td><td>6</td><td>1.86%</td></tr>
+<tr><td>2015</td><td>320</td><td>61</td><td>19.06%</td><td>7</td><td>2.19%</td></tr>
+<tr><td>2016</td><td>350</td><td>69</td><td>19.71%</td><td>10</td><td>2.86%</td></tr>
+<tr><td>2017</td><td>345</td><td>43</td><td>12.46%</td><td>4</td><td>1.16%</td></tr>
+<tr><td>2018</td><td>366</td><td>56</td><td>15.30%</td><td>6</td><td>1.64%</td></tr>
+<tr><td>2019</td><td>394</td><td>65</td><td>16.50%</td><td>9</td><td>2.28%</td></tr>
+<tr><td>2020</td><td>350</td><td>72</td><td>20.57%</td><td>8</td><td>2.29%</td></tr>
+<tr><td>2021</td><td>433</td><td>65</td><td>15.01%</td><td>4</td><td>0.92%</td></tr>
+<tr><td>2022</td><td>392</td><td>54</td><td>13.78%</td><td>1</td><td>0.26%</td></tr>
+<tr><td>2023</td><td>410</td><td>56</td><td>13.66%</td><td>2</td><td>0.49%</td></tr>
+<tr><td>2024</td><td>447</td><td>60</td><td>13.42%</td><td>0</td><td>0.00%</td></tr>
+<tr><td>2025</td><td>458</td><td>82</td><td>17.90%</td><td>6</td><td>1.31%</td></tr>
+<tr><td>2026</td><td>335</td><td>65</td><td>19.40%</td><td>2</td><td>0.60%</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>5,603</strong></td><td><strong>951</strong></td><td><strong>16.97%</strong></td><td><strong>70</strong></td><td><strong>1.25%</strong></td></tr>
+</tbody></table>
+<p>The columns sum exactly to the headline figures. 2026 is a partial year, through filings received 6 November; the cross-company column reaching zero in 2024 is a real zero, not a missing value.</p>
+<h2>What a VIN check can and cannot tell you here</h2>
+<p><strong>What it can.</strong> A VIN identifies one specific car, so it is immune to every problem on this page - shared campaigns, sister brands, rebadges and model-name spelling. A Zilocar VIN check screens for whether a recall is <strong>present</strong> on that car, and alongside it surfaces accident and damage records including airbag deployment, odometer readings and rollback indicators, theft records, junk and salvage <strong>auction</strong> records, ownership history, sales-listing history, specifications, NHTSA and IIHS ratings, and valuation.</p>
+<p><strong>What it cannot.</strong> No VIN check, ours included, can tell you whether a recall repair was actually <strong>performed</strong> on that car, or whether a remedy was later revised. No public file carries per-car completion status. It also cannot show open NHTSA <strong>investigations</strong> (the PE, EA and RQ action numbers), which are a separate record from recalls, and it cannot report a legal <strong>title brand</strong> - NMVTIS and the state DMV are the authorities there. For outstanding-repair status, take the campaign number to NHTSA's free VIN lookup or a franchised dealer, which is free.</p>
+<h2>Method</h2>
+<p><strong>Source file.</strong> NHTSA's ODI Recalls flat file <code>FLAT_RCL_POST_2010.zip</code>, downloaded from <code>https://static.nhtsa.gov/odi/ffdd/rcl/</code> on <strong>2026-11-13 08:17 UTC</strong> (15,001,108 bytes; server <code>Last-Modified: Fri, 13 Nov 2026 08:04:16 GMT</code>). It expands to <code>FLAT_RCL_POST_2010.txt</code>, 313,788,015 bytes, member timestamp 2026-11-13 08:02:10; <code>zipfile.testzip()</code> returned <code>None</code>, so the archive is intact. 248,155 tab-delimited rows, 29 fields, no header, 15,396 distinct campaign numbers.</p>
+<p><strong>Publication frontier, stated because it bounds the 2026 row.</strong> The newest Part 573 report-received date in the file is <strong>2026-11-06</strong>, unchanged from the previous day's retrieval even though the file itself refreshed this morning. NHTSA's recalls API was separately probed and is populated to campaign 26V733000 with a newest report-received date of 4 November 2026. So the agency's published record runs 7 to 9 days behind depending on which surface you measure, and the most recent filings are absent from the 2026 row by construction.</p>
+<p><strong>Universe and N.</strong> The file carries one row per campaign-and-make-and-model-year, so it is collapsed to one record per campaign number (<code>CAMPNO</code>, field 2). The headline basis is the <strong>5,603</strong> campaigns that carry <code>RCLTYPECD='V'</code> <strong>and</strong> whose every Part 573 filer (<code>MFGTXT</code>, field 15) appears on an explicit allow-list of <strong>42 named passenger-car and light-truck filers</strong>, published in full in the frozen CSV. The restriction matters because <code>'V'</code> means <em>vehicle</em>, not <em>car</em>: unrestricted, the file carries motorhomes, buses, heavy trucks, trailers, motorcycles and fire apparatus, as well as equipment, tire and child-restraint recalls under other type codes. The allow-list is the same one used by our 2026-11-08 software-remedy and 2026-11-12 severe-advisory analyses, reused rather than rebuilt. It is a judgement, not a fact, which is why it ships in full.</p>
+<p><strong>Brand counting, and the spelling map that changes the answer.</strong> <code>MAKETXT</code> is free text. Before any counting, three strings are normalised: <strong><code>MERCEDES BENZ</code> to <code>MERCEDES-BENZ</code></strong> (two spellings of one marque, 34 and 503 campaigns respectively), and the model strings <strong><code>MUSTANG</code></strong> and <strong><code>SRT</code></strong> to Ford and Dodge. Without this step the multi-brand count reads <strong>974 (17.38%)</strong> instead of 951 (16.97%) - an overstatement of 23 campaigns, or 2.4% in relative terms. The map ships in the CSV.</p>
+<p><strong>Parent-company mapping.</strong> Cross-company status uses an explicit brand-to-company map, published in full in the CSV so the boundary can be disputed. Discontinued marques are assigned to their former parent (Pontiac, Saturn, Oldsmobile and Hummer to GM; Mercury to Ford; Scion to Toyota). Saab is treated as its own company throughout, since the campaigns in question span its GM and post-GM eras.</p>
+<p><strong>Reversal checks, reported either way.</strong></p>
+<ol>
+<li><strong>Does the headline survive merging brand-spelling variants?</strong> It shrinks but holds: 974 (17.38%) to <strong>951 (16.97%)</strong>. This was the check most likely to break the finding, because an uncorrected label variant manufactures multi-brand campaigns out of nothing.</li>
+<li><strong>Do the count share and the unit share degrade together?</strong> <strong>No</strong> - they diverge by nearly a factor of three, 16.97% against 46.47%. Both are published beside each other everywhere they appear, and neither is described as "the" share.</li>
+<li><strong>Is the maker ranking measuring engineering or portfolio breadth?</strong> Partly breadth, and it is labelled as such. Twenty-seven of the 42 filers sell a single brand and are at zero by construction across 990 campaigns. Restricted to filers selling two or more brands the share is <strong>20.62%</strong>, and the brand count is printed in the ranking table.</li>
+<li><strong>Is the year series a trend?</strong> <strong>No.</strong> It ranges 12.46% to 25.08% with no consistent direction, so no trend is claimed and every year is published.</li>
+<li><strong>How sensitive is the cross-company count to one mapping decision?</strong> Materially. Treating <strong>Mercedes-Maybach</strong> as a marque separate from Mercedes-Benz moves cross-company campaigns from <strong>70 (1.25%) to 100 (1.78%)</strong>. The conservative reading, which keeps Maybach inside Mercedes, is the published one.</li>
+<li><strong>Is "one campaign, one manufacturer" safe?</strong> No, and the analysis does not assume it: <strong>94</strong> campaigns carry two Part 573 filers, three carry three and one carries five. The car basis requires <em>every</em> filer on a campaign to be on the allow-list, which is the conservative choice.</li>
+</ol>
+<p><strong>Known limits.</strong> <code>POTAFF</code> is the manufacturer's launch-time estimate of units potentially affected; it is not a count of cars still on the road, still unrepaired or still in the US, so the unit figures measure how much exposure was opened and cannot support any "how many dangerous cars are out there" claim or model-level ranking. The file begins in 2010, so earlier campaigns are out of scope. 2026 is partial. The file has no completion or remedy-status field, so nothing here says whether any recall was performed on any car. And brand attribution rests on NHTSA's own free-text labels, which this analysis corrects for spelling but cannot audit for omissions.</p>
+<p><strong>Frozen dataset.</strong> All 15,396 campaigns with their raw and normalised brand strings, brand count, parent companies, company count, both flags, filers, <code>POTAFF</code>, components and the exclusion reason for every non-car row, plus the 42-name allow-list, the spelling map and the full company map: <a href="https://zilocar-news.github.io/zilocar-rss/data/recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026-2026-11-13.csv">recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026-2026-11-13.csv</a></p>
+<h2>Frequently asked questions</h2>
+<p><strong>Does a car recall cover more than one brand?</strong></p>
+<p>Often, yes. Of 5,603 car and light-truck recall campaigns NHTSA has on file since 2010, 951 (16.97%, about 1 in 6) name two or more brands. Because multi-brand campaigns tend to be the large ones, they account for 239,449,263 of the 515,231,969 vehicles covered - 46.47%, nearly half. The current Honda power-steering recall is one of them: campaign 26V721000 covers the Acura TLX and MDX alongside the Honda Pilot.</p>
+<p><strong>Could my car be recalled under a different brand name?</strong></p>
+<p>It can be listed under a sister brand in the same campaign, which is why searching by model name is unreliable. Seventy campaigns since 2010 cross company lines entirely - the Pontiac Vibe was recalled in the same campaign as the Toyota Corolla Matrix, and the Saab 9-2X in the same campaign as the Subaru Impreza, because they are the same cars wearing different badges. Searching by VIN avoids the problem completely.</p>
+<p><strong>Which manufacturer files the most multi-brand recalls?</strong></p>
+<p>General Motors, at 299 of 535 campaigns (55.89%). But read that with the confound stated: GM's filings touch 17 distinct brand strings including discontinued marques like Pontiac, Saturn, Hummer and Oldsmobile, so it has far more chances to span brands than a filer that sells one. Kia (0 of 169), Porsche (0 of 118) and Mazda (0 of 101) sit at zero because each sells a single brand and cannot produce a multi-brand campaign at all.</p>
+<p><strong>How many recall campaigns cover two different automakers?</strong></p>
+<p>Seventy of the 5,603 (1.25%), holding 32,856,148 vehicles (6.38% of units). The largest pairings are GM with Toyota (15 campaigns, 14,450,596 vehicles, mostly the NUMMI-built twins and Takata inflators), Mitsubishi with Stellantis (4 campaigns, 9,223,045) and GM with Nissan (3 campaigns, 3,623,295). In these the same defect is reported by two separate Part 573 filers under one campaign number.</p>
+<p><strong>Is the share of multi-brand recalls rising?</strong></p>
+<p>No, and it should not be described as a trend. Across the 17 years in the file the share moves between 12.46% (2017) and 25.08% (2014) with no consistent direction; 2026 stands at 19.40% through 6 November. Every year is published in the table on this page rather than a selected subset.</p>
+<p><strong>What can a VIN check tell me about a recall that a model-name search cannot?</strong></p>
+<p>A VIN is specific to one car, so it is not confused by a shared campaign, a rebadge or a sister brand. A Zilocar VIN check shows whether a recall is present on that car along with its accident, odometer, theft, salvage-auction, ownership and listing history. It cannot tell you whether the recall repair was actually performed - no public file carries completion status per car - so confirm the outstanding repair with NHTSA's free VIN tool or a franchised dealer.</p>
+<p><strong>Why does NHTSA list several brands on one campaign number?</strong></p>
+<p>Because a Part 573 report covers a defect in a part or a platform, not a nameplate. When the same airbag inflator, window switch or control module is fitted across several brands, one campaign covers all of them. That is also why a single campaign can be filed jointly: 94 of the 5,603 campaigns carry two Part 573 filers, three carry three and one carries five.</p>
+<h2>Sources</h2>
+<ul>
+<li>NHTSA Office of Defects Investigation, Recalls flat file: <a href="https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip">FLAT_RCL_POST_2010.zip</a>. Retrieved and verified 2026-11-13. <em>Last verified: 2026-11-13.</em></li>
+<li>NHTSA ODI, recalls file layout: <a href="https://static.nhtsa.gov/odi/ffdd/rcl/RCL.txt">RCL.txt</a>. Field positions confirmed against this document on the day. <em>Last verified: 2026-11-13.</em></li>
+<li>NHTSA recalls by VIN, the free official lookup: <code>https://www.nhtsa.gov/recalls</code>. Cited in plain text; <code>www.nhtsa.gov</code> was not reachable from our analysis environment on the day of publication and so was not verified on 2026-11-13. <em>Last verified: 2026-11-11.</em></li>
+<li>Our own frozen dataset for this analysis: <a href="https://zilocar-news.github.io/zilocar-rss/data/recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026-2026-11-13.csv">recall-campaigns-covering-multiple-brands-nhtsa-data-vin-check-2026-2026-11-13.csv</a>. <em>Last verified: 2026-11-13.</em></li>
+</ul>]]></content:encoded>
+</item>
 <item>
 <title>1 in 17 of 2026&#x27;s Car Recalls Carries a Severe Advisory - but Only 1 in 60 Says Do Not Drive (NHTSA Data)</title>
 <link>https://zilocar.com/vehicle-news/do-not-drive-park-outside-recall-share-nhtsa-data-vin-check-2026</link>
