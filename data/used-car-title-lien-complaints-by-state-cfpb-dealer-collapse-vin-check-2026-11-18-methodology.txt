@@ -1,0 +1,28 @@
+METHODOLOGY — CFPB Vehicle-Loan "Title Not Received / Lien Not Cleared After Payoff" Complaints by State (Zilocar vehicle-data desk)
+
+Dataset: CFPB Consumer Complaint Database (public, CC0 license), COMPLETE dataset CSV (not the search API).
+File: complaints.csv.zip from https://files.consumerfinance.gov/ccdb/complaints.csv.zip
+Retrieval date: 2026-11-18. Server Last-Modified: 2026-11-17 10:17 GMT.
+Download integrity: byte count 368,203,253 matched Content-Length exactly; zip testzip() passed; uncompressed complaints.csv = 5.83 GB, 19,225,276 total complaint rows.
+Filter: Product == "Vehicle loan or lease" -> N = 107,841 rows (matches the live CFPB search-API total of 107,841 exactly). Complaint ID unique across all rows; no dedup needed.
+
+Freshness assert (PASSED): min(Date received)=2017-04-24, max(Date received)=2026-11-16 (two days before the run). November 2026 is a PARTIAL month (46 title complaints through the 16th vs ~200/month across 2026) and is CAPPED/excluded from trend math; all trend windows use complete months and apples-to-apples Jan-Oct.
+
+TAXONOMY (current CFPB schema):
+  Narrow "title" tier (headline) = Sub-issue "Unable to receive car title or other problem after the loan is paid off" (7,846) + Sub-issue "Did not receive car title" (108) = 7,954.
+  Broader payoff/title cluster = narrow tier + Sub-issue "Problem with paying off the loan" (4,173) = 12,127.
+  Full parent Issue "Problems at the end of the loan or lease" = 17,784.
+
+Per-capita denominator: US Census Bureau July-1-2025 state population estimates (per 100,000 residents).
+
+Reimplementable method line: unzip complete CCDB CSV -> keep Product=='Vehicle loan or lease' -> assert max(Date received) -> bucket by Sub-issue -> count by State -> divide by 2025 Census population x 100,000 -> rank all 50 states + DC.
+
+Columns: state | state_abbr | pop_2025 | title_complaints_total | title_per_100k | title_rank_per_100k | cluster_complaints_total | cluster_per_100k | title_2024_jan_oct | title_2026_jan_oct
+
+ROBUSTNESS (reversal): raw counts track state population. Per-100k normalization overturns the raw leaders — California (2.14/100k, rank 20), Texas (2.08, rank 21) and New York (1.97, rank 27) fall BELOW the national rate. The states elevated on BOTH raw and per-capita are Georgia (448 raw, 3.96/100k; #1 per-capita among n>=100), New Jersey (3.85), Maryland (3.73), Nevada (3.63), Florida (3.12), Virginia (3.12). DC (5.77, n=40) and Delaware (4.06, n=43) post higher per-100k rates on small samples and are flagged low-base.
+
+SUPERLATIVE: tested against all 50 states + DC. No single "worst" state claimed; Georgia is the highest-rate state with a statistically stable base (n>=100).
+
+HONESTY NOTE: Tricolor Holdings has ZERO complaints in the Vehicle-loan database. The per-state counts measure the broad title/lien failure mode across all lenders, NOT Tricolor filings. The dealer-collapse peg is the narrative explanation of the failure mechanism, not a data trace.
+
+110 of the 7,954 title-tier records carry no state and are excluded from per-state math. Data refreshes; a later re-pull will differ slightly. The frozen CSV is the version these numbers come from.
