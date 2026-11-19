@@ -1,0 +1,118 @@
+METHODOLOGY - Airbag-inflator rupture recalls by inflator position (Zilocar vehicle-data desk)
+
+Source file: https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip
+Retrieved:   2026-11-19 (HTTP 200, 14,993,527 bytes; Last-Modified Thu, 19 Nov 2026 08:04:33 GMT;
+             ZipFile.testzip() returned None, so the archive is intact)
+File state:  248,434 rows, 15,417 distinct campaigns. max(RCDATE) over all record types = 20261116
+             (a single equipment campaign, 26E081000). max(RCDATE) restricted to RCLTYPECD='V' = 20261112.
+             Frontier computed on the SAME basis as every figure published here.
+
+Campaign filter (all three conditions):
+  1. COMPDESC contains "AIR BAG"; AND
+  2. the campaign text (DESC + REMEDY) names TAKATA, OR
+     COMPDESC/text contains "INFLATOR" and the text contains "RUPTURE".
+  This yields 166 campaigns across all record types.
+
+Scope restriction - cars and light trucks only:
+  RCLTYPECD='V' means "vehicle", not "car" (it carries motorcycles, buses, heavy trucks, motorhomes and
+  trailers). Campaigns are kept only when the Part 573 filer (MFGTXT) is on the explicit allow-list of
+  51 named car and light-truck manufacturers printed below. A name REGEX was deliberately not used.
+  166 campaigns -> 132 car/light-truck campaigns; 34 excluded, of which 27 are the inflator supplier's
+  own equipment filings (Takata Corporation, TK Global, Key Safety Systems/Joyson, Autoliv) and the rest
+  are Daimler Trucks, Spartan Motors and Forest River.
+
+  NOTE ON MFGTXT MATCHING: MFGTXT is not canonical. The same company appears as "General Motors, LLC" and
+  "General Motors LLC", "Chrysler (FCA US, LLC)" and "Chrysler (FCA US LLC)", "Mercedes-Benz USA, LLC" and
+  "Mercedes-Benz USA, LLC." (trailing period), "Tesla, Inc." and "Tesla Motors, Inc.". Matching is therefore
+  done on a normalised key (lowercased, "&" -> "and", non-alphanumerics collapsed to single spaces).
+  An exact string match drops real car campaigns silently - including this study's largest, 26V748000,
+  whose filer is "Toyota Motor Engineering & Manufacturing".
+
+Inflator position (the load-bearing variable):
+  frontal                  = COMPDESC contains "FRONTAL"
+  side_curtain_or_roof_rail = COMPDESC contains "SIDE/WINDOW", or the text contains "CURTAIN",
+                              "ROOF RAIL" or "ROOF-RAIL"
+  position_unspecified      = neither (COMPDESC is the bare label "AIR BAGS")
+
+Aggregation: one row per campaign (not per make/model/year line); units are POTAFF as filed.
+
+Eras compared: campaigns filed 2014-01-01..2017-12-31 (the Takata frontal wave) and 2023-01-01..2026-11-19.
+
+REVERSAL CHECK AND RESULT:
+  The finding is a composition claim, so the check that could overturn it is the treatment of the
+  position_unspecified campaigns. In the 2014-2017 wave 10 of 87 campaigns are position_unspecified;
+  in 2023-2026, 0 of 20 are. Assigning EVERY unspecified wave campaign to side/curtain - the most adverse
+  possible assumption - moves the wave's side-inflator share from 2.3% to 13.8%, against 75.0% in
+  2023-2026. The direction survives the worst case. (All 10 unspecified wave campaigns are 2014-2016
+  Honda, Subaru, Chrysler, Ford, Nissan and Toyota filings, i.e. the classic frontal Takata recalls,
+  so counting them as side-inflator campaigns is deliberately perverse.)
+
+Independent verification: 26V748000, 25V748000, 24V198000 and 26V325000 were re-checked against
+  api.nhtsa.gov/recalls/campaignNumber and matched the flat file exactly on filer, component,
+  report-received date and POTAFF.
+
+KNOWN LIMITS:
+  1. POTAFF is the manufacturer's launch-time estimate of units POTENTIALLY affected. It is not a count
+     of cars still on the road, still unrepaired, or still in the US.
+  2. The file does not reliably identify the inflator SUPPLIER. Only 2 of the 20 recent campaigns name
+     Takata in their text, and 4 of the 2014-2017 wave campaigns do - so the absence of the word "Takata"
+     is NOT evidence that a campaign is not Takata, and no supplier-level claim is made here.
+     Joyson/Key Safety Systems and Autoliv are named only in their own equipment filings (25E030000,
+     24E035000), which this study's vehicle-campaign basis excludes.
+  3. 2026 is an incomplete year, and NHTSA's published record lags filings by several days.
+  4. 314,029 of the 379,157 units in 2026 (83%) come from one campaign, 26V748000. The recent stream is
+     lumpy, so unit totals for a single recent year should not be read as a trend.
+  5. Position is read from NHTSA's own COMPDESC label plus campaign text, not from engineering records.
+
+ALLOW-LIST (51 car and light-truck Part 573 filers; dispute it against this list, not against a guess):
+  - Ford Motor Company
+  - Chrysler (FCA US, LLC)
+  - Chrysler (FCA US LLC)
+  - Chrysler (FCA US, LLC) (Stellantis)
+  - Chrysler Group LLC
+  - General Motors, LLC
+  - General Motors LLC
+  - Mercedes-Benz USA, LLC
+  - Mercedes-Benz USA, LLC.
+  - Mercedes-Benz USA, LLC - DBA Sprinter
+  - Volkswagen Group of America, Inc.
+  - Hyundai Motor America
+  - BMW of North America, LLC
+  - Toyota Motor Corporation
+  - Toyota Motor Engineering & Manufacturing
+  - Nissan North America, Inc.
+  - Jaguar Land Rover North America, LLC
+  - Tesla, Inc.
+  - Tesla Motors, Inc.
+  - Kia America, Inc.
+  - Honda (American Honda Motor Co.)
+  - Porsche Cars North America, Inc.
+  - Volvo Car USA, LLC
+  - Volvo Car USA LLC
+  - Mazda Motor Corp.
+  - Mazda North American Operations
+  - Daimler Vans USA, LLC
+  - Lucid USA, Inc.
+  - Mitsubishi Motors North America, Inc.
+  - Subaru of America, Inc.
+  - Jaguar Cars, Ltd.
+  - Aston Martin The Americas
+  - Maserati North America, Inc.
+  - Lamborghini (Automobili Lamborghini)
+  - Polestar Automotive USA, Inc.
+  - Land Rover
+  - Rivian Automotive, LLC
+  - Bentley Motors, Inc.
+  - Bentley Motors, Ltd.
+  - Ferrari North America, Inc.
+  - Fisker Group Inc
+  - Bugatti
+  - Koenigsegg Automotive AB
+  - VinFast Auto, LLC
+  - Karma Automotive LLC
+  - Pagani S.p.A
+  - Rolls-Royce Motor Cars, Ltd.
+  - Lotus Cars Limited
+  - McLaren Automotive Incorporated
+  - Saab Cars North America, Inc.
+  - Suzuki Motor USA, LLC

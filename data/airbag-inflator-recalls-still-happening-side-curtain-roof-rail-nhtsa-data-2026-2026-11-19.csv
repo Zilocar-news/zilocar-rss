@@ -1,0 +1,108 @@
+era,campaign_id,report_received_date,filer_mfgtxt,inflator_position,failure_mechanism,takata_named_in_campaign_text,potentially_affected_units,model_years_covered,oldest_model_year,oldest_vehicle_age_at_filing_years,makes_covered,example_models
+2014-2017_frontal_wave,14V353000,20140620,Honda (American Honda Motor Co.),position_unspecified,mechanism_unstated,yes,133207,2003-2006,2003,11,ACURA|HONDA,ACCORD|CIVIC|CR-V|ELEMENT|MDX|ODYSSEY
+2014-2017_frontal_wave,14V700000,20141104,Honda (American Honda Motor Co.),position_unspecified,propellant_degradation,no,0,2001-2006,2001,13,ACURA|HONDA,ACCORD|CIVIC|CIVIC HYBRID|CR-V|ELEMENT|MDX
+2014-2017_frontal_wave,14V763000,20141201,"Subaru of America, Inc.",position_unspecified,propellant_degradation,no,4175,2003-2005,2003,11,SUBARU,BAJA|LEGACY|OUTBACK
+2014-2017_frontal_wave,14V770000,20141203,Chrysler Group LLC,position_unspecified,propellant_degradation,no,250896,2004-2005,2004,10,CHRYSLER|DODGE,300|300C|DAKOTA|DURANGO|MAGNUM|RAM 1500
+2014-2017_frontal_wave,14V787000,20141212,Ford Motor Company,position_unspecified,propellant_degradation,no,410,2005-2006,2005,9,FORD,GT
+2014-2017_frontal_wave,15V226000,20150417,"Nissan North America, Inc.",position_unspecified,propellant_degradation,no,12606,2003-2006,2003,12,INFINITI,FX35|FX45|I35|M35|M45
+2014-2017_frontal_wave,15V285000,20150513,Toyota Motor Engineering & Manufacturing,position_unspecified,mechanism_unstated,no,1973468,2002-2007,2002,13,LEXUS|PONTIAC|TOYOTA,COROLLA|COROLLA MATRIX|SC|SEQUOIA|TUNDRA|VIBE
+2014-2017_frontal_wave,15V284000,20150513,Toyota Motor Engineering & Manufacturing,frontal,mechanism_unstated,no,159700,2004-2005,2004,11,TOYOTA,RAV4
+2014-2017_frontal_wave,15V286000,20150513,Toyota Motor Engineering & Manufacturing,position_unspecified,mechanism_unstated,no,1069055,2002-2007,2002,13,LEXUS|PONTIAC|TOYOTA,COROLLA|COROLLA MATRIX|SC|SEQUOIA|TUNDRA|VIBE
+2014-2017_frontal_wave,15V287000,20150515,"Nissan North America, Inc.",position_unspecified,mechanism_unstated,no,1090569,2001-2006,2001,14,INFINITI|NISSAN,FX35|FX45|I30|I35|MAXIMA|PATHFINDER
+2014-2017_frontal_wave,15V313000,20150526,Chrysler (FCA US LLC),frontal,mechanism_unstated,no,4077169,2004-2011,2004,11,CHRYSLER|DODGE|MITSUBISHI|RAM,300|300C|300S|ASPEN|CHARGER|DAKOTA
+2014-2017_frontal_wave,15V312000,20150526,Chrysler (FCA US LLC),frontal,mechanism_unstated,no,385686,2003-2003,2003,12,DODGE,RAM 1500|RAM 2500|RAM 3500
+2014-2017_frontal_wave,15V318000,20150528,"BMW of North America, LLC",frontal,mechanism_unstated,no,419235,2002-2006,2002,13,BMW,325CI|325I|325XI|330CI|330I|330XI
+2014-2017_frontal_wave,15V322000,20150528,Ford Motor Company,frontal,mechanism_unstated,no,362327,2004-2006,2004,11,FORD,RANGER
+2014-2017_frontal_wave,15V319000,20150528,Ford Motor Company,frontal,mechanism_unstated,no,1018622,2005-2014,2005,10,FORD,GT|MUSTANG
+2014-2017_frontal_wave,15V320000,20150528,Honda (American Honda Motor Co.),frontal,mechanism_unstated,no,6281043,2001-2011,2001,14,ACURA|HONDA,ACCORD|CIVIC|CIVIC GX|CIVIC HYBRID|CL|CR-V
+2014-2017_frontal_wave,15V324000,20150528,General Motors LLC,frontal,mechanism_unstated,no,330198,2007-2008,2007,8,CHEVROLET|GMC,SIERRA 2500|SIERRA 3500|SILVERADO 2500|SILVERADO 3500
+2014-2017_frontal_wave,15V323000,20150528,"Subaru of America, Inc.",frontal,mechanism_unstated,no,432016,2003-2008,2003,12,SAAB|SUBARU,9-2X|BAJA|IMPREZA|LEGACY|OUTBACK
+2014-2017_frontal_wave,15V370000,20150615,Honda (American Honda Motor Co.),frontal,mechanism_unstated,no,3498481,2001-2007,2001,14,ACURA|HONDA,ACCORD|CIVIC|CIVIC GX|CIVIC HYBRID|CR-V|ELEMENT
+2014-2017_frontal_wave,15V444000,20150710,Chrysler (FCA US LLC),frontal,mechanism_unstated,no,88460,2008-2010,2008,7,DODGE,CHALLENGER
+2014-2017_frontal_wave,15V666000,20151016,General Motors LLC,side_curtain_or_roof_rail,mechanism_unstated,no,395,2015-2015,2015,0,BUICK|CADILLAC|CHEVROLET|GMC,CAMARO|EQUINOX|LACROSSE|MALIBU|TERRAIN|XTS
+2014-2017_frontal_wave,16V036000,20160125,Ford Motor Company,frontal,mechanism_unstated,no,361692,2004-2006,2004,12,FORD,RANGER
+2014-2017_frontal_wave,16V045000,20160128,"Volkswagen Group of America, Inc.",side_curtain_or_roof_rail,mechanism_unstated,no,734,2015-2015,2015,1,AUDI|VOLKSWAGEN,Q5|TIGUAN
+2014-2017_frontal_wave,16V063000,20160203,General Motors LLC,frontal,mechanism_unstated,no,113716,2006-2011,2006,10,SAAB|SATURN,9-3|9-5|ASTRA
+2014-2017_frontal_wave,16V061000,20160203,Honda (American Honda Motor Co.),frontal,mechanism_unstated,no,2232187,2005-2016,2005,11,ACURA|HONDA,CR-V|CR-Z|FIT|FIT EV|ILX|INSIGHT
+2014-2017_frontal_wave,16V071000,20160205,"BMW of North America, LLC",frontal,mechanism_unstated,no,840000,2006-2015,2006,10,BMW,1 SERIES M|128I|135I|325|328|330
+2014-2017_frontal_wave,16V077000,20160210,"Daimler Vans USA, LLC",frontal,mechanism_unstated,no,136361,2007-2014,2007,9,DODGE|FREIGHTLINER|MERCEDES-BENZ,SPRINTER 2500|SPRINTER 3500
+2014-2017_frontal_wave,16V078000,20160210,"Volkswagen Group of America, Inc.",frontal,mechanism_unstated,no,659493,2007-2014,2007,9,AUDI|VOLKSWAGEN,A5 CABRIOLET|CC|EOS|GOLF|JETTA SPORTWAGEN|PASSAT
+2014-2017_frontal_wave,16V079000,20160210,"Volkswagen Group of America, Inc.",frontal,mechanism_unstated,no,151767,2005-2013,2005,11,AUDI|VOLKSWAGEN,A3|A4 CABRIOLET|PASSAT
+2014-2017_frontal_wave,16V081000,20160211,"Mercedes-Benz USA, LLC.",frontal,mechanism_unstated,no,711159,2005-2014,2005,11,CHRYSLER|MERCEDES BENZ|MERCEDES-BENZ,C230|C300|C320|C350|C63|CROSSFIRE
+2014-2017_frontal_wave,16V128000,20160302,Toyota Motor Engineering & Manufacturing,frontal,mechanism_unstated,no,71163,2008-2010,2008,8,LEXUS|PONTIAC|TOYOTA,COROLLA|COROLLA MATRIX|SC|VIBE
+2014-2017_frontal_wave,16V127000,20160303,Toyota Motor Engineering & Manufacturing,frontal,mechanism_unstated,no,147242,2008-2010,2008,8,LEXUS|PONTIAC|TOYOTA,COROLLA|COROLLA MATRIX|SC|VIBE
+2014-2017_frontal_wave,16V344000,20160523,Honda (American Honda Motor Co.),frontal,propellant_degradation,no,1790894,2002-2011,2002,14,ACURA|HONDA,CR-V|ELEMENT|FIT|MDX|ODYSSEY|PILOT
+2014-2017_frontal_wave,16V341000,20160523,"Ferrari North America, Inc.",frontal,propellant_degradation,no,2826,2009-2011,2009,7,FERRARI,458 ITALIA|CALIFORNIA
+2014-2017_frontal_wave,16V340000,20160523,Toyota Motor Engineering & Manufacturing,frontal,propellant_degradation,no,1754517,2006-2011,2006,10,LEXUS|PONTIAC|SCION|TOYOTA,4RUNNER|COROLLA|ES350|GX460|IS 250|IS 250C
+2014-2017_frontal_wave,16V334000,20160523,"Mitsubishi Motors North America, Inc.",frontal,propellant_degradation,no,38628,2006-2007,2006,10,MITSUBISHI,LANCER|LANCER EVOLUTION
+2014-2017_frontal_wave,16V346000,20160524,Honda (American Honda Motor Co.),frontal,propellant_degradation,no,2719386,2006-2011,2006,10,ACURA|HONDA,ACCORD|ACCORD CROSSTOUR|CIVIC|CIVIC GX|CIVIC HYBRID|CR-V
+2014-2017_frontal_wave,16V347000,20160524,Honda (American Honda Motor Co.),position_unspecified,propellant_degradation,no,2701,2006-2010,2006,10,HONDA,GL1800
+2014-2017_frontal_wave,16V349000,20160524,"Nissan North America, Inc.",frontal,propellant_degradation,no,413852,2003-2011,2003,13,INFINITI|NISSAN,FX35|FX45|I30|I35|M35|M45
+2014-2017_frontal_wave,16V359000,20160525,"Subaru of America, Inc.",frontal,propellant_degradation,no,146010,2003-2008,2003,13,SAAB|SUBARU,9-2X|BAJA|IMPREZA|LEGACY|OUTBACK|TRIBECA
+2014-2017_frontal_wave,16V358000,20160525,"Subaru of America, Inc.",frontal,propellant_degradation,no,302127,2003-2011,2003,13,SAAB|SUBARU,9-2X|BAJA|FORESTER|IMPREZA|LEGACY|OUTBACK
+2014-2017_frontal_wave,16V364000,20160525,"BMW of North America, LLC",frontal,propellant_degradation,no,97738,2007-2011,2007,9,BMW,X5|X6|X6 ACTIVEHYBRID SAC
+2014-2017_frontal_wave,16V361000,20160525,"Subaru of America, Inc.",frontal,propellant_degradation,no,62940,2003-2004,2003,13,SUBARU,BAJA|LEGACY|OUTBACK
+2014-2017_frontal_wave,16V363000,20160526,"Mercedes-Benz USA, LLC.",frontal,propellant_degradation,no,258163,2008-2011,2008,8,MERCEDES BENZ|MERCEDES-BENZ,C300|C350|C63|E350|E550|GLK350
+2014-2017_frontal_wave,16V373000,20160527,"Jaguar Land Rover North America, LLC",frontal,propellant_degradation,no,20107,2009-2011,2009,7,JAGUAR,XF
+2014-2017_frontal_wave,16V374000,20160527,"Jaguar Land Rover North America, LLC",frontal,propellant_degradation,no,34738,2007-2011,2007,9,LAND ROVER,RANGE ROVER
+2014-2017_frontal_wave,16V384000,20160531,Ford Motor Company,frontal,propellant_degradation,no,1892343,2005-2011,2005,11,FORD|LINCOLN|MERCURY,EDGE|FORD GT|FUSION|MILAN|MKX|MKZ
+2014-2017_frontal_wave,16V382000,20160601,"Volkswagen Group of America, Inc.",frontal,propellant_degradation,no,194453,2004-2011,2004,12,AUDI,A4|A6
+2014-2017_frontal_wave,16V499000,20160701,Mazda North American Operations,frontal,propellant_degradation,no,5038,2007-2009,2007,9,MAZDA,B-SERIES TRUCK
+2014-2017_frontal_wave,16V937000,20161221,Toyota Motor Engineering & Manufacturing,frontal,mechanism_unstated,yes,2,2016-2017,2016,0,LEXUS|TOYOTA,4RUNNER|GX460
+2014-2017_frontal_wave,16V947000,20161222,Chrysler (FCA US LLC),frontal,mechanism_unstated,no,12691,2009-2010,2009,7,CHRYSLER|DODGE,ASPEN|DURANGO|RAM 3500|redundant RAM 3500
+2014-2017_frontal_wave,17V004000,20170106,Karma Automotive LLC,frontal,propellant_degradation,no,811,2012-2012,2012,5,FISKER,KARMA
+2014-2017_frontal_wave,17V006000,20170109,Toyota Motor Engineering & Manufacturing,frontal,propellant_degradation,no,577875,2006-2012,2006,11,LEXUS|PONTIAC|SCION|TOYOTA,4RUNNER|COROLLA|COROLLA MATRIX|ES350|GX460|IS 250
+2014-2017_frontal_wave,17V005000,20170109,McLaren Automotive Incorporated,frontal,propellant_degradation,no,654,2012-2012,2012,5,MCLAREN,MP4-12C SPIDER
+2014-2017_frontal_wave,17V017000,20170110,"Mercedes-Benz USA, LLC.",frontal,propellant_degradation,no,104119,2008-2012,2008,9,MERCEDES BENZ|MERCEDES-BENZ,AMG C63|C250|C300|C350|C63|E350
+2014-2017_frontal_wave,17V022000,20170110,"Mitsubishi Motors North America, Inc.",frontal,propellant_degradation,no,1964,2012-2014,2012,5,MITSUBISHI,I-MIEV
+2014-2017_frontal_wave,17V015000,20170110,"Jaguar Land Rover North America, LLC",frontal,propellant_degradation,no,8711,2007-2012,2007,10,LAND ROVER,RANGE ROVER
+2014-2017_frontal_wave,17V029000,20170110,Honda (American Honda Motor Co.),frontal,propellant_degradation,no,308884,2005-2012,2005,12,ACURA|HONDA,CR-V|ELEMENT|FIT|MDX|PILOT|RIDGELINE
+2014-2017_frontal_wave,17V027000,20170110,"Jaguar Land Rover North America, LLC",frontal,propellant_degradation,no,8114,2009-2012,2009,8,JAGUAR,XF
+2014-2017_frontal_wave,17V014000,20170110,"Subaru of America, Inc.",frontal,propellant_degradation,no,53480,2005-2012,2005,12,SUBARU,B9 TRIBECA|BAJA|FORESTER|IMPREZA|LEGACY|OUTBACK
+2014-2017_frontal_wave,17V013000,20170110,Mazda North American Operations,frontal,propellant_degradation,no,725,2007-2009,2007,10,MAZDA,B-SERIES TRUCK
+2014-2017_frontal_wave,17V023000,20170110,"Tesla Motors, Inc.",frontal,propellant_degradation,no,2997,2012-2012,2012,5,TESLA,MODEL S
+2014-2017_frontal_wave,17V030000,20170110,Honda (American Honda Motor Co.),frontal,propellant_degradation,no,977708,2006-2012,2006,11,ACURA|HONDA,ACCORD|ACCORD CROSSTOUR|CIVIC|CIVIC HYBRID|CR-V|FCX CLARITY
+2014-2017_frontal_wave,17V031000,20170110,Honda (American Honda Motor Co.),frontal,propellant_degradation,no,882,2006-2012,2006,11,HONDA,GL1800
+2014-2017_frontal_wave,17V020000,20170110,"BMW of North America, LLC",frontal,propellant_degradation,no,48951,2007-2012,2007,10,BMW,X5|X6
+2014-2017_frontal_wave,17V024000,20170110,Ford Motor Company,frontal,propellant_degradation,no,654695,2005-2012,2005,12,FORD|LINCOLN|MERCURY,EDGE|FUSION|GT|MILAN|MKX|MKZ
+2014-2017_frontal_wave,17V016000,20170110,"Subaru of America, Inc.",frontal,propellant_degradation,no,62764,2005-2008,2005,12,SAAB|SUBARU,9-2X|BAJA|IMPREZA|TRIBECA
+2014-2017_frontal_wave,17V028000,20170110,"Nissan North America, Inc.",frontal,propellant_degradation,no,152554,2005-2012,2005,12,INFINITI|NISSAN,FX35|FX45|M35|M45|VERSA
+2014-2017_frontal_wave,17V032000,20170111,"Volkswagen Group of America, Inc.",frontal,propellant_degradation,no,33421,2005-2009,2005,12,AUDI,A4|A6|RS 4|S4|S6
+2014-2017_frontal_wave,17V026000,20170111,"Subaru of America, Inc.",frontal,propellant_degradation,no,69529,2005-2009,2005,12,SUBARU,BAJA|FORESTER|IMPREZA|LEGACY|OUTBACK|TRIBECA
+2014-2017_frontal_wave,17V047000,20170120,"BMW of North America, LLC",frontal,propellant_degradation,no,230117,2000-2003,2000,17,BMW,320|323|325|330|525|530
+2014-2017_frontal_wave,17V068000,20170202,"Nissan North America, Inc.",frontal,mechanism_unstated,yes,46,2002-2002,2002,15,INFINITI|NISSAN,PATHFINDER|QX4
+2014-2017_frontal_wave,17V220000,20170330,Honda (American Honda Motor Co.),frontal,propellant_degradation,yes,37421,2003-2003,2003,14,HONDA,ACCORD
+2014-2017_frontal_wave,17V429000,20170629,Mazda North American Operations,frontal,propellant_degradation,no,205377,2007-2011,2007,10,MAZDA,CX-7|CX-9|MAZDA6
+2014-2017_frontal_wave,17V449000,20170717,"Nissan North America, Inc.",frontal,propellant_degradation,no,515394,2007-2012,2007,10,NISSAN,VERSA
+2014-2017_frontal_wave,17V457000,20170718,Mazda North American Operations,frontal,propellant_degradation,no,79402,2007-2012,2007,10,MAZDA,CX-7|CX-9|MAZDA6
+2014-2017_frontal_wave,17V474000,20170726,Mazda North American Operations,frontal,mechanism_unstated,no,308992,2003-2008,2003,14,MAZDA,MAZDA6|MAZDASPEED6|RX-8
+2014-2017_frontal_wave,17V479000,20170728,"Daimler Vans USA, LLC",frontal,propellant_degradation,no,20665,2010-2011,2010,7,FREIGHTLINER|MERCEDES-BENZ,SPRINTER 2500|SPRINTER 3500
+2014-2017_frontal_wave,17V478000,20170728,"Daimler Vans USA, LLC",frontal,propellant_degradation,no,43689,2007-2009,2007,10,DODGE|FREIGHTLINER,SPRINTER 2500|SPRINTER 3500
+2014-2017_frontal_wave,17V480000,20170728,"Daimler Vans USA, LLC",frontal,propellant_degradation,no,17609,2012-2012,2012,5,FREIGHTLINER|MERCEDES-BENZ,SPRINTER 2500|SPRINTER 3500
+2014-2017_frontal_wave,17V529000,20170828,Ford Motor Company,frontal,mechanism_unstated,no,650,2017-2017,2017,0,FORD,F-150|MUSTANG
+2014-2017_frontal_wave,17V569000,20170914,"Mitsubishi Motors North America, Inc.",frontal,mechanism_unstated,no,66001,2004-2006,2004,13,MITSUBISHI,LANCER
+2014-2017_frontal_wave,17V793000,20171208,"Mitsubishi Motors North America, Inc.",frontal,propellant_degradation,no,144,2016-2017,2016,1,MITSUBISHI,I-MIEV
+2014-2017_frontal_wave,17V788000,20171211,Ford Motor Company,frontal,mechanism_unstated,no,328213,2004-2006,2004,13,FORD,RANGER
+2014-2017_frontal_wave,17V787000,20171211,Ford Motor Company,frontal,mechanism_unstated,no,328213,2004-2006,2004,13,FORD,RANGER
+2014-2017_frontal_wave,17V807000,20171214,Mazda North American Operations,frontal,mechanism_unstated,no,17576,2004-2006,2004,13,MAZDA,B-SERIES TRUCK
+2014-2017_frontal_wave,17V806000,20171214,Mazda North American Operations,frontal,mechanism_unstated,no,17576,2004-2006,2004,13,MAZDA,B-SERIES TRUCK
+2023-2026_recent,23V674000,20230920,"General Motors, LLC",side_curtain_or_roof_rail,weld_joint_failure,no,9264,2014-2014,2014,9,BUICK|CHEVROLET,CRUZE|VERANO
+2023-2026_recent,23V870000,20231221,"General Motors, LLC",side_curtain_or_roof_rail,weld_joint_failure,no,20712,2014-2014,2014,9,BUICK|CHEVROLET,CRUZE|VERANO
+2023-2026_recent,24V198000,20240314,"Chrysler (FCA US, LLC) (Stellantis)",side_curtain_or_roof_rail,manufacturing_defect_unspecified,no,284982,2018-2021,2018,6,CHRYSLER|DODGE,300|CHARGER
+2023-2026_recent,24E024000,20240314,"Chrysler (FCA US, LLC) (Stellantis)",side_curtain_or_roof_rail,manufacturing_defect_unspecified,no,982,,,,MOPAR,AIR BAG
+2023-2026_recent,24V288000,20240424,"BMW of North America, LLC",side_curtain_or_roof_rail,weld_joint_failure,no,5761,2014-2015,2014,10,BMW,228I|320I|328D|328I|335I|428I
+2023-2026_recent,24V756000,20241010,"General Motors, LLC",side_curtain_or_roof_rail,end_cap_detachment,no,2061,2018-2019,2018,6,CHEVROLET|GMC,SIERRA 1500|SIERRA 2500|SIERRA 3500|SILVERADO 1500|SILVERADO 2500|SILVERADO 3500
+2023-2026_recent,25V010000,20250116,"Chrysler (FCA US, LLC)",side_curtain_or_roof_rail,manufacturing_defect_unspecified,no,6066,2016-2020,2016,9,RAM,1500|2500|3500|3500 CAB CHASSIS
+2023-2026_recent,25V432000,20250626,"General Motors, LLC",side_curtain_or_roof_rail,end_cap_detachment,no,1658,2018-2019,2018,7,CHEVROLET|GMC,SIERRA 1500|SIERRA 2500|SIERRA 3500|SILVERADO 1500|SILVERADO 2500|SILVERADO 3500
+2023-2026_recent,25V592000,20250911,"Chrysler (FCA US, LLC)",side_curtain_or_roof_rail,manufacturing_defect_unspecified,no,1761,2018-2018,2018,7,RAM,1500|2500|3500
+2023-2026_recent,25V748000,20251031,"BMW of North America, LLC",frontal,propellant_degradation,yes,5361,2000-2001,2000,25,BMW,X5
+2023-2026_recent,25V764000,20251106,"General Motors, LLC",side_curtain_or_roof_rail,weld_joint_failure,no,2099,2014-2014,2014,11,BUICK|CHEVROLET,CRUZE|VERANO
+2023-2026_recent,25V824000,20251201,"Chrysler (FCA US, LLC)",side_curtain_or_roof_rail,manufacturing_defect_unspecified,no,1589,2019-2019,2019,6,RAM,1500|2500|3500
+2023-2026_recent,25V871000,20251217,"BMW of North America, LLC",side_curtain_or_roof_rail,weld_joint_failure,no,851,2014-2015,2014,11,BMW,228I|320I|328I|335I|428I|435I
+2023-2026_recent,26V166000,20260319,"General Motors, LLC",side_curtain_or_roof_rail,end_cap_detachment,no,2819,2018-2019,2018,8,CHEVROLET|GMC,SIERRA 1500|SIERRA 2500|SIERRA 3500|SILVERADO 1500|SILVERADO 2500|SILVERADO 3500
+2023-2026_recent,26V230000,20260409,"Nissan North America, Inc.",frontal,mechanism_unstated,no,47928,2009-2010,2009,17,NISSAN,CUBE
+2023-2026_recent,26V307000,20260514,Hyundai Motor America,frontal,mechanism_unstated,no,3493,2015-2016,2015,11,HYUNDAI,ELANTRA|ELANTRA GT
+2023-2026_recent,26V329000,20260521,"General Motors, LLC",frontal,mechanism_unstated,no,5014,2015-2016,2015,11,CADILLAC,ATS|CTS|ESCALADE|ESCALADE ESV|SRX|XTS
+2023-2026_recent,26V325000,20260521,"General Motors, LLC",side_curtain_or_roof_rail,end_cap_detachment,no,4315,2018-2019,2018,8,CHEVROLET|GMC,SIERRA 1500|SIERRA 2500|SIERRA 3500|SILVERADO 1500|SILVERADO 2500|SILVERADO 3500
+2023-2026_recent,26V611000,20260924,"General Motors, LLC",side_curtain_or_roof_rail,end_cap_detachment,no,1559,2016-2017,2016,10,CHEVROLET|GMC,SIERRA 1500|SIERRA 2500|SIERRA 3500|SILVERADO 1500|SILVERADO 2500|SILVERADO 3500
+2023-2026_recent,26V748000,20261112,Toyota Motor Engineering & Manufacturing,frontal,propellant_degradation,yes,314029,2002-2017,2002,24,LEXUS|TOYOTA,4RUNNER|COROLLA|GX|IS|SC|SEQUOIA
